@@ -1,0 +1,153 @@
+# Ape – râuri din România și Republica Moldova, litere A–L (Â/Ă sub A, Î sub I), partea a 3-a
+# Format: Canonic = variantă = variantă (vezi data/FORMAT.md)
+# Completare la ape-ro-rauri-1.txt: afluenți de ordinul 2–3 din bazinele Tisa, Mureș, Banat, Jiu, Olt,
+# Argeș, Vedea, Ialomița, Buzău, Siret, Prut, Dobrogea și Republica Moldova.
+# Atenție: lista a fost redactată din memorie (acces web indisponibil în sesiunea de redactare);
+# numele au fost păstrate doar unde exista certitudine, dar o verificare ulterioară este recomandată.
+
+# ---- A ----
+Agăș = Agășul
+Aninoasa
+Apa Mare
+Argel = Argelul
+
+# ---- B ----
+Baboia
+Bănia
+Bârlui = Bârluiul
+Bârzăvița
+Bega Luncanilor
+Bega Poienilor
+Behela
+Benia
+Berivoi = Berivoiul
+Bertea
+Beu = Beul
+Beușnița
+Bichigiu = Bichigiul
+Biertan = Biertanul
+Bilca
+Bistrița Ardeleană
+Boia
+Bolovăniș = Bolovănișul
+Borca
+Borod = Borodul
+Borșa
+Boșneag = Boșneagul
+Braia
+Bratcov = Bratcovul
+Bratcu = Bratcul
+Brătcuța
+Brătioara
+Breaza
+Breazova
+Brebina
+Bucovel = Bucovelul
+Bucureșci
+Buhai = Buhaiul
+Buhalnița
+Buhui = Buhuiul
+Bulba
+
+# ---- C ----
+Calu = Calul
+Carasu = Valea Carasu
+Cașoca
+Călimănel = Călimănelul
+Cernișoara
+Cernu = Cernul
+Certej = Certejul
+Chechiș = Chechișul
+Cheia
+Chiril = Chirilul
+Chișindia
+Chizdia
+Ciocadia
+Ciorna
+Ciugheș = Ciugheșul
+Ciumârna
+Cladova
+Cleja
+Cobășel = Cobășelul
+Cociovaliștea
+Corogea
+Cosmina
+Coțatcu = Coțatcul
+Coza
+Craiova
+Cricău = Cricăul
+Crivadia
+Cușmed = Cușmedul
+Câinelui
+
+# ---- D ----
+Deia
+Dejani
+Demăcușa
+Densuș = Densușul
+Dobrotfor = Dobrotforul
+Dragomirna
+Dragoșa
+Dresleuca
+
+# ---- F ----
+Falcău = Falcăul
+Fărcașa
+Frumosu = Frumosul
+Frumușeaua
+
+# ---- G ----
+Galbenu = Galbenul
+Gălăuțaș = Gălăuțașul
+Găiceana
+Gârbovăț = Gârbovățul
+Gârliște
+Ghighiu = Ghighiul
+Ghimbav = Ghimbavul
+Gladna
+Gudea
+Gurguiata
+
+# ---- H ----
+Hălmagiu = Hălmagiul
+Hămăradia
+Harțagu = Harțagul
+Hătnuța
+Henț = Hențul
+Holda
+Horaiț = Horaițul
+Horaița
+Horoiata
+Hușnița
+
+# ---- I ----
+Ialpugel = Ialpugelul
+Iapa
+Ibăneasa
+Idrici = Idriciul
+Ieud = Ieudul
+Ighiu = Ighiul
+Ileanda
+Ilfovăț = Ilfovățul
+Iod = Iodul
+Ișnovăț = Ișnovățul
+
+# ---- J ----
+Jeravăț = Jeravățul
+Jidoștița
+Jijioara
+Jitin = Jitinul
+
+# ---- L ----
+Lanca Birda
+Larga
+Laslea
+Lăpușnicul Mic
+Leșu = Leșul
+Lopatna
+Lozna
+Lucava
+Lucina
+Luncani = Luncanii
+Luncoiu = Luncoiul
+Luț = Luțul
