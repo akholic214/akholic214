@@ -24,6 +24,7 @@ Afrera
 Afrin
 Agano
 Agapia
+Agăș = Agășul
 Agger
 Agly
 Agno
@@ -110,10 +111,12 @@ Angel = Salto Ángel = Cascada Îngerului = Kerepakupai Merú
 Aniene
 Anieș = Anieșul
 Animas
+Aninoasa
 Ankobra
 Annan
 Annecy = Lac d'Annecy
 Apa
+Apa Mare
 Apalachicola
 Aparima
 Approuague
@@ -134,6 +137,7 @@ Archer
 Arda
 Ardèche
 Arga
+Argel = Argelul
 Argens
 Argentino
 Argeș = Argeșul
@@ -206,6 +210,7 @@ Azuga
 Babadag
 Babahoyo
 Babina
+Baboia
 Bacchiglione
 Back
 Bafa
@@ -390,13 +395,16 @@ Băbeni
 Bălăneasa
 Bălătău
 Băneasa
+Bănia
 Bănița
 Bâc = Bîc
 Bâlea
 Bârlad = Bârladul
+Bârlui = Bârluiul
 Bârsa
 Bârsău = Bârsăul
 Bârzava = Berzava
+Bârzăvița
 Bâsca Chiojdului
 Bâsca Mare
 Bâsca Mică
@@ -406,7 +414,10 @@ Bear
 Beas
 Bečva
 Bednja
+Bega Luncanilor
+Bega Poienilor
 Bega Veche
+Behela
 Bei Jiang
 Beica
 Belaia = Belaya
@@ -420,6 +431,7 @@ Belle Fourche
 Beloe = Beloye
 Bengo
 Beni
+Benia
 Benmore
 Benue
 Berbice
@@ -428,13 +440,16 @@ Berești
 Berezina
 Berg
 Berheci = Berheciul
+Berivoi = Berivoiul
 Berkel
 Bermejo
 Berounka
 Berre = Étang de Berre
+Bertea
 Berzasca
 Betsiboka
 Betwa
+Beu = Beul
 Beyșehir
 Bezid
 Bhavani
@@ -443,9 +458,11 @@ Bhimtal
 Bia
 Biała
 Bicăjel = Bicăjelul
+Bichigiu = Bichigiul
 Bidasoa
 Biebrza
 Biel = Bielersee = Lacul Bienne
+Biertan = Biertanul
 Biferno
 Big Blue
 Big Sandy
@@ -453,6 +470,7 @@ Big Sioux
 Biggesee
 Bighorn
 Biia = Biya
+Bilca
 Bill Williams
 Biobío
 Birim
@@ -463,6 +481,7 @@ Bistra Mărului
 Bistreț
 Bistricioara
 Bistrița
+Bistrița Ardeleană
 Bistrița Aurie
 Bitterroot
 Biwa
@@ -488,21 +507,27 @@ Bogdaproste
 Bogoria
 Bohinj
 Bohotin = Bohotinul
+Boia
 Boise
 Bojana = Buna
 Boka
 Bolboci
 Bolmen
+Bolovăniș = Bolovănișul
 Bolsena
 Bolvașnița
 Boračko
+Borca
 Borcea = Brațul Borcea
 Bormida
+Borod = Borodul
+Borșa
 Bosfor = Bosporus
 Bosna
 Bosten
 Bosumtwi
 Bosut
+Boșneag = Boșneagul
 Botiza
 Botna
 Bou Regreg
@@ -514,17 +539,25 @@ Bracciano
 Bradano
 Brahmani
 Brahmaputra = Yarlung Tsangpo = Tsangpo
+Braia
 Braies = Pragser Wildsee
 Branco
 Brantas
 Bratan
+Bratcov = Bratcovul
+Bratcu = Bratcul
 Brateș
 Bratia
 Brazos
 Brădișor
+Brătcuța
 Brătei
+Brătioara
 Brâncoveanu
 Brda
+Breaza
+Breazova
+Brebina
 Breede
 Bregalnica
 Brembo
@@ -544,7 +577,9 @@ Bruneau
 Brunner
 Bua
 Bucecea
+Bucovel = Bucovelul
 Bucura
+Bucureșci
 Buda
 Budac = Budacul
 Budeasa
@@ -555,10 +590,13 @@ Bug = Bugul de Sud = Southern Bug = Pivdennyi Buh
 Bugeac
 Bughea
 Bugul de Vest = Western Bug = Bugul Occidental
+Buhai = Buhaiul
+Buhalnița
 Buhăescu
 Buhi
-Buhui
+Buhui = Buhuiul
 Buir = Buir Nuur
+Bulba
 Buller
 Bunyonyi
 Burdea
@@ -593,6 +631,7 @@ Caldonazzo
 Caledon
 Caloosahatchee
 Calore
+Calu = Calul
 Cam
 Camaná
 Camaquã
@@ -668,6 +707,7 @@ Capim
 Capra
 Caquetá = Japurá
 Caracol
+Carasu = Valea Carasu
 Caraș = Carașul = Karaš
 Carcarañá
 Carezza = Karersee
@@ -715,11 +755,13 @@ Cazaux = Cazaux-Sanguinet
 Căinari = Căinar
 Călata
 Căldărușani
+Călimănel = Călimănelul
 Călimănești
 Călmățui = Călmățuiul
 Călțun
 Căprița
 Căpuș = Căpușul
+Câinelui
 Câlnău = Câlnăul
 Câlniștea
 Cârcinov = Cârcinovul
@@ -733,6 +775,9 @@ Cerknica
 Cerna
 Černé jezero
 Cernica
+Cernișoara
+Cernu = Cernul
+Certej = Certejul
 Cess = Cestos
 Cetina
 Ceyhan
@@ -754,7 +799,9 @@ Chattahoochee
 Chatyr-Kul
 Chaudière
 Cheat
+Chechiș = Chechișul
 Chehalis
+Cheia
 Chelan
 Chelif = Cheliff
 Chena
@@ -780,11 +827,14 @@ Chinko
 Chippewa
 Chira
 Chirchik
+Chiril = Chirilul
 Chirița
 Chishimba
+Chișindia
 Chitila
 Chitrakote
 Chixoy
+Chizdia
 Choapa
 Choctawhatchee
 Choluteca
@@ -803,23 +853,29 @@ Cimarron
 Cinca
 Cinciș = Cinciș-Cerna
 Ciobănuș = Ciobănușul
+Ciocadia
+Ciorna
 Ciorogârla
 Ciric = Ciricul
 Cisnădie
 Cișmigiu
 Citarum
+Ciugheș = Ciugheșul
 Ciuhur = Ciuhurul
 Ciulîm = Chulym
 Ciulucul de Mijloc
 Ciulucul Mare
 Ciulucul Mic
+Ciumârna
 Ciusovaia = Chusovaya
 Çıldır
 Clackamas
+Cladova
 Clain
 Clark Fork
 Clănița
 Clearwater
+Cleja
 Clinch
 Cloșca
 Clutha = Mata-Au
@@ -828,8 +884,10 @@ Clyde
 Côa
 Coatepeque
 Coatzacoalcos
+Cobășel = Cobășelul
 Cobia
 Coca
+Cociovaliștea
 Coco = Segovia
 Coeur d'Alene
 Cogâlnic = Cogîlnic
@@ -862,27 +920,33 @@ Coppermine
 Corbu
 Cormaia
 Cormoș = Cormoșul
+Corogea
 Corrèze
 Corubal
 Çoruh = Chorokhi
 Corund = Corundul
 Cosău = Cosăul
+Cosmina
 Costești
 Coșna
 Coșuștea
 Cotmeana
+Coțatcu = Coțatcul
 Couesnon
 Couffo
 Courantyne = Corantijn = Corentyne
 Covasna
 Cowlitz
+Coza
 Cracău = Cracăul
+Craiova
 Crapina
 Crasna = Kraszna
 Crater
 Crati
 Cree
 Creuse
+Cricău = Cricăul
 Cricovul Dulce
 Cricovul Sărat = Cricov
 Criș = Körös = Crișul
@@ -892,6 +956,7 @@ Crișul Băița
 Crișul Negru = Fekete-Körös
 Crișul Pietros
 Crișul Repede = Sebes-Körös
+Crivadia
 Crna = Crna Reka
 Crno jezero
 Crocodile
@@ -916,6 +981,7 @@ Cungrea
 Cuquenán = Kukenan
 Curaray
 Current
+Cușmed = Cușmedul
 Cuvo = Queve
 Cuyahoga
 Cuyuní
@@ -944,6 +1010,8 @@ Dârjov = Dârjovul
 De Grey
 Deben
 Dee
+Deia
+Dejani
 Delaware
 Delia
 Della
@@ -975,10 +1043,12 @@ Delta Senegalului
 Delta Volgăi
 Delta Yukonului
 Delta Zambeziului
+Demăcușa
 Demer
 Demerara
 Dender
 Densu
+Densuș = Densușul
 Derwent
 Derwentwater
 Des Moines
@@ -1013,6 +1083,7 @@ Diyaluma
 Dja
 Doamnei
 Dobra
+Dobrotfor = Dobrotforul
 Dobrovăț = Dobrovățul
 Doce
 Doftana
@@ -1039,6 +1110,8 @@ Draa
 Drac
 Dracșani
 Draghiște
+Dragomirna
+Dragoșa
 Drajna
 Drammenselva
 Dranov
@@ -1048,6 +1121,7 @@ Drawsko
 Drăgan = Floroiu = Drăganul
 Drăgănești
 Dreisam
+Dresleuca
 Dridu
 Drin = Drini
 Drina
@@ -1165,7 +1239,9 @@ Eyre
 Faaker See
 Fagnano
 Fal
+Falcău = Falcăul
 Falémé
+Fărcașa
 Fântânele = Beliș-Fântânele = Beliș
 Feale
 Feather
@@ -1215,6 +1291,8 @@ Fraser
 French Broad
 Frome
 Frumoasa
+Frumosu = Frumosul
+Frumușeaua
 Frunzaru
 Fuerte
 Fuji = Fujikawa
@@ -1231,7 +1309,7 @@ Gacka
 Gail
 Gairdner
 Galbeni
-Galbenu
+Galbenu = Galbenul
 Galda
 Galeșu = Galeș
 Gállego
@@ -1261,9 +1339,13 @@ Gave d'Oloron
 Gave de Pau
 Gavkhouni
 Gădălin = Gădălinul
+Găiceana
 Gălățui
+Gălăuțaș = Gălăuțașul
 Gâlcescu = Câlcescu
+Gârbovăț = Gârbovățul
 Gârda Seacă
+Gârliște
 Geamărtălui = Geamărtăluiul
 Geba
 Gediz = Hermus
@@ -1283,12 +1365,15 @@ Geum = Kum
 Ghaghara = Karnali = Ghagra
 Ghelința
 Ghidighici = Marea Chișinăului
+Ghighiu = Ghighiul
+Ghimbav = Ghimbavul
 Ghimbășel = Ghimbășelul
 Giessbach
 Gila
 Gilău
 Gilbert
 Gilort = Gilortul
+Gladna
 Glatt
 Glavacioc = Glavaciocul
 Glenelg
@@ -1478,6 +1563,7 @@ Guatavita
 Guaviare
 Guayas
 Gudbrandsdalslågen = Lågen
+Gudea
 Gudenå = Gudenaa
 Guerlédan
 Guiers
@@ -1489,6 +1575,7 @@ Gura Apelor
 Gura Râului
 Gurara
 Gurghiu = Gurghiul
+Gurguiata
 Guri
 Gurk
 Gurudongmar
@@ -1517,6 +1604,7 @@ Harirud = Tejen = Hari
 Harricana
 Harrison
 Harts
+Harțagu = Harțagul
 Hase
 Hastings
 Haukivesi
@@ -1527,7 +1615,10 @@ Hawkesbury
 Hay
 Hayes
 Hazar
+Hălmagiu = Hălmagiul
+Hămăradia
 Hășdate
+Hătnuța
 Hârtibaciu = Hârtibaciul
 Heart
 Heath
@@ -1535,6 +1626,7 @@ Helmand
 Helmcken
 Helme
 Henares
+Henț = Hențul
 Hérault
 Herăstrău
 Herbert
@@ -1549,6 +1641,7 @@ Hồ Tây
 Hoan Kiem = Hồ Hoàn Kiếm
 Hogenakkal
 Hokitika
+Holda
 Holod = Holodul
 Holston
 Homorod = Homorodul
@@ -1558,12 +1651,15 @@ Hondo
 Hongze
 Hooghly = Hugli
 Hoper = Khopyor = Khoper
+Horaiț = Horaițul
+Horaița
 Horea
 Horincea
 Horîn = Horyn
 Hornád = Hernád
 Hornavan
 Hornindalsvatnet
+Horoiata
 Hortobágy
 Hotan = Khotan
 Hourtin = Hourtin-Carcans
@@ -1592,6 +1688,7 @@ Hunter
 Huron
 Hurunui
 Hussain Sagar
+Hușnița
 Hutt
 Hvítá
 Hyargas = Khyargas
@@ -1601,18 +1698,23 @@ Iagorlâc = Iagorlîc
 Ialomicioara
 Ialomița
 Ialpug = Ialpuh
+Ialpugel = Ialpugelul
 Iana = Yana
 Ianca
 Iantra = Yantra
+Iapa
 Iara
 Ibar
+Ibăneasa
 Ibicuí
 Ica
 Ichel = Ichelul
 Ichilo
+Idrici = Idriciul
 Idrijca
 Idro
 Ier = Eriu = Ér
+Ieud = Ieudul
 Iezer
 Iezerul Mare
 Iezerul Mic
@@ -1620,6 +1722,7 @@ Iezerul Pietrosului
 Iezerul Șureanu
 Iezerul Țarcu
 Ighiel
+Ighiu = Ighiul
 Iguazú = Iguaçu
 Ihema
 Iijoki
@@ -1628,7 +1731,9 @@ IJssel
 IJsselmeer
 Ijuí
 Ikopa
+Ileanda
 Ilfov = Ilfovul
+Ilfovăț = Ilfovățul
 Ili
 Ilișua
 Ill
@@ -1666,6 +1771,7 @@ Inírida
 Inle
 Inn
 Innerste
+Iod = Iodul
 Ionești
 Iordan = Jordan = Yarden
 Iori
@@ -1689,6 +1795,7 @@ Isle
 Isonzo = Soča
 Issîk-Kul = Issyk-Kul
 Istria
+Ișnovăț = Ișnovățul
 Itajaí
 Itapicuru
 Itasca
@@ -1724,18 +1831,22 @@ Javari = Yavarí
 Jejuí
 Jenny
 Jequitinhonha
+Jeravăț = Jeravățul
 Jeziorak
 Jhelum
 Ji-Paraná = Machado
 Jialing
+Jidoștița
 Jieț = Jiețul
 Jihlava
 Jijia
+Jijioara
 Jilț = Jilțul
 Jim Jim
 Jindabyne
 Jing
 Jirlău
+Jitin = Jitinul
 Jiu = Jiul
 Jiul de Est
 Jiul de Vest
@@ -1944,12 +2055,15 @@ Lala Mică
 Lambro
 Lamone
 Lanao
+Lanca Birda
 Landquart
 Langano
 Langfoss
 Lanier
 Lappajärvi
 Laramie
+Larga
+Laslea
 Låtefossen
 Latorica = Latorytsia
 Latorița
@@ -1958,6 +2072,7 @@ Lavant
 Lăpuș = Lăpușul
 Lăpușna
 Lăpușnicul Mare
+Lăpușnicul Mic
 Lea
 Łeba
 Łebsko
@@ -1978,7 +2093,7 @@ Lepșa
 Lerma
 Lesina
 Lesse
-Leșu
+Leșu = Leșul
 Letaba
 Leven
 Levico
@@ -2045,6 +2160,7 @@ Lom = Rusenski Lom
 Lomami
 Lonja
 Lop Nur = Lop Nor
+Lopatna
 Lopatnic = Lopatnicul
 Los Angeles
 Lot
@@ -2061,11 +2177,14 @@ Louise
 Loukkos
 Loup
 Lovat
+Lozna
 Lualaba
 Luan = Luanhe
 Luangwa
 Luapula
 Lubāns
+Lucava
+Lucina
 Ludaš
 Luduș = Ludușul
 Luenha
@@ -2081,13 +2200,16 @@ Lulonga
 Lulua
 Lumangwe
 Lumina
+Luncani = Luncanii
 Luncavăț = Luncavățul
 Luncavița
+Luncoiu = Luncoiul
 Lune
 Lunga
 Lungué-Bungo = Lungwebungu
 Luni
 Luo
+Luț = Luțul
 Luvua
 Luvuvhu
 Lužnice

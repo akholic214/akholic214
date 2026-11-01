@@ -1,6 +1,14 @@
+abacă = cânepă de Manila
 abanos
+abelia
+abutilon = arțar de cameră
 acacia
+acai
+acalypha
 acantă = acanthus = talpa-ursului
+acerola
+achimenes
+adromischus
 adzuki = fasole adzuki
 aechmea
 aeonium
@@ -10,8 +18,9 @@ afin vânăt
 agavă = agave
 ageratum = pufuleți
 aglaonema
-aglică
+aglică = filipendula vulgaris
 agriș
+ajuga
 alac = spelta = grâu spelta
 albăstrea = albăstriță = vinețea = centaurea
 algă
@@ -24,43 +33,64 @@ alun
 alun turcesc
 amarilis = amaryllis = hippeastrum
 amăreală = polygala
+amelanchier
+amorfă = salcâm pitic
 amorphophallus = floarea cadavru
+anacampseros
 ananas
 anason
 anason stelat = badian
 andivă = andive
 anemonă = anemone = floarea-vântului
+anemonă japoneză = anemone hupehensis
 angelică
 anghinare
+angraecum
 anin = arin
 anin alb = arin alb
 anin negru = arin negru
 anin verde = arin verde = anin de munte = liliac de munte
+annatto = achiote
 anturium = anthurium = floarea flamingo
+anubias
 aphelandra
+aponogeton
 aporocactus
 aptenia
 arabis
 arahide = arahidă = alune de pământ
+aralia
 araucaria
+arbore
 arbore de argan = argan
 arbore de camfor
 arbore de ceai = ceai
 arbore de chinină
 arbore de cola
+arbore de curry
 arbore de nucșoară = nucșoară
 arbore de pâine = arborele de pâine
+arbore de shea = karité
 arbore de smirnă
 arbore de tămâie
+arborele bodhi = smochin sacru
+arborele călătorului
+arborele de fier = parrotia
 arborele de lalele = liriodendron
 arborele de mătase = albizia
+arborele de ploaie = samanea
+arborele de plută de Amur = phellodendron
 arborele lui Iuda = arborele Iudei
+arborele mamut = sequoia gigantică
+arbust
+arbutus = arborele de căpșuni
 ardei = piparcă
 ardei capia = capia = kapia = ardei kapia
 ardei gras
 ardei iute = chili
 ardei lung
-areca
+ardisia
+areca = dypsis
 argințică = dryas
 ariocarpus
 armeria
@@ -76,14 +106,25 @@ arțar de zahăr
 arțar japonez
 arțar roșu
 arțar tătărăsc = glădiș
+arundo = trestie gigantică
+asafoetida
+ashwagandha = ginseng indian
+asimina = pawpaw
+asparagus decorativ = sparanghel ornamental
 aspidistra
+asplenium
 asprișoară
 astilbe
+astrantia
 astrophytum
 aubrieta
+aucuba
 avocado
 avrămeasă
 azalee
+azolla
+aztekium
+bacopa
 balsa
 balsamină = impatiens balsamina
 bambus
@@ -91,6 +132,7 @@ bambusul norocos = dracaena sanderiana
 bame = bamă = okra
 banană
 bananier
+banian
 banksia
 baobab
 baraboi
@@ -109,16 +151,24 @@ beaucarnea = nolina = piciorul elefantului
 begonie = begonia
 bergamotă
 bergenia
+betel = piper betel
+bidens
 billbergia
+biota = tuia orientală
+bletilla
 bob
 bobornic
 boglari
+boldo
 bougainvillea
 boz
 brad
 brad alb
 brad argintiu
+brad balsamic
+brad coreean
 brad de Caucaz = brad caucazian
+brassia
 brădiș
 brânca-ursului = crucea-pământului
 brâncă
@@ -131,19 +181,29 @@ broccoli
 brojbă = broajbă = nap suedez = rutabaga
 bromelia
 broscariță
+browallia
 brumărea = brumărele = phlox = flox
+brunnera
 brusture = lipan
 buberic
+bubinga
+bucsău
 budleia = liliac de vară
 bujor = paeonia
+bujor arborescent = bujor de copac
 bujor de stepă = paeonia tenuifolia
 bujor românesc = paeonia peregrina
+bulbine
+bulbophyllum
 bulbuc = bulbuci = trollius
+bulgăre de zăpadă
 bumbac
 bumbăcariță
 bunghișor = erigeron
+buruiană
 busuioc
 buzdugan
+cabomba
 cacao = arbore de cacao
 cactus
 cactusul de Crăciun = schlumbergera = zygocactus
@@ -152,39 +212,56 @@ cafea = arbore de cafea = cafeier
 cais
 caju = anacard
 caladium
+calamondin
 calapăr
 calathea
 cală = calla = zantedeschia
 calcea-calului = caltha
 calceolaria
 calibrachoa
+callicarpa
+callisia
+callistemon
+cambria
 camelie
+campsis = trompeta cățărătoare
 canna
 capere = caper
 caprifoi
+caprifoi albastru = kamceatka
 captalan
+caragană
+carambola = starfruit
 cardamom
+cardon
 carpen
+carpobrotus
 cartof = barabulă = crumpenă = crumpir
+caryopteris
 caryota
 castan = castan comestibil = castan dulce
 castan porcesc = castan sălbatic
+castan roșu = castan porcesc roșu
 castravete
+casuarina
 catalpa
+catasetum
 cattleya
 căldărușă = aquilegia
 călin
 căpșun = căpșună
+căpșunică
 cărpiniță
 cătină = cătină albă
 cătină de garduri = goji
 cătină mică
 cătină roșie
 cătușnică = iarba-mâței
-cânepa-codrului
+cânepa-codrului = eupatorium
 cânepă
 cârcel
 cârciumăreasă = cârciumărese = zinnia
+cârmâz = phytolacca
 ceapa-ciorii
 ceapă
 ceapă de tuns = ceapă de iarnă
@@ -192,23 +269,35 @@ cedru
 cedru de Atlas
 cedru de Himalaya
 cedru de Liban
+ceiba = kapok = capoc
+centella = gotu kola
+centranthus = valeriană roșie
 cenușar = cenușer = ailant
 cephalocereus
 cer
 cerceii-doamnei = dicentra
 cerceluș = fucsia = fuchsia
+cereală
 cerențel = geum
 cereus
+ceropegia
 cetină de negi
 chamaedorea
+chayote
+cherimoya
 chia
 chica-voinicului = nigella
 chimen
 chimion
+chionodoxa
 chiparos
+chiparos de Arizona
 chiparos de baltă
+chiparos de Lawson
+chiparos de Leyland = leylandii
 chitru
 chlorophytum = planta păianjen
+chufa = migdală de pământ
 ciclamen = ciclamă = cyclamen
 cicoare = cichorium
 cimbrișor
@@ -216,11 +305,12 @@ cimbru
 cimișir = buxus = merișor turcesc
 cineraria = cinerarie
 cinsteț
-ciormoiag
+ciormoiag = melampyrum arvense
 cireș
 cireș japonez = sakura
 cireș păsăresc = cireș sălbatic
 cissus
+cistus
 ciuboțica-cucului = primulă
 ciucușoară = alyssum
 ciulin
@@ -228,31 +318,41 @@ ciuma-apelor
 ciumăfaie = datura
 ciumărea
 ciurlan
+clarkia = godetia
 cleistocactus
 clematită = clematis
+clementin = clementină
+cleome
+clerodendrum
 clivia
-clocotici
+clocotici = rhinanthus
 clocotiș
 clopoțel = campanulă
 coacăz
+coacăz auriu
 coacăz de munte
 coacăz negru
 coacăz roșu = strugurel
 coada-calului = barba-ursului
+coada-mânzului
 coada-racului
 coada-șoricelului
 coada-vulpii
 coada-zmeului
+coca = arbore de coca
 cocotier = palmier de cocos
-coleus = urzicuță
-colilie
+coelogyne
+colilie = stipa
 colocasia
 colțișor
 colțul-babei
 columnea
+combava = lămâi kaffir
 condurul-doamnei = condurași = călțunaș = tropaeolum
 conophytum
 conopidă
+copac
+copiapoa
 corcoduș = mirobolan
 cordyline
 coreopsis
@@ -262,6 +362,7 @@ cornaci = ciulin de baltă = castană de apă
 coroana de spini = euphorbia milii
 coroana imperială = crin imperial = fritillaria imperialis
 coroniște = coronilla
+coryphantha
 cosaci
 cosmos
 cosor
@@ -269,7 +370,7 @@ costrei
 cotyledon
 crassula = arborele de jad = planta de jad
 crăciuniță = poinsettia = steaua Crăciunului = euphorbia pulcherrima
-crăiță = crăițe = vâzdoagă = tagetes
+crăiță = crăițe = vâzdoagă = ocheșele = tagetes
 creasta-cocoșului = celosia
 creson
 crețișoară = alchemilla
@@ -281,6 +382,8 @@ crin de pădure = lilium martagon
 crin regal = lilium regale
 crin tigrat = lilium lancifolium
 crinul african = agapanthus
+crinum
+criptomeria = cryptomeria = cedru japonez
 crizantemă = chrysanthemum
 crocosmia
 crossandra
@@ -288,9 +391,12 @@ croton = codiaeum
 crucea-voinicului = trei-răi = hepatica
 cruciuliță
 crușin = pațachină
+cryptanthus
+cryptocoryne
 ctenanthe
 cucurbețică = mărul-lupului
 cucută
+cucută de apă
 cuișor = arbore de cuișoare = cuișoare
 culbeceasă
 cununiță = spirea
@@ -302,10 +408,13 @@ curpen = curpen de pădure
 curpen de munte
 cuscută = torțel
 cycas
+cylindropuntia
 cymbidium
 daikon = ridiche japoneză
 dalac
 dalie = dahlia = gherghină
+dasylirion
+davidia = arborele batistelor
 dârmoz = dârmox
 dediță = dediței = sisinei = pulsatilla
 degetăruț = soldanella
@@ -313,84 +422,132 @@ degețel = degetar = digitalis
 delosperma
 dendrobium
 dentiță
+deutzia
+diascia
+dicksonia = ferigă arborescentă
 diefenbachia = dieffenbachia
+dimorphotheca
+dionaea = venus flytrap
+discocactus
+disocactus
 dovleac = bostan = ludaie
 dovleac plăcintar
 dovlecel = zucchini = bostănel
 dracena = dracaena
 dracilă = berberis
 dragavei
+dragonier = arborele dragon = dracaena draco
 drob
 drobiță
 drobușor
 dud = agud = frăgar
 dud alb
+dud de hârtie = broussonetia
 dud negru
+dudleya
 dughie
 duglas = brad de Douglas
 dumbravnic
+durian
 echeveria
 echinacea
 echinocactus = scaunul soacrei
 echinocereus
+echinodorus = sabia amazoniană
 echinopsis
+efedra = ephedra
+egeria
+encyclia
 epidendrum
+epimedium
 epiphyllum
+episcia
+eremurus
 erica
+eriosyce
+escallonia
+escarolă
+escobaria
+espostoa
 eucalipt
+eucharis
+eucomis
+euforbie = euphorbia
+evonimus = euonymus
+exacum
+exochorda
 facelia
 fag
+fag oriental
+fag roșu = fag purpuriu
 falenopsis = phalaenopsis = orhidee fluture
+fargesia
 fasole = păsulă
 fasole de Lima
 fasole mung = mung
 fasoliță
 fatsia
+faucaria
 feciorică
 feijoa
+fenestraria
 fenicul = molură = chimen dulce
 ferigă = spinarea-lupului
+ferigă de Boston = nephrolepis
+ferigă de Java = microsorum
 feriguță
 ferocactus
+festuca
+festuca albastră = păiuș albastru
 fetică
 ficus
 ficus benjamin = ficus benjamina
 ficus elastica = arborele de cauciuc
+ficus ginseng
 ficus lyrata
 filodendron = philodendron
 firuță
 fistic
 fittonia
+flamboyant = delonix = arborele flacără
+flămânzică = draba
+floare
 floare de piatră = portulaca
 floare-de-colț = floarea-reginei = edelweiss = leontopodium
 floarea-cucului = lychnis flos-cuculi
 floarea-miresei = gypsophila
 floarea-paștelui = păștiță
-floarea-soarelui = helianthus
-foaie grasă
+floarea-soarelui = sora-soarelui = helianthus
+foaie grasă = pinguicula
 foarfeca-bălții
 forsiția = forsythia
 frag = fragă
+frailea
 frasin
 frasin american
 frasin de câmp
+frasin de Pennsylvania
 frasin pufos
 frăsinel
 frezie = freesia
 fumariță
 gaillardia
+galangal
 gardenie
 garoafă = garofă = dianthus
+garoafă turcească
 garofița Pietrei Craiului = dianthus callizonus
 garofiță
 garofiță de munte
 gasteria
+gaultheria
 gaura
 gazania
 gălbăjoară
 gălbenea = gălbenele = filimică = calendula
 gârniță
 gerbera
+gheara mâței = uncaria
 ghimbir
 ghimpe
 ghințură = gențiană
@@ -402,15 +559,23 @@ ginseng
 gladiolă = gladiolus = săbiuță
 glădiță
 glicină = wisteria
+gloriosa
 gloxinia = sinningia
 gogoșar
 golomăț
+gomphrena
 gorun
+gorun ardelean
+gorun auriu
 graptopetalum
+graviola = guanabana = soursop
 grâu
 grâu dur
 grepfrut = grapefruit
+grevillea
 grozamă
+guar
+guarana
 guava
 gulie = kohlrabi = calarabă
 gura-leului = antirrhinum
@@ -419,27 +584,42 @@ gutui
 gutui japonez
 guzmania
 gymnocalycium
+gynura
+haemanthus
+hamamelis = alunul vrăjitoarelor
 hamei
+harpagophytum = gheara diavolului
 hasmațuchi = asmățui
 hașmaciucă
 haworthia
+hebe
 helenium
 heliconia
 heliopsis
 heliotrop = heliotropium
+hemianthus
+henna
 heuchera
 hevea = arbore de cauciuc
 hibiscus
+hibiscus de grădină = hibiscus siriac
 hicori = hickory
+hinoki = chiparos japonez
 holeră
+hoodia
 hortensie
+hortensie cățărătoare
+hortensie paniculată
 hosta = crin de toamnă
 hoya = floarea de ceară
 hrean
 hreniță
 hrișcă
 hrișcă urcătoare
+huernia
 hurmuz
+hydrocotyle
+hygrophila
 hylocereus
 hypoestes
 iarba-broaștei
@@ -449,94 +629,154 @@ iarba-fiarelor
 iarba-osului
 iarba-șarpelui = echium
 iarba-vântului
+iarbă
 iarbă albastră
 iarbă de lămâie = lemongrass
 iarbă de mare
 iarbă de pampas = cortaderia
 iarbă de Sudan
+iarbă dulce = polypodium
 iarbă mare
 iarbă neagră = calluna
 iarbă roșie
 iasomie = jasmin
+iasomie arabă = jasminum sambac
+iasomie de iarnă
 iberis
 iederă
 iederă albă
 ienibahar = piper de Jamaica
 ienupăr
+ienupăr chinezesc
+ienupăr de stâncă
 ienupăr de Virginia
+ienupăr pitic = ienupăr siberian
+ienupăr târâtor
+ierbăluță
+ilice = ilex
 imortelă = siminoc = helichrysum = floare de paie
 in
+indigo = indigotier
 ineață
 ipcărige
+ipeca = ipecacuana
+iresine
+iroko
 isop
 iucca
 iută
+ixia
+ixora
 izma-broaștei = mentă de apă
+izmă creață = mentă creață
+jabuticaba
 jacaranda
+jackfruit
 jalapeño
+jatropha
+jicama
 jneapăn = jep = pin de munte
+jojoba
+jovibarba
 jugastru
+jugastru de Banat
 kalanchoe
 kale = varză kale
+kamut = grâu khorasan
+kauri
+kava = kava-kava
+kenaf
 kentia = howea
+kerria
+khat = qat
+kigelia = arborele cârnaților
+kiwano = castravete cu coarne
 kiwi = actinidia
 kniphofia
+kolkwitzia
 kumquat
+laelia
 lalea = tulipa = tulipan
 lalea pestriță = laleaua pestriță = bibilică = fritillaria
+lampranthus
 lantana
+lapacho = tabebuia = pau d'arco
 laptele-câinelui
 laptele-cucului = alior
 larice = zadă
+larice japonez = zadă japoneză
 laur = dafin
 laurocireș
-lăcrămioară = lăcrimioară = mărgăritar = convallaria
+lavatera
+lăcrămioară = lăcrimioară = mărgăritar = mărgăritărel = convallaria
 lămâi
 lămâiță
 lăptucul-oii
 lăsnicior
 lăuruscă = viță sălbatică
+legumă
 lemn câinesc = lemnul câinesc
 lemn dulce
+lemnul-domnului
+lentisc = arbore de mastic
+lepismium
+leuchtenbergia
 leurdă = usturoi sălbatic
 leuștean
 levănțică = lavandă = lavandula
+lewisia
+liană
 liatris
+ligularia
 liliac = iorgovan
 liliac indian = lagerstroemia
+liliac persan
 liliac transilvănean
 limba-boului = anchusa
 limba-câinelui = arăriel
 limba-cerbului = năvalnic
+limba-cucului
 limba-mielului
 limba-oii
 limba-șarpelui
 limbariță
 lime
+limnophila
 limonium = statice
 linariță = linaria
 lingurea
 linte
 lintiță
+liquidambar = arborele de ambră
 lisianthus = eustoma
 litchi
 livistona
 lobelia
 lobivia
 lobodă
+longan
 lotus = nelumbo = floarea de lotus
+lubiț = camelina
 lucernă
+ludisia
+ludwigia
+lufă = luffa = burete vegetal
+lumânărica-pământului = gentiana asclepiadea
 lumânărică = coada-vacii = verbascum
 luminiță = luminița-nopții = oenothera
 lupin = lupinus = cafeluță
 lupoaie
-mac = papaver = mac roșu = mac de câmp
+lycaste
+mac = papaver = paparoană = mac roșu = mac de câmp
 mac albastru = meconopsis
 mac californian = eschscholzia
+mac oriental = papaver orientale
 maca
 macadamia
+maclură = portocal de Osage
 maghiran
 magnolie
+magnolie stelată
 mahon = acaju
 mahonia
 mammillaria
@@ -545,127 +785,187 @@ mandevilla = dipladenia
 manglier
 mango = manghier
 mangold = sfeclă elvețiană
+mangostan = mangosteen
 manioc = cassava
+manuka = leptospermum
+maracuja = fructul pasiunii
 maranta
 margaretă = leucanthemum
+marsilea
+marula
+masdevallia
 mate = yerba mate
+matucana
+maxillaria
 mazăre
 măceș = trandafir sălbatic = răsură
 măciuca-ciobanului = echinops
 măcriș
-măcriș iepuresc = oxalis
+mălaiul-cucului
 mălin
 mălin american
 măr
-măr pădureț
+măr ornamental = măr decorativ
+măr pădureț = măr sălbatic
+măr siberian
 mărar
 măseaua-ciutei = erythronium
 măselariță = nebunariță
 măslin
 mătasea-broaștei
+mătăciune
 mătrăgună = beladonă
 măzăriche
+medinilla
 mei
 mei păsăresc
 meișor
+melaleuca
+melia = arborele mărgelelor
 melisă = roiniță
 melocactus
 mentă = izmă
+mentă piperată = izmă bună
 merișor
 mesteacăn
 mesteacăn pitic
 mesteacăn pufos
+metasequoia
 micsandră = mixandră = matthiola
 micșunea = șiboi = cheiranthus
+mielărea = vitex
 mierea-ursului = plămânărică = pulmonaria
 migdal
 migdal pitic
 miltonia
 mimoză = mimosa
+mimulus
 mirt
 miruță
+miscanthus
 mlajă
-mlăștiniță
+mlăștiniță = epipactis
 mohor
 mojdrean
 molid = molid comun = brad roșu
 molid argintiu = molid înțepător
+molid canadian = molid alb
+molid de Serbia = molid sârbesc
+molid de Sitka
+molid oriental = molid de Caucaz
+momordica = castravete amar
 monarda
 monstera
 morcov
+morcov sălbatic
 moringa
 moșmon
+moșmon japonez = loquat = nespolă
 moțul-curcanului = amarant = amaranthus
 muma-pădurii
 mur
 muscari
 mușcata-dracului = scabiosa
-mușcată = pelargonie = pelargonium = geranium
+mușcată = pelargonie = pelargonium = geranium = indrușaim
+mușcată curgătoare = pelargonium peltatum
 mușchi
+mușchi de Java = vesicularia
 mușchi de pământ
 mușchi de turbă
 mușețel = romaniță
 muștar
 mutătoare
 myrtillocactus
-nalbă = malva
+nalbă = cașul-popii = malva
 nalbă de grădină = rujă = alcea
+nalbă de pădure
 nalbă mare = althaea
+nalbă mică
+nandina = bambus sacru
 nap
 narcisă = narcis = narcissus = zarnacadea = coprină
+nashi = păr asiatic
 năgară
-năpraznic
+năpraznic = geranium robertianum
 năsturel
 năut
 nectarin
+neem
 neghină
+negrilică = chimen negru
 negrușcă
+nematanthus
+nemesia
 nemțișor = delphinium = consolida
 neoregelia
+nepenthes
+nerine
+noni
 nopticoasă = hesperis
 nu-mă-uita = myosotis
 nuc
+nuc caucazian = pterocarya
+nuc cenușiu
+nuc de Manciuria
 nuc negru = nuc american
+nucă de Brazilia = castană de Pará
 nufăr = nufăr alb
 nufăr galben
 obligeană
 obsigă
-ochiul-boului = aster
+ochiul-boului = aster = steliță
 ochiul-șarpelui = eritrichium
 odontoglossum
 odos = ovăz sălbatic
 oiță = anemone narcissiflora
 oițe
+okoume
 oleandru = leandru
 omag = aconitum
 oncidium
 opaiță = lychnis
+ophiopogon
+ophrys
 opunție = opuntia = nopal
+orbalț
+orbea
 oregano = sovârv
+oreocereus
 orez
 orhidee = orchid
 orz
 orzoaică
+osmanthus
+osmunda = ferigă regală
+osteospermum = margaretă africană
 osul-iepurelui
 otrățel
 oțetar
+oțetar roșu
 ovăscior
 ovăz
+oxalis = măcriș iepuresc
 pachira = arborele banilor
 pachycereus
 pachyphytum
 pachypodium
+pachysandra
+padouk
 pak choi = bok choy
 palisandru
 palmier
+palmier de Canare = phoenix canariensis
 palmier de ulei
 palmier pitic
+palmier regal = roystonea
 paltin = paltin de munte
 paltin de câmp
 pana-zburătorului = lunaria
-panseluță = pansea = trei-frați-pătați
+pandanus
+panseluță = pansea = trei-frați-pătați = catifeluță
 papaia
 paphiopedilum
+papirus = cyperus papyrus
 papucul-doamnei = cypripedium
 papură
 paracherniță
@@ -675,11 +975,12 @@ paulownia = arborele prințesei
 păducel = gherghinar
 păiuș
 pălămidă
+pălăria-cucului = geranium phaeum
 păliur
-păpădie = taraxacum
+păpădie = papalungă = taraxacum
 păpălău = physalis
 păr
-păr pădureț
+păr pădureț = păr sălbatic
 părul-fetei
 păstârnac
 pătlagină
@@ -689,27 +990,43 @@ pecan = nuc pecan
 pecetea lui Solomon = coada-cocoșului = polygonatum
 pedicuță = brădișor
 pelin = absint = pelin alb
+pelinariță
 peliniță
+pennisetum
 penstemon
 pepene
 pepene galben = zămos
 pepene verde = lubeniță = harbuz = pepene roșu
 peperomia
+pepino
 pereskia
+perilla = shiso
 perișor
+perovskia = salvie rusească
 peștișoară
 petunie = petunia
 peyote = lophophora
+phormium = in de Noua Zeelandă
+photinia
+phragmipedium
+phyllostachys
+physocarpus
+physostegia
 piciorul-caprei
 piciorul-cocoșului = ranunculus
 piciorul-lupului = cervană
 pieptănariță
+pieris
 piersic
 pietre vii = lithops
 pilea
 pilosocereus
 pin
 pin de Alep
+pin de Banks
+pin de Himalaya
+pin de Norfolk
+pin galben = pin ponderosa
 pin maritim
 pin negru
 pin negru de Banat
@@ -717,17 +1034,31 @@ pin silvestru = pin de pădure = pin roșu
 pin strob = pin neted
 pin umbrelă
 piper = piper negru
+piper de Sichuan
+piper lung
+piper roz = schinus
 piperul-bălții
 pipirig = țipirig
 pir
 pir gros = iarba-câinelui
+piracanta = pyracantha
+pistia = salată de apă
+pitaya = fructul dragonului
+plantă
 platan
+platan occidental = platan american
+platan oriental
+platycerium = coarne de cerb
 platycodon
 plectranthus
+pleione
+pleiospilos
 plevaiță = xeranthemum
 pliscul-cocorului = ciocul-berzei
 plop
 plop alb
+plop cenușiu
+plop chinezesc
 plop euramerican = plop canadian = plop hibrid
 plop negru
 plop piramidal
@@ -737,24 +1068,38 @@ plumeria = frangipani
 plutniță
 pochivnic
 podbal
+podocarpus
+polemonium
+polyscias
+pom
 pomelo
 poroinic = orchis
 portocal
+portocal amar
 portulacaria
 porumb = cucuruz = păpușoi
 porumbar
+posidonia
 pothos = epipremnum
 praz
+priboi = geranium macrorrhizum
 protea
 prun
 pufuliță = epilobium
 punguliță
+puschkinia
+quebracho
 quinoa
 radermachera
 radicchio
 rafflesia
+rafia = palmier rafia
 raigras
+rambutan
+ramie
 rapiță
+ratan = rattan
+ravenala
 răchitan
 răchită
 răchită roșie
@@ -764,8 +1109,12 @@ rebutia
 rechie
 regina-nopții = nicotiana
 revent = rubarbă
+rezedă = reseda
+rhaphidophora
 rhapis
 rhipsalis
+rhodiola = rădăcina de aur
+riccia
 ricin
 ridiche
 ridiche neagră
@@ -776,21 +1125,26 @@ rocoțea
 rodiu = rodier
 rodul-pământului = arum
 rogoz
+roibă = garanță
 rooibos
 rostopască = negelariță
 roșățea
 roșcov = carob
 roșie = tomată = pătlăgea roșie
 roșie cherry
+rotala
 rotungioară = silnic
-roua-cerului
+roua cerului = drosera
 rozmarin
 rucola
 rudbeckia
 ruginiță
 ruscuță = ruscuță de primăvară = adonis
 rutișor = thalictrum
+sabal = palmetto
+sagotier = palmier de sago
 saguaro = carnegiea
+salak = fructul șarpelui
 salată = lăptucă = salată verde
 salată iceberg
 salată romană
@@ -799,16 +1153,25 @@ salbă râioasă
 salcâm = acaț = bagrin
 salcâm galben = lemnul bobului
 salcâm japonez = sofora
+salcâm roz
 salcie
 salcie albă
 salcie căprească = iovă
+salcie creață
 salcie pitică
 salcie plângătoare
 salcie plesnitoare
+salicornia = sparanghel de mare
+salsifi
 salvie = jaleș
 sansevieria = sanseviera = limba-soacrei
 santal
+santolina
+sapelli
+sapodilla
+sarracenia
 saschiu = brebenoc = vinca
+sassafras
 saxifragă
 săgeata-apei
 sălcioară
@@ -822,6 +1185,7 @@ sânziană = drăgaică = galium
 sânziene
 sârmuliță
 scabioasă
+scaevola
 scai măgăresc
 scai vânăt
 scaiete = scai
@@ -830,6 +1194,7 @@ scânteiuță = anagallis
 schefflera
 schinduf
 schinel
+schisandra
 scindapsus
 sclipeți
 scorțișor = arbore de scorțișoară = scorțișoară
@@ -837,11 +1202,13 @@ scorțoneră = salsifi negru
 scoruș
 scoruș de munte = scoruș păsăresc
 scoruș domestic
+scoruș suedez
 scrântitoare = potentilla
 scumpie
 secară
 sedum = iarbă grasă = șoaldină
-sequoia = secvoia = arborele mamut
+selenicereus
+sequoia = secvoia
 sfeclă
 sfeclă de zahăr
 sfeclă furajeră
@@ -849,30 +1216,41 @@ sfeclă roșie
 sică
 sicomor
 silur
+siminichie = senna
 sipică
 sisal
+skimmia
 slăbănog
 smirdar = rododendron = bujor de munte
 smochin
 soc = soc negru
 soc roșu
 soia
+soleirolia = helxine
 sor-cu-frate = melampyrum
 sorb
 sorbestrea = sanguisorba
 sorg
 spanac
 sparanghel
+sparaxis
 sparcetă
+sparmannia = tei de cameră
 spatifilum = spathiphyllum = crinul păcii
 spălăcioasă
 spânz = helleborus
+spilcuță
 spin
 spinul cerbului = verigariu = verigar
+spirea japoneză
 splinuță = solidago
 sporul casei = impatiens
+stanhopea
 stapelia
 stânjenel = stânjen = iris
+stânjenel galben = stânjenel de baltă
+stânjenel pitic = iris pumila
+stânjenel siberian = iris sibirica
 stejar = stejar pedunculat
 stejar brumăriu
 stejar de baltă
@@ -880,6 +1258,8 @@ stejar de plută
 stejar pufos
 stejar roșu = stejar american
 stejar verde
+stenocactus
+stenocereus
 stephanotis = iasomie de Madagascar
 stevia
 stirigoaie
@@ -891,10 +1271,12 @@ strugure
 strugurii-ursului
 studeniță
 stuf = trestie
-stupiniță
+stupiniță = platanthera
 stupitul-cucului
 sugel
+sulcorebutia
 sulfină
+sumac
 sunătoare = pojarniță
 surfinia
 susai
@@ -908,6 +1290,7 @@ syngonium
 ștevie
 știr
 talpa-gâștei
+tamarillo = roșie de copac
 tamarin
 tarhon
 taro
@@ -915,22 +1298,37 @@ taulă
 tărtăcuță = tigvă
 tătăneasă = iarba-lui-tatin
 tec = teak
+teff
 tei
+tei american
 tei argintiu = tei alb
 tei cu frunza mare
+tei de Crimeea
 tei pucios
 teișor
+tephrocactus
 terebint
+thelocactus
 thunbergia
+tiarella
+tigridia
 tilișcă
 tillandsia
 timoftică
 tisă
+titanopsis
+tomatillo
 topinambur = nap porcesc
+torenia
+trachycarpus = palmier chinezesc
 tradescantia = telegraf
 traista-ciobanului
 trandafir = roză = rosa
+trandafir cățărător
+trandafir de Damasc = rosa damascena
+trandafir de dulceață = rosa centifolia
 trandafirul deșertului = adenium
+trânji
 tremurătoare
 trestie de câmp
 trestie de zahăr
@@ -942,10 +1340,15 @@ trifoiște
 triticale
 trompeta îngerului = brugmansia
 troscot
+tsuga = hemlock
 tuberoză = chiparoasă = polianthes
+tufă
 tufănică = tufănea = dumitriță
 tuia = thuja = arborele vieții
 tulichină = piperul lupului
+tulsi = busuioc sfânt
+tung = arbore de tung
+turbinicarpus
 turiță = lipicioasă
 turiță mare
 turmeric = curcuma
@@ -955,9 +1358,11 @@ tutun
 țepoșică = țăpoșică
 țintaură = fierea-pământului
 ulm
+ulm american
 ulm de câmp
 ulm de munte
 ulm de Turkestan
+umbra-iepurelui
 unghia-găii
 unguraș
 untișor = grâușor = ficaria
@@ -967,9 +1372,11 @@ urechea-ursului = primula auricula
 urechelniță = sempervivum
 urzică
 urzică moartă
+urzicuță = coleus
 usturoi = ai
 usturoiță
 valeriană = odolean
+vallisneria
 vanda
 vanilie = vanilla
 varga-ciobanului
@@ -986,12 +1393,16 @@ vâsc de stejar
 velniș = vânj
 ventrilică
 verbină = verbena
+verbină de lămâie = aloysia
+vetrice
+victoria amazonica = victoria regia
 vie
 vinariță
 vindecea
 violetă = toporaș
 violetă africană = saintpaulia
 viorea = scilla
+virnanț = rută
 vișin
 vișin turcesc
 viță de Canada = viță canadiană
@@ -1003,17 +1414,25 @@ vulturică = hieracium
 wasabi
 washingtonia
 weigela
+welwitschia
+wenge
+yacon
 yam = igname
 ylang-ylang
 yucca
+yuzu
 zambilă = hiacint = hyacinthus
+zambilă de apă = eichhornia
 zamia
 zamioculcas
 zarzăr
 zălog = salcie cenușie
+zămoșiță
 zâmbru
 zârnă
 zburătoare = chamaenerion = răscoage
+zelkova
+zephyranthes
 zmeur
 zorea = zorele = ipomoea
 zygopetalum

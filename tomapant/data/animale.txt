@@ -10,6 +10,8 @@ acvilă
 acvilă de câmp = acvilă imperială
 acvilă de munte = pajură
 acvilă de stepă
+acvilă filipineză
+acvilă marțială
 acvilă pitică
 acvilă porumbacă
 acvilă țipătoare mare
@@ -17,71 +19,115 @@ acvilă țipătoare mică
 addax
 aepycamelus
 aerosteon
+afalin = delfin cu bot de sticlă = delfin mare
+affenpinscher
 afidă = păduche de frunză = păduche de plante
 agamă
 agapornis = papagal nedespărțit
 agilisaurus
 agriotherium
 aguti
+ai = leneș cu trei degete
 airedale terrier
 akhal-teke
 akita = akita inu
+akita american
 alamosaurus
+alb de Rușețu
+albastră belgiană
+albastru de Viena = vienez albastru
 albatros
+albatros cu sprâncene negre
 albatros rătăcitor
+albatros regal
 albertosaurus
 albiliță = fluture de varză
 albină = albină meliferă
+albină africanizată
+albină carpatină
+albină lucrătoare
+albină tâmplar
+albină zidar
 alca mare = pinguinus impennis = great auk
+alcă
 aligator
+aligator chinezesc
 alioramus
 allodaposuchus
 alozaur = allosaurus
 alpaca
+alpină franceză = alpină
 altirhinus
 alunar = gaiță de munte
 alvarezsaurus
 alxasaurus
 amargasaurus
+amazon = papagal amazon
 ambulocetus
 amebelodon
+american bully
+american curl
+americană cu păr scurt = american shorthair
+amfibian
+amfiox
+amfipod
+amfisbenă = șopârlă-vierme
 amibă
 amiral = fluture amiral
 amonit = ammonite
 ampelosaurus
 amphicyon
+amrock
 amstaff = american staffordshire terrier
 amur = amur alb
 amur negru
 anaconda
 anancus
 anchiceratops
+anchilostom
 anchilozaur = ankylosaurus
 anchiornis
 anchisaurus
+ancistrus
 ancylotherium
 andaluz
+andaluză
 andrewsarchus
 anelid
 anemonă de mare = actinie
 anghilă = anghilă europeană
+anglo-arab
+anglo-nubiană = nubiană
 angora = angora turcească
 angus = aberdeen angus
 anhanguera
+animal de companie
 anoa
 anofel = țânțar anofel
 anolis
 anomalocaris
+anoplur
 antarctopelta
 anteosaurus
 anthropornis
 antilopă
+antilopă americană = pronghorn
+antilopă cu patru coarne
+antilopă de apă
+antilopă indiană = blackbuck
+antilopă neagră
 antilopă saiga = saiga
+antozoar
+anur
 apatozaur = apatosaurus
 apolo = fluture apolo
 appalachiosaurus
 appaloosa
+appenzeller
 ara = papagal ara
+ara albastru și galben
+ara hiacint
+ara stacojiu = ara roșu
 arahnidă
 arambourgiania
 arapaima
@@ -96,8 +142,13 @@ argentinosaurus
 argonaut
 arheopterix = archaeopteryx
 arici
+arici african = arici pitic african
+arici cu urechi lungi
 arici de mare
 armadillo = tatu
+armadillo cu nouă benzi
+armadillo cu trei benzi
+armadillo uriaș
 armăsar
 arowana
 arrhinoceratops
@@ -107,10 +158,15 @@ arthropleura
 artropod
 asaphus
 ascidie
+aspidă
 asprete
 astrapotherium
 aterină
+aubrac
 aucasaurus
+aurora
+australian cattle dog
+australian terrier
 australorp
 australovenator
 austroraptor
@@ -120,8 +176,12 @@ aușel sprâncenat
 avaceratops
 avat
 avimimus
+awassi
 axolotl
+ayam cemani
 aye-aye
+ayrshire
+azawakh
 azhdarcho
 babirusa
 babuin = pavian
@@ -133,20 +193,27 @@ balaur bondoc
 balaur dobrogean = balaur
 balenă
 balenă albastră
+balenă cu cioc
 balenă cu cocoașă
 balenă de Groenlanda
 balenă gri
 balenă pilot
 balenă pitică
+balenă sei
 balineză
 bambiraptor
 bandicoot
 banteng
 baracudă = barracuda
 barapasaurus
+barasingha
 barbatodon
+barbet
 barbourofelis
 barbun
+barbus
+bardou
+barnevelder
 barosaurus
 baryonyx
 barză = cocostârc
@@ -156,8 +223,10 @@ basenji
 basilosaurus
 basset = basset hound
 batcă
+batracian
 bazilisc
 bazna
+bălțată cu negru românească
 bălțată românească = bălțată
 bătăuș
 beagle
@@ -167,6 +236,8 @@ becațină
 becațină comună
 becațină mare
 becațină mică
+bedlington terrier
+beefmaster
 beelzebufo
 beipiaosaurus
 beldiță
@@ -174,13 +245,19 @@ belemnit = belemnite
 beluga = balenă albă
 bengaleză = bengal
 berbec
+bergamasco = ciobănesc de Bergamo
+berkshire
 betta = pește luptător = peștele luptător
+bharal = oaie albastră
 biban
+biban cu gura mare = bass
 biban de Nil
 biban-soare = sorete
 bibilică = găină de Guineea
+bichir = polipter
 bichon
 bichon maltez = maltez
+bidiviu
 binturong
 birmaneză = sacra de Birmania
 bivalvă
@@ -189,47 +266,80 @@ bivol african = bivol cafru
 bivoliță
 bizam = ondatra
 bizon = bizon american
+bizon de pădure
 bizon de stepă = bison priscus
+blackface = scottish blackface
+blonde d'Aquitaine
 bloodhound
 boa = boa constrictor = șarpe boa
+boa de nisip = șarpe de nisip
 boarță = boarcă
+bobac = marmotă de stepă
 boboc
 bobtail
+bobtail american
+bobtail japonez
+bobtail kurilian
 boer
+boerboel
 boicuș = pițigoi pungar
 boiștean
+bolognez = bichon bolognez
+bombay
 bondar = bărzăun
 bongo
 bonobo
 border collie
+border terrier
 borealopelta
 borophagus
 boston terrier
 botgros
 bothriolepis
+botia
+botriocefal
 bou
 bou de mare
 bou moscat
+boulonnais
 bour
 bouvier bernez = bernez
+bouvier de Flandra = bouvier des Flandres
+bovină
 boxer
+brabant = cal belgian de tracțiune
+brac francez
 brac german
+brac italian
 brachylophosaurus
 bradycneme
 bradysaurus
+brahiopod
 brahiozaur = brachiosaurus
 brahma
 brahman
+brangus
+branhiopod
 briard
+briozoar
+british longhair
 british shorthair = britanică
 broască
+broască cu coarne
+broască cu gheare
+broască cu ochi roșii
 broască de lac
+broască de mlaștină
 broască de pământ
 broască de pământ dobrogeană
+broască de sticlă
+broască de Surinam
 broască Goliat
 broască mare de lac
 broască mică de lac
+broască moașă
 broască râioasă = broască râioasă brună
+broască râioasă de trestie
 broască râioasă verde
 broască roșie de munte
 broască roșie de pădure
@@ -238,33 +348,60 @@ broască-bou = broască-taur
 brontornis
 brontotherium = megacerops
 brontozaur = brontosaurus
+broscoi
 brotăcel = brotac
 brumăriță
 brumăriță de pădure
 brumăriță de stâncă = brumăriță alpină
+brumby
 brună de Maramureș = brună
+bubal
 buburuză = mămăruță
+buburuză asiatică
 bufniță = buhă = buhă mare
 bufniță polară = bufniță de zăpadă
+buha fructificațiilor
 buha semănăturilor
+buha verzei
+buhai
 buhai de baltă = bou de baltă
+buiestraș
 buitreraptor
+bulbul
 bull terrier
 bulldog
+bulldog american
 bulldog englez
 bulldog francez
 bullmastiff
 burete de mare = burete
 burmeză
+burmilla
 bursuc = viezure
+bursuc american
 bursuc de miere = ratel
+burunduc = veveriță dungată = chipmunk
 cacadu = cacatua
+cacadu alb
+cacadu cu creastă galbenă
+cacadu roz = galah
 caiman
+caiman cu ochelari
+caiman negru
 cairn terrier
 cal
+cal berber = berber
+cal breton
+cal caspic
+cal de Camargue = camargue
+cal de Don
 cal de Przewalski = cal Przewalski
+cal de sport irlandez = irish sport horse
+cal de sport românesc
 cal islandez
+cal mongol
 calamar = calmar
+calamar colosal
 calamar uriaș
 calao = pasărea rinocer
 calcan = turbot
@@ -278,19 +415,31 @@ camptosaurus
 canar
 cane corso
 cangur
+cangur arboricol
+cangur gri
+cangur roșu
+canid
 cantaridă = gândac de frasin
 cap de mort = fluture cap de mort
 capibara
 capîntortură = capântortură
 capră
+capră albă de Banat
+capră de Angora
+capră de Cașmir = cașmir
+capră de zăpadă = capră de munte americană
 capră neagră
+capră pitică = capră pigmee
 caprimulg
+caprină
 captorhinus
 capucin
 car
 carab = gândac de pământ
 caracal
+caracara
 caracatiță
+caracatiță cu inele albastre
 caracudă
 caracurt
 caras = caras argintiu
@@ -298,14 +447,17 @@ carcharodontosaurus
 cardinal = cardinal roșu
 caretă
 caribu = caribou
+carnivor
 carnotaur = carnotaurus
 carpatină
 castor
+castor american = castor canadian
 castor uriaș = castoroides
 castorocauda
 castravete de mare = holoturie
 casuar
 cașalot
+cașalot pitic
 catâr
 caudipteryx
 cavalier king charles
@@ -320,20 +472,37 @@ cănăraș
 căprioară = căprior
 căpușă
 cărăbuș = cărăbuș de mai = gândac de mai
+cărăbușul cerealelor
 cărăbușul marmorat
 cățea
 cățel
 cățelandru
 câine
+câine de apă portughez
+câine de apă spaniol
+câine de Canaan
 câine de mare
+câine de munte de Pirinei = marele pirinean
 câine de prerie
+câine de tufiș
+câine de urs karelian
+câine faraon = pharaoh hound
+câine groenlandez
+câine lup cehoslovac
+câine lup de Saarloos
+câine mexican fără păr = xoloitzcuintli
+câine peruan fără păr
 cânepar
 câră
+cârjancă
 cârlan
 cârstel = cristel
 cârstel de baltă
 cârstel de câmp = cristel de câmp
 cârtiță
+cârtiță cu nas stelat
+cârtiță marsupială
+cecilie
 cefalopod
 cegă
 celacant
@@ -342,10 +511,18 @@ centrosaurus
 ceratozaur = ceratosaurus
 cerb = cerb carpatin
 cerb axis = chital
+cerb catâr = cerb cu coadă neagră
+cerb de apă chinezesc
+cerb de mlaștină
+cerb de pampas
+cerb de Virginia = cerb cu coadă albă
 cerb lopătar
 cerb moscat
 cerb sika
+cercopitec
 cervalces
+cestod
+cetaceu
 cetiosaurus
 cetotherium
 chalicotherium
@@ -355,9 +532,18 @@ charolais
 charonosaurus
 chartreux
 chasmosaurus
+chausie
 chefal
+chelonian
+chesapeake bay retriever
+chester white
+cheviot
+chianina
 chihuahua
+chilopod
+chin japonez
 chinchilla
+chinese crested = câine chinezesc cu creastă
 chiră
 chiră de baltă
 chiră de mare
@@ -367,14 +553,24 @@ chirighiță
 chirighiță cu aripi albe
 chirighiță cu obraz alb
 chirighiță neagră
+chiropter
+chiru = antilopă tibetană
 chișcar
+chișcar de mare
+chiton
 chițcan = chițcan comun
 chițcan de apă
 chițcan de câmp
+chițcan de grădină
+chițcan de munte
 chițcan pitic
 chow chow
+churra
 cicadă
 ciclidă = cichlidă
+ciclop
+ciclostom
+ciliat
 cimpanzeu
 cinteză
 cinteză de iarnă
@@ -389,13 +585,22 @@ ciobănesc alb elvețian
 ciobănesc anatolian
 ciobănesc australian
 ciobănesc belgian = malinois
+ciobănesc catalan
 ciobănesc caucazian
+ciobănesc croat
 ciobănesc de Asia Centrală = alabai
 ciobănesc de Bucovina
+ciobănesc de Maremma = maremmano
+ciobănesc de Picardia
 ciobănesc de Pirinei
+ciobănesc de Tatra = podhalan
 ciobănesc german = păstor german = german shepherd
 ciobănesc mioritic = mioritic
+ciobănesc olandez
+ciobănesc polonez de câmpie
+ciobănesc portughez
 ciobănesc românesc carpatin = carpatin
+ciobănesc rus de sud
 ciocănitoare
 ciocănitoare cu spate alb
 ciocănitoare de grădină
@@ -412,9 +617,14 @@ ciocârlie de pădure
 ciocârlie de stol
 ciocârlie urecheată
 ciocîntors = ciocântors
+ciortan
+ciortocrap
 ciovlică
 ciovlică negrie
 ciovlică ruginie
+ciprinid
+cirneco dell'Etna
+cirriped
 citipati
 ciuf de câmp
 ciuf de pădure
@@ -422,14 +632,20 @@ ciuș
 ciută = cerboaică
 ciuvică
 civetă
+civetă africană
+civetă de palmier
+cladocer
 cladoselache
 clapon
 clean
 clean dungat
 clean mic
+cleveland bay
 clidastes
 cloșcă
+clumber spaniel
 clydesdale
+cnidar
 coada-rândunicii = fluture coada-rândunicii
 coati
 cobai = porcușor de Guineea
@@ -441,12 +657,21 @@ cobră scuipătoare
 coccosteus
 cochin = cochinchina
 cocker = cocker spaniel
+cocker american
 cocor
+cocor american
+cocor canadian
+cocor cu coroană = cocor încoronat
+cocor japonez = cocor cu creștet roșu
 cocor mic
+cocor sarus
+cocor siberian
 cocoș
 cocoș de mesteacăn
 cocoș de munte
+cocoș de stâncă
 cocoșar
+cocoșel de mare
 cod = batog
 codalb = vultur codalb
 codobatură
@@ -463,21 +688,36 @@ coiot
 cojoaică
 cojoaică cu degete scurte
 cojoaică de pădure
+colembolă
 coleopter
 colibri = pasărea colibri = pasărea-muscă
 collie
+colob
+colugo = lemur zburător
 compsognathus
+comtois
 concavenator
 condor = condor andin
 condor californian
 confuciusornis
 conodont
+coonhound
 copepod
+copitat
 copoi
 copoi ardelenesc
+copoi bavarez
+copoi de Hanovra
+copoi polonez
+copoi slovac
+corabie portugheză = galeră portugheză
 coral
+coral de foc
+coral negru
 coral roșu
+coral-creier
 corb
+corb de mare
 corcodel
 corcodel cu gât negru
 corcodel cu gât roșu
@@ -486,45 +726,70 @@ corcodel mare
 corcodel mic = corcodel pitic
 coregon
 corgi
+corgi cardigan = welsh corgi cardigan
+corgi pembroke = welsh corgi pembroke
 cormoran
 cormoran mare
 cormoran mic
 cormoran moțat
+cornish
 cornish rex
+cornută
 coropișniță = greier-cârtiță
+corriedale
+corydoras
 coryphodon
 corythosaurus
 cosac
 cosaș
+cosaș verde
+coșenilă
 cotar
+cotarlă
+coton de Tulear
 coțofană = țarcă
 crab
 crab albastru
+crab chinezesc
 crab de cocotier
+crab de piatră
 crab eremit = crab pustnic = pagur
 crab potcoavă
 crab regal
+crab verde
+crab violonist
+crab-păianjen
 crap = crap comun
 crap golaș
 crap koi = koi
 crap oglindă
 crassigyrinus
+crăpcean
 cresteț
 cresteț mic
 cresteț pestriț
 cresteț pitic
 cretoxyrhina
 crevete
+crevete mantis
 crin de mare
+crinoid
+criollo
 crocodil
 crocodil american
+crocodil de Cuba
 crocodil de Nil
 crocodil marin = crocodil de apă sărată
+crocodil pitic
+crocodilian
 croitor
+croitor alpin
+croitorul stejarului = croitor mare
 crustaceu
 cryolophosaurus
 cryptoclidus
 ctenochasma
+ctenofor
 cuc
 cucuvea = cucuvaie
 cufundar
@@ -536,7 +801,12 @@ culic cu cioc subțire
 culic mare
 culic mic
 curcan
+curcan bronzat
+curcan sălbatic
 curcă
+curly coated retriever
+cuscus
+cuvac slovac = ciobănesc slovac
 cuvieronius
 cymbospondylus
 cynognathus
@@ -547,8 +817,13 @@ dakosaurus
 dakotaraptor
 dalmațian
 daman = hyrax
+daman de copac
+daman de stâncă
+dandie dinmont terrier
+danio
 darwinopterus
 daspletosaurus
+decapod
 degu
 deinocheirus
 deinonychus
@@ -556,19 +831,30 @@ deinosuchus
 deinotherium
 delfin
 delfin comun
+delfin de Amazon = boto
+delfin de Gange
+dermapter
+desman
 desmatosuchus
 desmostylus
 devon rex
+dexter
+dhole = câine sălbatic asiatic
 diabloceratops
 diadectes
+diamant Gould
+diamant mandarin
 diavol spinos = moloch
 diavol tasmanian
 dickinsonia
 dicraeosaurus
 dicynodon
 didelphodon
+dihanie
 dihor
+dihor cu picioare negre
 dihor de stepă
+dihor domestic
 dihor pătat
 diictodon
 dik-dik
@@ -582,17 +868,26 @@ dinofelis
 dinozaur = dinosaur
 diplocaulus
 diplodoc = diplodocus
+diplopod
 diprotodon
 dipter
 discus
 doberman = dobermann
+dobitoc
 dodo = pasărea dodo = raphus cucullatus = dronte
 doedicurus
 dog argentinian
 dog german = dog
+dogo canario = presa canario
 dogue de Bordeaux = dog de Bordeaux
+dolar de nisip
+donskoy = sfinx de Don
 doradă
+dorking
+dorper
+dorset
 dorudon
+drac de mare
 dracorex
 dragon bărbos
 dragon de Komodo = varan de Komodo
@@ -602,6 +897,7 @@ dreadnoughtus
 drepnea
 drepnea mare
 drepnea neagră = lăstun mare
+dril
 dromader = cămilă cu o cocoașă
 dromaeosaurus
 dromornis
@@ -620,11 +916,15 @@ duroc
 echidnă
 echinococ
 echinoderm
+eclectus = papagal eclectus
+ecvideu
 edaphosaurus
+edentat
 edestus
 edmontonia
 edmontosaurus
 efemeridă
+efemeropter
 eglefin
 egretă
 egretă mare
@@ -640,12 +940,16 @@ elefant
 elefant african
 elefant asiatic = elefant indian
 elefant de mare = focă elefant
+elefant de pădure
+elefant de savană
+elkhound norvegian
 elopteryx
 embolotherium
 emu
 endoceras
 enot = câine enot
 entelodont = entelodon
+entlebucher
 eohippus = hyracotherium
 eomaia
 eoraptor
@@ -653,6 +957,7 @@ eotyrannus
 epagneul breton
 epicyon
 epidexipteryx
+erbivor = ierbivor
 eremotherium
 erete
 erete alb
@@ -664,6 +969,7 @@ eryops
 erythrosuchus
 estemmenosuchus
 eudimorphodon
+euglenă
 euhelopus
 euoplocephalus
 euparkeria
@@ -673,8 +979,11 @@ europasaurus
 europeană
 eusthenopteron
 exaeretodon
+exotică = exotic shorthair
 facocer
+falabella
 falcarius
+faverolles
 fazan
 fazan argintiu
 fazan auriu
@@ -685,16 +994,21 @@ fâsă de munte
 fâsă de pădure
 fâsă mare
 fâsă roșiatică
+felină
 fenec
 ferestraș
 ferestraș mare
 ferestraș mic
 ferestraș moțat
+fiară
+field spaniel
 fila brasileiro
 filarie
 filoxeră
 fjord
+flagelat
 flamingo
+flat-coated retriever
 flebotom
 florinte
 fluierar
@@ -708,13 +1022,27 @@ fluierar negru
 fluierar sur
 fluturaș de stâncă
 fluture
+fluture atlas
+fluture de doliu
 fluture de noapte
+fluture hartă
+fluture țestos
+fluture virgulă
+fluture-colibri
 focă
+focă bărboasă
+focă caspică
 focă comună
 focă cu blană
+focă de Baikal
+focă de Groenlanda = focă harpă
+focă de Weddell
 focă gri
+focă inelată
 focă leopard
 focă monah
+foraminifer
+forfecar
 forfecuță
 fosa
 fox terrier
@@ -731,13 +1059,19 @@ fugaci mic
 fugaci pitic
 fugaci roșcat
 fukuiraptor
+furioso = furioso-north star
 furnicar
+furnicar pitic
+furnicar uriaș
 furnică
 furnică de foc
+furnică de pădure
 furnică faraon
+furnică legionară
 furnică neagră
 furnică roșie
 furnică tăietoare de frunze
+furnică-glonț
 furtunar
 fusar
 futalognkosaurus
@@ -748,24 +1082,38 @@ gaiță
 gaiță albastră
 galago
 gallimimus
+galloway
+gambuzie
 gargoyleosaurus
+garidă
 garudimimus
 gasteropod
 gastonia
 gastornis = diatryma
 gaur
 gavial
+gavial fals
+gazela lui Grant
+gazela lui Thomson
 gazelă
+gazelă cu gușă
+gazelă de munte
+gazelă dorcas
 găină
 găinușă de baltă
 gălbează
 gărgărița fasolei
+gărgărița grâului
 gărgărița mazării
+gărgărița orezului
+gărgărița porumbului
 gărgărița sfeclei
 gărgăriță
 gărgăun
 gândac
+gândac american
 gândac bombardier
+gândac ceasornicar
 gândac de apă
 gândac de bălegar
 gândac de bucătărie = libarcă
@@ -776,7 +1124,10 @@ gândac goliat
 gândac gropar
 gândac hercule
 gândac pocnitor
+gândac pustnic
+gândac-tigru
 gândacul ovăzului
+gândacul roșu al făinii
 gândacul roșu al rapiței
 gânganie
 gârliță
@@ -784,24 +1135,37 @@ gârliță mare
 gârliță mică
 gâscan = gânsac
 gâscă
+gâscă africană
+gâscă canadiană
+gâscă chinezească
 gâscă cu gât roșu = gâscă cu piept roșu
 gâscă cu obraz alb
+gâscă de Emden
+gâscă de Landes
 gâscă de semănătură
+gâscă de Toulouse
 gâscă de vară = gâscă cenușie
+gâscă de zăpadă
+gâscă egipteană = gâscă de Nil
 gâscă neagră
 gât golaș de Transilvania
 gâză
 gecko
 gecko leopard
 gelada
+gelbvieh
+gemsbok
 genetă
 genyornis
 gerbil
+gerenuk
+german rex
 germanodactylus
 gerrothorax
 ghepard
 ghiborț
 ghiborț de Dunăre
+ghiborț de râu
 ghidrin
 ghioc
 ghionoaie
@@ -810,24 +1174,33 @@ ghionoaie verde = ciocănitoare verde
 gibon
 gidran
 giganotozaur = giganotosaurus
+gigant de Jersey = jersey giant
 gigantopithecus
 gigantoraptor
 gigantspinosaurus
 gingirică
+gir
 girafă
 giraffatitan
 gliptodon = glyptodon
+gloabă
 globidens
+gloucester old spot
 gluton = wolverine
 gnu
+gnu albastru
+gnu negru = gnu cu coadă albă
 goangă
 godac
 golden retriever
 gomphotherium
+goral
 gorgonie
 gorgonops
 gorgosaurus
 gorilă
+gorilă de câmpie
+gorilă de munte
 grangur
 graptolit = graptolite
 graur
@@ -838,11 +1211,16 @@ grelușel
 grelușel de stuf
 grelușel de zăvoi
 grelușel pătat
+griffon de Bruxelles
+griffon korthals
 grindel = molan
+grison
+groenendael
 gryphaea
 gryposaurus
 guanaco
 guanlong
+guernsey
 guguștiuc
 guppy
 gurami
@@ -850,25 +1228,39 @@ gușă-albastră
 gușter
 gușter vărgat
 guvid
+guvid de Amur
 guvid de baltă
+guvid de iarbă
+guvid negru
+hackney
 hadrozaur = hadrosaurus
 haflinger
 haikouichthys
 halibut
 hallucigenia
+hamburg
 hampshire
 hamsie = anșoa
 hamster
 hamster auriu = hamster sirian
+hamster Campbell
+hamster chinezesc
+hamster pitic
+hamster Roborovski
+hamster rusesc
+hamster siberian = hamster djungarian
 hanos
 hanoverian
 haplocanthosaurus
 harpie = acvilă harpie
 harpymimus
+harrier
 hatzegopteryx
+havana brown
 havanez
 hârciog
 helicoprion
+helmint
 hemipter
 hereford
 hering
@@ -877,25 +1269,39 @@ herrerasaurus
 hesperocyon
 hesperornis
 heterodontosaurus
+heteropter
 hidră = hidră de apă dulce
+hidrozoar
 hienă
+hienă brună
 hienă de peșteră = crocuta spelaea
+hienă pătată
+hienă vărgată
 highland
 himalayană
 himenopter
 hipopotam
 hipopotam pitic
 hipparion
+hirudinee
+hoatzin
+hoco
 hoitar = vultur hoitar = vultur egiptean
+hokkaido
 holstein = holstein-friză
+holsteiner
 homalocephale
 homar
+homopter
 homotherium
+houdan
 hovawart
 huayangosaurus
+huemul
 huhurez
 huhurez mare
 huhurez mic
+hulubiță
 husky siberian = husky
 huțul
 hyaenodon
@@ -910,21 +1316,41 @@ iac
 iadă
 iapă
 ibex = capră ibex
+ibex iberic = capră spaniolă
 ibis
+ibis alb
+ibis roșu = ibis stacojiu
+ibis sacru
 ichthyornis
 ichthyostega
 ied
 iepure = iepure de câmp
+iepure alb
+iepure angora
+iepure berbec
+iepure californian = californian
+iepure cap de leu
+iepure chinchilla
 iepure de casă
+iepure de mare
 iepure de vizuină
+iepure neozeelandez = neozeelandez alb
+iepure olandez
+iepure pitic
+iepure polar = iepure arctic
+iepure rex
 iepuroaică
+iepuroi
 ieruncă = găinușă de alun
 iguană
 iguană marină
 iguanodon
+ihneumon
 ihtiozaur = ichthyosaurus
+ile de France
 ileană
 impala
+imparicopitat
 inăriță
 incisivosaurus
 indri
@@ -935,63 +1361,114 @@ inoceramus
 inostrancevia
 insectă
 insectă-băț
+insectă-frunză
+insectivor
+inseparabil = papagal inseparabil
+irish water spaniel
 irritator
 isisaurus
 isotelus
 istiodactylus
 izopod
+izopter
 izvoraș cu burta galbenă = buhai de baltă cu burta galbenă
 izvoraș cu burta roșie = buhai de baltă cu burta roșie
+înger de mare = rechin-înger
 jabiru
 jack russell = jack russell terrier
+jacob
 jagdterrier
 jaguar
+jaguarundi
 jako = papagal jako = papagal gri african
+javaneză
+javră
 jder = jder de copac = jder de pădure
+jder american
+jder cu gât galben
 jder de piatră = beică
+jder pescar
 jeholornis
+jerboa
 jersey
+jindo
+jivină
 jobaria
 jonkeria
 josephoartigasia
+jucător de Galați
 junc
+juncan
+juncană
 juncă = junincă
 juramaia
 juravenator
+kabardin = cal de Kabarda
+kai
 kakapo
+kakariki
 kallokibotion
 kangal
 kannemeyeria
 kaprosuchus
+karabair
+karakachan = ciobănesc bulgar
 karakul
+karakul de Botoșani
 kea
+keeshond
 kelenken
 kelpie
 kentrosaurus
+kerry blue terrier
+kiang
 kimberella
+king charles spaniel
 kinkaju
+kishu
 kiwi = pasărea kiwi
+kladruber
+klipspringer
 koala
+kob
+kodkod
 kogaionon
 komondor
+konik
+kooikerhondje
+kookaburra
 koolasuchus
+korat
 kosmoceratops
+kouprey
 krait
 krill
 kritosaurus
 kronosaurus
 kudu
 kulan
+kunekune
+kurzhaar = brac german cu păr scurt
 kuvasz
 laban
 labrador = labrador retriever
+lacaune
+laekenois
+lagomorf
+lagotto romagnolo
 laika
+lakeland terrier
 lamantin = manat
 lamă
 lambeosaurus
+lamblie = giardia
 landrace
+landseer
+langur
+langur hanuman
 langustă
 langustină
+laperm
 larvă
 lavrac = biban de mare
 lăcar
@@ -1004,21 +1481,30 @@ lăcar mic
 lăcustar
 lăcustă
 lăcustă călătoare
+lăcustă de deșert = lăcustă de pustiu
+lăcustă italiană
+lăcustă marocană
 lămâiță = fluture lămâiță
 lăstun
 lăstun de casă
 lăstun de mal
 lăstun de stâncă
+lătăuș
 leaellynasaura
 lebădă
+lebădă cu gât negru
 lebădă de iarnă = lebădă cântătoare
 lebădă de vară = lebădă cucuiată = lebădă mută
 lebădă mică
 lebădă neagră
+lechwe
 leedsichthys
 leghorn
+leicester
 lemming
 lemur
+lemur catta = lemur cu coadă inelată
+lemur pitic
 leneș
 leoaică
 leonberger
@@ -1030,21 +1516,49 @@ leptictidium
 leptoceratops
 lesothosaurus
 leu
+leu asiatic
 leu de mare
+leu de mare californian
+leu de mare de Steller
 leu de peșteră = panthera spelaea
 leu marsupial = thylacoleo
 leul-furnicilor
 lhasa apso
 libelulă = calul-dracului
+libelulă-împărat
 licaon = câine sălbatic african
 licurici
+lighioană
 liliac
+liliac bicolor
+liliac cârn
+liliac comun
+liliac comun mic
+liliac cu aripi late
+liliac cu mustăți
+liliac cu picioare lungi
+liliac cu urechi mari
 liliac de amurg
 liliac de apă
+liliac de iaz
 liliac mare cu potcoavă
+liliac mediteranean cu potcoavă
 liliac mic cu potcoavă
+liliac mic de amurg
+liliac nordic
+liliac pigmeu
 liliac pitic
+liliac urecheat brun
+liliac urecheat cenușiu
+liliac uriaș de amurg
 liliac vampir = vampir
+liliacul lui Blasius
+liliacul lui Brandt
+liliacul lui Kuhl
+liliacul lui Mehely
+liliacul lui Nathusius
+liliacul lui Natterer
+liliacul lui Savi
 liliensternus
 limax = melc fără cochilie
 limbă de mare
@@ -1052,6 +1566,8 @@ limbric = ascarid
 limousine
 limusaurus
 lin
+lincoln
+linsang
 liopleurodon
 lipan
 lipitoare
@@ -1060,73 +1576,127 @@ lișiță
 livyatan
 longisquama
 lopătar
+lopătar roz
+lori = papagal lori
+lori curcubeu
 loris
+loris lent
+loris zvelt
 lostriță
 lufar
 lufengosaurus
+lundehund norvegian
 lup
+lup arctic
 lup cu coamă
 lup de mare
 lup de mare mic
+lup etiopian
+lup roșu
 lup teribil = lup cumplit = canis dirus = aenocyon dirus = dire wolf
 lupoaică
 lurdusaurus
 lusitan
+lykoi
 lystrosaurus
 lythronax
 macac
+macac cu coadă de leu
+macac japonez = macac de zăpadă
+macac rhesus
 machairodus
 macrauchenia
+macropod = pește-paradis
 macrou = scrumbie albastră
 madrepor
+magot = macac berber
 magyarosaurus
 mahi-mahi = dorado
 maiasaura
 maimuță
+maimuță de noapte
+maimuță lânoasă
 maimuță păianjen
 maimuță urlătoare
+maimuță verde
 maine coon
 majungasaurus
 mako = rechin mako
 malamut = malamut de Alaska
+malofag
 mamba neagră = mamba
 mamba verde
 mamenchisaurus
+mamifer
 mamut = mamut lânos = mammuthus
+manchega
+manchester terrier
 mandril
+mangabey
+mangalarga
 mangalița
 mangustă
+mangustă dungată
+mangustă egipteană
+mangustă indiană
+mangustă pitică
 manta = diavol de mare
 mantellisaurus
 manul = pisică de Pallas
 manx
 mapusaurus
+mara = iepure de Patagonia
 marabu
+maral
+marans
 marasuchus
+marchigiana
 marele alb
+marele elvețian = câine mare elvețian de munte
+marele negru = large black
+maremmana
+margay
+markhor
 marlin
 marmotă
+marmotă alpină
 marsuin = porc de mare
+marsupial
+marwari
 masiakasaurus
 massetognathus
 massospondylus
 mastiff
+mastiff napolitan = mastino napoletano
+mastiff pirinean
+mastiff spaniol
 mastiff tibetan
 mastodonsaurus
 mastodont = mastodon
+matamata
 matcă
+mau egiptean
 măcăleandru = gușă-roșie
 măgar
+măgar de Poitou
+măgar sălbatic african
 măgăriță
 mărăcinar
 mărăcinar mare
 mărăcinar negru
 mătăsar
+mătăsoasă = silkie = găină de mătase
 mânz
 mânzat
+mânzată
 mânză
+mârțoagă
+mecopter
 medusaceratops
 meduză
+meduză cu coamă de leu
+meduză nemuritoare
+meduză-lună
 megaloceros = cerb uriaș = elan irlandez = cerb gigant
 megalodon = otodus megalodon = carcharocles megalodon
 megalozaur = megalosaurus
@@ -1135,11 +1705,18 @@ megantereon
 megaraptor
 megaterium = megatherium = leneș uriaș = leneș gigant
 megazostrodon
+meishan
 melanorosaurus
 melc = culbec
+melc de baltă
 melc de livadă = melc de grădină
 melc de mare
+melc uriaș african
+melc-con
 merinos
+merinos de Cluj
+merinos de Palas
+merinos transilvănean
 merluciu
 merycoidodon
 mesohippus
@@ -1156,6 +1733,8 @@ mierlă albastră
 mierlă de piatră
 mierlă gulerată
 mihalț
+milacop
+milu = cerbul lui Père David
 minmi
 minorca
 minuniță
@@ -1163,14 +1742,22 @@ mioară
 miragaia
 miriapod
 mistreț = porc sălbatic
+mixină
 mixosaurus
 moa = dinornis
 moacă de brădiș
+mocasin de apă
+mocănaș
+mocănița
 moeritherium
 molia cartofului
+molia cerealelor
 molia cerii
 molia făinii
+molia minieră a castanului
 molia strugurilor
+molia tomatelor
+molia verde a stejarului
 molie
 molie de haine
 molly
@@ -1179,7 +1766,10 @@ monarh = fluture monarh
 monoclonius
 monolophosaurus
 mononykus
+monotremă
 monstrul Gila
+montbéliarde
+morgan
 morganucodon
 mormoloc
 moropus
@@ -1192,12 +1782,16 @@ motan = cotoi
 mozazaur = mosasaurus
 mreană
 mreană vânătă = moioagă
+mudi
 muflon
 mugurar
 mugurar roșu
 munchkin
+münsterländer
 muntjac
+murciano-granadina
 murenă
+murex
 murgoi bălțat
 musca cepei
 musca cireșelor
@@ -1212,77 +1806,116 @@ muscar sur
 muscă
 muscă columbacă
 muscă de carne
+muscă de casă
 muscă de grajd
 muscă țețe = țețe
+muscă-scorpion
 musculiță albă
 musculiță de oțet = drosofilă = musculiță
 mustang
+mustelid
 muttaburrasaurus
 myllokunmingia
 mylodon
 nagâț
 nagâț cu coadă albă
 nandu
+nandu de Darwin
 nanotyrannus
 narval
+nasic
 nasicorn = gândac rinocer
 nasutoceratops
 nautil = nautilus
 nălbar
 năpârcă
+nebelung
+negru de Strei
+nelore
 nematod
 nemegtosaurus
 neon
 neovenator
+nereidă
+neuropter
+neva masquerade
 nevăstuică
+nevertebrat = nevertebrată
+new hampshire
 newfoundland = terra nova
 nigersaurus
 nilgau
 nimfă = papagal nimfă
 nisetru
 nisipar
+nisipariță
 noaten
 nodosaurus
 nonius
+norfolk terrier
+noriker
+normandă
 norvegiană de pădure
+norwich terrier
 notatiță
 notatiță cu cioc lat
 nothosaurus
 nothronychus
 novac
+nudibranhiat
 numbat
 nummulit = nummulites
 nurcă
 nurcă americană = vizon
 nutria = nutrie
+nyala
 nyctosaurus
 oaie
+oaie cu coarne mari = bighorn
 oblete = obleț
+oblete mare
 ocelot
 ocheană
 ochi de păun = fluture ochi de păun
+ochi de păun de noapte
+ocicat
+octopod
 odobenocetops
+odonat
+ofidian
 ofiură
 ogar = greyhound
 ogar afgan
 ogar irlandez = irish wolfhound
 ogar italian
+ogar maghiar
+ogar polonez
 ogar rusesc = borzoi
 ogar scoțian = deerhound
+ogar spaniol = galgo
 okapi
+oldenburg
 olenellus
+oligochet
 olorotitan
 omeisaurus
 omida păroasă a dudului
+omida păroasă a stejarului
 omidă
 omidă procesionară
+omnivor
 onagru
+oncilla
 opabinia
 ophthalmosaurus
+opilion
 opisthocoelicaudia
 oposum = opossum
+orătanie
 orbete
 orcă = balenă ucigașă
+oribi
+orientală = oriental shorthair
 ornithocheirus
 ornitholestes
 ornithomimus
@@ -1294,14 +1927,24 @@ orpington
 orthoceras
 ortopter
 oryx
+oryx arab
 osar
+oscar
+ostracod
+ostreinos
+otarie
+otterhound
 ouranosaurus
+ovină
 oviraptor
 oxiur
 paca
 pachycephalosaurus = pahicefalozaur
 pachycrocuta
 pachyrhinosaurus
+pacu
+padovană
+paint horse
 pakicetus
 palaeeudyptes
 palaeocastor
@@ -1310,6 +1953,7 @@ palaeomastodon
 palaeotherium
 paleoparadoxia
 paludititan
+pană de mare
 panda roșu
 panderichthys
 pangasius
@@ -1318,36 +1962,65 @@ panochthus
 panoplosaurus
 panteră neagră
 papagal
+papagal alexandrin
+papagal călugăr = papagal quaker
+papagal cu guler
 papagal de mare
+papagal senegalez
 papillon
 paradoxides
 paralititan
 parameci
 parasaurolophus
 pareiasaurus
+paricopitat
 parksosaurus
+parson russell terrier
+pasăre
+pasăre cântătoare
+pasăre de baltă
+pasăre de curte
+pasăre de noapte
+pasăre marină
+pasăre migratoare = pasăre călătoare
+pasăre răpitoare = pasăre de pradă
 pasărea elefant = aepyornis
+pasărea furtunii
+pasărea grădinar
 pasărea liră
 pasărea ogorului
 pasărea paradisului
 pasărea secretar
 pasărea terorii = phorusrhacos
 pasărea-omătului
+paso fino
+paso peruan
 patagosaurus
 patagotitan
+patelă
+patruped
+patterdale terrier
 păduche
 păduche de cap
+păduche de cărți
+păduche de corp = păduche de haine
 păduche de lemn
+păduche de pește
 păduche din San José
 păduche lat
 păduche lânos
 păduche țestos
 păianjen
 păianjen cu cruce
+păianjen cu picioare lungi
+păianjen de apă
 păianjen de casă
 păianjen lup
+păianjen pustnic brun
 păianjen roșu
 păianjen săritor
+păianjen-crab
+păianjen-viespe
 pălămidă
 pănțăruș = ochiul-boului
 păstrăv = păstrăv indigen = păstrăv de munte
@@ -1357,21 +2030,26 @@ păstrăv de mare
 păstrăv fântânel = fântânel
 păstrugă
 păun
+păuniță
 pârș = pârș mare
 pârș de alun
 pârș de ghindă
 pârș de pădure
 pecari
+pecari cu buze albe
+pecari cu guler
 pederpes
 pekinez = pechinez
 pelagornis
 pelecanimimus
 pelican
+pelican brun
 pelican comun = pelican alb
 pelican creț
 pelorovis
 pentaceratops
 percheron
+percid
 persană = pisică persană
 peruș = papagal peruș = papagal ondulat
 pescăraș albastru = pescărel albastru = pescăraș
@@ -1390,25 +2068,41 @@ pescăruș pontic
 pescăruș râzător
 pescăruș sur
 pește
+pește cartilaginos
+pește cu patru ochi
+pește osos
 pește pulmonat
 pește-arcaș
 pește-arici
 pește-balon
+pește-broască
 pește-chirurg
+pește-chitară
 pește-clovn = peștele-clovn
+pește-cuțit
+pește-elefant
 pește-fierăstrău
 pește-fluture
 pește-înger
+pește-lanternă
 pește-leu
 pește-lună
+pește-mandarin
 pește-papagal
 pește-piatră
+pește-picătură
 pește-pilot
 pește-spadă = peștele-spadă
+pește-spatulă = polyodon
 pește-undițar
+pește-viperă
 pește-zburător
 peștișor auriu = caras auriu
 peștișor de argint
+peterbald
+petrel
+petrel de zăpadă
+petrel uriaș
 petroc = porcușor de vad
 petrolacosaurus
 phacops
@@ -1416,24 +2110,44 @@ phenacodus
 phiomia
 phoberomys
 piciorong
+piemonteză
 pietrain
 pietrar
 pietrar mediteranean
 pietrar negru
 pietrar răsăritean
 pietrar sur
+pika = iepure fluierător
 pikaia
 pinacosaurus
 pinguin
+pinguin Adelie
+pinguin african = pinguin cu ochelari
+pinguin cu barbă
+pinguin cu ochi galbeni
+pinguin de Galapagos
+pinguin de Humboldt
+pinguin de Magellan
 pinguin imperial = pinguin împărat
+pinguin macaroni
+pinguin papua = pinguin gentoo
+pinguin pitic = pinguin albastru
 pinguin regal
+pinipedă
 pinscher
 pinscher pitic
 pinzgau
 piranha
+pisica lui Geoffroy
 pisică = mâță
+pisică aurie asiatică
+pisică cu picioare negre
 pisică de junglă
 pisică de mare
+pisică de nisip
+pisică leopard
+pisică marmorată
+pisică pescar
 pisică sălbatică
 pisoi
 pitbull = american pit bull terrier
@@ -1454,9 +2168,12 @@ pițigoi de stuf
 pițigoi mare
 pițigoi moțat
 pițigoi sur
+pixie-bob
+placentar
 placodus
 planarie
 plancton
+plasmodiu
 platarin
 platecarpus
 platelmint
@@ -1464,6 +2181,8 @@ plateozaur = plateosaurus
 platy
 platybelodon
 plătică
+plecopter
+plecostomus = pleco
 plesiadapis
 plevușcă = fufă
 pleziozaur = plesiosaurus
@@ -1475,35 +2194,72 @@ ploșnița cerealelor
 ploșniță = stelniță
 ploșniță de apă
 ploșniță de pat
+ploșniță marmorată
+ploșniță verde
 plymouth rock
+podenco ibicenco
+podengo portughez
 poebrotherium
 pointer
 polacanthus
+poland china
+polichet
 polip
 pomeranian
 ponei
+ponei connemara = connemara
+ponei dales
+ponei dartmoor
+ponei exmoor
+ponei fell
+ponei highland
+ponei new forest
 ponei shetland
+ponei welsh
 popândău = țistar
 porc
+porc bărbos
+porc de pădure uriaș
+porc de râu
 porc furnicar = aardvark
+porc iberic
+porc pitic
 porc spinos
 porc vietnamez
+porcină
 porcușor
 porcușor de nisip
 porcușor de șes
 porumbel = hulub
 porumbel de casă = porumbel domestic
+porumbel de Nicobar
 porumbel de scorbură
 porumbel de stâncă = porumbel sălbatic
 porumbel gulerat
+porumbel gușat
+porumbel încoronat
+porumbel jucător
+porumbel king
 porumbel migrator = ectopistes migratorius = passenger pigeon
+porumbel modena
+porumbel rotat
+porumbel strasser
+porumbel texan
 porumbel voiajor = porumbel călător
+porumbiță
 postosuchus
+potaie
 potârniche = potârniche cenușie
 potârniche de stâncă
+potârniche roșie
+potto
+pottok
+prădător
 prenocephale
 prepelicar
 prepeliță = pitpalac
+prepeliță californiană
+prepeliță japoneză
 presbyornis
 presură
 presură bărboasă
@@ -1514,6 +2270,7 @@ presură de stuf
 presură galbenă
 presură sură
 prigorie = prigoare = albinărel
+primată
 prionosuchus
 privighetoare
 privighetoare de zăvoi
@@ -1548,17 +2305,21 @@ pterodaustro
 pterozaur = pterosaur
 pterygotus
 pudel = caniche = poodle
+pudelpointer
 pudu
 puertasaurus
 pug = mops
 pui = pui de găină
+puică
 puli
 pumă = cougar = leu de munte
+pumi
 pupăză
 purcea
 purcel
 purgatorius
 purice
+purice de nisip
 puricele cruciferelor
 pursânge arab = arab = cal arab
 pursânge englez
@@ -1569,43 +2330,64 @@ quarter horse
 quetzal
 quetzalcoatlus
 quokka
+quoll
 rac = rac de râu
+rac de lac
+rac de ponoare
+rac marmorat
+radiolar
+ragamuffin
 ragdoll
 rahonavis
 rajasaurus
+rambouillet
 rapană
 rapetosaurus
+rasbora
+rat terrier
 raton = raton spălător = ursuleț spălător
 rață
+rață alergătoare indiană
+rață carolina
 rață catifelată
+rață Cayuga
 rață cârâitoare
 rață cu cap alb
 rață cu cap castaniu
 rață cu cap negru
 rață cu ciuf
 rață de ghețuri
+rață de Pekin = rață Pekin
 rață fluierătoare
+rață Khaki Campbell
 rață leșească = rață mută
 rață lingurar
 rață mandarin
 rață mare = rață sălbatică
 rață mică
 rață moțată
+rață mulard
 rață neagră
 rață pestriță
 rață roșie
+rață Rouen
 rață sulițar
 rață sunătoare
 rațca
 rădașcă = răgace
+răpitoare
+răpitor
 răspăr
 rățișoara porumbului
 rățoi
+rățușcă
 râmă = vierme de pământ
 rândunică
 rândunică de mare
 rândunică roșcată
 râs
+râs canadian
+râs iberic
 râs roșu = bobcat
 rechin
 rechin alb = marele rechin alb
@@ -1613,15 +2395,18 @@ rechin albastru
 rechin balenă
 rechin ciocan
 rechin de Groenlanda
+rechin goblin
 rechin lămâie
 rechin pelerin
 rechin taur
 rechin tigru
 rechin vulpe
+rechin-pisică
 regaliceratops
 remora
 ren
 repenomamus
+reptilă
 retriever
 rhabdodon
 rhamphorhynchus
@@ -1629,31 +2414,56 @@ rhode island
 rhodesian ridgeback
 rinocer
 rinocer alb
+rinocer de Java
+rinocer de Sumatra
 rinocer indian
 rinocer lânos = coelodonta
 rinocer negru
 riojasaurus
 rizeafcă
+rizopod
 rodhocetus
+romagnola
+romanov
+romney
+rosella = rozela
+roșie daneză
 roșioară
 rotifer
 rottweiler
+rozător
 rudist
 rugops
+rumegător
+rusalie
 rusă albastră = albastru de Rusia
 saanen
 sabiță
+saddlebred american
+sahiwal
 saichania
+saimiri = maimuță veveriță
 saint bernard = sfântul bernard
+saki
 salamandră = salamandră de foc
+salamandră neagră = salamandră alpină
+salamandră tigru
+salamandră uriașă
+salers
+salmonid
+salpă
 saltasaurus
 saluki
 sambar
 samotherium
 samoyed
+santa gertrudis
+saola
 sarcopt
 sarcosuchus
+sarda
 sardină = sardea
+saurian
 saurolophus
 sauropelta
 saurophaganax
@@ -1662,23 +2472,31 @@ sauroposeidon
 saurornithoides
 saurornitholestes
 savannah
+sălbăticiune
 sânger = crap argintiu
 scalar
 scarabeu
 scatiu
 scelidosaurus
+schapendoes
+schipperke
 schnauzer
 schnauzer pitic
 schnauzer uriaș
+scifozoar
 scinc
+scinc cu limbă albastră
 scipionyx
 scobar
 scoicar
 scoică
 scoică de lac = anodontă
+scoică de nisip
 scoică de râu
 scoică perlieră
 scoică Saint-Jacques = scoică pelerin
+scoică zebră
+scoică-brici
 scolopendră
 scolosaurus
 sconcs = skunk
@@ -1691,11 +2509,20 @@ scottish fold
 scottish terrier
 scroafă
 scrumbie de Dunăre = scrumbie
+scrumbie de mare
 scutellosaurus
+scutigeră
 scutosaurus
+sealyham terrier
+sebright
 segnosaurus
+selacian
+selkirk rex
+selle français
 semigreu
 sepie
+serama
+serow
 serval
 setter
 setter englez
@@ -1709,21 +2536,28 @@ sfrâncioc cu frunte neagră
 sfrâncioc mare
 sfrâncioc roșiatic
 sfredelitorul porumbului
+shagya = arab shagya
 shantungosaurus
 shar pei
 shastasaurus
 shetland = sheltie = ciobănesc de Shetland
 shiba inu
 shih tzu
+shikoku
 shire
 shonisaurus
+shorthorn
+shropshire
 shunosaurus
 shuvuuia
 siamang
 siameză
 siberiană
 sifaka
+sifonapter
+sifonofor
 silesaurus
+silky terrier
 silvie
 silvie cu cap negru
 silvie de câmp
@@ -1732,6 +2566,7 @@ silvie mică
 silvie porumbacă
 simmental
 simosuchus
+singapura
 singhil
 sinodelphys
 sinornithomimus
@@ -1743,19 +2578,39 @@ sitar de mal
 sitar de mal nordic
 sitar de pădure
 sitatunga
+skye terrier
+sloughi
+snowshoe
+soay
+solenodon
+somaleză = somali
 somn
 somn african
+somn de canal
 somn pitic
 somon
+somotei
 sordes
+sorraia
+southdown
 spancă
 spaniel
+spaniel tibetan
+sparos
 spârcaci = dropie mică
+spinone italiano
 spinozaur = spinosaurus
 spitz
+spitz finlandez
+spitz german
+spitz japonez
+spongier
+sporozoar
 springbok
 springer spaniel
 squalodon
+stabyhoun
+staffordshire bull terrier = staffy
 stagonolepis
 staurikosaurus
 stavrid
@@ -1768,6 +2623,8 @@ stârc galben
 stârc pitic
 stârc roșu
 stea de mare
+stea de mare cu coroană de spini
+steenbok
 stegoceras
 stegodon
 stegomastodon
@@ -1777,6 +2634,7 @@ stephanorhinus
 stethacanthus
 sticlete
 stiracozaur = styracosaurus
+stogoșă
 streche
 stridie
 strigă
@@ -1786,6 +2644,7 @@ struthiosaurus
 struț = struț african
 sturion
 sturion alb
+sturion siberian
 sturz
 sturz cântător
 sturz de vâsc
@@ -1794,25 +2653,37 @@ stygimoloch
 styxosaurus
 suchomimus
 suffolk
+suffolk punch
 supersaurus
 sură de stepă
 suricată
 sussex
+sussex spaniel
 synthetoceras
 șacal = șacal auriu
+șacal cu dungi laterale
+șacal cu spate negru
 șalău
 șalău vărgat
 șarpe
 șarpe coral = șarpe de corali
 șarpe cu clopoței = crotal
+șarpe cu nas de porc
 șarpe de alun
 șarpe de apă
 șarpe de casă
+șarpe de lapte
 șarpe de mare
 șarpe de porumb
+șarpe orb
 șarpe rău
+șarpe regal
+șarpe tigru
+șarpe-jartieră
 șarpele lui Esculap
+șarplaninaț = ciobănesc iugoslav
 șerpar
+șerpoaică
 șip
 șoarece
 șoarece de casă
@@ -1821,6 +2692,8 @@ synthetoceras
 șoarece gulerat
 șoarece pitic
 șobolan = guzgan
+șobolan cangur
+șobolan cârtiță golaș
 șobolan cenușiu
 șobolan de apă
 șobolan negru
@@ -1830,26 +2703,42 @@ synthetoceras
 șoim dunărean
 șoimul rândunelelor
 șopârlă
+șopârlă cu coarne
 șopârlă cu guler
 șopârlă de câmp
+șopârlă de iarbă
+șopârlă de luncă
 șopârlă de munte
 șopârlă de stepă
+șopârlă de sticlă
 șopârlă de ziduri
+șopârlă zburătoare
+șopârliță de frunzar
 șorecar
 șorecar comun
 șorecar încălțat
 șorecar mare
+șoricar
 șprot
 știucă
 șvab
+tahr = tahr himalayan
 taimen
 taipan
 takin
 talarurus
+tamandua
+tamarau
 tamarin
+tamarin împărat
+tamarin leu auriu
+tamworth
 tanystropheus
 tapejara
 tapir
+tapir brazilian = tapir sud-american
+tapir de munte
+tapir malaezian
 tarantulă
 tarbosaurus
 tarchia
@@ -1857,20 +2746,31 @@ tardigrad
 tarpan
 tarsier
 taur
+tayra
 tăun
 teckel = dachshund
 tegu
 teleoceras
+teleostean
 telmatosaurus
 temnodontosaurus
 tenie
+tennessee walker
 tenontosaurus
+tenrec
 teratophoneus
 teratornis
 termită = furnică albă
 teropod
 terrier
+terrier ceh
+terrier irlandez
+terrier tibetan
+tervueren
 tetra
+texas longhorn
+texel
+thai ridgeback
 thalassocnus
 thalassodromeus
 thecodontosaurus
@@ -1881,44 +2781,74 @@ thrinaxodon
 thylacosmilus
 tigroaică
 tigru
+tigru alb
+tigru bengalez = tigru indian
 tigru cu dinți-sabie = smilodon = tigru cu colți-sabie
+tigru de Sumatra
+tigru siberian = tigru de Amur
 tigru tasmanian = tilacin = lup tasmanian = thylacine = thylacinus
 tiktaalik
 tilapia
+tinamu
 tiranozaur = tyrannosaurus = t-rex = tiranozaurul rex = tyrannosaurus rex
+tisanopter
 titanichthys
 titanis
 titanophoneus
 titanozaur = titanosaurus
+toggenburg
+toller = nova scotia duck tolling retriever
 ton
 ton roșu
+tonkineză
+topi
+tornjak
 torosaurus
 torpilă = pește-torpilă
 torvosaurus
+tosa inu
 toxodon
+toxoplasmă
+toyger
 trakehner
 transylvanosaurus
 trăpaș
+trăpaș american = standardbred
+trăpaș francez
+trăpaș orlov = orlov
 trântor
+trematod
+tretin
 triadobatrachus
 triceratops
 trichină
+tricocefal
+tricomonas
 tridacnă
+trihopter
 trilobit = trilobite
+tripanozomă
 trips
 triton = triton comun
 triton carpatic
 triton cu creastă
 triton de munte = triton alpin
 triton dobrogean
+trogon
 troodon
 tropeognathus
 tsintaosaurus
 tuatara
 tubifex
 tucan
+tucan toco
+tuco-tuco
+tunicat
 tuojiangosaurus
+tupaia
 tupandactylus
+turaco
+turbelariat
 turturică = turturea
 tylosaurus
 tyrannotitan
@@ -1930,13 +2860,17 @@ tyrannotitan
 țestoasă aligator
 țestoasă bănățeană
 țestoasă cu carapace moale
+țestoasă cu gât de șarpe
 țestoasă cu urechi roșii = țestoasă de Florida
+țestoasă de Aldabra
 țestoasă de apă
 țestoasă de baltă
 țestoasă de Galapagos
 țestoasă de mare
 țestoasă de uscat
 țestoasă dobrogeană
+țestoasă leopard
+țestoasă pictată
 țestoasă pieloasă
 țestoasă verde
 țiclean = țoi
@@ -1945,6 +2879,7 @@ tyrannotitan
 țipar
 țipar electric = anghilă electrică
 țurcană
+uakari
 udanoceratops
 uintatherium
 uistiti = marmoset
@@ -1957,19 +2892,31 @@ umflătură
 unau = leneș cu două degete
 undrea
 unenlagia
+ungulat
 urangutan = orangutan
+urangutan de Borneo
+urangutan de Sumatra
+ureche de mare = abalone
 urechelniță
+urial
 uriaș belgian
+urodel
+uromastix
 urs = urs brun
+urs buzat
 urs cu față scurtă = arctodus
 urs cu ochelari
 urs de peșteră = ursus spelaeus
 urs grizzly = grizzly
+urs Kodiak
 urs malaezian
 urs negru
+urs negru asiatic = urs tibetan
 urs panda = panda = panda uriaș
 urs polar = urs alb
 ursoaică
+urson = porc spinos american
+urubu = vultur negru american
 urzicar
 urzică de mare
 utahceratops
@@ -1977,9 +2924,13 @@ utahraptor
 vaca de mare a lui Steller = vaca lui Steller = hydrodamalis
 vaca-domnului
 vacă
+vallhund suedez
+van turcesc = turcă van
+vaquita
 varan
 varan de Nil
 varroa
+vatos
 văduva neagră
 văduviță
 vânturel = vinderel
@@ -1987,52 +2938,87 @@ vânturel de seară = șoimuleț de seară
 vânturel mic
 vânturel roșu
 velociraptor
+vertebrat = vertebrată
 veveriță
+veveriță cenușie
+veveriță de pământ
 veveriță zburătoare
 vicunia = vigonie
 vidră
 vidră de mare
+vidră uriașă
 vier
 vierme
 vierme alb
+vierme cu cap de ciocan
+vierme de Guineea
 vierme de mătase
 vierme-sârmă
 viermele merelor
+viermele prunelor
 viespar
 viespe
+viespe asiatică
+viespe cu fierăstrău
+viespe de mare = meduză-cutie
+viespe galicolă
+viespea lemnului
 viespea merelor
 viespea prunelor
+vietate
+vipera lui Russell
 viperă = viperă comună
 viperă cu corn
 viperă de Gabon
 viperă de stepă = viperă de fâneață
+viscacha
+vită
 vițea
 vițel
 viză
 vizsla
 volaticotherium
+volpino italiano
+volvox
+vongole
 vorombe
+vorticelă
 vrabie
 vrabie de casă
 vrabie de câmp
+vrabie de Java
 vrabie negricioasă
 vulcanodon
 vulpe = vulpe roșie
+vulpe bengaleză
+vulpe cenușie
+vulpe corsac
+vulpe cu urechi de liliac
 vulpe de mare
 vulpe polară = vulpe arctică
+vulpe tibetană
 vulpe zburătoare
 vulpoi
 vultur
+vultur curcan = vultur cu cap roșu
+vultur de mare
 vultur negru = vultur pleșuv negru
 vultur pleșuv american = acvilă pleșuvă = acvilă cu cap alb
+vultur regal
 vultur sur = vultur pleșuv sur
 vulturul lui Haast = harpagornis
 wagyu
 waimanu
 wallaby
+wallaroo
 wapiti = cerb wapiti
+watusi = ankole-watusi
 weimaraner
+welsh springer spaniel
+welsh terrier
+welsumer
 west highland white terrier = westie
+westfalian
 whippet
 wombat
 wuerhosaurus
@@ -2051,15 +3037,21 @@ zalmoxes
 zargan
 zăgan = vultur bărbos
 zăvod
+zburătoare
+zebra lui Grévy
 zebră
+zebră de câmpie
+zebră de munte
 zebu
 zglăvoacă = zglăvoc
 zglăvoacă răsăriteană
 zhenyuanlong
 zhuchengtyrannus
 zibelină
+zibetă
 zimbru = bizon european
 zooplancton
+zorilă
 zuniceratops
 zuul
 zvârlugă

@@ -7,10 +7,14 @@ jivină
 lighioană
 vietate
 sălbăticiune
+bestie
+prădător
+târâtoare
 nevertebrat = nevertebrată
 vertebrat = vertebrată
-răpitor
-prădător
+metazoar
+zoofit
+parazit
 reptilă
 amfibian
 batracian
@@ -57,7 +61,6 @@ chilopod
 decapod
 amfipod
 ostracod
-cirriped
 branhiopod
 cladocer
 octopod
@@ -80,6 +83,7 @@ colembolă
 # ---- Pești de apă dulce din România ----
 ghiborț de râu
 nisipariță
+cosac cu bot turtit
 oblete mare
 mocănaș
 guvid de Amur
@@ -88,12 +92,15 @@ somn de canal
 biban cu gura mare = bass
 sturion siberian
 pește-spatulă = polyodon
+cicar
 chișcar de mare
 ciortan
 crăpcean
 ciortocrap
 cârjancă
 somotei
+iaprac
+baboi
 
 # ---- Pești din Marea Neagră ----
 scrumbie de mare
@@ -118,6 +125,12 @@ pește-elefant
 pește-cuțit
 pește-mandarin
 pește-broască
+pește-cutie
+pește-tigru
+pește Napoleon
+pește Sfântul Petru
+pește-curcubeu
+dragon de mare cu frunze
 mixină
 bichir = polipter
 pacu
@@ -140,14 +153,21 @@ pește-chitară
 șerpoaică
 aspidă
 boa de nisip = șarpe de nisip
+boa curcubeu
+anaconda galbenă
+piton indian
+piton verde
 șarpe de lapte
 șarpe regal
 șarpe-jartieră
 șarpe cu nas de porc
 șarpe tigru
-vipera lui Russell
-mocasin de apă
+șarpe zburător
 șarpe orb
+vipera lui Russell
+viperă pufăitoare
+crotal diamantin
+mocasin de apă
 
 # ---- Reptile — șopârle ----
 șopârliță de frunzar
@@ -159,10 +179,12 @@ amfisbenă = șopârlă-vierme
 șopârlă de sticlă
 scinc cu limbă albastră
 uromastix
+varan de apă
 
 # ---- Reptile — crocodilieni și țestoase ----
 crocodil pitic
 crocodil de Cuba
+crocodil de mlaștină
 aligator chinezesc
 caiman negru
 caiman cu ochelari
@@ -170,6 +192,9 @@ gavial fals
 țestoasă de Aldabra
 țestoasă pictată
 țestoasă leopard
+țestoasă marginată
+țestoasă de stepă
+țestoasă mușcătoare
 țestoasă cu gât de șarpe
 matamata
 
@@ -181,6 +206,7 @@ broască cu gheare
 broască de sticlă
 broască cu ochi roșii
 broască cu coarne
+broască tomată
 broască râioasă de trestie
 broască de Surinam
 salamandră uriașă
@@ -198,11 +224,14 @@ ochi de păun de noapte
 fluture-colibri
 fluture atlas
 omida păroasă a stejarului
+omida procesionară a pinului
 buha verzei
 buha fructificațiilor
 viermele prunelor
+molie de blană
 molia cerealelor
 molia tomatelor
+molia verzei
 molia minieră a castanului
 molia verde a stejarului
 
@@ -213,10 +242,15 @@ gândac pustnic
 gândac-tigru
 gândac ceasornicar
 gândacul roșu al făinii
+gândacul lucios al rapiței
 gărgărița grâului
 gărgărița orezului
 gărgărița porumbului
+gărgărița ghindei
+gărgărița alunului
+gărgărița florilor de măr
 cărăbușul cerealelor
+cărăbușul de iunie
 buburuză asiatică
 forfecar
 
@@ -245,19 +279,30 @@ albină carpatină
 albină africanizată
 albină tâmplar
 albină zidar
+albină tăietoare de frunze
 viespe asiatică
 viespea lemnului
 viespe cu fierăstrău
 viespe galicolă
+viespe de hârtie
 ihneumon
 furnică de pădure
+furnică dulgher
+furnică argentiniană
+furnică țesătoare
 furnică-glonț
 furnică legionară
 
 # ---- Diptere, blatodee și alte insecte ----
 muscă de casă
+muscoi
 muscă-scorpion
+muscă de Hessa
+muscă suedeză
+musca mediteraneană a fructelor
+tipulă
 gândac american
+gândac oriental
 
 # ---- Arahnide și miriapode ----
 opilion
@@ -266,12 +311,16 @@ păianjen-crab
 păianjen-viespe
 păianjen cu picioare lungi
 păianjen pustnic brun
+scorpion împărat
+acarian de praf
 scutigeră
+cârcâiac
 
 # ---- Moluște ----
 melc de baltă
 melc uriaș african
 melc-con
+limax spaniol
 patelă
 ureche de mare = abalone
 murex
@@ -280,6 +329,7 @@ scoică-brici
 vongole
 scoică zebră
 scoică de nisip
+vierme de corabie
 chiton
 caracatiță cu inele albastre
 calamar colosal
@@ -288,11 +338,14 @@ calamar colosal
 rac de ponoare
 rac de lac
 rac marmorat
+rac de semnal
+rac roșu de mlaștină
 crab chinezesc
 crab de piatră
 crab verde
 crab-păianjen
 crab violonist
+crevete tigru
 crevete mantis
 garidă
 lătăuș
@@ -312,12 +365,14 @@ viespe de mare = meduză-cutie
 meduză cu coamă de leu
 meduză-lună
 meduză nemuritoare
+meduză de apă dulce
 coral de foc
 coral negru
 coral-creier
 pană de mare
 dolar de nisip
 stea de mare cu coroană de spini
+burete de apă dulce
 salpă
 amfiox
 
@@ -330,3 +385,4 @@ vorticelă
 tricomonas
 lamblie = giardia
 volvox
+noctilucă
