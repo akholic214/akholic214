@@ -1,0 +1,919 @@
+# Ape – râuri din România și Republica Moldova, literele M, N, O, P, R, S, Ș, T, Ț, U, V, Z
+# Format: Canonic = varianta1 = varianta2 (vezi data/FORMAT.md)
+# Râurile cu nume generic (Râul X) sunt cheiate după X; "Valea X" este cheiat după V.
+
+# ---- M ----
+Mureș = Mureșul = Maros
+Mureșel
+Moldova
+Moldovița
+Motru = Motrul
+Motru Sec = Motrul Sec
+Milcov = Milcovul
+Milcovel
+Milcovăț
+Mara
+Miletin = Miletinul
+Mostiștea
+Mislea
+Mehadica
+Moravița
+Miniș = Minișul
+Minișel
+Moneasa
+Mălina
+Mozacu
+Mraconia
+Milova
+Molnița
+Mălaia
+Mănăileasa
+Muereasca
+Mădăraș
+Mădărașul Mare
+Mădărașul Mic
+Măgheruș
+Măgura
+Muncel
+Mărtineni
+Mărcușa
+Mileanu
+Măcăria
+Mihăiasa
+Mușița
+Mâzgavu
+Marginea
+Mârza
+Mitoc
+Muscel
+Milea
+Mreaja
+Murătoarea
+Măcicaș
+Mizieș
+Mândra
+Modrugaz
+Munteni
+Maieru
+Meleș
+Măria
+Mărăloiu
+Mociur
+Măureni
+Mercina
+Micoș
+Moceriș
+Măneasa
+Minocu
+Milotina
+Motnău
+Muncelu
+Mocearu
+Moreni
+Mânzatul Mare
+Mareș
+Micești
+Maiad
+Marga
+Marpod
+Măierușu
+Murgoci
+Mâzgana
+Matița
+Mogoșoaia
+Mârghia
+Mutu
+Moliviș
+Moraru
+Mostim
+Moara Dracului
+Mălăiești
+Mihona
+Mieloea
+Meștereaga
+Mierța
+Marca
+Marin
+Mortăuța
+Maja
+Manciuc
+Mărul
+Mătăsarul
+Milei
+Mușa
+Mușica
+Manișca Mare
+Muncaci
+Morișca
+
+# ---- N ----
+Nistru = Nistrul = Dniester = Dnestr
+Neajlov = Neajlovul
+Neajlovel
+Nera
+Nerganița
+Niraj = Nirajul = Nyárád
+Nirajul Mare
+Nirajul Mic
+Niaroș
+Nadăș = Nadășul
+Nemțișor = Nemțișorul
+Nicolina
+Năruja
+Neagra
+Neagra Șarului
+Neagra Broștenilor
+Negrișoara
+Nehoiu
+Nișcov
+Nădrag
+Nechit
+Novăț
+Nârnova
+Nanov
+Negraș
+Nădrăgel
+Nima
+Nisipitu
+Nucu
+Nimăiești
+Niculești
+Neagu
+Nedeiu
+Nireș
+Negoescu
+Negoiu
+Năndreasca
+Nieregiș
+Năidășel
+Naiba
+Nadișa
+Negulești
+Nieșu
+Neportoc
+Negrea
+Negreni
+Râul Negru
+
+# ---- O ----
+Olt = Oltul
+Olteț = Oltețul
+Oltișor
+Oituz = Oituzul
+Ozana = Neamț
+Orăștie
+Olănești
+Otăsău
+Ojdula
+Olpret
+Orman
+Orșova
+Ohaba
+Orzeni
+Olăreasa
+Orjogoaia
+Obislav
+Oreștica
+Olanul
+Orășa
+Oreg
+Olteanca
+Oița
+Ozunca
+Ostaș
+Oleșești
+Orata
+Oanțu
+Pârâul Ocnei
+
+# ---- P ----
+Prut = Prutul
+Prahova
+Putna
+Provița
+Pogăniș = Pogănișul
+Pian = Pianul
+Pereschiv
+Pereschivul Mic
+Plapcea
+Podriga
+Pasărea
+Peța
+Porumbacu
+Porumbăcel
+Peșteana
+Pustnic
+Pruteț
+Popeni
+Pocreaca
+Periac
+Petrimiasa
+Pătrăuțeanca
+Podul Vătafului
+Plopeni
+Pogonișoara
+Pozen
+Pănătău
+Pâclele
+Pruncea
+Pascu
+Petroșnița
+Poclușa
+Prisaca
+Pusta
+Paltinul
+Pravăț
+Păscoaia
+Ploștina
+Pleșcoaia
+Purcari
+Putreda
+Părul
+Putina
+Puriștoaca
+Peleș
+Prislop
+Prigoana
+Pustia
+Pogoana
+Plăiuț
+Pria
+Ponița
+Pârloagele
+Pătășel
+Prigor
+Prisăcina
+Pecinișca
+Preduș
+Peștiosul
+Procov
+Paltin
+Popoaia
+Podul Popii
+Pâșcov
+Pantelimon
+Pârlita
+Pojarna
+Polatiștea
+Prodila
+Putinei
+Popilnica
+Pănade
+Pănuleț
+Poiana
+Popești
+Potop
+Pecineaga
+Păru
+Pui
+Pietroasa
+Pietrosu
+Pătac
+Poplița
+Piciorul Milei
+Păltiniș
+Paltinu
+Purcăroaia
+Ponor
+Peștera
+Petrind
+Printre Văi
+Pir
+Păltinoasa
+Purcaru
+Preluca
+Păltinei
+Peleaga
+Paltina
+Pintii
+Prisăcani
+Pintic
+Poicu
+Pustaciu
+Plosca
+Poienița
+Plopu
+Plopeasca
+Pădureni
+
+# ---- R ----
+Râul Mare
+Râul Alb
+Râul Bărbat
+Râul Șes
+Râul Mic
+Râul Târgului
+Râul Vadului = Vad
+Râușor
+Ruscova
+Repedea
+Râșca
+Râșca Mare
+Râmnicu Sărat = Râmnicul Sărat
+Râmnicel
+Râmna
+Racova
+Rebricea
+Răut = Răutul = Reut
+Racovăț
+Rebra
+Răstolița
+Rusca
+Rudăria
+Roșia
+Răcătău
+Răcăciuni
+Raznic
+Racta
+Romos
+Râpa
+Ruja
+Rusciori
+Răchitiș
+Răchitișul Mare
+Răchitișul Mic
+Răchita
+Răchitoasa
+Rața
+Rediu
+Rac
+Râncăciov
+Rasa
+Râșnoava
+Remezeu
+Ruda
+Roata
+Rușavăț
+Rătășel
+Răchest
+Reghiu
+Reghin
+Rotunda
+Rohia
+Râoaia
+Rona
+Runc
+Runcu
+Runcu Mare
+Rituria
+Rosua
+Roiga
+Raicovacea
+Reci
+Romanul
+Români
+Rânca
+Rotăria
+Racila
+Rusul Mic
+Râmnic
+Radina
+Rădeșul Mic
+Rașcova
+Rora
+Radu
+Răscoala
+Recea
+Roșcani
+Radiciu
+Robaia
+Râiosul
+Râcu
+Roșiori
+Rât
+Ranica
+
+# ---- S ----
+Siret = Siretul
+Sirețel
+Someș = Someșul = Szamos
+Someșul Mare
+Someșul Mic
+Someșul Cald
+Someșul Rece
+Suceava
+Sucevița
+Soloneț = Solonețul
+Solca
+Slănic = Slănicul
+Sărata
+Sărățel
+Sărățica
+Sebeș = Sebeșul
+Sebiș
+Strei = Streiul
+Streiu
+Sibișel
+Secaș = Secașul = Secașul Mic
+Secașul Mare
+Sălăuța
+Sălaj
+Săsar = Săsarul
+Sabar = Sabarul
+Săpânța
+Sabasa
+Suha
+Sitna
+Simila
+Similișoara
+Stavnic
+Stemnic
+Sohodol
+Slava
+Sadu = Sadul
+Sadău
+Sadova
+Sâmbăta
+Salcia
+Sulina = Brațul Sulina
+Sfântu Gheorghe = Brațul Sfântu Gheorghe
+Sacovăț
+Suhurlui
+Suhurluiul Sec
+Săcuieu
+Sovata
+Sâi = Șiu
+Sulța
+Suciu
+Săliște
+Sălătruc
+Sasu
+Salcea
+Strâmbul
+Strâmba
+Strâmbul Băiuț
+Sibiciu
+Siriul Mare
+Slatina
+Spaia
+Sariș
+Semenic
+Sărătura
+Saraz
+Schiau
+Seaca
+Scara
+Scorota
+Scărișoara
+Stângăceaua
+Slătinic
+Setea Mare
+Setea Mică
+Scărița
+Socul
+Sterpoaia
+Săvescu
+Suhat
+Săvăstreni
+Strehareți
+Secăria
+Sălanele
+Sângătin
+Slătioara
+Sâlța
+Spânu
+Șar
+Stogu
+Sturza
+Sârbi
+Stuhi
+Schit
+Solonț
+Săscuța
+Secu
+Strungăria
+Sitorman
+Sodol
+Semnița
+Sacherștița
+Scurtu
+Suliman
+Sighișoara
+Stănija
+Scroafa
+Senced
+Solocma
+Soveto
+Studineț
+Saru
+Slobod
+Saroș
+Surducul Mare
+Surduc
+Secuiu
+Sofica
+Sas
+Siliștea
+Scânteia
+Sântă Măria
+Sâncraiul Almașului
+Săldăbagiu
+Sânnicolau
+Santău
+Sărvăzel
+Sânmiclăuș
+Slivna
+Slătioarele
+Scârna
+Slătinița
+Silhoasa
+Săvulești
+Sărăcel
+Semeni
+Sodom
+Serăstrău
+Sverdinul Mare
+Străjești
+Sterminos
+Staicu
+Slăvuța
+Sâlhoi
+Săcrieș
+
+# ---- Ș ----
+Șieu = Șieul
+Șieuț
+Șomuzul Mare
+Șomuzul Mic
+Șușița
+Șercaia = Șinca
+Șercăița
+Șugău
+Șugatag
+Șugura
+Șiștarovăț
+Șuța
+Șicova
+Șcheia
+Știuca
+Șurgani
+Șerpoasa
+Șipot
+Șipotu
+Șipoaia
+Șcheiu
+Șipa
+Șoava
+Șaeș
+Șicasău
+Șeulia
+Șopot
+Șumanda
+Șereniac
+Șușara
+Șturu
+Șoimul
+Șoimi
+Șoimu de Sus
+Șoimu de Jos
+Șoimuș
+Șandru
+Șolintari
+Șerbăneasa
+Șarba
+Știrbu
+Șirod
+Șerboaia
+Șeștini
+Șoptana
+Șapte Izvoare
+Șasa
+Ștefănești
+Șimișna
+
+# ---- T ----
+Timiș = Timișul = Temes
+Timișul Sec
+Timișana
+Timișina
+Timișaț
+Timișul Mort
+Târnava
+Târnava Mare
+Târnava Mică
+Trotuș = Trotușul
+Tazlău = Tazlăul
+Tazlăul Sărat
+Topolog = Topologul
+Topologel
+Teleorman = Teleormanul
+Teleormănel
+Teleajen = Teleajenul
+Telejenel
+Telega
+Tisa = Tisza
+Tarcău = Tarcăul
+Tărcuța
+Topolița
+Tutova
+Tismana
+Tișița
+Tur = Turul
+Turț
+Talna
+Tărlung = Tărlungul
+Topolnița
+Taița
+Telița
+Tecucel
+Tecuci
+Teslui
+Turia
+Toplița
+Turcu = Moieciu
+Taia
+Teuz
+Tigheci
+Tărhăuș
+Trebeș
+Turdaș
+Troaș
+Telejna
+Târnauca
+Tehereu
+Tisău
+Titilău
+Trestia
+Tărcăița
+Talpe
+Tutana
+Tabăra
+Tătarca
+Târgul
+Tărâia
+Tulburea
+Tălăpan
+Tărtărău
+Tinca
+Tălpeni
+Tamarca
+Totoești
+Tufa
+Teregova
+Topenia
+Tichiriș
+Tinoasa
+Tișar
+Tireu
+Tisieu
+Tirimia
+Trâmpoiele
+Tașca
+Ticoș
+Tihul
+Teșna
+Teșnița
+Tulești
+Terpezița
+Tomnatecu
+Tomești
+Tinosu Mare
+Tănase
+Tărpiu
+Tășad
+Topa
+Timercea
+Tău
+Tramnic
+Totea
+Tigva
+Tainița
+Tega
+Tria
+Toți
+Tocila
+
+# ---- Ț ----
+Țâșla = Cisla
+Țibleș = Zagra
+Țibău
+Țerova
+Țelna
+Țichindeal
+Țepeșeni
+Țapu
+Țiganu
+Țigan
+Țăudu
+Țolici
+
+# ---- U ----
+Uz = Uzul
+Urlui
+Ucea
+Ucișoara
+Urluia
+Ulma
+Udești
+Urlătoarea
+Urlătoarea Mare
+Urlătoarea Mică
+Ursoaia Mare
+Ursoaia Mică
+Ursoaia
+Ursul
+Ursu
+Urlieșu
+Ungurel
+Ulmul
+Ulmul Mare
+Ursoi
+Urechioiu
+Ugruțiu
+Urdești
+Urlățelu
+
+# ---- V ----
+Vedea
+Vedița
+Vaser = Vaserul
+Vișeu = Vișeul
+Vâlsan = Vâlsanul
+Vărbilău
+Vărbila
+Vaslui = Vasluieț
+Vârghiș = Vârghișul
+Vișa
+Viștea
+Viștișoara
+Vicinic
+Vorona
+Voroneț
+Voievodeasa
+Voivodeasa
+Voineșița
+Vasilat
+Vilia
+Vulcana
+Vulcănița
+Vulcan
+Vurpăr
+Vârciorova
+Vârciorog
+Vârtop
+Vârtej
+Văsălat
+Vădana
+Văliug
+Vornic
+Vaita
+Vărădia
+Verendin
+Vicov
+Voitinel
+Vidra
+Vizăuți
+Văsui
+Vădurele
+Văereni
+Vasău
+Vâjiștea
+Vlădeț
+Vitman
+Viișoara
+Vaia
+Vărgata
+Vâltori
+Varing
+Văleni
+Vaman
+Videști
+Vutcani
+Văluța
+Vulpoiul
+Vămășoaia
+Voinești
+Varlaam
+Varnița
+Vladimir
+Var
+Valea Mare
+Valea Mică
+Valea Rea
+Valea Rea de Jos
+Valea Seacă
+Valea Boului
+Valea Largă
+Valea Lungă
+Valea Satului
+Valea Morii
+Valea Caselor
+Valea Neagră
+Valea Roșie
+Valea Albă
+Valea Lupului
+Valea Calului
+Valea Popii
+Valea Muntelui
+Valea Porcului
+Valea Vinului
+Valea Nouă
+Valea Mărului
+Valea Ursului
+Valea Cărbunelui
+Valea lui Iovan
+Valea lui Stan
+Valea lui Ilie
+Valea lui Lalu
+Valea lui Dan
+Valea lui Câine
+Valea cu Pești
+Valea cu Piatră
+Valea Iașului
+Valea Danului
+Valea Iezerului
+Valea Românei
+Valea Râsului
+Valea Iepei
+Valea Novaci
+Valea Iazurilor
+Valea Cetățuiei
+Valea Cetății
+Valea Vladului
+Valea Cheii
+Valea Bădenilor
+Valea Câinelui
+Valea Strâmbă
+Valea Luncanilor
+Valea Ascunsă
+Valea Racilor
+Valea Sărată
+Valea Șesii
+Valea Gâdelui
+Valea Păstăilor
+Valea Țiganului
+Valea Dosului
+Valea Livezilor
+Valea Sării
+Valea Purcăreți
+Valea Dulgherului
+Valea Copacilor
+Valea Plopilor
+Valea de Pești
+Valea Jghiabului
+Valea Rugului
+Valea Petrei
+Valea Comunală
+Valea Stricată
+Valea Postăvaru
+Valea Carierei
+Valea Bătrâna
+Valea Podului
+Valea Carelor
+Valea Viilor
+Valea Aurului
+Valea Blăjenilor
+Valea Întunecoasă
+Valea Prunilor
+Valea Rece
+Valea Rus
+Valea Sălașelor
+Valea Bulzurilor
+Valea Runcului
+Valea Boiului
+Valea Ștefii
+Valea Șarpelui
+Valea Muierii
+Valea Grecilor
+Valea Porumbenilor
+Valea Saulei
+Valea Părului
+Valea Răchitelor
+Valea Fânețelor
+Valea Vițeilor
+Valea Lacului
+Valea Șchiopului
+Valea Pietrei
+Valea Jurii
+Valea Dâljii
+Valea Laptelui
+Valea Păcurarului
+Vânăta
+Vâna Mare
+
+# ---- Z ----
+Zalău = Zalăul
+Zeletin = Zeletinul
+Zăbala
+Zizin
+Zăbrăuț
+Zam
+Zâmbreasca
+Zârna
+Zlata
+Zlast
+Zlagna
+Zăvoi
+Zopana
+Zburătura
+Zăvoare
+Zandan
+Zamora
+Zăpodie
+Zăganu
+Zănicel
+Zimoiaș
+Zănoaga
+Zănoguța
+Zahorna
+Zăbrătău

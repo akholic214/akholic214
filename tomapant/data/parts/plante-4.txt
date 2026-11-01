@@ -1,0 +1,288 @@
+# Plante — flora sălbatică a României cu nume populare: buruieni, plante de
+# pajiște, stepă, pădure și munte, plante medicinale, graminee, plante de
+# baltă, ferigi, mușchi, alge, plante cățărătoare.
+# Format: canonic = variantă = variantă (vezi data/FORMAT.md)
+
+# --- Buruieni și plante ruderale ---
+păpădie
+urzică
+urzică moartă
+sugel
+traista-ciobanului
+punguliță
+rostopască = negelariță
+fumariță
+troscot
+hrișcă urcătoare
+iarbă roșie
+piperul-bălții
+răculeț
+știr
+ciurlan
+sărăcică
+brâncă
+pir
+pir gros = iarba-câinelui
+costrei
+mohor
+meișor
+odos = ovăz sălbatic
+neghină
+rocoină = răcovină
+rocoțea
+studeniță
+gușa-porumbelului
+opaiță
+săpunariță = odagaci
+ipcărige
+floarea-cucului
+zârnă
+lăsnicior
+păpălău
+mătrăgună = beladonă
+măselariță = nebunariță
+ciumăfaie
+cucută
+pătrunjelul-câinelui
+cicoare
+susai
+scaiete = scai
+scai vânăt
+scaiul-dracului
+scai măgăresc
+ciulin
+pălămidă
+spin
+armurariu
+brusture = lipan
+holeră
+turiță = lipicioasă
+laptele-cucului = alior
+laptele-câinelui
+teișor
+cupa-vacii
+cuscută = torțel
+ridichioară
+voinicică
+brâncuță
+hreniță
+urda-vacii
+bărbușoară
+usturoiță
+drobușor
+rechie
+paracherniță
+boz
+bătrâniș
+spălăcioasă
+cruciuliță
+dentiță
+cânepa-codrului
+schinel
+turtă
+siminoc
+plevaiță
+coada-șoricelului
+mușețel = romaniță
+pelin = absint = pelin alb
+peliniță
+sunătoare = pojarniță
+tătăneasă = iarba-lui-tatin
+pătlagină
+limba-oii
+mei păsăresc
+plămânărică
+linariță
+colțul-babei
+feciorică
+dragavei
+stupitul-cucului
+scânteiuță
+piciorul-cocoșului
+boglari
+
+# --- Plante de pajiște și fânețe ---
+trifoi
+trifoi roșu
+trifoi alb
+lucernă
+sulfină
+ghizdei
+sparcetă
+măzăriche
+cosaci
+culbeceasă
+ciumărea
+drobiță
+coroniște
+unghia-găii
+vătămătoare
+osul-iepurelui
+ciuboțica-cucului
+sânziene = drăgaică = sânziană
+ciocul-berzei
+năpraznic
+coada-racului
+sclipeți
+sorbestrea
+turiță mare
+aglică
+barba-caprei
+vulturică
+mușcata-dracului
+scabioasă
+sipică
+varga-ciobanului
+iarba-șarpelui
+limba-boului
+limba-mielului
+limba-câinelui = arăriel
+miruță
+clocotici
+sor-cu-frate
+ciormoiag
+silur
+ventrilică
+șopârliță
+degețel
+buberic
+avrămeasă
+lupoaie
+cătușnică = iarba-mâței
+unguraș
+talpa-gâștei
+vindecea
+dumbravnic
+cinsteț
+rotungioară = silnic
+izma-broaștei = mentă de apă
+piciorul-lupului = cervană
+gălbăjoară
+luminița-nopții
+pufuliță
+zburătoare = răscoage
+răchitan
+ineață
+amăreală
+iarba-osului
+iarba-fiarelor
+frăsinel
+negrușcă
+coada-calului = barba-ursului
+podbal
+captalan
+iarbă mare
+lăptucul-oii
+brândușă
+ceapa-ciorii
+bibilică = lalea pestriță
+poroinic
+untul-vacii
+stupiniță
+mlăștiniță
+țintaură = fierea-pământului
+gențiană = ghințură
+
+# --- Graminee, rogozuri și pipirig ---
+păiuș
+firuță
+golomăț
+timoftică
+ovăscior
+obsigă
+raigras
+bărboasă
+colilie
+năgară
+țepoșică = țăpoșică
+iarba-vântului
+iarba-câmpului
+tremurătoare
+pieptănariță
+coada-vulpii
+iarbă albastră
+trestie de câmp
+rogoz
+pipirig = țipirig
+bumbăcariță
+papură
+stuf = trestie
+
+# --- Plante de pădure ---
+ferigă = spinarea-lupului
+feriguță
+limba-cerbului = năvalnic
+ruginiță
+strașnic
+părul-fetei
+limba-șarpelui
+pedicuță = brădișor
+mușchi
+mușchi de pământ
+mușchi de turbă
+vinariță
+asprișoară
+rodul-pământului
+pochivnic = piperul-lupului
+dalac
+coada-cocoșului = pecetea-lui-solomon
+păștiță
+colțișor
+muma-pădurii
+sânișoară
+piciorul-caprei
+brânca-ursului = crucea-pământului
+hașmaciucă
+barba-popii
+slăbănog
+brei
+tilișcă
+papucul-doamnei
+ghimpe
+cucurbețică = mărul-lupului
+mutătoare
+perișor
+iarba-ciutei
+arnică = carul-zânelor
+
+# --- Plante de munte ---
+argințică
+strugurii-ursului
+vuietoare
+stirigoaie
+ștevia stânelor
+sângele-voinicului
+degetăruț
+oițe
+lingurea
+roua-cerului
+foaie grasă
+trifoiște
+
+# --- Plante de baltă și de apă ---
+nufăr = nufăr alb
+nufăr galben
+plutniță
+lintiță
+peștișoară
+broscariță
+săgeata-apei
+limbariță
+roșățea
+buzdugan
+coada-zmeului
+obligeană
+cosor
+brădiș
+ciuma-apelor
+sârmuliță
+otrățel
+iarba-broaștei
+foarfeca-bălții
+cornaci = ciulin de baltă = castană de apă
+năsturel
+bobornic
+sică
+iarbă de mare
+algă
+mătasea-broaștei

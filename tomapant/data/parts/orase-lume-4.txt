@@ -1,0 +1,1431 @@
+# Orașe — America, Africa, Oceania
+# Canonical = variant (vezi FORMAT.md)
+
+# ---------- Statele Unite ale Americii ----------
+New York = New York City
+Los Angeles
+Chicago
+Houston
+Phoenix
+Philadelphia
+San Antonio
+San Diego
+Dallas
+San José
+Austin
+Jacksonville
+Fort Worth
+Columbus
+Charlotte
+Indianapolis
+San Francisco
+Seattle
+Denver
+Washington = Washington D.C.
+Boston
+El Paso
+Nashville
+Detroit
+Oklahoma City
+Portland
+Las Vegas
+Memphis
+Louisville
+Baltimore
+Milwaukee
+Albuquerque
+Tucson
+Fresno
+Sacramento
+Kansas City
+Mesa
+Atlanta
+Omaha
+Colorado Springs
+Raleigh
+Miami
+Long Beach
+Virginia Beach
+Oakland
+Minneapolis
+Tulsa
+Tampa
+Arlington
+Noua Orleans = New Orleans
+Wichita
+Cleveland
+Bakersfield
+Aurora
+Anaheim
+Honolulu
+Santa Ana
+Riverside
+Corpus Christi
+Lexington
+Henderson
+Stockton
+Saint Paul = St. Paul
+Cincinnati
+St. Louis = Saint Louis
+Pittsburgh
+Greensboro
+Anchorage
+Plano
+Orlando
+Irvine
+Newark
+Chula Vista
+Fort Wayne
+Laredo
+Jersey City
+Chandler
+Madison
+Lubbock
+Scottsdale
+Reno
+Buffalo
+Gilbert
+Glendale
+North Las Vegas
+Winston-Salem
+Chesapeake
+Norfolk
+Fremont
+Garland
+Irving
+Hialeah
+Richmond
+Boise
+Spokane
+Baton Rouge
+Tacoma
+San Bernardino
+Modesto
+Fontana
+Des Moines
+Moreno Valley
+Santa Clarita
+Fayetteville
+Oxnard
+Rochester
+Port St. Lucie
+Grand Rapids
+Huntsville
+Salt Lake City
+Frisco
+Yonkers
+Amarillo
+Huntington Beach
+McKinney
+Montgomery
+Augusta
+Akron
+Little Rock
+Tempe
+Overland Park
+Grand Prairie
+Tallahassee
+Cape Coral
+Mobile
+Knoxville
+Shreveport
+Ontario
+Sioux Falls
+Chattanooga
+Brownsville
+Fort Lauderdale
+Providence
+Newport News
+Rancho Cucamonga
+Santa Rosa
+Peoria
+Oceanside
+Elk Grove
+Salem
+Pembroke Pines
+Eugene
+Garden Grove
+Cary
+Fort Collins
+Corona
+Springfield
+Jackson
+Hayward
+Clarksville
+Lakewood
+Salinas
+Palmdale
+Hollywood
+Macon
+Sunnyvale
+Pomona
+Killeen
+Escondido
+Pasadena
+Naperville
+Bellevue
+Joliet
+Murfreesboro
+Midland
+Rockford
+Paterson
+Savannah
+Bridgeport
+Torrance
+McAllen
+Syracuse
+Surprise
+Denton
+Roseville
+Thornton
+Miramar
+Mesquite
+Olathe
+Dayton
+Carrollton
+Waco
+Orange
+Fullerton
+Charleston
+West Valley City
+Visalia
+Hampton
+Gainesville
+Warren
+Coral Springs
+Cedar Rapids
+Round Rock
+Sterling Heights
+Kent
+Columbia
+Santa Clara
+New Haven
+Stamford
+Concord
+Elizabeth
+Thousand Oaks
+Lafayette
+Simi Valley
+Topeka
+Norman
+Fargo
+Wilmington
+Abilene
+Pearland
+Victorville
+Hartford
+Vallejo
+Allentown
+Berkeley
+Richardson
+Arvada
+Ann Arbor
+Sugar Land
+Lansing
+Evansville
+College Station
+Beaumont
+Provo
+Independence
+Carlsbad
+Flint
+Dearborn
+Aspen
+Vail
+Napa
+Palo Alto
+Malibu
+Santa Barbara
+Santa Monica
+Beverly Hills
+Key West
+Daytona Beach
+Palm Springs
+Boulder
+Cheyenne
+Juneau
+Fairbanks
+Nome
+Sitka
+Santa Fe
+Albany
+Annapolis
+Harrisburg
+Trenton
+Montpelier
+Frankfort
+Jefferson City
+Pierre
+Bismarck
+Helena
+Carson City
+Olympia
+Erie
+Fort Myers
+Flagstaff
+Fort Smith
+Everett
+El Cajon
+El Monte
+Inglewood
+Hilo
+Hoboken
+Ogden
+Orem
+Yuma
+Yakima
+Youngstown
+Kalamazoo
+West Palm Beach
+Williamsburg
+Quincy
+Ithaca
+Gettysburg
+Scranton
+Atlantic City
+Galveston
+Las Cruces
+Roswell
+Taos
+Sedona
+Monterey
+San Luis Obispo
+Ventura
+Burbank
+Compton
+Newport Beach
+Mountain View
+Cupertino
+San Mateo
+Sarasota
+Boca Raton
+Pensacola
+Myrtle Beach
+Asheville
+Tuscaloosa
+Duluth
+Green Bay
+Davenport
+Billings
+Missoula
+Casper
+Rapid City
+Dodge City
+Gary
+South Bend
+Burlington
+
+# ---------- Canada și Groenlanda ----------
+Toronto
+Montreal
+Vancouver
+Calgary
+Edmonton
+Ottawa
+Winnipeg
+Quebec
+Hamilton
+Kitchener
+Victoria
+Halifax
+Oshawa
+Windsor
+Saskatoon
+Regina
+Sherbrooke
+St. John's = Saint John's
+Barrie
+Kelowna
+Abbotsford
+Kingston
+Sudbury = Greater Sudbury
+Saguenay
+Trois-Rivières
+Guelph
+Moncton
+Brantford
+Thunder Bay
+Saint John
+Lethbridge
+Nanaimo
+Kamloops
+Fredericton
+Charlottetown
+Whitehorse
+Yellowknife
+Iqaluit
+Banff
+Jasper
+Niagara Falls
+Mississauga
+Brampton
+Surrey
+Laval
+Markham
+Vaughan
+Gatineau
+Longueuil
+Burnaby
+Richmond Hill
+Whitby
+Ajax
+Red Deer
+Prince George
+Churchill
+Oakville
+Fort McMurray
+Medicine Hat
+Sault Ste. Marie
+Lévis
+Coquitlam
+Moose Jaw
+Dawson City
+Nuuk = Godthåb
+Ilulissat
+
+# ---------- Mexic ----------
+Ciudad de México = Mexico City = Mexico
+Guadalajara
+Monterrey
+Puebla
+Tijuana
+León
+Ciudad Juárez = Juárez
+Zapopan
+Mérida
+Chihuahua
+Cancún
+Acapulco
+Querétaro
+San Luis Potosí
+Aguascalientes
+Hermosillo
+Saltillo
+Mexicali
+Culiacán
+Morelia
+Veracruz
+Villahermosa
+Toluca
+Oaxaca
+Tuxtla Gutiérrez
+Durango
+Torreón
+Reynosa
+Matamoros
+Nuevo Laredo
+Tampico
+Mazatlán
+Puerto Vallarta
+Tepic
+Cuernavaca
+Pachuca
+Xalapa = Jalapa
+Campeche
+Chetumal
+Tapachula
+Celaya
+Irapuato
+Ensenada
+Los Cabos = Cabo San Lucas
+Tulum
+Playa del Carmen
+Taxco
+Guanajuato
+Zacatecas
+Colima
+Tlaxcala
+Ecatepec = Ecatepec de Morelos
+Nezahualcóyotl
+Naucalpan
+Tlalnepantla
+Chimalhuacán
+Ciudad Obregón = Obregón
+Uruapan
+Orizaba
+Fresnillo
+Zihuatanejo
+Cozumel
+San Miguel de Allende
+Puerto Escondido
+Coatzacoalcos
+Ciudad Victoria
+Tehuacán
+Cholula
+Ciudad del Carmen
+Chilpancingo
+Manzanillo
+Palenque
+Nogales
+San Cristóbal de las Casas
+Los Mochis
+Tlaquepaque
+
+# ---------- America Centrală ----------
+Ciudad de Guatemala = Guatemala City = Guatemala
+Quetzaltenango = Xela
+Antigua Guatemala = Antigua
+Escuintla
+Flores
+Chichicastenango
+San Salvador
+San Miguel
+Soyapango
+Usulután
+Tegucigalpa
+San Pedro Sula
+La Ceiba
+El Progreso
+Managua
+Masaya
+Estelí
+Matagalpa
+Chinandega
+Bluefields
+Alajuela
+Cartago
+Heredia
+Puntarenas
+Limón = Puerto Limón
+Liberia
+Ciudad de Panamá = Panama City = Panama
+Colón
+David
+Belmopan
+Belize City
+
+# ---------- Caraibe ----------
+Havana = La Habana
+Santiago de Cuba
+Camagüey
+Holguín
+Guantánamo
+Cienfuegos
+Trinidad
+Varadero
+Matanzas
+Pinar del Río
+Bayamo
+Baracoa
+Montego Bay
+Ocho Rios
+Negril
+Port-au-Prince
+Cap-Haïtien
+Gonaïves
+Jacmel
+Santo Domingo
+Santiago de los Caballeros
+Punta Cana
+La Romana
+Puerto Plata
+San Pedro de Macorís
+San Juan
+Ponce
+Bayamón
+Mayagüez
+Nassau
+Freeport
+Bridgetown
+Port of Spain
+San Fernando
+Chaguanas
+Castries
+Kingstown
+Saint George's = St. George's
+Roseau
+Basseterre
+Willemstad
+Oranjestad
+Fort-de-France
+Pointe-à-Pitre
+Philipsburg
+Road Town
+Charlotte Amalie
+
+# ---------- Brazilia ----------
+São Paulo
+Rio de Janeiro = Rio
+Brasília
+Salvador = Salvador da Bahia
+Fortaleza
+Belo Horizonte
+Manaus
+Curitiba
+Recife
+Goiânia
+Belém
+Porto Alegre
+Guarulhos
+Campinas
+São Luís
+São Gonçalo
+Maceió
+Duque de Caxias
+Natal
+Campo Grande
+Teresina
+São Bernardo do Campo
+João Pessoa
+Nova Iguaçu
+Santo André
+Osasco
+São José dos Campos
+Jaboatão dos Guararapes = Jaboatão
+Ribeirão Preto
+Uberlândia
+Sorocaba
+Contagem
+Aracaju
+Feira de Santana
+Cuiabá
+Joinville
+Juiz de Fora
+Londrina
+Aparecida de Goiânia
+Niterói
+Porto Velho
+Ananindeua
+Serra
+Caxias do Sul
+Vila Velha
+Florianópolis
+Macapá
+Campos dos Goytacazes
+São João de Meriti
+Mauá
+Carapicuíba
+Olinda
+Santos
+Petrópolis
+Foz do Iguaçu
+Blumenau
+Pelotas
+Boa Vista
+Rio Branco
+Palmas
+Vitória
+Ouro Preto
+Búzios = Armação dos Búzios
+Paraty
+Ilhéus
+Jundiaí
+Juazeiro do Norte
+Uberaba
+Uruguaiana
+Franca
+Imperatriz
+Ipatinga
+Piracicaba
+Bauru
+Maringá
+Montes Claros
+Anápolis
+Canoas
+Caruaru
+Vitória da Conquista
+Diadema
+Mogi das Cruzes
+Betim
+Taubaté
+Cascavel
+Ponta Grossa
+Santa Maria
+Governador Valadares
+Volta Redonda
+Campina Grande
+Petrolina
+Rio Grande
+Angra dos Reis
+Porto Seguro
+Marabá
+Guarujá
+Ubatuba
+Gramado
+Cabo Frio
+Itajaí
+Balneário Camboriú
+Corumbá
+
+# ---------- Argentina ----------
+Buenos Aires
+Rosario
+Mendoza
+La Plata
+San Miguel de Tucumán = Tucumán
+Mar del Plata
+Salta
+Resistencia
+Corrientes
+Posadas
+Neuquén
+Bahía Blanca
+Paraná
+San Salvador de Jujuy = Jujuy
+Formosa
+Río Cuarto
+Comodoro Rivadavia
+San Carlos de Bariloche = Bariloche
+Ushuaia
+Río Gallegos
+Rawson
+Viedma
+Trelew
+Puerto Madryn
+El Calafate
+Quilmes
+Lanús
+Avellaneda
+Lomas de Zamora
+Tigre
+Florencio Varela
+San Rafael
+Santiago del Estero
+Catamarca = San Fernando del Valle de Catamarca
+La Rioja
+San Luis
+Concordia
+Olavarría
+Tandil
+Puerto Iguazú
+San Martín de los Andes
+Luján
+
+# ---------- Chile ----------
+Santiago de Chile = Santiago
+Valparaíso
+Viña del Mar
+Concepción
+Antofagasta
+Temuco
+Rancagua
+Talca
+Arica
+Iquique
+Puerto Montt
+Punta Arenas
+La Serena
+Coquimbo
+Chillán
+Osorno
+Valdivia
+Calama
+Copiapó
+Puerto Varas
+Puerto Natales
+Quilpué
+Talcahuano
+Curicó
+Pucón
+San Pedro de Atacama
+Coyhaique
+Hanga Roa
+
+# ---------- Columbia ----------
+Bogotá
+Medellín
+Cali
+Barranquilla
+Cartagena de Indias
+Cúcuta
+Bucaramanga
+Pereira
+Santa Marta
+Ibagué
+Pasto
+Manizales
+Neiva
+Villavicencio
+Armenia
+Popayán
+Montería
+Sincelejo
+Valledupar
+Tunja
+Leticia
+Quibdó
+Itagüí
+Bello
+Soledad
+Soacha
+Palmira
+Buenaventura
+Envigado
+Barrancabermeja
+Riohacha
+
+# ---------- Venezuela ----------
+Caracas
+Maracaibo
+Barquisimeto
+Maracay
+Ciudad Guayana
+Maturín
+Cumaná
+Puerto La Cruz
+Ciudad Bolívar
+San Cristóbal
+Barinas
+Puerto Cabello
+Coro
+Los Teques
+Cabimas
+Punto Fijo
+Porlamar
+
+# ---------- Ecuador ----------
+Quito
+Guayaquil
+Machala
+Manta
+Ambato
+Loja
+Esmeraldas
+Riobamba
+Otavalo
+Baños = Baños de Agua Santa
+Ibarra
+Quevedo
+Portoviejo
+Latacunga
+Puerto Ayora
+
+# ---------- Peru ----------
+Lima
+Arequipa
+Trujillo
+Chiclayo
+Piura
+Cusco = Cuzco
+Iquitos
+Huancayo
+Tacna
+Puno
+Ayacucho
+Cajamarca
+Pucallpa
+Chimbote
+Ica
+Nazca = Nasca
+Huánuco
+Huaraz
+Juliaca
+Sullana
+Tarapoto
+Tumbes
+Callao
+Cerro de Pasco
+Paracas
+Urubamba
+Ollantaytambo
+
+# ---------- Bolivia ----------
+La Paz
+Santa Cruz de la Sierra = Santa Cruz
+Cochabamba
+Sucre
+Oruro
+Potosí
+Tarija
+El Alto
+Uyuni
+Copacabana
+
+# ---------- Paraguay ----------
+Asunción
+Ciudad del Este
+Encarnación
+San Lorenzo
+Luque
+Pedro Juan Caballero
+Villarrica
+
+# ---------- Uruguay ----------
+Montevideo
+Salto
+Punta del Este
+Colonia del Sacramento = Colonia
+Paysandú
+Rivera
+Maldonado
+Fray Bentos
+Piriápolis
+
+# ---------- Guyana, Surinam, Guyana Franceză, Falkland ----------
+Georgetown
+New Amsterdam
+Paramaribo
+Cayenne
+Kourou
+Saint-Laurent-du-Maroni
+Stanley = Port Stanley
+
+# ---------- Egipt ----------
+Cairo
+Alexandria
+Giza = Gizeh
+Luxor
+Assuan = Aswan
+Port Said
+Suez
+Sharm el-Sheikh
+Hurghada
+Ismailia
+Tanta
+Mansoura = El Mansoura
+Zagazig
+Asyut = Assiut
+Faiyum = Fayoum
+Minya = El Minya
+Sohag
+Qena
+Damietta = Dumyat
+Beni Suef
+Damanhur
+Shubra El Kheima
+Helwan
+Marsa Alam
+Dahab
+Siwa
+El Alamein
+Marsa Matruh
+Edfu
+Rosetta = Rashid
+
+# ---------- Libia ----------
+Tripoli
+Benghazi = Bengazi
+Misrata
+Tobruk
+Sirte
+Sabha
+Zawiya
+Derna
+Ghadames
+Ajdabiya
+
+# ---------- Tunisia ----------
+Tunis
+Sfax
+Sousse
+Kairouan
+Bizerta = Bizerte
+Monastir
+Hammamet
+Gabès
+Gafsa
+Nabeul
+Mahdia
+Tozeur
+Tataouine
+Sidi Bou Said
+Cartagina = Carthage
+Ariana
+El Jem
+Zarzis
+
+# ---------- Algeria ----------
+Alger = Algiers
+Oran
+Constantine
+Annaba
+Blida
+Sétif
+Batna
+Tlemcen
+Djelfa
+Béjaïa
+Biskra
+Tébessa
+Skikda
+Tiaret
+Chlef
+Sidi Bel Abbès
+Mostaganem
+Ghardaïa
+Béchar
+Tizi Ouzou
+Ouargla
+El Oued
+Bordj Bou Arréridj
+Médéa
+Jijel
+Tamanrasset
+Tipaza
+Laghouat
+Mascara
+
+# ---------- Maroc și Sahara Occidentală ----------
+Casablanca
+Rabat
+Fes = Fez
+Marrakech = Marrakesh
+Tanger = Tangier
+Agadir
+Meknes
+Oujda
+Kenitra
+Tetouan
+Essaouira
+Ouarzazate
+Chefchaouen
+Salé
+Temara
+Safi
+Mohammedia
+El Jadida
+Beni Mellal
+Nador
+Taza
+Khouribga
+Settat
+Larache
+Laâyoune = El Aaiún
+Dakhla
+Ifrane
+Asilah
+Al Hoceima
+Errachidia
+Taroudant
+
+# ---------- Africa de Vest ----------
+Nouakchott
+Nouadhibou
+Chinguetti
+Dakar
+Touba
+Thiès
+Kaolack
+Ziguinchor
+Mbour
+Rufisque
+Tambacounda
+Pikine
+Banjul
+Serekunda
+Brikama
+Bissau
+Conakry
+Kankan
+Kindia
+Nzérékoré
+Labé
+Freetown
+Bo
+Kenema
+Makeni
+Monrovia
+Buchanan
+Abidjan
+Yamoussoukro
+Bouaké
+Daloa
+Korhogo
+San-Pédro
+Man
+Grand-Bassam
+Accra
+Kumasi
+Tamale
+Sekondi-Takoradi = Takoradi
+Cape Coast
+Tema
+Sunyani
+Elmina
+Lomé
+Sokodé
+Kara
+Cotonou
+Porto-Novo
+Parakou
+Abomey
+Ouidah
+Abomey-Calavi
+Lagos
+Abuja
+Kano
+Ibadan
+Port Harcourt
+Benin City
+Kaduna
+Enugu
+Jos
+Ilorin
+Onitsha
+Aba
+Maiduguri
+Zaria
+Calabar
+Warri
+Sokoto
+Abeokuta
+Ogbomosho = Ogbomoso
+Owerri
+Oyo
+Oshogbo = Osogbo
+Ile-Ife = Ife
+Ikeja
+Umuahia
+Uyo
+Katsina
+Yola
+Ondo
+Akure
+Bauchi
+Minna
+Makurdi
+Gombe
+Lokoja
+Awka
+Asaba
+Gusau
+Ado-Ekiti
+Nsukka
+Badagry
+Abakaliki
+Yenagoa
+Nnewi
+Niamey
+Zinder
+Maradi
+Agadez
+Tahoua
+Bamako
+Timbuktu = Tombouctou
+Gao
+Mopti
+Ségou
+Sikasso
+Kayes
+Djenné
+Ouagadougou
+Bobo-Dioulasso
+Koudougou
+Ouahigouya
+Praia
+Mindelo
+
+# ---------- Africa Centrală ----------
+N'Djamena
+Moundou
+Sarh
+Abéché
+Yaoundé
+Douala
+Bafoussam
+Garoua
+Bamenda
+Maroua
+Ngaoundéré
+Kribi
+Limbe
+Buea
+Bangui
+Malabo
+Bata
+Libreville
+Port-Gentil
+Franceville
+Lambaréné
+Brazzaville
+Pointe-Noire
+Kinshasa
+Lubumbashi
+Mbuji-Mayi
+Kisangani
+Goma
+Bukavu
+Kananga
+Kolwezi
+Kikwit
+Likasi
+Tshikapa
+Matadi
+Boma
+Mbandaka
+Bunia
+Butembo
+Beni
+São Tomé
+
+# ---------- Africa de Est și Cornul Africii ----------
+Khartoum = Khartum
+Omdurman
+Port Sudan
+Kassala
+Wad Madani
+El Obeid
+Nyala
+El Fasher
+Juba
+Wau
+Malakal
+Asmara
+Massawa
+Keren
+Assab
+Djibouti
+Addis Abeba = Addis Ababa
+Dire Dawa
+Mekele = Mekelle
+Gondar
+Bahir Dar
+Hawassa = Awasa
+Harar
+Jimma
+Jijiga
+Adama = Nazret
+Dessie
+Lalibela
+Axum = Aksum
+Arba Minch
+Shashamane
+Mogadishu = Mogadiscio
+Hargeisa
+Kismayo
+Bosaso
+Berbera
+Garowe
+Baidoa
+Nairobi
+Mombasa
+Kisumu
+Nakuru
+Eldoret
+Malindi
+Lamu
+Thika
+Nyeri
+Machakos
+Naivasha
+Kampala
+Entebbe
+Jinja
+Gulu
+Mbarara
+Mbale
+Fort Portal
+Kigali
+Butare = Huye
+Gisenyi = Rubavu
+Ruhengeri = Musanze
+Bujumbura
+Gitega
+Dodoma
+Dar es Salaam
+Arusha
+Mwanza
+Zanzibar = Zanzibar City
+Mbeya
+Morogoro
+Tanga
+Moshi
+Kigoma
+Tabora
+Iringa
+Bagamoyo
+Mtwara
+
+# ---------- Africa de Sud (regiune) ----------
+Lusaka
+Ndola
+Kitwe
+Livingstone
+Kabwe
+Chingola
+Mufulira
+Kasama
+Chipata
+Harare
+Bulawayo
+Mutare
+Gweru
+Kwekwe
+Masvingo
+Chitungwiza
+Victoria Falls
+Lilongwe
+Blantyre
+Zomba
+Mzuzu
+Maputo
+Beira
+Nampula
+Matola
+Quelimane
+Tete
+Chimoio
+Pemba
+Xai-Xai
+Inhambane
+Nacala
+Luanda
+Huambo
+Benguela
+Lobito
+Lubango
+Malanje
+Cabinda
+Uíge
+Namibe
+Windhoek
+Swakopmund
+Walvis Bay
+Lüderitz
+Oshakati
+Rundu
+Gaborone
+Francistown
+Maun
+Maseru
+Mbabane
+Manzini
+Lobamba
+Johannesburg
+Orașul Capului = Cape Town = Kaapstad
+Durban
+Pretoria = Tshwane
+Port Elizabeth = Gqeberha
+Bloemfontein
+Soweto
+East London
+Pietermaritzburg
+Kimberley
+Stellenbosch
+Polokwane = Pietersburg
+Nelspruit = Mbombela
+Rustenburg
+Mthatha = Umtata
+George
+Knysna
+Hermanus
+Oudtshoorn
+Paarl
+Welkom
+Upington
+Uitenhage = Kariega
+Benoni
+Boksburg
+Germiston
+Krugersdorp
+Randburg
+Sandton
+Centurion
+Vereeniging
+Vanderbijlpark
+Potchefstroom
+Klerksdorp
+Mahikeng = Mafikeng
+Emalahleni = Witbank
+Richards Bay
+Mossel Bay
+Plettenberg Bay
+Grahamstown = Makhanda
+Franschhoek
+Antananarivo = Tananarive
+Toamasina = Tamatave
+Antsirabe
+Fianarantsoa
+Mahajanga = Majunga
+Toliara = Tuléar
+Antsiranana = Diego Suarez
+Morondava
+Taolagnaro = Fort Dauphin
+Port Louis
+Curepipe
+Quatre Bornes
+Moroni
+
+# ---------- Australia ----------
+Sydney
+Melbourne
+Brisbane
+Perth
+Adelaide
+Gold Coast
+Canberra
+Hobart
+Darwin
+Cairns
+Townsville
+Geelong
+Wollongong
+Alice Springs
+Broome
+Toowoomba
+Ballarat
+Bendigo
+Launceston
+Mackay
+Rockhampton
+Bundaberg
+Coffs Harbour
+Sunshine Coast
+Wagga Wagga
+Albury
+Fremantle
+Kalgoorlie
+Broken Hill
+Mildura
+Dubbo
+Bathurst
+Port Macquarie
+Byron Bay
+Port Douglas
+Noosa
+Parramatta
+Geraldton
+Bunbury
+Mandurah
+
+# ---------- Noua Zeelandă ----------
+Auckland
+Wellington
+Christchurch
+Dunedin
+Tauranga
+Rotorua
+Queenstown
+Napier
+Nelson
+Invercargill
+Palmerston North
+Whangarei
+New Plymouth
+Gisborne
+Timaru
+Blenheim
+Wanaka
+Taupo
+Whanganui = Wanganui
+
+# ---------- Pacific ----------
+Port Moresby
+Lae
+Mount Hagen
+Madang
+Goroka
+Rabaul
+Suva
+Nadi
+Lautoka
+Levuka
+Port Vila
+Luganville
+Honiara
+Nouméa
+Papeete
+Apia
+Pago Pago
+Nuku'alofa
+Tarawa = South Tarawa
+Majuro
+Funafuti
+Palikir
+Ngerulmud
+Koror
+Yaren
+Avarua
+Alofi
+Mata-Utu
+Hagåtña = Agana

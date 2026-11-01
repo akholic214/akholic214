@@ -1,0 +1,271 @@
+# Animale — nevertebrate și viețuitoare marine: insecte, arahnide, miriapode,
+# moluște, crustacee, viermi, celenterate, echinoderme, protozoare.
+# Fără mamifere, păsări, pești, reptile, amfibieni (alte fișiere).
+
+# ---- Grupuri generale ----
+insectă
+artropod
+arahnidă
+miriapod
+crustaceu
+moluscă
+gasteropod
+bivalvă
+cefalopod
+vierme
+anelid
+nematod
+platelmint
+echinoderm
+celenterat
+protozoar
+coleopter
+lepidopter
+himenopter
+dipter
+ortopter
+hemipter
+gâză
+goangă
+gânganie
+larvă
+
+# ---- Himenoptere: albine, viespi, furnici ----
+albină = albină meliferă
+matcă
+trântor
+bondar = bărzăun
+viespe
+gărgăun
+furnică
+furnică faraon
+furnică de foc
+furnică roșie
+furnică neagră
+furnică tăietoare de frunze
+termită = furnică albă
+
+# ---- Diptere: muște, țânțari ----
+muscă
+muscă de carne
+muscă de grajd
+muscă columbacă
+muscă țețe = țețe
+tăun
+streche
+țânțar
+țânțar tigru
+anofel = țânțar anofel
+musculiță de oțet = drosofilă = musculiță
+flebotom
+
+# ---- Lepidoptere: fluturi, molii, omizi ----
+fluture
+fluture de noapte
+molie
+molie de haine
+molia cerii
+viermele merelor
+omidă
+omidă procesionară
+vierme de mătase
+amiral = fluture amiral
+coada-rândunicii = fluture coada-rândunicii
+ochi de păun = fluture ochi de păun
+monarh = fluture monarh
+albiliță = fluture de varză
+apolo = fluture apolo
+morpho = fluture morpho
+cap de mort = fluture cap de mort
+lămâiță = fluture lămâiță
+urzicar
+nălbar
+cotar
+inelar
+molia strugurilor
+molia cartofului
+molia făinii
+buha semănăturilor
+omida păroasă a dudului
+sfredelitorul porumbului
+
+# ---- Coleoptere: gândaci ----
+gândac
+cărăbuș = cărăbuș de mai = gândac de mai
+rădașcă = răgace
+nasicorn = gândac rinocer
+croitor
+gândac de Colorado = gândac de cartofi
+buburuză = mămăruță
+licurici
+cantaridă = gândac de frasin
+carab = gândac de pământ
+scarabeu
+gândac de bălegar
+gândac de scoarță
+car
+gărgăriță
+ileană
+gândac de făină = vierme de făină
+gândac de apă
+gândac gropar
+gândac bombardier
+gândac pocnitor
+gândac goliat
+gândac hercule
+vierme-sârmă
+vierme alb
+gărgărița sfeclei
+gărgărița mazării
+gărgărița fasolei
+gândacul ovăzului
+cărăbușul marmorat
+gândacul roșu al rapiței
+rățișoara porumbului
+puricele cruciferelor
+
+# ---- Blatodee, ortoptere, mantide și altele ----
+gândac de bucătărie = libarcă
+șvab
+lăcustă
+lăcustă călătoare
+cosaș
+greier
+greier de casă
+greier de câmp
+coropișniță = greier-cârtiță
+călugăriță = mantis
+urechelniță
+insectă-băț
+peștișor de argint
+leul-furnicilor
+libelulă = calul-dracului
+efemeridă
+cicadă
+
+# ---- Hemiptere, păduchi, purici ----
+ploșniță = stelniță
+ploșniță de pat
+ploșniță de apă
+scorpion de apă
+ploșnița cerealelor
+vaca-domnului
+păduche
+păduche de cap
+păduche lat
+afidă = păduche de frunză = păduche de plante
+păduche țestos
+păduche lânos
+păduche din San José
+filoxeră
+musculiță albă
+trips
+purice
+musca cepei
+musca morcovului
+musca verzei
+musca cireșelor
+viespea prunelor
+viespea merelor
+
+# ---- Arahnide ----
+păianjen
+păianjen cu cruce
+tarantulă
+văduva neagră
+caracurt
+păianjen săritor
+păianjen lup
+păianjen de casă
+păianjen roșu
+scorpion
+scorpion carpatic
+pseudoscorpion
+căpușă
+acarian
+sarcopt
+varroa
+
+# ---- Miriapode ----
+scolopendră
+
+# ---- Moluște ----
+melc = culbec
+melc de livadă = melc de grădină
+limax = melc fără cochilie
+melc de mare
+ghioc
+rapană
+scoică
+scoică de râu
+scoică de lac = anodontă
+midie
+stridie
+scoică perlieră
+scoică Saint-Jacques = scoică pelerin
+tridacnă
+caracatiță
+calamar = calmar
+calamar uriaș
+sepie
+nautil = nautilus
+argonaut
+
+# ---- Crustacee ----
+rac = rac de râu
+homar
+langustă
+langustină
+crevete
+crab
+crab eremit = crab pustnic = pagur
+crab regal
+crab albastru
+crab de cocotier
+crab potcoavă
+păduche de lemn
+dafnie = purice de apă
+krill
+copepod
+izopod
+artemia
+
+# ---- Viermi și paraziți ----
+râmă = vierme de pământ
+lipitoare
+limbric = ascarid
+tenie
+oxiur
+trichină
+echinococ
+filarie
+gălbează
+planarie
+tubifex
+rotifer
+tardigrad
+
+# ---- Viețuitoare marine: celenterate, echinoderme, spongieri ----
+meduză
+urzică de mare
+anemonă de mare = actinie
+coral
+coral roșu
+gorgonie
+madrepor
+polip
+hidră = hidră de apă dulce
+stea de mare
+ofiură
+arici de mare
+castravete de mare = holoturie
+crin de mare
+burete de mare = burete
+ascidie
+plancton
+zooplancton
+
+# ---- Protozoare ----
+amibă
+parameci
+infuzor

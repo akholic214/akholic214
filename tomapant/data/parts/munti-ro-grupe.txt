@@ -1,0 +1,187 @@
+# Munți — grupe, masive și subdiviziuni din România (Carpați, Apuseni, Dobrogea, dealuri)
+# Format: Canonical = variantă = variantă (vezi data/FORMAT.md)
+
+# --- Marile diviziuni ---
+Carpați = Carpații = Carpații Românești
+Carpații Orientali = Carpații Răsăriteni
+Carpații Meridionali = Alpii Transilvaniei = Carpații Sudici
+Carpații Occidentali
+Carpații de Curbură = Carpații Curburii
+Carpații Maramureșului și Bucovinei
+Carpații Moldo-Transilvani
+Munții Banatului
+Apuseni
+Poiana Ruscă = Poiana Ruscăi
+Subcarpații
+Subcarpații Moldovei
+Subcarpații Curburii = Subcarpații de Curbură
+Subcarpații Getici
+Subcarpații Neamțului
+Subcarpații Bacăului
+Subcarpații Vrancei
+Subcarpații Buzăului
+Subcarpații Prahovei
+Subcarpații Argeșului = Muscelele Argeșului
+Subcarpații Vâlcii
+Subcarpații Gorjului
+Subcarpații Olteniei
+Dealurile de Vest = Dealurile Vestice
+
+# --- Carpații Orientali: grupa nordică (Maramureșului și Bucovinei) ---
+Oaș = Oașului
+Gutâi = Gutâiului = Gutin
+Țibleș = Țibleșului
+Lăpuș = Lăpușului
+Rodnei = Rodna
+Munții Maramureșului
+Suhard = Suhardului
+Bârgău = Bârgăului
+Obcinele Bucovinei = Obcinele
+Obcina Mare
+Obcina Feredeului
+Obcina Mestecăniș = Obcina Mestecănișului
+Rarău = Rarăului = Rarău-Giumalău
+Giumalău = Giumalăului
+Munții Bistriței
+
+# --- Carpații Orientali: grupa centrală (Moldo-Transilvani) ---
+Călimani = Călimanilor
+Giurgeu = Giurgeului
+Hășmaș = Hășmașului = Hăghimaș = Hăghimașului = Hășmașu Mare
+Ceahlău = Ceahlăului
+Stânișoarei = Stânișoara
+Goșmanu = Goșmanului
+Tarcău = Tarcăului
+Ciucului = Ciuc
+Berzunți
+Nemira = Nemirei
+Gurghiu = Gurghiului
+Harghita = Harghitei
+Ciomatu = Ciomadu = Ciomadul
+Perșani = Perșanilor
+Baraolt = Baraoltului
+Bodoc = Bodocului
+
+# --- Carpații Orientali: grupa sudică (de Curbură) ---
+Vrancei
+Buzăului
+Penteleu = Penteleului
+Podu Calului = Podul Calului
+Siriu = Siriului
+Ivănețu = Ivănețului
+Monteoru
+Întorsurii = Întorsurii Buzăului
+Tătaru = Tătarului
+Ciucaș = Ciucașului
+Grohotiș = Grohotișului
+Baiului = Gârbova = Gârbovei
+Munții Bârsei
+Postăvaru = Postăvarul
+Piatra Mare
+Tâmpa
+
+# --- Carpații Meridionali ---
+Bucegi = Bucegilor = Grupa Bucegi
+Leaota = Leaotei
+Piatra Craiului
+Făgăraș = Făgărașului = Grupa Făgăraș
+Iezer = Iezer-Păpușa = Iezerului
+Ghițu = Ghițului
+Frunți = Frunților
+Cozia = Coziei
+Parâng = Parângului = Grupa Parâng
+Șureanu = Șureanului = Sebeșului = Orăștiei
+Cindrel = Cindrelului = Cibinului
+Lotrului
+Latoriței
+Căpățânii
+Buila-Vânturarița
+Retezat = Retezatului
+Retezat-Godeanu = Grupa Retezat-Godeanu
+Retezatul Mic = Piule-Iorgovanu
+Godeanu = Godeanului
+Țarcu = Țarcului
+Cernei
+Mehedinți
+Vâlcan = Vâlcanului
+
+# --- Carpații Occidentali: Munții Banatului și Poiana Ruscă ---
+Semenic = Semenicului
+Almăj = Almăjului
+Locvei
+Aninei
+Dognecea = Dognecei
+
+# --- Carpații Occidentali: Munții Apuseni ---
+Bihor = Bihorului = Bihor-Vlădeasa
+Vlădeasa = Vlădesei
+Muntele Mare
+Gilău = Gilăului
+Trascău = Trascăului
+Metaliferi
+Zarand = Zarandului
+Highiș = Highișului = Highiș-Drocea
+Codru-Moma
+Pădurea Craiului
+Plopiș = Plopișului = Șes
+Meseș = Meseșului
+
+# --- Dobrogea ---
+Munții Măcinului = Măcin
+Culmea Pricopanului = Pricopan
+Dealurile Tulcei
+Dealurile Niculițelului
+Podișul Dobrogei
+Podișul Dobrogei de Nord
+Podișul Dobrogei Centrale
+Podișul Dobrogei de Sud
+Podișul Babadag = Podișul Babadagului
+Podișul Casimcei
+Podișul Medgidiei
+Podișul Oltinei
+Podișul Negru Vodă
+
+# --- Dealuri, măguri, culmi și podișuri numite de jucători ---
+Podișul Mehedinți
+Dealurile Lipovei
+Dealurile Pogănișului
+Dealurile Lugojului
+Dealurile Crișene
+Dealurile Silvaniei = Dealurile Sălajului
+Dealurile Crasnei
+Dealurile Codrului
+Măgura Șimleului
+Preluca
+Dealurile Clujului
+Dealurile Dejului
+Dealurile Năsăudului
+Dealurile Ciceului
+Dealul Feleacului
+Dealul Cetățuia
+Dealul Hoia
+Dealul Melcilor
+Dealul Furcilor
+Dealu Mare
+Dealul Istrița
+Dealul Ciolanu
+Măgura Odobeștilor
+Dealul Mățău = Măgura Mățău
+Culmea Pleșului
+Culmea Pietricica
+Dealul Perchiu
+Colinele Tutovei
+Dealurile Fălciului
+Dealul Copou
+Dealul Galata
+Dealul Repedea
+Dealul Bucium
+Dealul Șorogari
+Dealul Mitropoliei = Dealul Patriarhiei
+Dealul Spirii
+Dealul Cotroceni
+Dealul Filaret
+
+# --- Republica Moldova ---
+Podișul Codrilor = Codrii
+Colinele Tigheciului = Dealurile Tigheciului
+Dealurile Ciulucurilor

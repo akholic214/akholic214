@@ -1,0 +1,1040 @@
+# Ape — râuri și fluvii din cele două Americi, Africa și Oceania
+# Format: Canonic = variantă = variantă (vezi data/FORMAT.md)
+# Europa și Asia sunt în alte fișiere.
+
+# ==========================================================
+# AMERICA DE NORD — Canada și Alaska
+# ==========================================================
+Sfântul Laurențiu = Saint Lawrence = Saint-Laurent = St. Lawrence
+Mackenzie = Deh Cho
+Yukon
+Fraser
+Columbia
+Nelson
+Saskatchewan
+North Saskatchewan
+South Saskatchewan
+Churchill
+Athabasca
+Peace
+Liard
+Slave
+Hay
+Ottawa = Outaouais
+Gatineau
+Rideau
+Madawaska
+Mattawa
+Saguenay
+Saint-Maurice
+Richelieu
+Chaudière
+Manicouagan
+Moisie
+Romaine
+Natashquan
+Saint John
+Miramichi
+Restigouche
+Petitcodiac
+Exploits
+Gander
+Bow
+Oldman
+Red Deer
+Assiniboine
+Souris
+Qu'Appelle
+Winnipeg
+Red River
+Hayes
+Rainy
+Nipigon
+Albany
+Moose
+Abitibi
+Mattagami
+Missinaibi
+Attawapiskat
+Harricana
+Nottaway
+Broadback
+Rupert
+Eastmain
+La Grande
+Great Whale = Grande Rivière de la Baleine
+Koksoak
+Caniapiscau
+George
+Back
+Thelon
+Dubawnt
+Kazan
+Coppermine
+Peel
+Pelly
+Teslin
+Stewart
+Klondike
+Porcupine
+Stikine
+Skeena
+Nass
+Thompson
+Chilcotin
+Nechako
+Kootenay = Kootenai
+Okanagan = Okanogan
+Niagara
+Detroit
+Saint Clair = St. Clair
+Saint Marys = St. Marys
+Tanana
+Koyukuk
+Kuskokwim
+Susitna
+Copper
+Matanuska
+Kenai
+Noatak
+Kobuk
+Colville
+Nushagak
+Chena
+Nenana
+Taku
+Alsek
+Chilkat
+
+# ==========================================================
+# AMERICA DE NORD — Statele Unite
+# ==========================================================
+Mississippi
+Missouri
+Ohio
+Tennessee
+Arkansas
+Rio Grande = Río Bravo = Río Bravo del Norte
+Colorado
+Snake
+Sacramento
+San Joaquin
+Hudson
+Delaware
+Susquehanna
+Potomac
+James
+Savannah
+Alabama
+Tombigbee
+Brazos
+Trinity
+Sabine
+Neches
+Pecos
+Canadian
+Cimarron
+Platte
+North Platte
+South Platte
+Kansas
+Republican
+Smoky Hill
+Solomon
+Niobrara
+Big Sioux
+Des Moines
+Iowa
+Cedar
+Illinois
+Wabash
+Wisconsin
+Minnesota
+Rock
+Kaskaskia
+Cumberland
+Kentucky
+Green
+Licking
+Kanawha
+Monongahela
+Allegheny
+Scioto
+Miami
+Muskingum
+Wateree
+Santee
+Cape Fear
+Neuse
+Roanoke
+Tar
+Pee Dee
+Altamaha
+Chattahoochee
+Apalachicola
+Suwannee
+Saint Johns = St. Johns
+Kissimmee
+Caloosahatchee
+Pascagoula
+Yazoo
+White
+Black
+Ouachita
+Atchafalaya
+Mobile
+Tallapoosa
+Coosa
+Gila
+Salt
+Verde
+Humboldt
+Truckee
+Carson
+Walker
+Owens
+Kern
+Kings
+Merced
+Tuolumne
+Stanislaus
+Mokelumne
+American
+Feather
+Yuba
+Pit
+Eel
+Russian
+Napa
+Salinas
+Santa Ana
+Los Angeles
+San Gabriel
+Klamath
+Rogue
+Umpqua
+Willamette
+McKenzie
+Santiam
+Clackamas
+Deschutes
+John Day
+Umatilla
+Grande Ronde
+Walla Walla
+Yakima
+Wenatchee
+Methow
+Spokane
+Clark Fork
+Pend Oreille
+Flathead
+Blackfoot
+Bitterroot
+Salmon
+Clearwater
+Boise
+Payette
+Owyhee
+Malheur
+Bruneau
+Bear
+Weber
+Provo
+Sevier
+Virgin
+San Juan
+Animas
+Gunnison
+Dolores
+Yampa
+Duchesne
+Price
+Escalante
+Paria
+Little Colorado
+Bill Williams
+Mojave
+Amargosa
+Laramie
+Cache la Poudre
+Purgatoire
+Washita
+Neosho
+Verdigris
+Osage
+Gasconade
+Meramec
+Chariton
+Grand
+Loup
+Elkhorn
+Big Blue
+Cheyenne
+Belle Fourche
+Heart
+Little Missouri
+Yellowstone
+Bighorn
+Powder
+Tongue
+Musselshell
+Milk
+Marias
+Sheyenne
+Pembina
+Saint Croix = St. Croix
+Chippewa
+Fox
+Menominee
+Au Sable
+Muskegon
+Manistee
+Saginaw
+Kalamazoo
+Saint Joseph = St. Joseph
+Maumee
+Sandusky
+Cuyahoga
+Mahoning
+Youghiogheny
+Cheat
+Big Sandy
+Clinch
+Holston
+French Broad
+Nolichucky
+Hiwassee
+Little Tennessee
+Duck
+Saint Francis = St. Francis
+Current
+Skagit
+Snohomish
+Puyallup
+Chehalis
+Cowlitz
+Lewis
+Connecticut
+Merrimack
+Penobscot
+Kennebec
+Androscoggin
+Housatonic
+Mohawk
+Genesee
+Raritan
+Passaic
+Hackensack
+Schuylkill
+Lehigh
+Juniata
+Rappahannock
+Shenandoah
+Patuxent
+Choptank
+Yadkin
+Catawba
+Saluda
+Congaree
+Edisto
+Ocmulgee
+Oconee
+Flint
+Escambia
+Choctawhatchee
+Perdido
+Cahaba
+Black Warrior
+Amite
+Calcasieu
+Vermilion
+Guadalupe
+San Antonio
+Nueces
+San Jacinto
+Chama
+
+# ==========================================================
+# MEXIC ȘI AMERICA CENTRALĂ
+# ==========================================================
+Usumacinta
+Grijalva
+Balsas = Mezcala
+Lerma
+Santiago = Río Grande de Santiago = Grande de Santiago
+Pánuco
+Papaloapan
+Coatzacoalcos
+Yaqui
+Mayo
+Fuerte
+Sinaloa
+Culiacán
+Nazas
+Conchos
+Sonora
+Ameca
+Armería
+Tepalcatepec
+Atoyac
+Tehuantepec
+Tecolutla
+Candelaria
+Hondo
+Suchiate
+Lacantún
+Belize
+Motagua
+Chixoy
+Polochic
+Sarstún
+Ulúa
+Patuca
+Aguán
+Choluteca
+Coco = Segovia
+Lempa
+Escondido
+Grande de Matagalpa
+Prinzapolka
+Tempisque
+Reventazón
+Sixaola
+Chagres
+Tuira
+
+# ==========================================================
+# AMERICA DE SUD — Columbia, Venezuela, Guyane
+# ==========================================================
+Magdalena
+Cauca
+Sinú
+Atrato
+Patía
+Mira
+Meta
+Guaviare
+Vichada
+Inírida
+Guainía
+Vaupés
+Caquetá = Japurá
+Putumayo
+Orinoco
+Apure
+Arauca
+Caroní
+Caura
+Ventuari
+Casiquiare
+Portuguesa
+Guárico
+Cojedes
+Tocuyo
+Unare
+Neverí
+Cuyuní
+Mazaruni
+Potaro
+Rupununi
+Essequibo = Esequibo
+Demerara
+Berbice
+Courantyne = Corantijn = Corentyne
+Coppename
+Suriname
+Maroni = Marowijne
+Mana
+Sinnamary
+Approuague
+Oyapock = Oiapoque
+
+# ==========================================================
+# AMERICA DE SUD — bazinul Amazonului, Ecuador, Peru, Bolivia, Brazilia
+# ==========================================================
+Amazon = Amazonul = Amazonas
+Solimões
+Napo
+Marañón
+Ucayali
+Huallaga
+Urubamba = Vilcanota
+Apurímac
+Mantaro
+Ene
+Tambo
+Perené
+Pachitea
+Tigre
+Morona
+Pastaza
+Nanay
+Madre de Dios
+Inambari
+Tambopata
+Heath
+Beni
+Mamoré
+Guaporé = Iténez
+Ichilo
+Chapare
+Madeira
+Purus
+Juruá
+Javari = Yavarí
+Jutaí
+Tefé
+Acre
+Rio Negro = Negro
+Branco
+Trombetas
+Uatumã
+Nhamundá
+Tapajós
+Juruena
+Teles Pires
+Aripuanã
+Ji-Paraná = Machado
+Xingu
+Iriri
+Jari
+Paru
+Tocantins
+Araguaia
+Coca
+Aguarico
+Curaray
+Guayas
+Daule
+Babahoyo
+Esmeraldas
+Jubones
+Paute
+Zamora
+Tumbes
+Chira
+Piura
+Santa
+Rímac
+Chillón
+Cañete
+Pisco
+Ica
+Majes
+Camaná
+Ocoña
+
+# ==========================================================
+# AMERICA DE SUD — Brazilia de est, bazinul Paraná–La Plata, Chile, Argentina, Uruguay, Paraguay
+# ==========================================================
+Parnaíba
+Itapicuru
+Mearim
+Pindaré
+Gurupi
+Capim
+Jaguaribe
+Piranhas
+Paraíba
+Capibaribe
+São Francisco
+Velhas = Rio das Velhas
+Paraopeba
+Paraguaçu
+Contas = Rio de Contas
+Jequitinhonha
+Mucuri
+Doce
+Paraíba do Sul
+Paraná
+Paranaíba
+Pardo
+Tietê
+Piracicaba
+Mogi Guaçu
+Sorocaba
+Paranapanema
+Ivaí
+Piquiri
+Iguazú = Iguaçu
+Itajaí
+Jacuí
+Taquari
+Ibicuí
+Ijuí
+Camaquã
+Gravataí
+Sinos = Rio dos Sinos
+Caí
+Paraguay = Paraguai
+Pilcomayo
+Bermejo
+Apa
+Tebicuary
+Ypané
+Jejuí
+Monday
+Uruguay = Uruguai
+Cuareim = Quaraí
+Santa Lucía
+Yí
+Tacuarembó
+Queguay
+Arapey
+Daymán
+Cebollatí
+Olimar
+Río de la Plata = La Plata
+Salado
+Juramento
+Dulce
+Primero
+Carcarañá
+Gualeguay
+Gualeguaychú
+Luján
+Reconquista
+Matanza = Riachuelo
+Desaguadero
+Mendoza
+Tunuyán
+Diamante
+Atuel
+Jáchal
+Neuquén
+Limay
+Collón Curá
+Aluminé
+Chubut
+Senguer
+Deseado
+Chico
+Santa Cruz
+Gallegos
+Lauca
+Lluta
+Loa
+Copiapó
+Huasco
+Elqui
+Limarí
+Choapa
+Aconcagua
+Maipo
+Mapocho
+Rapel
+Cachapoal
+Tinguiririca
+Mataquito
+Maule
+Ñuble
+Itata
+Biobío
+Laja
+Imperial
+Cautín
+Toltén
+Valdivia
+Bueno
+Maullín
+Petrohué
+Puelo
+Yelcho
+Futaleufú
+Palena
+Aysén
+Baker
+Pascua
+
+# ==========================================================
+# AFRICA — Nil și Africa de Est
+# ==========================================================
+Nil = Nilul = Nile
+Nilul Alb = White Nile = Bahr el Abiad
+Nilul Albastru = Blue Nile = Abbay
+Nilul Victoria = Victoria Nile
+Nilul Albert = Albert Nile
+Atbara
+Tekezé = Setit
+Dinder
+Rahad
+Sobat
+Bahr el Ghazal
+Pibor
+Baro
+Akobo
+Didessa
+Kagera = Akagera
+Nyabarongo
+Ruvubu
+Semliki
+Mareb = Gash
+Omo
+Awash
+Genale
+Dawa
+Juba = Jubba = Giuba
+Shebelle = Shabelle = Wabe Shebelle
+Tana
+Athi = Galana
+Ewaso Ng'iro
+Nzoia
+Yala
+Mara
+Pangani
+Wami
+Ruvu
+Rufiji
+Ruaha = Marele Ruaha = Great Ruaha
+Kilombero
+Malagarasi
+Rovuma = Ruvuma
+Songwe
+
+# ==========================================================
+# AFRICA — bazinul Congo și Africa Centrală
+# ==========================================================
+Congo = Zair = Zaire
+Lualaba
+Ubangi = Oubangui
+Uele
+Mbomou = Bomu
+Kotto
+Chinko
+Lobaye
+Kasai = Cassai
+Sankuru
+Kwango
+Kwilu
+Lulua
+Lomami
+Aruwimi
+Ituri
+Lukuga
+Luapula
+Chambeshi
+Luvua
+Lufira
+Tshuapa
+Lulonga
+Lukenie
+Fimi
+Alima
+Likouala
+Sangha
+Kadéï
+Chari = Șari = Shari
+Logone
+Ouham
+Sanaga
+Nyong
+Wouri
+Mbam
+Ntem
+Dja
+Ogooué
+Ivindo
+Ngounié
+Nyanga
+Kouilou = Niari
+
+# ==========================================================
+# AFRICA — Africa de Vest
+# ==========================================================
+Niger
+Benue
+Kaduna
+Sokoto
+Rima
+Zamfara
+Gongola
+Taraba
+Hadejia
+Yobe = Komadugu Yobe
+Anambra
+Imo
+Ogun
+Osun
+Cross
+Bani
+Senegal
+Falémé
+Bafing
+Bakoye
+Gambia
+Casamance
+Geba
+Corubal
+Cacheu
+Konkouré
+Kolenté = Great Scarcies
+Rokel
+Sewa
+Moa
+Mano
+Lofa
+Cess = Cestos
+Cavally = Cavalla
+Sassandra
+Bandama
+Comoé
+Bia
+Tano
+Ankobra
+Pra
+Ofin
+Birim
+Densu
+Volta
+Volta Albă = White Volta
+Volta Neagră = Black Volta
+Volta Roșie = Red Volta = Nazinon
+Oti
+Ouémé
+Mono
+Couffo
+Zou
+Okpara
+Mékrou
+Alibori
+Pendjari
+
+# ==========================================================
+# AFRICA — Africa Australă
+# ==========================================================
+Zambezi = Zambeze
+Kabompo
+Lungué-Bungo = Lungwebungu
+Kafue
+Luangwa
+Gwayi
+Sanyati
+Manyame = Hunyani
+Mazowe = Mazoe
+Luenha
+Shire = Chire
+Ruo
+Bua
+Linthipe
+Cuando = Kwando = Chobe
+Okavango = Cubango = Kavango
+Cuito
+Cunene = Kunene
+Cuanza = Kwanza
+Catumbela
+Bengo
+Dande
+Cuvo = Queve
+Limpopo
+Olifants
+Crocodile
+Shashe
+Letaba
+Luvuvhu
+Save = Sabi
+Pungwe
+Buzi
+Orange = Gariep = Oranje
+Vaal
+Caledon
+Wilge
+Modder
+Riet
+Harts
+Molopo
+Nossob
+Auob
+Fish
+Swakop
+Kuiseb
+Tugela = Thukela
+Umgeni = Mgeni
+Umzimvubu = Mzimvubu
+Umfolozi = Mfolozi
+Pongola
+Komati = Incomati
+Usutu = Lusutfu
+Maputo
+Sabie
+Great Kei = Kei
+Sundays
+Gamtoos
+Gouritz
+Breede
+Berg
+
+# ==========================================================
+# AFRICA — Maghreb și Madagascar
+# ==========================================================
+Medjerda = Mejerda
+Chelif = Cheliff
+Seybouse
+Soummam
+Tafna
+Moulouya
+Sebou
+Loukkos
+Bou Regreg
+Oum er-Rbia
+Tensift
+Sous = Souss
+Draa
+Ziz
+Betsiboka
+Mangoky
+Onilahy
+Tsiribihina
+Mangoro
+Ikopa
+Mananara
+
+# ==========================================================
+# OCEANIA — Australia
+# ==========================================================
+Murray
+Darling
+Murrumbidgee
+Lachlan
+Macquarie
+Castlereagh
+Bogan
+Namoi
+Gwydir
+Barwon
+Culgoa
+Dumaresq
+Condamine
+Balonne
+Warrego
+Paroo
+Diamantina
+Cooper Creek = Cooper
+Georgina
+Finke
+Todd
+Flinders
+Mitchell
+Gilbert
+Staaten
+Leichhardt
+Nicholson
+Gregory
+Normanby
+Jardine
+Archer
+Burdekin
+Herbert
+Tully
+Barron
+Fitzroy
+Pioneer
+Burnett
+Mary
+Brisbane
+Richmond
+Clarence
+Tweed
+Macleay
+Hastings
+Manning
+Hunter
+Hawkesbury
+Nepean
+Georges
+Parramatta
+Shoalhaven
+Snowy
+Goulburn
+Ovens
+Mitta Mitta
+Kiewa
+Campaspe
+Loddon
+Avoca
+Wimmera
+Yarra
+Glenelg
+Torrens
+Onkaparinga
+Gordon
+Franklin
+Huon
+Arthur
+Pieman
+Swan
+Blackwood
+Frankland
+Murchison
+Gascoyne
+Fortescue
+Ashburton
+De Grey
+Ord
+Victoria
+Daly
+Katherine
+Roper
+Adelaide
+
+# ==========================================================
+# OCEANIA — Noua Zeelandă, Noua Guinee, Fiji
+# ==========================================================
+Waikato
+Waipa
+Waihou
+Piako
+Clutha = Mata-Au
+Whanganui = Wanganui
+Rangitikei
+Manawatu
+Waitaki
+Rakaia
+Rangitata
+Waimakariri
+Hurunui
+Wairau
+Awatere
+Motueka
+Buller
+Grey
+Hokitika
+Haast
+Taieri
+Mataura
+Oreti
+Aparima
+Waiau
+Shotover
+Kawarau
+Matukituki
+Ahuriri
+Opihi
+Selwyn
+Mokau
+Waitara
+Ruamahanga
+Hutt
+Tukituki
+Ngaruroro
+Mohaka
+Wairoa
+Waipaoa
+Tongariro
+Whakatane
+Rangitaiki
+Tarawera
+Kaituna
+Fly
+Strickland
+Sepik
+Purari
+Kikori
+Ramu
+Markham
+Wahgi
+Mamberamo
+Digul
+Rewa
+Sigatoka
+Navua

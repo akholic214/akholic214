@@ -1,0 +1,252 @@
+# Ape – râuri din România și Republica Moldova, litere A–L (Â/Ă sub A, Î sub I)
+# Format: Canonic = variantă = variantă
+
+# ---- A ----
+Abrud = Abrudul
+Agapia
+Agrij = Agrijul
+Aita
+Aiud = Aiudul
+Râul Alb
+Albac
+Almaș = Almașul
+Amaradia
+Ampoi = Ampoiul
+Ampoița
+Anieș = Anieșul
+Aranca = Aranka
+Argeș = Argeșul
+Argeșel = Argeșelul
+Arieș = Arieșul
+Arieșul Mare
+Arieșul Mic
+Arpaș = Arpașul
+Asău = Asăul
+Avrig = Avrigul
+Azuga
+
+# ---- B ----
+Bahlui = Bahluiul
+Bahluieț = Bahluiețul
+Bahna
+Bâlea
+Bălăneasa
+Bănița
+Baraolt = Baraoltul
+Barcău = Barcăul = Berettyó
+Râul Bărbat
+Bârlad = Bârladul
+Bârsa
+Bârsău = Bârsăul
+Bârzava = Berzava
+Bâsca Chiojdului
+Bâsca Mare
+Bâsca Mică
+Bâsca Rozilei = Bâsca
+Bașeu = Bașeul
+Bega
+Bega Veche
+Beica
+Belareca
+Beliș
+Beliu = Beliul
+Beregsău = Beregsăul
+Berheci = Berheciul
+Berzasca
+Bicaz = Bicazul
+Bicăjel = Bicăjelul
+Bistra
+Bistra Mărului
+Bistricioara
+Bistrița
+Bistrița Aurie
+Bizdidel = Bizdidelul
+Blahnița
+Bohotin = Bohotinul
+Bolvașnița
+Borcea = Brațul Borcea
+Botiza
+Bratia
+Brătei
+Brețcu
+Brodina
+Buda
+Budac = Budacul
+Bughea
+Burdea
+Buzău = Buzăul
+Bâc = Bîc
+Botna
+
+# ---- C ----
+Cacaina
+Cahul = Cahulul
+Camenca
+Capra
+Caraș = Carașul = Karaš
+Cârcinov = Cârcinovul
+Cârlibaba
+Cârțișoara
+Casimcea
+Cașin = Cașinul
+Căinari = Căinar
+Călata
+Călmățui = Călmățuiul
+Câlnău = Câlnăul
+Câlniștea
+Căpuș = Căpușul
+Cavnic = Cavnicul
+Cerna
+Chilia = Brațul Chilia
+Chineja
+Chirița
+Cibin = Cibinul
+Cigher = Cigherul
+Ciobănuș = Ciobănușul
+Ciorogârla
+Ciric = Ciricul
+Cisnădie
+Ciuhur = Ciuhurul
+Ciulucul Mare
+Ciulucul Mic
+Ciulucul de Mijloc
+Clănița
+Cobia
+Cogâlnic = Cogîlnic
+Colentina
+Comlod = Comlodul
+Cormaia
+Cormoș = Cormoșul
+Corund = Corundul
+Cosău = Cosăul
+Coșna
+Costești
+Coșuștea
+Cotmeana
+Covasna
+Cracău = Cracăul
+Crasna = Kraszna
+Cricovul Dulce
+Cricovul Sărat = Cricov
+Criș = Körös = Crișul
+Crișul Alb = Fehér-Körös
+Crișul Băița
+Crișul Negru = Fekete-Körös
+Crișul Pietros
+Crișul Repede = Sebes-Körös
+Cubolta
+Cuejdiu = Cuejdi = Cuejdiul
+Cugir = Cugirul
+Cula
+Cungrea
+
+# ---- D ----
+Dâmbovicioara
+Dâmbovița
+Dâmbovnic = Dâmbovnicul
+Dâmbu = Dâmbul
+Dămuc = Dămucul
+Dârjov = Dârjovul
+Delia
+Desnățui = Desnățuiul
+Dezna
+Dipșa
+Râul Doamnei
+Dobra
+Dobrovăț = Dobrovățul
+Doftana
+Dofteana
+Dorna
+Dornișoara
+Drăgan = Drăganul
+Draghiște
+Drajna
+Drincea
+Dunărea = Dunăre = Danube = Donau
+Dunărea Veche
+Dunavăț = Dunavățul
+
+# ---- E ----
+Elan = Elanul
+Eșelnița = Ieșelnița
+
+# ---- F ----
+Feernic
+Feneș = Feneșul
+Finiș = Finișul
+Firiza
+Fișag = Fișagul
+Fizeș = Fizeșul
+Frumoasa
+
+# ---- G ----
+Gădălin = Gădălinul
+Galbena
+Galda
+Gârda Seacă
+Geamărtălui = Geamărtăluiul
+Geoagiu = Geoagiul
+Gersa
+Geru = Gerul
+Ghelința
+Ghimbășel = Ghimbășelul
+Gilort = Gilortul
+Glavacioc = Glavaciocul
+Govora
+Grădiștea
+Gurghiu = Gurghiul
+
+# ---- H ----
+Hangu = Hangul
+Hârtibaciu = Hârtibaciul
+Hășdate
+Hideg = Hidegul
+Hidișel = Hidișelul
+Holod = Holodul
+Homorod = Homorodul
+Homorodul Mare
+Homorodul Mic
+Horincea
+Humor = Humorul
+
+# ---- I ----
+Iada = Iad = Iadul
+Iagorlâc = Iagorlîc
+Ialomicioara
+Ialomița
+Ialpug = Ialpuh
+Iara
+Ichel = Ichelul
+Ier = Eriu = Ér
+Ilfov = Ilfovul
+Ilișua
+Ilva
+Iminog = Iminogul
+Iza
+
+# ---- J ----
+Jaleș = Jaleșul
+Jieț = Jiețul
+Jijia
+Jilț = Jilțul
+Jiu = Jiul
+Jiul de Est
+Jiul de Vest
+
+# ---- L ----
+Lăpuș = Lăpușul
+Lăpușna
+Lăpușnicul Mare
+Latorița
+Lechința
+Lepșa
+Lișava
+Lohan = Lohanul
+Lopatnic = Lopatnicul
+Lotrioara
+Lotrișor = Lotrișorul
+Lotru = Lotrul
+Luduș = Ludușul
+Luncavăț = Luncavățul
+Luncavița
+Lunga

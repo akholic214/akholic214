@@ -1,0 +1,24 @@
+{
+  "name": "tomapant",
+  "version": "1.0.0",
+  "description": "Țomapant: joc de cuvinte pentru 2 până la 5 jucători, într-un singur fișier HTML",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "merge": "node scripts/merge-parts.js",
+    "stats": "node scripts/stats.js",
+    "build": "node scripts/build.js",
+    "test": "node --test tests/unit.test.js",
+    "e2e": "node tests/e2e.js",
+    "screenshots": "node tests/screenshots.js",
+    "all": "npm run merge && npm run stats && npm run build && npm test && npm run e2e"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "peerjs": "^1.5.4"
+  },
+  "private": true
+}

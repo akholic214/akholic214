@@ -1,0 +1,1571 @@
+# Orașe – Europa Centrală, Balcani, Europa de Nord, Ucraina, Belarus, Rusia, Caucaz
+# Format: Canonical = variantă1 = variantă2 (vezi FORMAT.md)
+
+# --- Polonia ---
+Varșovia = Warszawa = Warsaw
+Cracovia = Kraków
+Łódź
+Wrocław = Breslau
+Poznań
+Gdańsk = Danzig
+Szczecin = Stettin
+Bydgoszcz
+Lublin
+Katowice
+Białystok
+Gdynia
+Częstochowa
+Radom
+Toruń = Thorn
+Sosnowiec
+Rzeszów
+Kielce
+Gliwice
+Zabrze
+Olsztyn = Allenstein
+Bielsko-Biała
+Bytom
+Zielona Góra
+Rybnik
+Opole = Oppeln
+Tychy
+Gorzów Wielkopolski = Gorzów
+Elbląg = Elbing
+Płock
+Tarnów
+Zakopane
+Oświęcim = Auschwitz
+Sopot
+Malbork = Marienburg
+Wieliczka
+Przemyśl
+Suwałki
+Legnica = Liegnitz
+Kalisz
+Koszalin
+Grudziądz
+Słupsk
+Jaworzno
+Jastrzębie-Zdrój
+Nowy Sącz
+Jelenia Góra
+Siedlce
+Mysłowice
+Konin
+Piła
+Piotrków Trybunalski
+Inowrocław
+Lubin
+Ostrowiec Świętokrzyski
+Gniezno
+Stargard
+Głogów
+Pabianice
+Leszno
+Tomaszów Mazowiecki
+Łomża
+Ełk
+Zamość
+Chełm
+Bełchatów
+Mielec
+Kędzierzyn-Koźle
+Tczew
+Biała Podlaska
+Świdnica
+Ostrołęka
+Stalowa Wola
+Zgierz
+Będzin
+Tarnowskie Góry
+Legionowo
+Racibórz
+Starogard Gdański
+Puławy
+Ostrów Wielkopolski
+Wejherowo
+Zawiercie
+Skierniewice
+Kutno
+Żory
+Starachowice
+Radomsko
+Dębica
+Krosno
+Nysa
+Kołobrzeg
+Ciechanów
+Sanok
+Bolesławiec
+Jarosław
+Świnoujście
+Sandomierz
+Kazimierz Dolny
+Łańcut
+Ciechocinek
+Augustów
+Giżycko
+Mrągowo
+Mikołajki
+Hel
+Władysławowo
+Łeba
+Ustka
+Darłowo
+Kłodzko
+Wałbrzych
+Cieszyn
+Żywiec
+Nowy Targ
+Szczyrk
+Wisła
+Ustroń
+Karpacz
+Szklarska Poręba
+Kudowa-Zdrój
+Busko-Zdrój
+Nałęczów
+Krynica-Zdrój
+Frombork
+Lidzbark Warmiński
+Kętrzyn
+Pułtusk
+Żyrardów
+Pruszków
+Otwock
+Wołomin
+Piaseczno
+Mińsk Mazowiecki
+Sochaczew
+Kwidzyn
+Chojnice
+Lębork
+Kościerzyna
+Kartuzy
+Brodnica
+Włocławek
+Łowicz
+Sieradz
+Wieluń
+Zduńska Wola
+Jarocin
+Śrem
+Września
+Szamotuły
+Międzyrzecz
+Żary
+Żagań
+Nowa Sól
+Oleśnica
+Oława
+Brzeg
+Kluczbork
+Prudnik
+Tarnobrzeg
+Jasło
+Gorlice
+Limanowa
+Myślenice
+Bochnia
+Brzesko
+Olkusz
+Chrzanów
+Wadowice
+Andrychów
+Pszczyna
+Mikołów
+Knurów
+Dąbrowa Górnicza
+Chorzów
+Ruda Śląska
+Siemianowice Śląskie
+Świętochłowice
+Piekary Śląskie
+Płońsk
+Biskupiec
+
+# --- Cehia ---
+Praga = Praha = Prague
+Brno = Brünn
+Ostrava
+Plzeň = Pilsen
+Liberec = Reichenberg
+Olomouc = Olmütz
+České Budějovice = Budweis
+Hradec Králové
+Ústí nad Labem
+Pardubice
+Zlín
+Karlovy Vary = Karlsbad
+Český Krumlov
+Kutná Hora
+Jihlava
+Opava
+Teplice
+Děčín
+Kladno
+Most
+Cheb
+Karviná
+Havířov
+Frýdek-Místek
+Mladá Boleslav
+Jablonec nad Nisou
+Prostějov
+Přerov
+Třebíč
+Česká Lípa
+Třinec
+Tábor
+Znojmo
+Příbram
+Chomutov
+Kolín
+Trutnov
+Písek
+Orlová
+Kroměříž
+Vsetín
+Šumperk
+Valašské Meziříčí
+Uherské Hradiště
+Hodonín
+Břeclav
+Litoměřice
+Nový Jičín
+Havlíčkův Brod
+Krnov
+Sokolov
+Strakonice
+Klatovy
+Žďár nad Sázavou
+Litvínov
+Kopřivnice
+Bohumín
+Jindřichův Hradec
+Vyškov
+Blansko
+Náchod
+Beroun
+Mělník
+Jičín
+Poděbrady
+Mariánské Lázně = Marienbad
+Františkovy Lázně = Franzensbad
+Telč
+Mikulov
+Slavkov u Brna = Austerlitz
+Terezín = Theresienstadt
+Český Těšín
+Domažlice
+Rokycany
+Benešov
+Rakovník
+Louny
+Žatec
+Kadaň
+Nymburk
+Pelhřimov
+Humpolec
+Dvůr Králové nad Labem
+Vrchlabí
+Špindlerův Mlýn
+Harrachov
+Turnov
+Rumburk
+Varnsdorf
+Ústí nad Orlicí
+Svitavy
+Chrudim
+Hranice
+Uherský Brod
+Valtice
+Litomyšl
+
+# --- Slovacia ---
+Bratislava = Pressburg = Pozsony
+Košice = Kassa
+Prešov
+Žilina
+Nitra
+Banská Bystrica
+Trnava
+Trenčín
+Martin
+Poprad
+Prievidza
+Zvolen
+Komárno
+Levice
+Bardejov
+Michalovce
+Humenné
+Spišská Nová Ves
+Liptovský Mikuláš
+Ružomberok
+Považská Bystrica
+Piešťany
+Nové Zámky
+Dunajská Streda
+Šaľa
+Galanta
+Senica
+Skalica
+Myjava
+Pezinok
+Senec
+Malacky
+Partizánske
+Topoľčany
+Lučenec
+Rimavská Sobota
+Rožňava
+Brezno
+Kežmarok
+Levoča
+Stará Ľubovňa
+Snina
+Trebišov
+Štúrovo
+Dolný Kubín
+Čadca
+Bojnice
+Banská Štiavnica
+Kremnica
+Žiar nad Hronom
+Nové Mesto nad Váhom
+Hlohovec
+Vysoké Tatry
+
+# --- Ungaria ---
+Budapesta = Budapest
+Debrețin = Debrecen
+Seghedin = Szeged
+Miskolc
+Pécs
+Győr
+Nyíregyháza
+Kecskemét
+Székesfehérvár
+Szombathely
+Szolnok
+Tatabánya
+Sopron = Ödenburg
+Kaposvár
+Veszprém
+Bichișciaba = Békéscsaba
+Zalaegerszeg
+Eger
+Érd
+Esztergom = Strigoniu
+Jula = Gyula
+Hódmezővásárhely
+Dunaújváros
+Nagykanizsa
+Salgótarján
+Siófok
+Visegrád
+Szentendre
+Baja
+Mohács
+Macău = Makó
+Orosháza
+Szekszárd
+Szarvas
+Hajdúszoboszló
+Komárom
+Tata
+Pápa
+Mosonmagyaróvár
+Keszthely
+Hévíz
+Balatonfüred
+Tihany
+Ajka
+Várpalota
+Paks
+Kalocsa
+Kiskunfélegyháza
+Kiskunhalas
+Cegléd
+Nagykőrös
+Jászberény
+Gödöllő
+Vác
+Dunakeszi
+Budaörs
+Ózd
+Kazincbarcika
+Sátoraljaújhely
+Sárospatak
+Tokaj
+Hatvan
+Gyöngyös
+Mezőkövesd
+Tiszaújváros
+Hajdúböszörmény
+Berettyóújfalu
+Karcag
+Mezőtúr
+Kisvárda
+Mátészalka
+Csongrád
+Szentes
+Komló
+Szigetvár
+Dombóvár
+Siklós
+Körmend
+Sárvár
+Kőszeg
+Pannonhalma
+Oroszlány
+Dorog
+Szentgotthárd
+
+# --- Slovenia ---
+Ljubljana = Laibach
+Maribor = Marburg
+Celje
+Kranj
+Koper = Capodistria
+Bled
+Piran
+Novo Mesto
+Velenje
+Ptuj
+Nova Gorica
+Murska Sobota
+Jesenice
+Škofja Loka
+Kamnik
+Domžale
+Postojna
+Idrija
+Izola
+Portorož
+Slovenj Gradec
+Trbovlje
+Krško
+Brežice
+Sežana
+Ajdovščina
+Kočevje
+Kranjska Gora
+Radovljica
+Tolmin
+Kobarid = Caporetto
+Logatec
+Vrhnika
+Grosuplje
+Metlika
+Črnomelj
+Ormož
+Lendava
+Ljutomer
+Žalec
+Laško
+Rogaška Slatina
+Šentjur
+Slovenske Konjice
+Litija
+Zagorje ob Savi
+Hrastnik
+
+# --- Croația ---
+Zagreb = Agram
+Split = Spalato
+Rijeka = Fiume
+Osijek
+Zadar = Zara
+Pula = Pola
+Dubrovnik = Ragusa
+Šibenik
+Varaždin
+Karlovac
+Sisak
+Vukovar
+Slavonski Brod
+Rovinj
+Poreč
+Opatija
+Makarska
+Trogir
+Hvar
+Vinkovci
+Krk
+Rab
+Pag
+Cres
+Mali Lošinj
+Korčula
+Omiš
+Sinj
+Knin
+Imotski
+Metković
+Ploče
+Vodice
+Nin
+Biograd na Moru
+Crikvenica
+Senj
+Gospić
+Ogulin
+Samobor
+Velika Gorica
+Zaprešić
+Koprivnica
+Bjelovar
+Virovitica
+Požega
+Đakovo
+Našice
+Županja
+Čakovec
+Krapina
+Daruvar
+Petrinja
+Kutina
+Labin
+Umag
+Pazin
+Motovun
+Solin
+Ston
+Cavtat
+
+# --- Bosnia și Herțegovina ---
+Sarajevo
+Banja Luka
+Tuzla
+Zenica
+Mostar
+Bihać
+Brčko
+Prijedor
+Trebinje
+Doboj
+Srebrenica
+Travnik
+Jajce
+Neum
+Bijeljina
+Zvornik
+Foča
+Goražde
+Konjic
+Livno
+Široki Brijeg
+Čapljina
+Stolac
+Međugorje = Medjugorje
+Cazin
+Velika Kladuša
+Sanski Most
+Gradiška
+Derventa
+Modriča
+Kakanj
+Visoko
+Vareš
+Kiseljak
+Fojnica
+Vitez
+Bugojno
+Jablanica
+Teslić
+Mrkonjić Grad
+Gračanica
+Gradačac
+Lukavac
+Živinice
+Pale
+Nevesinje
+Gacko
+Bileća
+Tešanj
+Maglaj
+Žepče
+Zavidovići
+
+# --- Serbia ---
+Belgrad = Beograd = Belgrade
+Novi Sad
+Niș = Naissus
+Kragujevac
+Subotica = Szabadka
+Zrenjanin = Becicherecul Mare
+Panciova = Pančevo
+Čačak
+Novi Pazar
+Kraljevo
+Smederevo = Semendria
+Leskovac
+Valjevo
+Kruševac
+Vranje
+Šabac
+Užice
+Sombor = Zombor
+Požarevac
+Pirot
+Zaječar
+Kikinda = Chichinda
+Sremska Mitrovica
+Vârșeț = Vršac
+Bor
+Negotin
+Kladovo = Cladova
+Biserica Albă = Bela Crkva
+Cuvin = Kovin
+Majdanpek
+Jagodina
+Paraćin
+Ćuprija
+Loznica
+Prokuplje
+Ruma
+Inđija
+Stara Pazova
+Bačka Palanka
+Vrbas
+Apatin
+Senta
+Aranđelovac
+Gornji Milanovac
+Prijepolje
+Sjenica
+Vrnjačka Banja
+Trstenik
+Obrenovac
+
+# --- Muntenegru ---
+Podgorica = Titograd
+Nikšić
+Cetinje
+Budva
+Kotor = Cattaro
+Bar = Antivari
+Herceg Novi
+Ulcinj = Dulcigno
+Tivat
+Pljevlja
+Bijelo Polje
+Berane
+Rožaje
+Plav
+Žabljak
+Kolašin
+Mojkovac
+Danilovgrad
+Perast
+
+# --- Kosovo ---
+Priștina = Prishtina
+Prizren
+Peja = Peć
+Mitrovica
+Gjakova = Đakovica
+Ferizaj = Uroševac
+Gjilan = Gnjilane
+Vushtrri = Vučitrn
+Podujeva = Podujevo
+Suharekë = Suva Reka
+Rahovec = Orahovac
+Lipjan = Lipljan
+Kaçanik
+Obiliq = Obilić
+Fushë Kosovë = Kosovo Polje
+Skenderaj = Srbica
+Drenas = Glogovac
+Kamenicë
+Viti
+
+# --- Macedonia de Nord ---
+Skopje = Üsküb
+Bitola = Monastir
+Kumanovo
+Prilep
+Tetovo
+Ohrid
+Veles
+Štip
+Strumica
+Gostivar
+Struga
+Debar
+Kičevo
+Kavadarci
+Negotino
+Gevgelija
+Radoviš
+Kočani
+Delčevo
+Berovo
+Kriva Palanka
+Kratovo
+Sveti Nikole
+Resen
+Kruševo
+
+# --- Albania ---
+Tirana = Tiranë
+Durrës = Durazzo
+Vlorë = Vlora = Valona
+Shkodër = Shkodra = Scutari
+Elbasan
+Korçë = Korcea = Korça
+Fier
+Berat
+Gjirokastër = Gjirokastra = Argirocastro
+Sarandë = Saranda
+Pogradec
+Lushnjë = Lushnja
+Kavajë = Kavaja
+Kukës
+Peshkopi
+Burrel
+Krujë = Kruja
+Lezhë = Lezha
+Laç
+Kamëz
+Tepelenë
+Përmet
+Librazhd
+Gramsh
+Patos
+Himarë = Himara
+Delvinë
+Bajram Curri
+Shëngjin
+Rrogozhinë
+Peqin
+
+# --- Bulgaria ---
+Sofia = Sofiya
+Plovdiv = Filipopol = Philippopolis
+Varna
+Burgas
+Rusciuc = Ruse
+Stara Zagora
+Plevna = Pleven
+Sliven
+Dobrici = Dobrich = Bazargic
+Șumen = Shumen = Șumla
+Pernik
+Haskovo
+Iambol = Yambol
+Pazardjik = Pazardzhik
+Blagoevgrad
+Veliko Târnovo = Târnovo
+Vrața = Vratsa
+Gabrovo
+Vidin = Diiu
+Silistra = Dârstor
+Kazanlâk
+Kârdjali = Kardzhali
+Loveci = Lovech
+Montana
+Kiustendil = Kyustendil
+Smolian = Smolyan
+Nesebăr = Nessebar
+Bansko
+Balcic = Balchik
+Sozopol
+Șiștov = Svishtov = Sviștov
+Nicopole = Nikopol
+Lom
+Turtucaia = Tutrakan
+Asenovgrad
+Dimitrovgrad
+Razgrad
+Harmanli
+Karlovo
+Petrici = Petrich
+Sandanski
+Velingrad
+Samokov
+Botevgrad
+Sevlievo
+Troian = Troyan
+Gorna Oriahovița = Gorna Oryahovitsa
+Svilengrad
+Aitos
+Karnobat
+Elhovo
+Nova Zagora
+Cirpan = Chirpan
+Dupnița = Dupnitsa
+Pomorie
+Primorsko
+Țarevo = Tsarevo
+Kavarna
+Șabla = Shabla
+Oreahovo = Oryahovo
+Kozlodui = Kozloduy
+Belene
+Koprivștița = Koprivshtitsa
+Provadia = Provadiya
+Isperih
+Kubrat
+Omurtag
+
+# --- Grecia ---
+Atena = Athina = Athens
+Salonic = Tesalonic = Thessaloniki = Salonika
+Patras = Patra
+Heraklion = Iraklio = Candia
+Larisa = Larissa
+Volos
+Ioannina = Ianina
+Kavala
+Chania = Hania
+Rodos = Rhodos = Rhodes
+Kalamata
+Corfu = Kerkyra
+Sparta = Sparti
+Corint = Corinth = Korinthos
+Olimpia = Olympia
+Delfi = Delphi
+Mykonos
+Fira = Thira
+Nafplio = Nauplia
+Alexandroupoli
+Xanthi
+Komotini
+Serres
+Drama
+Katerini
+Trikala
+Karditsa
+Lamia
+Chalkida = Halkida
+Agrinio
+Argos
+Micene = Mycenae
+Epidaur = Epidaurus
+Maraton = Marathon
+Pireu = Piraeus = Pireus
+Eleusis = Elefsina
+Megara
+Teba = Thiva = Thebes
+Rethymno = Rethimno
+Kos
+Mytilene = Mitilini
+Chios
+Kalambaka
+Kastoria
+Florina
+Veria
+Edessa
+Kozani
+Grevena
+Kilkis
+Arta
+Preveza
+Igoumenitsa
+Messolonghi = Missolonghi
+Nafpaktos = Lepanto
+Pyrgos
+Livadeia
+Gytheio
+Monemvasia
+Kalavryta
+Ermoupoli
+Zakynthos
+Lefkada
+Argostoli
+Orestiada
+
+# --- Cipru ---
+Nicosia = Lefkosia = Lefkoșa
+Limassol = Lemesos
+Larnaca
+Paphos = Pafos
+Famagusta = Ammochostos = Gazimağusa
+Kyrenia = Girne
+Ayia Napa
+
+# --- Turcia ---
+Istanbul = Constantinopol = Țarigrad = Bizanț = Stambul
+Ankara = Angora
+Izmir = Smirna
+Bursa
+Adana
+Gaziantep = Antep
+Konya
+Antalya
+Kayseri
+Mersin
+Eskișehir
+Diyarbakır
+Samsun
+Denizli
+Șanlıurfa = Urfa
+Adapazarı = Sakarya
+Malatya
+Kahramanmaraș = Maraș
+Erzurum
+Van
+Batman
+Elazığ
+Sivas
+Manisa
+Trabzon = Trebizond = Trapezunt
+Balıkesir
+Kütahya
+Edirne = Adrianopol
+Tekirdağ
+Çanakkale
+Bodrum = Halicarnas = Halicarnassus
+Marmaris
+Kușadası
+Alanya
+Fethiye
+Troia = Troy
+Efes = Ephesus
+Izmit = Kocaeli
+Iznik = Niceea = Nicaea
+Mardin
+Antakya = Antiohia = Antioch
+Iskenderun = Alexandretta
+Rize
+Ordu
+Giresun
+Zonguldak
+Afyonkarahisar = Afyon
+Isparta
+Burdur
+Aydın
+Muğla
+Ușak
+Bolu
+Düzce
+Sinop = Sinope
+Amasya
+Tokat
+Çorum
+Kırıkkale
+Kırșehir
+Nevșehir
+Niğde
+Aksaray
+Kars
+Ağrı
+Iğdır
+Erzincan
+Bitlis
+Muș
+Siirt
+Hakkari
+Șırnak
+Bingöl
+Tunceli
+Adıyaman
+Kilis
+Osmaniye
+Yalova
+Bilecik
+Karabük
+Safranbolu
+Bartın
+Kastamonu
+Artvin
+Gümüșhane
+Bayburt
+Ardahan
+Yozgat
+Karaman
+Çankırı
+Pergam = Bergama = Pergamon
+Milet = Miletus
+Side
+Tars = Tarsus
+Didim
+Selçuk
+Göreme
+Ürgüp
+Pamukkale
+Harran
+Gelibolu = Gallipoli
+Kırklareli
+Lüleburgaz
+Çorlu
+Silivri
+Gebze
+Çeșme
+Ayvalık
+Edremit
+Kaș
+
+# --- Danemarca ---
+Copenhaga = København = Copenhagen
+Aarhus = Århus
+Odense
+Aalborg = Ålborg
+Esbjerg
+Randers
+Kolding
+Horsens
+Vejle
+Roskilde
+Helsingør = Elsinore
+Billund
+Herning
+Silkeborg
+Fredericia
+Hillerød
+Næstved
+Viborg
+Køge
+Holstebro
+Slagelse
+Sønderborg
+Svendborg
+Haderslev
+Frederikshavn
+Skagen
+Ribe
+Hjørring
+Nyborg
+Kalundborg
+Ringsted
+Aabenraa
+Rønne
+Ebeltoft
+
+# --- Suedia ---
+Stockholm
+Göteborg = Gothenburg
+Malmö
+Uppsala
+Västerås
+Örebro
+Linköping
+Helsingborg
+Jönköping
+Norrköping
+Lund
+Umeå
+Gävle
+Kiruna
+Visby
+Luleå
+Karlstad
+Sundsvall
+Borås
+Eskilstuna
+Södertälje
+Halmstad
+Växjö
+Karlskrona
+Kalmar
+Trollhättan
+Östersund
+Borlänge
+Falun
+Skellefteå
+Kristianstad
+Nyköping
+Motala
+Landskrona
+Trelleborg
+Ystad
+Varberg
+Uddevalla
+Skövde
+Lidköping
+Mora
+Sigtuna
+Örnsköldsvik
+Härnösand
+Haparanda
+Boden
+Piteå
+Hudiksvall
+Söderhamn
+Västervik
+Karlshamn
+Ängelholm
+Enköping
+
+# --- Norvegia ---
+Oslo = Christiania
+Bergen
+Trondheim
+Stavanger
+Drammen
+Kristiansand
+Tromsø
+Bodø
+Narvik
+Ålesund
+Hammerfest
+Lillehammer
+Fredrikstad
+Sandnes
+Sarpsborg
+Skien
+Porsgrunn
+Tønsberg
+Sandefjord
+Larvik
+Haugesund
+Moss
+Arendal
+Halden
+Hamar
+Gjøvik
+Molde
+Harstad
+Alta
+Kirkenes
+Vadsø
+Honningsvåg
+Longyearbyen
+Røros
+Lillestrøm
+Kongsberg
+Mo i Rana
+Steinkjer
+
+# --- Finlanda ---
+Helsinki = Helsingfors
+Espoo = Esbo
+Tampere = Tammerfors
+Vantaa = Vanda
+Oulu = Uleåborg
+Turku = Åbo
+Jyväskylä
+Lahti
+Kuopio
+Rovaniemi
+Vaasa = Vasa
+Porvoo = Borgå
+Kouvola
+Joensuu
+Lappeenranta
+Hämeenlinna
+Pori = Björneborg
+Seinäjoki
+Mikkeli
+Kotka
+Salo
+Kokkola
+Rauma
+Savonlinna
+Kajaani
+Kerava
+Imatra
+Kemi
+Tornio
+Hyvinkää
+Järvenpää
+Lohja
+Hanko
+Naantali
+Kuusamo
+Iisalmi
+Varkaus
+Pietarsaari = Jakobstad
+Mariehamn
+
+# --- Islanda ---
+Reykjavik
+Akureyri
+Kópavogur
+Hafnarfjörður
+Keflavík
+Selfoss
+Ísafjörður
+Húsavík
+Egilsstaðir
+Vestmannaeyjar
+Akranes
+Höfn
+Grindavík
+
+# --- Estonia ---
+Tallinn = Reval
+Tartu = Dorpat
+Narva
+Pärnu
+Kohtla-Järve
+Viljandi
+Rakvere
+Kuressaare
+Haapsalu
+Võru
+Valga
+Jõhvi
+Paide
+Sillamäe
+
+# --- Letonia ---
+Riga
+Daugavpils = Dvinsk
+Liepāja = Libau
+Jelgava = Mitau
+Jūrmala
+Ventspils = Windau
+Rēzekne
+Valmiera
+Jēkabpils
+Ogre
+Tukums
+Salaspils
+Cēsis
+Kuldīga
+Sigulda
+Bauska
+Saldus
+Talsi
+Valka
+
+# --- Lituania ---
+Vilnius = Vilna = Wilno
+Kaunas = Kovno
+Klaipėda = Memel
+Šiauliai
+Panevėžys
+Alytus
+Marijampolė
+Mažeikiai
+Jonava
+Utena
+Kėdainiai
+Telšiai
+Tauragė
+Ukmergė
+Visaginas
+Plungė
+Kretinga
+Palanga
+Druskininkai
+Trakai
+Šilutė
+Radviliškis
+Rokiškis
+Biržai
+Anykščiai
+Nida
+Elektrėnai
+
+# --- Ucraina ---
+Kiev = Kyiv
+Harkov = Harkiv = Kharkiv
+Odesa = Odessa
+Dnipro = Dnepropetrovsk = Dnipropetrovsk
+Donețk = Donetsk
+Zaporijia = Zaporijjea = Zaporizhzhia = Zaporojie
+Lvov = Liov = Lviv = Lemberg
+Krivoi Rog = Kryvyi Rih = Krîvîi Rih
+Mîkolaiv = Mykolaiv = Nikolaev
+Mariupol
+Luhansk = Lugansk = Voroșilovgrad
+Vinnița = Vinnytsia
+Simferopol
+Sevastopol
+Cernăuți = Chernivtsi = Czernowitz
+Herson = Kherson
+Poltava
+Cernigov = Cernihiv = Chernihiv
+Cerkasî = Cherkasy
+Jîtomîr = Zhytomyr
+Sumî = Sumy
+Hmelnîțkîi = Khmelnytskyi
+Rivne = Rovno
+Ivano-Frankivsk = Stanislau
+Ternopil = Tarnopol
+Luțk = Lutsk
+Ujgorod = Uzhhorod = Ungvár
+Kropîvnîțkîi = Kirovograd
+Ismail = Izmail
+Cetatea Albă = Bilhorod-Dnistrovskyi = Akkerman
+Ialta = Yalta
+Kerci = Kerch
+Feodosia
+Evpatoria = Eupatoria
+Melitopol
+Berdiansk
+Kramatorsk
+Sloviansk
+Horlivka = Gorlovka
+Bucea = Bucha
+Irpin
+Hotin = Khotyn
+Reni
+Chilia Nouă = Kilia
+Bolgrad
+Bila Țerkva = Belaia Țerkov
+Kremenciuk = Kremenchuk
+Uman
+Berdîciv = Berdichev
+Mukacevo = Munkács = Mukachevo
+Hust = Khust
+Drohobîci = Drohobych
+Truskaveț = Truskavets
+Kolomîia = Kolomyia
+Cernobîl = Chernobyl
+Prîpiat = Pripyat
+Konotop
+Nijîn = Nizhyn
+Severodonețk = Sievierodonetsk
+Lîsîceansk = Lysychansk
+Bahmut = Bakhmut = Artemivsk
+Pokrovsk
+Enerhodar
+Avdiivka
+Alcevsk = Alchevsk
+Djankoi = Dzhankoi
+Alușta = Alushta
+Sudak
+Kamianeț-Podilskîi = Kamianets-Podilskyi
+Storojineț = Storozhynets
+Herța = Hertsa
+Vâlcov = Vylkove
+Tatarbunar
+Borîspil = Boryspil
+
+# --- Belarus ---
+Minsk
+Gomel = Homel
+Mogilev = Moghilev = Mahilioŭ
+Vitebsk
+Grodno = Hrodna
+Brest = Brest-Litovsk
+Bobruisk
+Baranovici = Baranovichi
+Pinsk
+Orșa = Orsha
+Polațk = Polotsk
+Borisov = Barysaw
+Salihorsk = Soligorsk
+Mozîr = Mozyr
+Lida
+Jlobin = Zhlobin
+Jodino = Zhodino
+Slonim
+Nesvij = Nesvizh
+Mir
+Novopolațk = Novopolotsk
+Molodecino = Maladzechna
+
+# --- Rusia ---
+Moscova = Moskva = Moscow
+Sankt Petersburg = Petersburg = Leningrad = Petrograd
+Novosibirsk
+Ekaterinburg = Yekaterinburg = Sverdlovsk
+Kazan
+Nijni Novgorod = Nizhny Novgorod = Gorki
+Celeabinsk = Celiabinsk = Chelyabinsk
+Samara = Kuibîșev
+Omsk
+Rostov pe Don = Rostov-na-Donu = Rostov
+Ufa
+Krasnoiarsk = Krasnoyarsk
+Voronej = Voronezh
+Perm
+Volgograd = Stalingrad = Țarițîn
+Krasnodar
+Saratov
+Tiumen = Tyumen
+Toliatti = Togliatti
+Ijevsk = Izhevsk
+Barnaul
+Ulianovsk = Ulyanovsk = Simbirsk
+Irkutsk
+Habarovsk = Khabarovsk
+Iaroslavl = Yaroslavl
+Vladivostok
+Mahacikala = Makhachkala
+Tomsk
+Orenburg
+Kemerovo
+Novokuznețk = Novokuznetsk
+Riazan = Reazan = Ryazan
+Astrahan = Astrakhan
+Naberejnîe Celnî = Naberezhnye Chelny
+Penza
+Lipețk = Lipetsk
+Kirov = Viatka
+Ceboksarî = Cheboksary
+Tula
+Kaliningrad = Königsberg
+Kursk
+Stavropol
+Soci = Sochi
+Ulan-Ude
+Tver = Kalinin
+Magnitogorsk
+Ivanovo
+Briansk = Bryansk
+Belgorod
+Surgut
+Vladimir
+Nijni Tagil = Nizhny Tagil
+Arhanghelsk = Arkhangelsk
+Cita = Chita
+Kaluga
+Smolensk
+Voljski = Volzhsky
+Kurgan
+Cerepoveț = Cherepovets
+Oriol = Orel = Oryol
+Vologda
+Vladikavkaz
+Murmansk
+Iakutsk = Yakutsk
+Groznîi = Grozny
+Tambov
+Petrozavodsk
+Kostroma
+Veliki Novgorod = Novgorod
+Pskov
+Norilsk
+Magadan
+Petropavlovsk-Kamceatski = Petropavlovsk-Kamchatsky
+Suzdal
+Sergiev Posad = Zagorsk
+Novorossiisk = Novorossiysk
+Taganrog
+Șahtî = Shakhty
+Volgodonsk
+Nalcik = Nalchik
+Piatigorsk = Pyatigorsk
+Kislovodsk
+Essentuki = Esentuki
+Derbent
+Maikop = Maykop
+Cerkessk = Cherkessk
+Elista
+Saransk
+Ioșkar-Ola = Yoshkar-Ola
+Nijnekamsk = Nizhnekamsk
+Almetievsk = Almetyevsk
+Sterlitamak
+Salavat
+Orsk
+Zlatoust
+Miass
+Kamensk-Uralski = Kamensk-Uralsky
+Nijnevartovsk = Nizhnevartovsk
+Hantî-Mansiisk = Khanty-Mansiysk
+Salehard = Salekhard
+Novîi Urengoi = Novy Urengoy
+Noiabrsk = Noyabrsk
+Tobolsk
+Berdsk
+Biisk = Biysk
+Gorno-Altaisk
+Prokopievsk = Prokopyevsk
+Abakan
+Kîzîl = Kyzyl
+Bratsk
+Angarsk
+Blagoveșcensk = Blagoveshchensk
+Komsomolsk pe Amur = Komsomolsk-na-Amure
+Iujno-Sahalinsk = Yuzhno-Sakhalinsk
+Nahodka = Nakhodka
+Ussuriisk = Ussuriysk
+Anadîr = Anadyr
+Mirnîi = Mirny
+Dudinka
+Vorkuta
+Sîktîvkar = Syktyvkar
+Uhta = Ukhta
+Kotlas
+Severodvinsk
+Apatitî = Apatity
+Gatcina = Gatchina
+Pușkin = Țarskoe Selo
+Peterhof = Petrodvoreț
+Kronștadt
+Staraia Russa
+Velikie Luki
+Rjev = Rzhev
+Rîbinsk = Rybinsk
+Murom
+Kovrov
+Dzerjinsk = Dzerzhinsk
+Arzamas
+Berezniki
+Solikamsk
+Sîzran = Syzran
+Enghels = Engels
+Balakovo
+Kamîșin = Kamyshin
+Eleț = Yelets
+Starîi Oskol = Stary Oskol
+Obninsk
+Novomoskovsk
+Kolomna
+Serpuhov = Serpukhov
+Podolsk
+Himki = Khimki
+Balașiha = Balashikha
+Mîtișci = Mytishchi
+Liuberțî = Lyubertsy
+Koroliov = Korolev
+Odințovo = Odintsovo
+Krasnogorsk
+Klin
+Dmitrov
+Mojaisk = Mozhaysk
+Pereslavl-Zalesski = Pereslavl-Zalessky
+Uglici = Uglich
+Veliki Ustiug = Veliky Ustyug
+Baltiisk = Baltiysk = Pillau
+Sovetsk = Tilsit
+Anapa
+Ghelendjik = Gelendzhik
+Tuapse
+Armavir
+Nevinnomîssk = Nevinnomyssk
+Nazran
+Magas
+Kaspiisk = Kaspiysk
+Hasaviurt = Khasavyurt
+Novocerkassk = Novocherkassk
+Azov
+
+# --- Caucaz: Georgia ---
+Tbilisi = Tiflis
+Batumi
+Kutaisi
+Rustavi
+Gori
+Suhumi = Sukhumi
+Poti
+Zugdidi
+Țhinvali = Tskhinvali
+Mțheta = Mtskheta
+Telavi
+Borjomi
+Ahalțihe = Akhaltsikhe
+Sighnaghi
+Stepanțminda = Kazbegi
+
+# --- Caucaz: Armenia ---
+Erevan = Yerevan
+Giumri = Gyumri = Leninakan
+Vanadzor = Kirovakan
+Vagharșapat = Ecimiadzin = Echmiadzin
+Dilijan
+Kapan
+Goris
+Abovian = Abovyan
+Hrazdan
+Sevan
+
+# --- Caucaz: Azerbaidjan ---
+Baku = Bakı
+Gandja = Ganja = Kirovabad
+Sumgait = Sumqayit
+Stepanakert = Hankendi
+Mingecevir = Mingachevir
+Șeki = Sheki
+Lankaran = Lenkoran
+Nahicevan = Nakhchivan
+Șușa = Shusha

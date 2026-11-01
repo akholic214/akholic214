@@ -1,0 +1,564 @@
+# Animale — mamifere (fauna României, mamifere din lume, animale domestice, rase)
+# Format: canonic = variantă = variantă (vezi data/FORMAT.md). Nume comune, cu litere mici.
+
+# ---- Mamifere din România: carnivore ----
+lup
+lupoaică
+urs = urs brun
+ursoaică
+vulpe = vulpe roșie
+vulpoi
+râs
+pisică sălbatică
+șacal = șacal auriu
+enot = câine enot
+jder = jder de copac = jder de pădure
+jder de piatră = beică
+dihor
+dihor pătat
+dihor de stepă
+nevăstuică
+hermelină = hermină
+nurcă
+vidră
+bursuc = viezure
+focă
+
+# ---- Mamifere din România: copitate ----
+mistreț = porc sălbatic
+cerb = cerb carpatin
+ciută = cerboaică
+căprioară = căprior
+cerb lopătar
+capră neagră
+zimbru = bizon european
+bour
+muflon
+
+# ---- Mamifere din România: rozătoare, iepuri, insectivore, lilieci ----
+iepure = iepure de câmp
+iepuroaică
+iepure de vizuină
+veveriță
+pârș = pârș mare
+pârș de alun
+pârș de ghindă
+pârș de pădure
+hârciog
+popândău = țistar
+șoarece
+șoarece de casă
+șoarece de câmp
+șoarece de pădure
+șoarece pitic
+șoarece gulerat
+șobolan = guzgan
+șobolan cenușiu
+șobolan negru
+șobolan de apă
+orbete
+marmotă
+castor
+nutria = nutrie
+bizam = ondatra
+cârtiță
+arici
+chițcan = chițcan comun
+chițcan de apă
+chițcan pitic
+chițcan de câmp
+liliac
+liliac pitic
+liliac mare cu potcoavă
+liliac mic cu potcoavă
+liliac de apă
+liliac de amurg
+
+# ---- Mamifere din România: marine ----
+delfin
+delfin comun
+marsuin = porc de mare
+
+# ---- Mamifere din lume: feline ----
+leu
+leoaică
+tigru
+tigroaică
+leopard = panteră
+panteră neagră
+leopard de zăpadă = irbis = leopardul zăpezilor
+leopard nebulos = panteră nebuloasă
+jaguar
+ghepard
+pumă = cougar = leu de munte
+râs roșu = bobcat
+ocelot
+serval
+caracal
+pisică de junglă
+manul = pisică de Pallas
+
+# ---- Mamifere din lume: canide, hiene ----
+coiot
+dingo
+licaon = câine sălbatic african
+lup cu coamă
+fenec
+vulpe polară = vulpe arctică
+hienă
+protel = lup de pământ
+
+# ---- Mamifere din lume: urși ----
+urs polar = urs alb
+urs negru
+urs grizzly = grizzly
+urs panda = panda = panda uriaș
+panda roșu
+urs malaezian
+urs cu ochelari
+
+# ---- Mamifere din lume: alte carnivore ----
+mangustă
+suricată
+binturong
+civetă
+genetă
+fosa
+sconcs = skunk
+raton = raton spălător = ursuleț spălător
+coati
+kinkaju
+gluton = wolverine
+bursuc de miere = ratel
+zibelină
+nurcă americană = vizon
+vidră de mare
+
+# ---- Mamifere din lume: pinipede ----
+morsă
+leu de mare
+elefant de mare = focă elefant
+focă leopard
+focă monah
+focă comună
+focă gri
+focă cu blană
+
+# ---- Mamifere din lume: cetacee, sirenieni ----
+balenă
+balenă albastră
+balenă cu cocoașă
+balenă gri
+balenă pitică
+balenă de Groenlanda
+balenă pilot
+cașalot
+orcă = balenă ucigașă
+narval
+beluga = balenă albă
+dugong
+lamantin = manat
+
+# ---- Mamifere din lume: elefanți, rinoceri, hipopotami, tapiri, damani ----
+elefant
+elefant african
+elefant asiatic = elefant indian
+rinocer
+rinocer alb
+rinocer negru
+rinocer indian
+hipopotam
+hipopotam pitic
+tapir
+daman = hyrax
+
+# ---- Mamifere din lume: ecvide, girafe ----
+zebră
+cal de Przewalski = cal Przewalski
+onagru
+kulan
+girafă
+okapi
+
+# ---- Mamifere din lume: bovine, antilope, oi și capre sălbatice ----
+bivol
+bivol african = bivol cafru
+bizon = bizon american
+gaur
+banteng
+anoa
+iac
+zebu
+bou moscat
+takin
+antilopă
+gazelă
+impala
+gnu
+springbok
+kudu
+eland
+oryx
+addax
+dik-dik
+duiker
+nilgau
+bongo
+sitatunga
+antilopă saiga = saiga
+ibex = capră ibex
+argali
+
+# ---- Mamifere din lume: cervide, cămile ----
+elan
+ren
+caribu = caribou
+cerb sika
+wapiti = cerb wapiti
+muntjac
+cerb moscat
+cerb axis = chital
+sambar
+pudu
+cămilă
+dromader = cămilă cu o cocoașă
+cămilă bactriană = cămilă cu două cocoașe
+lamă
+alpaca
+vicunia = vigonie
+guanaco
+
+# ---- Mamifere din lume: porci sălbatici ----
+pecari
+babirusa
+facocer
+
+# ---- Mamifere din lume: primate ----
+maimuță
+cimpanzeu
+bonobo
+gorilă
+urangutan = orangutan
+gibon
+siamang
+babuin = pavian
+mandril
+gelada
+macac
+maimuță urlătoare
+maimuță păianjen
+capucin
+tamarin
+uistiti = marmoset
+lemur
+indri
+sifaka
+aye-aye
+galago
+loris
+tarsier
+
+# ---- Mamifere din lume: rozătoare, iepuri, insectivore, lilieci ----
+capibara
+chinchilla
+degu
+cobai = porcușor de Guineea
+hamster
+hamster auriu = hamster sirian
+gerbil
+lemming
+aguti
+paca
+porc spinos
+veveriță zburătoare
+câine de prerie
+liliac vampir = vampir
+vulpe zburătoare
+
+# ---- Mamifere din lume: xenartre, pangolini, porci furnicari ----
+leneș
+unau = leneș cu două degete
+furnicar
+armadillo = tatu
+pangolin
+porc furnicar = aardvark
+
+# ---- Mamifere din lume: marsupiale, monotreme ----
+cangur
+wallaby
+wombat
+koala
+diavol tasmanian
+oposum = opossum
+quokka
+bandicoot
+numbat
+ornitorinc
+echidnă
+
+# ---- Animale domestice: cal, măgar ----
+cal
+iapă
+armăsar
+mânz
+mânză
+cârlan
+noaten
+ponei
+măgar
+măgăriță
+catâr
+
+# ---- Animale domestice: bovine ----
+vacă
+bou
+taur
+vițel
+vițea
+juncă = junincă
+junc
+mânzat
+bivoliță
+
+# ---- Animale domestice: ovine, caprine ----
+oaie
+berbec
+miel
+mioară
+capră
+țap
+ied
+iadă
+
+# ---- Animale domestice: porcine ----
+porc
+scroafă
+vier
+purcel
+purcea
+godac
+
+# ---- Animale domestice: câine, pisică, altele ----
+câine
+cățea
+cățel
+cățelandru
+dulău
+zăvod
+pisică = mâță
+motan = cotoi
+pisoi
+iepure de casă
+uriaș belgian
+
+# ---- Rase de câini ----
+ciobănesc
+ciobănesc german = păstor german = german shepherd
+ciobănesc românesc carpatin = carpatin
+ciobănesc mioritic = mioritic
+ciobănesc de Bucovina
+ciobănesc belgian = malinois
+ciobănesc caucazian
+ciobănesc australian
+ciobănesc alb elvețian
+ciobănesc de Asia Centrală = alabai
+ciobănesc anatolian
+ciobănesc de Pirinei
+kangal
+komondor
+kuvasz
+puli
+beauceron
+briard
+kelpie
+collie
+border collie
+bearded collie
+shetland = sheltie = ciobănesc de Shetland
+corgi
+bobtail
+retriever
+labrador = labrador retriever
+golden retriever
+husky siberian = husky
+malamut = malamut de Alaska
+samoyed
+eurasier
+laika
+akita = akita inu
+shiba inu
+chow chow
+bulldog
+bulldog francez
+bulldog englez
+boxer
+rottweiler
+doberman = dobermann
+pinscher
+pinscher pitic
+dog german = dog
+dog argentinian
+dogue de Bordeaux = dog de Bordeaux
+mastiff
+mastiff tibetan
+bullmastiff
+cane corso
+fila brasileiro
+saint bernard = sfântul bernard
+newfoundland = terra nova
+leonberger
+bouvier bernez = bernez
+hovawart
+dalmațian
+beagle
+basset = basset hound
+bloodhound
+foxhound
+copoi
+copoi ardelenesc
+rhodesian ridgeback
+ogar = greyhound
+ogar afgan
+ogar rusesc = borzoi
+ogar irlandez = irish wolfhound
+ogar scoțian = deerhound
+ogar italian
+saluki
+whippet
+basenji
+prepelicar
+spaniel
+cocker = cocker spaniel
+springer spaniel
+epagneul breton
+setter
+setter irlandez
+setter englez
+setter gordon
+pointer
+vizsla
+weimaraner
+brac german
+drahthaar
+teckel = dachshund
+terrier
+jack russell = jack russell terrier
+fox terrier
+jagdterrier
+airedale terrier
+cairn terrier
+west highland white terrier = westie
+scottish terrier
+bull terrier
+pitbull = american pit bull terrier
+amstaff = american staffordshire terrier
+boston terrier
+yorkshire = yorkshire terrier
+schnauzer
+schnauzer uriaș
+schnauzer pitic
+pudel = caniche = poodle
+bichon
+bichon maltez = maltez
+havanez
+pekinez = pechinez
+chihuahua
+pomeranian
+spitz
+papillon
+cavalier king charles
+lhasa apso
+shih tzu
+pug = mops
+shar pei
+
+# ---- Rase de pisici ----
+europeană
+persană = pisică persană
+siameză
+birmaneză = sacra de Birmania
+burmeză
+bengaleză = bengal
+sfinx = sphynx
+maine coon
+ragdoll
+british shorthair = britanică
+scottish fold
+norvegiană de pădure
+siberiană
+abisiniană
+rusă albastră = albastru de Rusia
+savannah
+devon rex
+cornish rex
+angora = angora turcească
+himalayană
+balineză
+manx
+chartreux
+munchkin
+
+# ---- Rase de cai ----
+pursânge arab = arab = cal arab
+pursânge englez
+lipițan
+huțul
+mustang
+friz = cal frizian
+andaluz
+lusitan
+appaloosa
+quarter horse
+hanoverian
+trakehner
+trăpaș
+nonius
+gidran
+semigreu
+ardenez
+percheron
+shire
+clydesdale
+haflinger
+fjord
+akhal-teke
+ponei shetland
+cal islandez
+
+# ---- Rase de bovine ----
+bălțată românească = bălțată
+sură de stepă
+brună de Maramureș = brună
+pinzgau
+holstein = holstein-friză
+angus = aberdeen angus
+hereford
+limousine
+charolais
+simmental
+jersey
+highland
+wagyu
+brahman
+
+# ---- Rase de porci ----
+bazna
+mangalița
+duroc
+landrace
+marele alb
+pietrain
+hampshire
+porc vietnamez
+
+# ---- Rase de oi și capre ----
+țurcană
+țigaie
+merinos
+karakul
+spancă
+rațca
+suffolk
+carpatină
+saanen
+boer

@@ -1,0 +1,1049 @@
+# Munți — vârfuri și vulcani din lume (în afara României)
+# Format: Canonic = variantă1 = variantă2
+
+# --- Himalaya, Karakorum, Hindukuș ---
+Everest = Chomolungma = Qomolangma = Sagarmatha = Mount Everest
+K2 = Chogori = Godwin-Austen = Mount Godwin-Austen
+Kangchenjunga = Kanchenjunga
+Lhotse
+Makalu
+Cho Oyu
+Dhaulagiri
+Manaslu
+Nanga Parbat = Diamir
+Annapurna
+Gasherbrum I = Hidden Peak
+Gasherbrum II
+Gasherbrum IV
+Broad Peak = Falchan Kangri
+Shishapangma = Xixabangma = Gosainthan
+Gyachung Kang
+Ama Dablam
+Nuptse
+Pumori
+Changtse
+Machapuchare = Machhapuchhre
+Baruntse
+Kangtega
+Thamserku
+Island Peak = Imja Tse
+Mera Peak
+Lobuche
+Yala Peak
+Cholatse
+Langtang Lirung
+Himalchuli
+Ngadi Chuli
+Jannu = Kumbhakarna
+Chamlang
+Gauri Shankar
+Melungtse
+Tilicho Peak
+Tukuche Peak
+Api
+Saipal
+Kailash = Kailas = Mount Kailash
+Gurla Mandhata = Naimona'nyi
+Nanda Devi
+Kamet
+Trisul
+Chaukhamba
+Shivling
+Changabang
+Nilkantha = Neelkanth
+Satopanth
+Bandarpunch
+Nun Kun
+Saser Kangri
+Stok Kangri
+Kabru
+Siniolchu
+Jomolhari = Chomolhari
+Gangkhar Puensum
+Kula Kangri
+Namcha Barwa
+Gyala Peri
+Rakaposhi
+Masherbrum
+Distaghil Sar
+Kunyang Chhish
+Batura Sar
+Kanjut Sar
+Saltoro Kangri
+Haramosh
+Ultar Sar
+Ulugh Muztagh
+Spantik = Golden Peak
+Laila Peak
+Trango Towers
+Tirich Mir
+Noshaq = Noshak
+Istor-o-Nal
+Saraghrar
+
+# --- Asia Centrală, Pamir, Tian Shan, Altai, Siberia ---
+Muztagh Ata = Muztagata
+Kongur Tagh = Kongur
+Bogda Peak = Bogda Feng
+Pobeda = Jengish Chokusu = Pik Pobedy = Tomur
+Khan Tengri
+Vârful Lenin = Pik Lenin = Ibn Sina Peak
+Ismoil Somoni = Vârful Comunismului = Pik Kommunizma
+Korzhenevskaya = Pik Korzhenevskoy
+Talgar
+Belukha = Beluha
+Munku-Sardyk
+Khüiten = Khüiten Peak
+Otgontenger
+Narodnaia = Narodnaya
+Yamantau
+Manaraga
+Iremel
+Konzhakovsky Kamen
+Denezhkin Kamen
+Kliucevskaia = Klyuchevskaya Sopka = Kliucevskaia Sopka
+Koryaksky
+Shiveluch = Sheveluch
+Tolbachik
+Avachinsky = Avacinski
+Kronotsky
+Bezymianny
+Karymsky
+Mutnovsky
+Gorely
+Ichinsky
+Ushkovsky
+Zhupanovsky
+Kizimen
+Alaid
+Tyatya
+Sarychev Peak
+Ebeko
+Chikurachki
+
+# --- Caucaz, Crimeea, Anatolia, Iran, Orientul Apropiat ---
+Elbrus
+Kazbek = Mkinvartsveri
+Dîhtau = Dykh-Tau
+Șhara = Shkhara
+Koshtan-Tau
+Dzhangi-Tau = Janga
+Ușba = Ushba
+Tetnuldi
+Tebulosmta
+Fisht
+Oshten
+Aragats
+Bazardüzü
+Shahdag
+Roman-Koș = Roman-Kosh
+Ai-Petri
+Chatyr-Dag
+Demerdji
+Ararat = Ağrı Dağı = Masis
+Ararat Mic = Little Ararat = Küçük Ağrı
+Erciyes
+Hasan Dağı
+Nemrut
+Süphan
+Kaçkar
+Uludağ
+Tendürek
+Cilo = Uludoruk
+Damavand = Demavend
+Sabalan
+Sahand
+Alvand
+Tochal
+Zard Kuh
+Dena
+Taftan
+Bazman
+Hezar
+Hermon = Mount Hermon
+Muntele Sinai = Mount Sinai = Jebel Musa = Jabal Musa
+Jabal Katrina = Mount Catherine
+Muntele Tabor = Mount Tabor
+Muntele Carmel = Mount Carmel
+Muntele Nebo = Mount Nebo
+Muntele Gerizim = Mount Gerizim
+Muntele Meron = Mount Meron
+Muntele Sion = Mount Zion
+Muntele Măslinilor = Mount of Olives
+Jebel Rum = Jabal Ram
+Jabal Umm ad Dami
+Jebel Shams
+Jebel Akhdar
+Jebel Hafeet
+
+# --- Alpi ---
+Mont Blanc = Monte Bianco
+Mont Blanc du Tacul
+Mont Maudit
+Dôme du Goûter
+Aiguille du Midi
+Aiguille Verte
+Les Drus = Aiguille du Dru
+Grandes Jorasses
+Dent du Géant
+Aiguille de Bionnassay
+Aiguille d'Argentière
+Mont Dolent
+Monte Rosa = Dufourspitze = Punta Dufour
+Lyskamm = Liskamm
+Castor
+Pollux
+Breithorn
+Matterhorn = Cervino = Monte Cervino = Mont Cervin
+Dent Blanche
+Dent d'Hérens
+Weisshorn
+Zinalrothorn
+Zumsteinspitze
+Obergabelhorn
+Dom
+Täschhorn
+Alphubel
+Allalinhorn
+Rimpfischhorn
+Strahlhorn
+Weissmies
+Lagginhorn
+Fletschhorn
+Bietschhorn
+Aletschhorn
+Fiescherhorn = Gross Fiescherhorn
+Faulhorn
+Finsteraarhorn
+Jungfrau
+Mönch
+Eiger
+Schreckhorn
+Lauteraarhorn
+Wetterhorn
+Blüemlisalp
+Balmhorn
+Wildstrubel
+Wildhorn
+Les Diablerets
+Grand Combin
+Mont Vélan
+Dents du Midi = Dent du Midi
+Pilatus
+Rigi
+Titlis
+Säntis
+Tödi
+Piz Bernina
+Piz Palü
+Piz Roseg
+Piz Morteratsch
+Piz Badile
+Piz Buin
+Piz Kesch
+Piz Linard
+Ortler = Ortles
+Königspitze = Gran Zebrù
+Cevedale = Monte Cevedale
+Wildspitze
+Weisskugel
+Similaun
+Zuckerhütl
+Olperer
+Hochfeiler
+Grossglockner
+Grossvenediger
+Ankogel
+Hochalmspitze
+Kitzsteinhorn
+Dachstein = Hoher Dachstein
+Hochkönig
+Watzmann
+Hochkalter
+Hoher Göll
+Untersberg
+Jenner
+Zugspitze
+Alpspitze
+Hochvogel
+Nebelhorn
+Wendelstein
+Birkkarspitze
+Parseierspitze
+Schneeberg
+Ötscher
+Hochschwab
+Zirbitzkogel
+Dobratsch
+Marmolada
+Antelao
+Pelmo
+Civetta
+Sorapiss
+Cristallo = Monte Cristallo
+Tofana di Mezzo
+Tre Cime di Lavaredo = Drei Zinnen
+Sassolungo = Langkofel
+Piz Boè
+Sass Pordoi
+Catinaccio = Rosengarten
+Latemar
+Sciliar = Schlern
+Cima Tosa
+Cima Brenta
+Adamello
+Presanella
+Monte Disgrazia
+Grigna
+Resegone
+Monte Baldo
+Monte Grappa
+Pasubio
+Gran Paradiso
+Grivola
+Monviso = Monte Viso
+Argentera
+Rocciamelone
+Jôf di Montasio = Montasio
+Triglav
+Mangart
+Grintovec
+Jalovec
+Škrlatica
+Krn
+Kanin
+Barre des Écrins
+La Meije
+Mont Pelvoux
+Mont Aiguille
+Grande Casse
+Mont Pourri
+Mont Thabor
+La Tournette
+Salève = Mont Salève
+
+# --- Franța, Germania, Europa Centrală ---
+Mont Ventoux
+Puy de Dôme
+Puy de Sancy
+Puy Mary
+Plomb du Cantal
+Mont Mézenc
+Mont Gerbier de Jonc
+Mont Aigoual
+Mont Lozère
+Grand Ballon
+Ballon d'Alsace
+Hohneck
+Crêt de la Neige
+Mont Pilat
+Montagne Sainte-Victoire = Mont Sainte-Victoire
+Pic de Bugarach
+Brocken
+Feldberg
+Grosser Feldberg
+Fichtelberg
+Wasserkuppe
+Grosser Arber
+Rachel = Grosser Rachel
+Lusen
+Kahler Asten
+Belchen
+Drachenfels
+Śnieżka = Sněžka = Schneekoppe
+Śnieżnik
+Praděd
+Lysá hora
+Radhošť
+Ještěd
+Klínovec
+Milešovka
+Říp
+Plechý
+Gerlachovský štít = Gerlach
+Lomnický štít
+Ľadový štít
+Slavkovský štít
+Vysoká
+Rysy
+Kriváň
+Ďumbier
+Chopok
+Kráľova hoľa
+Veľký Choč = Choč
+Veľký Rozsutec
+Sitno
+Babia Góra = Babia hora
+Tarnica
+Giewont
+Kasprowy Wierch
+Świnica
+Turbacz
+Pilsko
+Skrzyczne
+Łysica
+Ślęża
+Hoverla = Goverla
+Petros
+Brebeneskul
+Kékes
+Galya-tető
+Istállós-kő
+Dobogó-kő
+Írott-kő
+Csóványos
+Badacsony
+Gellért-hegy
+
+# --- Peninsula Iberică, Pirinei ---
+Aneto = Pico de Aneto
+Posets
+Monte Perdido = Mont Perdu
+Vignemale
+Pic du Midi de Bigorre = Pic du Midi
+Pic du Midi d'Ossau
+Canigou = Canigó
+Balaïtous
+Pica d'Estats
+Puigmal
+Pedraforca
+Carlit = Pic Carlit
+Néouvielle
+Maladeta
+Perdiguero
+Pic d'Anie
+Orhi = Ori
+Montserrat
+Mulhacén
+Veleta
+Alcazaba
+Torre Cerredo
+Naranjo de Bulnes = Picu Urriellu
+Peña Ubiña
+Peña Vieja
+Moncayo
+Almanzor = Pico Almanzor
+Peñalara
+Aitana
+Peñagolosa
+Gorbea = Gorbeia
+Anboto
+Puig Major
+Torre
+Pico = Montanha do Pico = Ponta do Pico
+Pico Ruivo
+Pico do Arieiro
+Teide = Pico del Teide
+Roque de los Muchachos
+Roque Nublo
+Pico de las Nieves
+Cumbre Vieja
+
+# --- Italia ---
+Vezuviu = Vesuviu = Vesuvio = Vesuvius
+Monte Somma
+Etna = Mongibello
+Stromboli
+Vulcano
+Monte Epomeo
+Monte Titano
+Monte Cimone
+Corno Grande
+Monte Amaro
+Monte Vettore
+Monte Terminillo
+Monte Velino
+Monte Falterona
+Monte Amiata
+Monte Conero
+Monte Vulture
+Pollino = Monte Pollino
+Montalto
+Pizzo Carbonara
+Punta La Marmora
+Monte Limbara
+Monte Cinto = Cinto
+Monte Rotondo
+Monte d'Oro
+Paglia Orba
+
+# --- Insulele Britanice ---
+Ben Nevis
+Ben Macdui
+Braeriach
+Cairn Gorm
+Cairn Toul
+Ben Lomond
+Ben Lawers
+Schiehallion
+Buachaille Etive Mòr
+Lochnagar
+Liathach
+An Teallach
+Suilven
+Snowdon = Yr Wyddfa
+Cadair Idris
+Pen y Fan
+Tryfan
+Glyder Fawr
+Scafell Pike
+Scafell
+Helvellyn
+Skiddaw
+Great Gable
+Blencathra
+Cross Fell
+Kinder Scout
+Pen-y-ghent
+Ingleborough
+Whernside
+Carrauntoohil
+Slieve Donard
+Lugnaquilla
+Mweelrea
+Errigal
+Croagh Patrick
+Brandon = Mount Brandon
+Galtymore
+Snaefell
+
+# --- Scandinavia, Islanda, Arctica, Baltice ---
+Galdhøpiggen
+Glittertind
+Snøhetta
+Store Skagastølstind = Storen
+Gaustatoppen
+Fløyen
+Romsdalshorn
+Stetind
+Kebnekaise
+Sarektjåkkå
+Åreskutan
+Halti = Háldi
+Saana
+Hvannadalshnúkur
+Öræfajökull
+Hekla
+Eyjafjallajökull
+Katla
+Askja
+Krafla
+Grímsvötn
+Bárðarbunga
+Laki = Lakagígar
+Herðubreið
+Snæfellsjökull
+Esja
+Hengill
+Fagradalsfjall
+Eldfell
+Beerenberg
+Newtontoppen
+Gunnbjørn Fjeld
+Suur Munamägi
+Vaalserberg
+Gaizinkalns
+Aukštojas
+
+# --- Balcani ---
+Mytikas
+Smolikas
+Gamila
+Grammos
+Psiloritis = Ida
+Muntele Athos = Mount Athos
+Musala
+Vihren
+Botev
+Malyovitsa
+Shipka
+Buzludzha
+Golyam Perelik
+Cherni Vrah
+Vitosha
+Kom
+Midžor = Midzhur
+Ruen
+Golem Korab = Korab = Maja e Korabit
+Titov Vrh
+Pelister
+Solunska Glava
+Ljuboten
+Jezerca = Maja Jezercë
+Tomorr
+Dajti
+Bobotov Kuk
+Durmitor
+Lovćen
+Maglić
+Dinara
+Biokovo
+Velebit
+Učka
+Sljeme
+Risnjak
+Vodno
+Vlašić
+Orjen
+
+# --- Africa ---
+Kilimanjaro = Kilimandjaro
+Uhuru = Uhuru Peak
+Muntele Kenya = Mount Kenya = Kirinyaga
+Stanley = Mount Stanley = Margherita Peak
+Speke = Mount Speke
+Meru = Mount Meru
+Elgon = Mount Elgon
+Longonot
+Suswa
+Menengai
+Karisimbi
+Muhabura
+Sabyinyo = Sabinyo
+Bisoke = Visoke
+Mikeno
+Nyiragongo
+Nyamuragira = Nyamulagira
+Ol Doinyo Lengai
+Ras Dashen = Ras Dejen
+Erta Ale
+Kinyeti
+Jebel Marra
+Toubkal = Jbel Toubkal
+Jbel Ayachi
+Ighil M'Goun = M'Goun
+Ouanoukrim
+Tahat
+Emi Koussi
+Tarso Toussidé
+Hombori Tondo
+Bintumani = Loma Mansa
+Muntele Camerun = Mount Cameroon = Fako
+Oku = Mount Oku
+Pico Basilé
+Pico de São Tomé
+Fogo = Pico do Fogo
+Mulanje = Sapitwa
+Namuli = Monte Namuli
+Binga = Monte Binga
+Thabana Ntlenyana
+Mafadi
+Mont-aux-Sources
+Champagne Castle
+Table Mountain
+Lion's Head
+Devil's Peak
+Brandberg
+Spitzkoppe
+Maromokotro
+Pic Boby = Imarivolanitra
+Piton de la Fournaise
+Piton des Neiges
+Piton de la Petite Rivière Noire
+Morne Seychellois
+Karthala
+
+# --- America de Nord ---
+Denali = McKinley = Mount McKinley
+Foraker = Mount Foraker
+Muntele Hunter = Mount Hunter
+Muntele Hayes = Mount Hayes
+Bona = Mount Bona
+Blackburn = Mount Blackburn
+Sanford = Mount Sanford
+Wrangell = Mount Wrangell
+Redoubt = Mount Redoubt
+Spurr = Mount Spurr
+Iliamna
+Pavlof
+Shishaldin
+Katmai = Mount Katmai
+Novarupta
+Aniakchak
+Okmok
+Veniaminof = Mount Veniaminof
+Logan = Mount Logan
+Saint Elias = Mount Saint Elias = Mount St. Elias
+Lucania = Mount Lucania
+Vancouver = Mount Vancouver
+Fairweather = Mount Fairweather
+Waddington = Mount Waddington
+Robson = Mount Robson
+Columbia = Mount Columbia
+Assiniboine = Mount Assiniboine
+Muntele Temple = Mount Temple
+Muntele Edith Cavell = Mount Edith Cavell
+Muntele Rundle = Mount Rundle
+Muntele Athabasca = Mount Athabasca
+Muntele Garibaldi = Mount Garibaldi
+Muntele Thor = Mount Thor
+Muntele Asgard = Mount Asgard
+Barbeau Peak
+Caubvick = Mount Caubvick = Mont D'Iberville
+Mont Jacques-Cartier
+Mont Tremblant
+Mont Royal
+Rainier = Mount Rainier
+Hood = Mount Hood
+Shasta = Mount Shasta
+Saint Helens = Mount St. Helens = Mount Saint Helens
+Adams = Mount Adams
+Baker = Mount Baker
+Jefferson = Mount Jefferson
+Lassen Peak = Lassen
+Glacier Peak
+Three Sisters
+Mazama = Mount Mazama
+Muntele Olympus = Mount Olympus
+Whitney = Mount Whitney
+Half Dome
+El Capitan
+Muntele Tamalpais = Mount Tamalpais
+Muntele Diablo = Mount Diablo
+San Gorgonio = Mount San Gorgonio
+Elbert = Mount Elbert
+Maroon Bells
+Pikes Peak
+Longs Peak
+Grand Teton
+Uncompahgre Peak
+Gannett Peak
+Borah Peak
+Kings Peak
+Wheeler Peak
+Humphreys Peak
+Devils Tower
+Black Elk Peak = Harney Peak
+Muntele Rushmore = Mount Rushmore
+Muntele Washington = Mount Washington
+Mitchell = Mount Mitchell
+Katahdin = Mount Katahdin
+Marcy = Mount Marcy
+Mansfield = Mount Mansfield
+Monadnock = Mount Monadnock
+Clingmans Dome = Kuwohi
+Stone Mountain
+Mauna Kea
+Mauna Loa
+Kīlauea
+Haleakalā
+Hualālai
+Diamond Head
+
+# --- Mexic, America Centrală, Caraibe ---
+Popocatépetl
+Iztaccíhuatl
+Pico de Orizaba = Citlaltépetl = Orizaba
+Nevado de Toluca = Xinantécatl
+Paricutín
+Colima = Volcán de Colima
+Nevado de Colima
+La Malinche = Matlalcueitl
+Cofre de Perote
+El Chichón
+Tacaná
+Tajumulco
+Acatenango
+Fuego = Volcán de Fuego
+Pacaya
+Santa María
+Santiaguito
+Zunil
+Agua = Volcán de Agua
+Atitlán
+Izalco
+Santa Ana = Ilamatepec
+Chaparrastique = San Miguel
+Momotombo
+Masaya
+Concepción
+Maderas
+Cerro Negro
+Telica
+San Cristóbal
+Mombacho
+Arenal
+Irazú
+Poás
+Turrialba
+Rincón de la Vieja
+Chirripó
+Barú
+Pelée = Mont Pelée = Montagne Pelée
+Soufrière = La Grande Soufrière
+La Soufrière
+Soufrière Hills
+Pico Duarte
+Blue Mountain Peak
+Morne Diablotins
+Liamuiga = Mount Liamuiga
+Gros Piton
+Pico Turquino
+El Yunque
+Cerro de Punta
+Mount Scenery
+
+# --- America de Sud ---
+Aconcagua
+Ojos del Salado
+Monte Pissis
+Nevado Tres Cruces
+Incahuasi
+Cerro Bonete
+Llullaillaco
+Licancabur
+Láscar
+Uturuncu
+Tupungato
+Mercedario
+El Plomo = Cerro El Plomo
+Marmolejo
+Domuyo
+Copahue
+Lanín
+Villarrica
+Llaima
+Osorno
+Calbuco
+Puyehue
+Chaitén
+Cerro Hudson
+Yate
+Tronador
+Cerro Catedral
+Cerro Champaquí
+Monte San Valentín
+Fitz Roy = Chaltén = Cerro Chaltén
+Cerro Torre
+Cerro Paine Grande
+Torres del Paine
+Cuernos del Paine
+Monte Sarmiento
+Monte Darwin
+Usborne = Mount Usborne
+Huascarán = Nevado Huascarán
+Huandoy
+Chopicalqui
+Nevado Pisco
+Artesonraju
+Alpamayo
+Yerupajá
+Siula Grande
+Jirishanca
+Coropuna
+Ampato
+Chachani
+Misti = El Misti
+Ubinas
+Salcantay = Salkantay
+Ausangate
+Huayna Picchu
+Vinicunca
+Yucamane
+Illimani
+Sajama = Nevado Sajama
+Illampu
+Huayna Potosí
+Ancohuma
+Parinacota
+Chimborazo
+Cotopaxi
+Cayambe
+Antisana
+Tungurahua
+Sangay
+Reventador
+Pichincha = Guagua Pichincha
+Illiniza
+El Altar
+Nevado del Ruiz
+Nevado del Huila
+Nevado del Tolima
+Galeras
+Puracé
+Pico Cristóbal Colón
+Pico Simón Bolívar
+Pico Bolívar
+Pico Humboldt
+Roraima = Monte Roraima = Mount Roraima
+Auyantepui
+Kukenán
+Pico da Neblina
+Pico 31 de Março
+Pico da Bandeira
+Agulhas Negras = Pico das Agulhas Negras = Itatiaia
+Pão de Açúcar = Sugarloaf = Căpățâna de Zahăr
+Corcovado
+Pedra da Gávea
+
+# --- Asia de Est ---
+Fuji = Fujiyama = Fuji-san
+Asama
+Aso
+Sakurajima
+Unzen
+Ontake
+Yarigatake = Yari
+Hotaka = Hotakadake
+Kita-dake
+Tateyama
+Hakusan
+Hakkoda
+Usu
+Shōwa-shinzan
+Iwate
+Chōkai
+Zaō
+Bandai
+Nasu
+Myōkō
+Norikura
+Daisen
+Kirishima
+Kuju
+Mihara
+Yōtei
+Asahidake
+Rishiri
+Tsurugi = Tsurugidake
+Hiei
+Baekdu = Paektu = Changbai = Changbaishan
+Hallasan
+Seoraksan
+Jirisan
+Bukhansan
+Taishan
+Huashan
+Huangshan
+Emei = Emei Shan
+Wutai = Wutai Shan
+Songshan
+Hengshan
+Lushan
+Wudang
+Jiuhua = Jiuhua Shan
+Fanjingshan
+Victoria Peak
+Gongga = Minya Konka
+Siguniang
+Yulong = Jade Dragon Snow Mountain
+Meili = Kawagebo = Kawagarbo
+Amne Machin = Anyemaqen
+Yushan = Jade Mountain
+Xueshan
+
+# --- Asia de Sud și Sud-Est ---
+Pidurutalagala
+Adam's Peak = Sri Pada
+Anamudi
+Doddabetta
+Girnar
+Guru Shikhar
+Hkakabo Razi
+Popa = Mount Popa
+Doi Inthanon
+Doi Suthep
+Phou Bia
+Phnom Aural
+Fansipan = Phan Xi Păng
+Gunung Tahan = Tahan
+Kinabalu = Gunung Kinabalu
+Krakatau = Krakatoa
+Anak Krakatau
+Merapi
+Marapi
+Bromo
+Semeru
+Rinjani
+Agung
+Batur
+Tambora
+Kerinci
+Sinabung
+Galunggung
+Kelud = Kelut
+Papandayan
+Slamet
+Lawu
+Arjuno
+Ijen
+Raung
+Tangkuban Perahu
+Gede
+Salak
+Sumbing
+Sundoro
+Lokon
+Soputan
+Gamalama
+Dukono
+Lewotobi
+Egon
+Kelimutu
+Pinatubo
+Mayon
+Taal
+Apo
+Pulag
+Kanlaon
+Bulusan
+Hibok-Hibok
+Halcon
+Makiling
+Banahaw
+Arayat
+Puncak Jaya = Piramida Carstensz = Carstensz
+Puncak Trikora = Trikora
+Puncak Mandala = Mandala
+Wilhelm = Mount Wilhelm
+Giluwe = Mount Giluwe
+Tavurvur
+Lamington = Mount Lamington
+Ulawun
+Bagana
+Manam
+
+# --- Australia, Oceania, Antarctica ---
+Kosciuszko = Mount Kosciuszko
+Townsend = Mount Townsend
+Bogong = Mount Bogong
+Feathertop = Mount Feathertop
+Uluru = Ayers Rock
+Kata Tjuta = Olgas = Mount Olga
+Cradle Mountain
+Ossa = Mount Ossa
+Muntele Wellington = Mount Wellington = Kunanyi
+Muntele Zeil = Mount Zeil
+Bartle Frere = Mount Bartle Frere
+Wollumbin = Mount Warning
+Bluff Knoll
+Muntele Augustus = Mount Augustus
+Cook = Aoraki = Mount Cook
+Tasman = Mount Tasman
+Aspiring = Mount Aspiring = Tititea
+Mitre Peak
+Ruapehu
+Taranaki = Egmont = Mount Taranaki
+Ngauruhoe
+Tongariro
+Rangitoto
+Tarawera
+Eden = Mount Eden
+Whakaari = White Island
+Yasur
+Popomanaseu
+Orohena
+Lamlam
+Panié = Mont Panié
+Silisili
+Tomanivi
+Vinson = Mount Vinson = Vinson Massif
+Erebus = Mount Erebus
+Terror = Mount Terror
+Kirkpatrick = Mount Kirkpatrick
+Tyree = Mount Tyree
+Shinn = Mount Shinn
+Sidley = Mount Sidley
+Markham = Mount Markham
+Siple = Mount Siple
+Muntele Jackson = Mount Jackson

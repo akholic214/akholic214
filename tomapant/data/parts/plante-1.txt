@@ -1,0 +1,334 @@
+# Plante — arbori și arbuști (specii indigene din România, pomi fructiferi,
+# arbori și arbuști ornamentali, arbori din alte continente, liane lemnoase).
+# Ierburile, florile, legumele, fructele ca atare și ciupercile sunt în alte fișiere.
+# Format: canonic = variantă = variantă
+
+# ---- Foioase indigene: stejari, fag, carpen ----
+stejar = stejar pedunculat
+gorun
+gorun ardelean
+gorun auriu
+cer
+gârniță
+stejar pufos
+stejar brumăriu
+stejar roșu = stejar american
+stejar de baltă
+stejar de plută
+stejar verde
+fag
+fag oriental
+carpen
+cărpiniță
+
+# ---- Frasini, ulmi, tei ----
+frasin
+frasin de câmp
+frasin pufos
+frasin american
+frasin de Pennsylvania
+mojdrean
+ulm
+ulm de câmp
+ulm de munte
+ulm de Turkestan
+velniș = vânj
+tei
+tei pucios
+tei argintiu = tei alb
+tei cu frunza mare
+
+# ---- Paltini, arțari ----
+paltin = paltin de munte
+paltin de câmp
+arțar
+jugastru
+jugastru de Banat
+arțar tătărăsc = glădiș
+arțar american
+arțar japonez
+arțar de zahăr
+arțar roșu
+arțar argintiu
+
+# ---- Plopi, sălcii, arini, mesteceni ----
+plop
+plop alb
+plop negru
+plop tremurător = plop de munte
+plop cenușiu
+plop euramerican = plop canadian = plop hibrid
+plop piramidal
+salcie
+salcie albă
+salcie căprească = iovă
+salcie plesnitoare
+salcie plângătoare
+salcie pitică
+răchită
+răchită roșie
+mlajă
+zălog = salcie cenușie
+anin = arin
+anin negru = arin negru
+anin alb = arin alb
+anin verde = arin verde = anin de munte = liliac de munte
+mesteacăn
+mesteacăn pufos
+mesteacăn pitic
+
+# ---- Alți arbori foioși din România (indigeni sau cultivați de mult) ----
+castan = castan comestibil = castan dulce
+castan porcesc = castan sălbatic
+nuc
+nuc negru = nuc american
+nuc cenușiu
+dud = agud = frăgar
+dud alb
+dud negru
+platan
+salcâm = acaț = bagrin
+salcâm japonez = sofora
+salcâm galben = lemnul bobului
+caragană
+glădiță
+oțetar
+cenușar = cenușer = ailant
+sălcioară
+scumpie
+mălin
+mălin american
+sâmbovină
+scoruș
+scoruș de munte = scoruș păsăresc
+scoruș domestic
+sorb
+cireș păsăresc = cireș sălbatic
+păr pădureț = păr sălbatic
+măr pădureț = măr sălbatic
+vișin turcesc
+alun
+alun turcesc
+corn
+sânger
+lemn câinesc = lemnul câinesc
+soc = soc negru
+soc roșu
+călin
+dârmoz = dârmox
+
+# ---- Arbuști indigeni ----
+păducel = gherghinar
+porumbar
+măceș = trandafir sălbatic = răsură
+salbă moale
+salbă râioasă
+clocotiș
+spinul cerbului = verigariu = verigar
+crușin = pațachină
+tulichină = piperul lupului
+taulă
+cununiță = spirea
+caprifoi
+cătină = cătină albă
+cătină roșie
+cătină mică
+cătină de garduri = goji
+dracilă = berberis
+bășicoasă
+păliur
+liliac = iorgovan
+liliac transilvănean
+mur
+zmeur
+coacăz
+coacăz negru
+coacăz roșu = strugurel
+coacăz de munte
+agriș
+afin
+afin vânăt
+merișor
+răchițele
+smirdar = rododendron = bujor de munte
+iederă albă
+bârcoace = cotoneaster
+hurmuz
+migdal pitic
+drob
+drobiță
+grozamă
+iarbă neagră
+ghimpe
+cârcel
+aronia = scoruș negru
+
+# ---- Liane și plante lemnoase cățărătoare ----
+iederă
+curpen = curpen de pădure
+curpen de munte
+hamei
+lăsnicior
+vâsc
+vâsc de stejar
+viță de vie
+lăuruscă = viță sălbatică
+viță de Canada = viță canadiană
+glicină = wisteria
+kiwi = actinidia
+bougainvillea
+
+# ---- Conifere ----
+molid = molid comun = brad roșu
+molid argintiu = molid înțepător
+molid de Serbia = molid sârbesc
+brad
+brad alb
+brad argintiu
+brad de Caucaz = brad caucazian
+duglas = brad de Douglas
+pin
+pin silvestru = pin de pădure = pin roșu
+pin negru
+pin negru de Banat
+pin strob = pin neted
+pin umbrelă
+pin maritim
+pin de Alep
+pin de Himalaya
+jneapăn = jep = pin de munte
+zâmbru
+larice = zadă
+tisă
+ienupăr
+ienupăr de Virginia
+cetină de negi
+tuia = thuja = arborele vieții
+chiparos
+chiparos de baltă
+chiparos de Lawson
+cedru
+cedru de Liban
+cedru de Atlas
+cedru de Himalaya
+sequoia = secvoia
+arborele mamut = sequoia gigantică
+metasequoia
+araucaria
+ginkgo = ginkgo biloba = arborele pagodelor
+
+# ---- Pomi fructiferi ----
+măr
+păr
+prun
+cireș
+vișin
+cais
+zarzăr
+corcoduș = mirobolan
+piersic
+nectarin
+migdal
+gutui
+moșmon
+smochin
+rodiu = rodier
+măslin
+curmal = palmier de curmale = finic
+curmal japonez = kaki
+curmal chinezesc
+feijoa
+fistic
+roșcov = carob
+lămâi
+portocal
+portocal amar
+mandarin
+grepfrut = grapefruit
+pomelo
+kumquat
+lime
+chitru
+bergamotă
+
+# ---- Arbori și arbuști ornamentali ----
+catalpa
+magnolie
+paulownia = arborele prințesei
+arborele de lalele = liriodendron
+arborele de mătase = albizia
+arborele lui Iuda = arborele Iudei
+cireș japonez = sakura
+gutui japonez
+forsiția = forsythia
+iasomie = jasmin
+lămâiță
+weigela
+budleia = liliac de vară
+liliac indian = lagerstroemia
+mahonia
+laurocireș
+cimișir = buxus = merișor turcesc
+trandafir
+hibiscus
+hortensie
+azalee
+camelie
+gardenie
+oleandru = leandru
+laur = dafin
+mirt
+cerceluș = fucsia
+yucca
+dracena
+ficus
+
+# ---- Arbori din alte continente ----
+eucalipt
+acacia
+mimoză
+baobab
+mahon = acaju
+abanos
+tec = teak
+palisandru
+santal
+balsa
+jacaranda
+ylang-ylang
+sicomor
+terebint
+manglier
+banian
+arborele călătorului
+moringa
+hevea = arbore de cauciuc
+arbore de pâine = arborele de pâine
+cafea = arbore de cafea = cafeier
+cacao = arbore de cacao
+arbore de ceai = ceai
+arbore de cola
+arbore de camfor
+arbore de chinină
+arbore de tămâie
+arbore de smirnă
+arbore de argan = argan
+scorțișor = arbore de scorțișoară = scorțișoară
+cuișor = arbore de cuișoare = cuișoare
+arbore de nucșoară = nucșoară
+tamarin
+mango = manghier
+avocado
+papaia
+guava
+litchi
+caju = anacard
+pecan = nuc pecan
+hicori = hickory
+macadamia
+palmier
+cocotier = palmier de cocos
+palmier de ulei
+palmier pitic
+bananier
+bambus

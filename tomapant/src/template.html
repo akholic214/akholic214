@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f6f1e9" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#17151a" media="(prefers-color-scheme: dark)">
+<title>Țomapant</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23c2410c'/%3E%3Ctext x='32' y='46' font-size='40' font-family='sans-serif' font-weight='900' fill='white' text-anchor='middle'%3EȚ%3C/text%3E%3C/svg%3E">
+<style>
+/*__CSS__*/
+</style>
+</head>
+<body>
+<div id="app">
+
+  <section id="screen-start" class="screen active">
+    <div class="brand">
+      <h1>Țomapant</h1>
+      <div class="sub">Țări, Orașe, Munți, Ape, Plante, Animale, Nume, Total</div>
+    </div>
+    <div class="start-grid">
+      <div class="card stack">
+        <div>
+          <label class="field" for="player-name">Numele tău</label>
+          <input class="input" id="player-name" maxlength="24" autocomplete="nickname" placeholder="Cum te cheamă?">
+        </div>
+        <button class="btn primary big" id="btn-create" type="button">Creează o cameră</button>
+        <div class="row">
+          <button class="btn ghost" id="btn-help" type="button">Cum se joacă</button>
+          <button class="btn ghost" id="btn-resume" type="button" style="display:none">Reia jocul</button>
+        </div>
+      </div>
+      <div class="card stack">
+        <div>
+          <label class="field" for="join-code">Codul camerei</label>
+          <input class="input code" id="join-code" maxlength="5" autocomplete="off" autocorrect="off" autocapitalize="characters" spellcheck="false" placeholder="ABCDE">
+        </div>
+        <button class="btn primary big" id="btn-join" type="button">Intră într-o cameră</button>
+        <div id="start-error" class="notice error" style="display:none" role="alert"></div>
+      </div>
+    </div>
+    <p class="center muted small" style="margin-top:16px">2 până la 5 jucători, fiecare pe telefonul lui. Fără cont, fără instalare.</p>
+  </section>
+
+  <section id="screen-lobby" class="screen">
+    <div class="topbar"><span class="brand-small">Țomapant</span><button class="btn ghost" id="lobby-leave" type="button">Ieși</button></div>
+    <div class="start-grid">
+      <div class="card stack">
+        <h2>Codul camerei</h2>
+        <div class="room-code" id="room-code" aria-live="polite">·····</div>
+        <p class="muted small center">Trimite-i codul prietenului tău</p>
+        <div class="row">
+          <button class="btn" id="btn-copy-code" type="button">Copiază codul</button>
+          <button class="btn" id="btn-share-link" type="button" style="display:none">Trimite linkul</button>
+        </div>
+        <div id="lobby-link" class="small muted" style="display:none; word-break: break-all"></div>
+        <div>
+          <h3>Jucători</h3>
+          <ul class="players" id="lobby-players"></ul>
+          <p class="muted small" id="lobby-wait" style="margin-top:8px">Se așteaptă adversarul...</p>
+        </div>
+      </div>
+      <div class="card stack">
+        <h2>Setări</h2>
+        <div class="settings" id="settings">
+          <div class="set"><label for="set-round">Durata rundei</label>
+            <select id="set-round"><option value="60">60 secunde</option><option value="90">90 secunde</option><option value="120" selected>120 secunde</option><option value="180">180 secunde</option></select></div>
+          <div class="set"><label for="set-grace">Secunde în plus după Gata</label>
+            <select id="set-grace"><option value="5">5</option><option value="10" selected>10</option><option value="15">15</option><option value="20">20</option></select></div>
+          <div class="set"><label for="set-rounds">Număr de runde</label>
+            <select id="set-rounds"><option value="5">5</option><option value="10" selected>10</option><option value="15">15</option><option value="all">Toate literele</option></select></div>
+          <div class="set"><label for="set-hard">Include și literele grele (K, Ș, Ț)</label>
+            <input type="checkbox" id="set-hard"></div>
+        </div>
+        <div id="lobby-note" class="notice" style="display:none"></div>
+        <button class="btn primary big" id="btn-start" type="button" disabled>Începe jocul</button>
+        <p class="muted center" id="lobby-guest-wait" style="display:none">Se așteaptă gazda...</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="screen-round" class="screen">
+    <div class="round-header">
+      <div class="inner">
+        <div class="letter-big" id="round-letter" aria-live="polite">A</div>
+        <div>
+          <div class="round-meta"><strong>Runda <span id="round-num">1</span> din <span id="round-total">10</span></strong><br>Litera <strong id="round-letter-text">A</strong> · Total: <strong id="round-grand">0</strong></div>
+        </div>
+        <div class="row" style="gap:6px; justify-content:flex-end; flex-wrap: nowrap">
+          <div class="timer" id="timer" aria-live="off">2:00</div>
+          <button class="btn icon ghost" id="btn-mute" type="button" aria-label="Sunet" title="Sunet">🔔</button>
+        </div>
+        <div class="opp-status" id="opp-status"></div>
+      </div>
+    </div>
+    <div id="round-banner" class="banner" style="display:none" role="status"></div>
+    <div class="round-layout">
+      <div class="stack">
+        <form class="fields" id="fields" autocomplete="off" novalidate></form>
+        <button class="btn primary big" id="btn-finish" type="button">Gata!</button>
+        <details class="sheet-panel" id="round-sheet-panel">
+          <summary>Foaia de joc</summary>
+          <div id="round-sheet"></div>
+        </details>
+      </div>
+      <div id="round-sheet-wide" class="stack" style="display:none"></div>
+    </div>
+  </section>
+
+  <section id="screen-review" class="screen">
+    <div class="topbar"><span class="brand-small">Țomapant</span><span class="muted small" id="review-round-label"></span></div>
+    <div class="start-grid">
+      <div class="card stack">
+        <h2>De verificat</h2>
+        <p class="muted small">Cuvintele adversarului care nu sunt în dicționar. Tu decizi dacă sunt bune.</p>
+        <div class="review-list" id="review-list"></div>
+        <button class="btn ok" id="btn-accept-all" type="button">Acceptă tot</button>
+        <div class="notice" id="review-wait" style="display:none">Se așteaptă verificarea adversarului...</div>
+      </div>
+      <div class="card">
+        <h3>Foaia de joc</h3>
+        <div id="review-sheet"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="screen-results" class="screen">
+    <div class="topbar"><span class="brand-small">Țomapant</span><span class="muted small" id="results-round-label"></span></div>
+    <div class="stack">
+      <div class="card stack">
+        <h2>Rezultatele rundei</h2>
+        <div class="totals" id="results-totals"></div>
+        <div id="results-note" class="notice" style="display:none"></div>
+        <button class="btn primary big" id="btn-next-round" type="button" style="display:none">Runda următoare</button>
+        <p class="muted center" id="results-wait" style="display:none">Se așteaptă gazda...</p>
+      </div>
+      <div class="card">
+        <div id="results-sheet"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="screen-gameover" class="screen">
+    <div class="topbar"><span class="brand-small">Țomapant</span><span class="muted small">Sfârșitul jocului</span></div>
+    <div class="stack">
+      <div class="card stack">
+        <div class="verdict" id="verdict"></div>
+        <div class="totals" id="final-totals"></div>
+        <div class="row">
+          <button class="btn primary big" id="btn-rematch" type="button" style="display:none">Revanșă</button>
+          <p class="muted center" id="gameover-wait" style="display:none; width:100%">Se așteaptă gazda...</p>
+          <button class="btn big" id="btn-new-game" type="button">Joc nou</button>
+        </div>
+      </div>
+      <div class="card">
+        <div id="final-sheet"></div>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<dialog id="dlg-help">
+  <div class="dlg help stack">
+    <div class="row between"><h2 style="margin:0">Cum se joacă</h2><button class="btn icon ghost" id="help-close" type="button" aria-label="Închide">✕</button></div>
+    <p>Țomapant e jocul clasic cu foaia de hârtie: <strong>Țări, Orașe, Munți, Ape, Plante, Animale, Nume</strong> și coloana <strong>Total</strong>. Un jucător creează o cameră și le trimite celorlalți codul. Se joacă în 2 până la 5 jucători.</p>
+    <h3>Runda</h3>
+    <ul>
+      <li>Gazda trage o literă la întâmplare. Fiecare literă apare o singură dată într-un joc.</li>
+      <li>Scrii câte un cuvânt care începe cu litera rundei în fiecare dintre cele șapte rubrici.</li>
+      <li>Când ai terminat apeși <strong>Gata!</strong>. Ceilalți mai au doar câteva secunde (câte ai ales în setări) să termine.</li>
+      <li>Cuvintele generice de la început nu contează: „Marea Neagră” e la N, „Munții Retezat” e la R, „Republica Moldova” e la M.</li>
+    </ul>
+    <h3>Punctajul</h3>
+    <ul>
+      <li><strong>10 puncte</strong> pentru un răspuns bun pe care nu l-a mai scris nimeni.</li>
+      <li><strong>5 puncte</strong> dacă doi sau mai mulți jucători au scris același răspuns (inclusiv variante: Dunăre și Dunărea, Olanda și Țările de Jos).</li>
+      <li><strong>0 puncte</strong> pentru rubrica goală, pentru un cuvânt care nu începe cu litera rundei sau pentru un cuvânt respins.</li>
+    </ul>
+    <h3>Coloana Total</h3>
+    <p>La sfârșitul rundei, pe <strong>Foaia de joc</strong> se completează punctele din fiecare rubrică, apoi <strong>Totalul</strong> rundei (suma celor șapte rubrici). Sub ultima rundă, <strong>Total general</strong> adună totalurile tuturor rundelor. Cine are cel mai mare Total general câștigă.</p>
+    <h3>Verificarea</h3>
+    <p>Jocul are un dicționar mare, așa că răspunsurile obișnuite sunt acceptate automat. Un cuvânt pe care dicționarul nu îl știe ajunge la <strong>De verificat</strong>: ceilalți jucători îl acceptă sau îl resping. Un cuvânt acceptat rămâne acceptat pentru tot restul jocului, și pentru jocurile viitoare de pe acel telefon.</p>
+  </div>
+</dialog>
+
+<dialog id="dlg-confirm">
+  <div class="dlg stack">
+    <p id="confirm-text"></p>
+    <div class="row" style="justify-content:flex-end">
+      <button class="btn" id="confirm-no" type="button">Nu, mai scriu</button>
+      <button class="btn primary" id="confirm-yes" type="button">Da, termin</button>
+    </div>
+  </div>
+</dialog>
+
+<div id="conn-bar" class="conn-bar" style="display:none" role="status"></div>
+<div id="toast" class="toast" style="display:none" role="status"></div>
+<canvas id="confetti" class="confetti" style="display:none"></canvas>
+
+<script>
+/*__PEERJS__*/
+</script>
+<script>
+/*__DATA__*/
+</script>
+<script>
+/*__ENGINE__*/
+</script>
+<script>
+/*__APP__*/
+</script>
+</body>
+</html>

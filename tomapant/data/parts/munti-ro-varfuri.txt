@@ -1,0 +1,364 @@
+# Munți — vârfuri din România (peaks)
+# Format: Canonical = variant1 = variant2 (see data/FORMAT.md)
+
+# Munții Făgăraș
+Moldoveanu
+Negoiu = Negoiul
+Viștea Mare
+Lespezi
+Călțun = Călțunu
+Vânătoarea lui Buteanu = Vânătarea lui Buteanu = Buteanu
+Hârtopu
+Cornu Călțunului
+Dara
+Mușetescu
+Capra
+Urlea
+Gălășescu Mare
+Arpașu Mare = Arpașul Mare
+Podragu = Podragul
+Arpașu Mic = Arpașul Mic
+Ucea Mare
+Gălășescu Mic
+Ciortea
+Iezerul Caprei
+Tărâța
+Paltinu = Paltinul
+Lăița
+Lăițel
+Budislavu = Budislavul
+Șerbota
+Scara
+Ludișor
+Berevoescu Mare = Berevoescu
+Suru
+Brătila
+Zârna
+Luțele
+Comisu = Comisul
+
+# Munții Bucegi
+Omu = Omul
+Bucura Dumbravă
+Coștila
+Bucșoiu = Bucșoiul = Bucșoiu Mare = Bucșoiul Mare
+Colții Obârșiei
+Găvanele
+Țigănești
+Obârșia
+Doamnele
+Caraiman
+Baba Mare
+Morarul
+Guțanu = Guțanul
+Bătrâna
+Jepii Mici
+Furnica
+Jepii Mari
+Piatra Arsă
+Vârful cu Dor
+Cocora
+Tătaru = Tătarul
+Vânturiș = Vânturișul
+Lăptici
+Blana
+Dichiu
+Diham = Dihamul
+Păduchiosu = Păduchiosul
+
+# Postăvaru, Piatra Mare, Perșani
+Cristianul Mare = Postăvaru = Postăvarul
+Piatra Mare
+Tâmpa
+Măgura Codlei
+
+# Piatra Craiului
+La Om = Piscul Baciului
+Grindu = Grindul
+Țimbalul Mare
+Ascuțit = Ascuțitul
+Padina Popii
+Turnu = Turnul
+Piatra Mică
+Pietricica
+
+# Munții Iezer-Păpușa și Leaota
+Roșu
+Iezerul Mare
+Piscanu
+Leaota
+
+# Munții Retezat
+Peleaga
+Păpușa
+Retezat
+Custura
+Peleguța
+Bucura
+Judele
+Slăveiu = Slăveiul
+Șesele = Șesele Mari
+Gruniu
+Lazărul = Lazăru
+Lolaia
+Zănoaga
+Zlata
+Piule
+Drăgșanu
+Piatra Iorgovanului
+Albele
+Tulișa
+
+# Munții Parâng
+Parângu Mare = Parângul Mare
+Gemănarea
+Stoinița
+Cârja
+Ieșu
+Setea Mare
+Mândra
+Mohoru = Mohorul
+Coasta lui Rus
+Slivei
+Pleșcoaia
+Urdele
+Micaia
+Galbenu = Galbenul
+Parângu Mic = Parângul Mic
+Dengheru
+Muntinu
+
+# Munții Șureanu, Cindrel, Lotru
+Vârful lui Pătru
+Șureanu = Șurianu
+Aușelu
+Comărnicel
+Cindrel
+Frumoasa
+Niculești
+Foltea
+Rozdești
+Oașa Mare
+Șteflești
+Cristești
+Balindru
+Sterpu
+Negovanu = Negovanu Mare
+Fratoșteanu = Fratoșteanu Mare
+
+# Munții Căpățânii, Cozia, Buila-Vânturarița
+Nedeia
+Ursu
+Căpățâna
+Cozia = Ciuha Mare
+Buila
+Vânturarița
+
+# Munții Vâlcan
+Oslea
+Straja
+Șigleul Mare
+
+# Munții Țarcu
+Căleanu
+Țarcu
+Vârful Pietrii
+Bloju
+Baicu
+Muntele Mic
+
+# Munții Godeanu
+Gugu
+Moraru
+Godeanu
+Scărișoara
+Galbena
+Borăscu Mare
+Paltina
+
+# Munții Cernei și Mehedinți
+Vârful Dobrii
+Vlașcu Mare
+Arjana
+Vârful lui Stan
+Piatra Cloșanilor
+Domogled
+
+# Munții Banatului (Semenic, Almăj, Aninei, Poiana Ruscă)
+Piatra Goznei = Gozna
+Semenic
+Piatra Nedeii
+Svinecea Mare
+Leordiș
+Pleșiva
+Padeș
+Rusca
+
+# Munții Apuseni
+Cucurbăta Mare = Curcubăta Mare = Bihor
+Vlădeasa
+Muntele Mare
+Buteasa
+Cucurbăta Mică = Curcubăta Mică
+Cârligatele
+Piatra Grăitoare
+Bohodei
+Micău
+Măgura Vânătă
+Balomireasa
+Găina
+Poienița
+Dâmbău
+Bedeleu
+Piatra Secuiului
+Detunata Goală = Detunata
+Pleșu
+Izoi
+Hodrângușa
+Măgura Mare
+Măgura Priei
+Drocea
+Highiș
+
+# Munții Ciucaș, Baiu, Grohotiș
+Ciucaș
+Gropșoarele
+Bratocea
+Tigăile Mari
+Zăganu
+Tesla
+Neamțu
+Ștevia
+Baiu Mare
+Unghia Mare
+Cazacu
+Clăbucetul Taurului
+
+# Munții Siriu, Penteleu, Buzăului, Vrancei
+Mălâia
+Bocârnea
+Penteleu
+Viforâta
+Podu Calului
+Ivănețu
+Goru
+Lăcăuți = Lăcăuț
+Giurgiu
+Zboina Frumoasă
+Coza
+Furu
+Zboina Neagră
+
+# Subcarpați
+Măgura Odobeștilor = Măgura Odobești
+Chiciora
+Mățău
+Istrița
+
+# Munții Ceahlău
+Ocolașul Mare = Ocolașu Mare
+Toaca
+Panaghia
+Ocolașul Mic = Ocolașu Mic
+Bâtca lui Ghedeon
+Piatra Sură
+
+# Munții Hășmaș, Ciuc, Nemira, Tarcău, Stânișoarei
+Hășmașul Mare = Hășmașu Mare
+Hășmașul Negru
+Ecem
+Piatra Singuratică
+Suhardul Mare
+Suhardul Mic
+Ghilcoș = Ucigașu
+Noșcolat = Nașcalat
+Nemira Mare
+Șandru Mare
+Nemira Mică
+Grindușu
+Bivolu
+Hălăuca
+
+# Munții Harghita, Gurghiu, Ciomatu
+Harghita Mădăraș = Mădăraș
+Cucu
+Piliske
+Ostoroș
+Ciomatu = Ciomatu Mare
+Saca = Saca Mare
+Fâncel
+Tătarca
+
+# Munții Călimani
+Pietrosul Călimanilor = Pietrosul Călimani = Pietrosu Călimanilor
+Negoiul Unguresc = Negoiu Unguresc
+Iezerul Călimanilor = Iezerul Călimani
+Rețitiș
+Bistricioru = Bistriciorul
+Pietricelu = Pietricelul
+Bradu Ciont = Bradul Ciont
+Răchitiș
+Negoiul Românesc = Negoiu Românesc
+Struniorul
+Tămău
+Tihu
+
+# Munții Bistriței, Rarău, Giumalău, Suhard, Obcine, Bârgău
+Budacu
+Pietrosul Bistriței = Pietrosu Bistriței
+Grințieșu Mare
+Giumalău
+Rarău
+Pietrele Doamnei
+Todirescu
+Oușoru
+Lucina
+Pașcanu
+Heniul Mare = Heniu Mare
+
+# Munții Rodnei
+Pietrosul = Pietrosul Rodnei = Pietrosu = Pietrosu Rodnei
+Ineu = Ineul
+Buhăescu Mare = Buhăescu
+Ineuț = Ineuțul
+Rebra
+Puzdrele
+Piatra Albă
+Laptelui
+Gărgălău
+Repedea
+Coasta Netedă
+Gropilor
+Obârșia Rebrii
+Galațului
+Negoiasa Mare = Negoiasa
+Cișa
+Cormaia
+
+# Munții Maramureșului
+Farcău
+Pop Ivan
+Toroiaga = Toroioaga
+Mihailecu
+Pietrosul Bardăului = Pietrosu Bardăului
+Cearcănu
+
+# Munții Gutâi, Igniș, Țibleș, Lăpuș
+Gutâi = Gutâiul
+Creasta Cocoșului
+Pleșca Mare
+Igniș
+Mogoșa
+Bran
+Țibleș = Țibleșul
+Arcer
+Hudin
+Văratec
+Șatra
+
+# Dobrogea
+Țuțuiatu = Greci
+Ghiunaltu
+Sulucu Mare
+Consul
+Deniztepe

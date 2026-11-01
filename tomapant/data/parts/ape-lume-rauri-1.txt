@@ -1,0 +1,1204 @@
+# Ape – râuri și fluvii din Europa (în afara României și Republicii Moldova) și din Asia
+# Format: Canonic = variantă = variantă (vezi data/FORMAT.md)
+# Dunărea, Tisa, Prutul, Nistrul, Someșul, Mureșul, Crișurile, Jiul, Nera etc. sunt în fișierele românești.
+
+# ---- Europa de Est: Rusia, Ucraina, Belarus ----
+Volga
+Don
+Nipru = Dnipro = Dnieper = Dnepr
+Bug = Bugul de Sud = Southern Bug = Pivdennyi Buh
+Bugul de Vest = Western Bug = Bugul Occidental
+Neva
+Dvina de Nord = Severnaia Dvina = Northern Dvina
+Peciora = Pechora
+Onega
+Svir
+Volhov = Volkhov
+Lovat
+Velikaia = Velikaya
+Narva
+Luga
+Mezen
+Vîcegda = Vychegda
+Suhona = Sukhona
+Iug = Yug
+Vaga
+Pinega
+Usa
+Ijma = Izhma
+Oka
+Kama
+Belaia = Belaya
+Viatka = Vyatka
+Moscova = Moskva
+Kliazma = Klyazma
+Sura
+Samara
+Ugra
+Mokșa = Moksha
+Țna = Tsna
+Șeksna = Sheksna
+Mologa
+Kostroma
+Unja = Unzha
+Vetluga
+Tverța = Tvertsa
+Msta
+Ciusovaia = Chusovaya
+Ufa
+Hoper = Khopyor = Khoper
+Medvedița = Medveditsa
+Voronej = Voronezh
+Doneț = Donețul de Nord = Severski Doneț = Siverskyi Donets
+Oskol = Oskil
+Manîci = Manych
+Sal
+Ural = Jaik = Yaik
+Emba
+Kuban
+Laba
+Terek
+Kuma
+Sulak
+Samur
+Pripiat = Pripyat = Prypiat
+Desna
+Seim = Seym
+Psel = Psiol
+Vorskla
+Teteriv
+Ros
+Sula
+Inhul = Ingul
+Inhuleț = Ingulets
+Oril = Orel
+Kalmius
+Mius
+Horîn = Horyn
+Stîr = Styr
+Sluci = Sluch
+Zbruci = Zbruch
+Seret
+Strîi = Stryi
+Ceremuș = Cheremosh
+Uj = Uzh = Uh
+Latorica = Latorytsia
+Salgir = Salhîr
+Berezina
+Soj = Sozh
+Svislaci = Svislach
+
+# ---- Țările Baltice, Finlanda, Scandinavia, Islanda, Danemarca ----
+Daugava = Dvina de Vest = Düna = Western Dvina = Zapadnaia Dvina
+Gauja
+Lielupe
+Venta
+Salaca
+Neman = Nemunas = Niemen = Memel
+Neris = Vilia = Viliya
+Šešupė
+Šventoji
+Minija
+Merkys
+Dubysa
+Nevėžis
+Jūra
+Mūša
+Emajõgi
+Pärnu
+Kasari
+Pregolya = Pregel
+Łyna = Lava
+Vuoksi = Vuoksa
+Kymijoki = Kymi
+Oulujoki = Oulu
+Kemijoki = Kemi
+Iijoki
+Kokemäenjoki = Kokemäki
+Ivalojoki = Ivalo
+Paatsjoki = Pasvik
+Tornio = Torne = Torneälven = Tornionjoki
+Kalixälven = Kalix
+Luleälven = Lule
+Piteälven = Pite
+Skellefteälven = Skellefte
+Umeälven = Ume
+Ångermanälven = Ångerman
+Indalsälven
+Ljungan
+Ljusnan
+Dalälven
+Klarälven
+Göta älv = Göta
+Nissan
+Ätran
+Viskan
+Emån
+Tana = Teno = Tanaelva
+Alta = Altaelva
+Namsen
+Glomma = Glåma
+Gudbrandsdalslågen = Lågen
+Numedalslågen
+Drammenselva
+Otra
+Orkla
+Gaula
+Rauma
+Vefsna
+Thjórsá
+Jökulsá á Fjöllum
+Hvítá
+Ölfusá
+Lagarfljót
+Skjálfandafljót
+Blanda
+Gudenå = Gudenaa
+Skjern Å
+
+# ---- Insulele Britanice și Irlanda ----
+Tamisa = Thames
+Severn
+Trent
+Mersey
+Avon
+Ouse = Great Ouse
+Humber
+Tyne
+Tees
+Wear
+Aire
+Calder
+Derwent
+Medway
+Cam
+Nene
+Welland
+Witham
+Exe
+Tamar
+Test
+Itchen
+Stour
+Rother
+Arun
+Adur
+Eden
+Ribble
+Lune
+Kennet
+Lea
+Mole
+Wey
+Swale
+Ure
+Nidd
+Wharfe
+Soar
+Tame
+Dove
+Teme
+Frome
+Parrett
+Axe
+Taw
+Torridge
+Camel
+Fal
+Fowey
+Dart
+Teign
+Otter
+Yare
+Wensum
+Waveney
+Orwell
+Deben
+Wye
+Usk
+Taff
+Conwy
+Clwyd
+Dyfi = Dovey
+Teifi
+Tywi = Towy
+Neath
+Tawe
+Ebbw
+Tay
+Spey
+Dee
+Forth
+Clyde
+Tweed
+Ness
+Findhorn
+Deveron
+Nith
+Annan
+Earn
+Leven
+Ayr
+Doon
+Esk
+Shannon
+Liffey
+Boyne
+Barrow
+Suir
+Nore
+Lee
+Blackwater
+Bann
+Foyle
+Lagan
+Erne
+Moy
+Slaney
+Feale
+Bandon
+
+# ---- Franța ----
+Sena = Seine
+Loara = Loire
+Garonne = Garona
+Dordogne
+Ron = Rhône
+Meuse = Maas
+Moselle = Mosel = Mosela
+Saar = Sarre
+Adour
+Charente
+Vienne
+Creuse
+Cher
+Indre
+Loir
+Allier
+Sarthe
+Mayenne
+Maine
+Huisne
+Erdre
+Vilaine
+Oust
+Ille
+Rance
+Élorn
+Aulne
+Odet
+Blavet
+Couesnon
+Orne
+Vire
+Touques
+Risle
+Eure
+Iton
+Avre
+Epte
+Andelle
+Somme
+Bresle
+Authie
+Canche
+Aa
+Lys = Leie
+Deûle
+Scarpe
+Escaut = Scheldt = Schelde
+Sambre
+Oise
+Aisne
+Vesle
+Marne
+Ourcq
+Yonne
+Armançon
+Aube
+Loing
+Essonne
+Orge
+Chiers
+Meurthe
+Seille
+Blies
+Nied
+Ill
+Bruche
+Doubs
+Loue
+Ognon
+Saône
+Ain
+Isère
+Arc
+Drac
+Romanche
+Arve
+Fier
+Drôme
+Durance
+Ubaye
+Verdon
+Var
+Argens
+Ardèche
+Cèze
+Gard = Gardon
+Vidourle
+Hérault
+Orb
+Aude
+Agly
+Têt
+Tech
+Ariège
+Tarn
+Agout
+Aveyron
+Lot
+Truyère
+Sioule
+Dore
+Gartempe
+Clain
+Thouet
+Sèvre Nantaise
+Sèvre Niortaise
+Vézère
+Isle
+Dronne
+Corrèze
+Baïse
+Gers
+Nive
+Gave de Pau
+Gave d'Oloron
+Sorgue
+
+# ---- Belgia, Țările de Jos, Luxemburg ----
+Dender
+Semois
+Ourthe
+Amblève
+Vesdre
+Lesse
+Senne = Zenne
+Dyle = Dijle
+Demer
+Nete
+Rupel
+IJssel
+Vecht = Vechte
+Amstel
+Waal
+Lek
+Dommel
+Roer = Rur
+Niers
+Alzette
+Sauer = Sûre
+Our
+
+# ---- Germania ----
+Rin = Rhin = Rhine = Rhein
+Elba = Elbe = Labe
+Weser
+Ems
+Main
+Neckar
+Ruhr
+Lippe
+Aller
+Leine
+Werra
+Fulda
+Havel
+Spree
+Saale
+Mulde
+Elster = Weiße Elster = Elster Albă
+Elster Neagră = Schwarze Elster
+Nisa Lusaciană = Neisse = Lausitzer Neiße = Nysa Łużycka
+Lech
+Isar
+Iller
+Inn
+Salzach
+Altmühl
+Regen
+Naab
+Vils
+Rott
+Amper
+Loisach
+Wertach
+Mindel
+Günz
+Roth
+Paar
+Pegnitz
+Rednitz
+Regnitz
+Itz
+Rodach
+Unstrut
+Ilm
+Helme
+Pleiße
+Zschopau
+Bode
+Oker
+Innerste
+Ilmenau
+Örtze
+Wümme
+Oste
+Hunte
+Hase
+Berkel
+Peene
+Tollense
+Warnow
+Trave
+Stör
+Eider
+Treene
+Uecker
+Alster
+Elde
+Dahme
+Kyll
+Prüm
+Ahr
+Sieg
+Agger
+Wupper
+Lenne
+Emscher
+Erft
+Lahn
+Dill
+Nahe
+Nidda
+Tauber
+Jagst
+Kocher
+Enz
+Rems
+Murg
+Kinzig
+Elz
+Dreisam
+Wutach
+Eder
+Diemel
+Werre
+
+# ---- Elveția, Austria, Liechtenstein ----
+Aare = Aar
+Reuss
+Limmat
+Thur
+Linth
+Emme
+Saane = Sarine
+Broye
+Orbe
+Kander
+Simme
+Sihl
+Töss
+Glatt
+Birs
+Sitter
+Landquart
+Plessur
+Maggia
+Verzasca
+Enns
+Traun
+Ybbs
+Erlauf
+Traisen
+Kamp
+Steyr
+Leitha = Lajta
+Rába = Raab
+Mura = Mur
+Drava = Drau
+Gail
+Gurk
+Lavant
+Isel
+Möll
+
+# ---- Italia ----
+Pad = Po
+Tibru = Tevere = Tiber
+Arno
+Adige = Etsch
+Piave
+Brenta
+Tagliamento
+Isonzo = Soča
+Reno
+Ticino
+Toce
+Adda
+Brembo
+Serio
+Oglio
+Mella
+Chiese
+Mincio
+Sarca
+Dora Baltea
+Dora Riparia
+Orco
+Sesia
+Tanaro
+Bormida
+Scrivia
+Trebbia
+Taro
+Parma
+Enza
+Secchia
+Panaro
+Lambro
+Olona
+Seveso
+Bacchiglione
+Livenza
+Sile
+Lamone
+Senio
+Santerno
+Savio
+Rubicon = Rubicone
+Marecchia
+Foglia
+Metauro
+Esino
+Potenza
+Chienti
+Tronto
+Vomano
+Pescara
+Sangro
+Trigno
+Biferno
+Fortore
+Volturno
+Calore
+Garigliano
+Liri
+Sacco
+Aniene
+Velino
+Paglia
+Fiora
+Marta
+Ombrone
+Serchio
+Magra
+Cecina
+Sele
+Ofanto
+Bradano
+Basento
+Agri
+Sinni
+Crati
+Neto
+Simeto
+Salso
+Platani
+Belice
+Alcantara
+Anapo
+Tirso
+Flumendosa
+Coghinas
+
+# ---- Spania și Portugalia ----
+Tajo = Tagus = Tejo
+Ebro
+Duero = Douro
+Guadalquivir
+Guadiana
+Júcar
+Segura
+Minho = Miño
+Ter
+Llobregat
+Francolí
+Turia
+Mijares
+Vinalopó
+Guadalhorce
+Guadalete
+Genil
+Odiel
+Tinto
+Sil
+Nalón
+Navia
+Eo
+Deva
+Bidasoa
+Nervión
+Ulla
+Tambre
+Jarama
+Manzanares
+Henares
+Alberche
+Tiétar
+Alagón
+Pisuerga
+Esla
+Tormes
+Órbigo
+Carrión
+Arlanzón
+Cinca
+Gállego
+Segre
+Aragón
+Arga
+Jalón
+Cabriel
+Guadalope
+Zújar
+Mondego
+Vouga
+Sado
+Mira
+Zêzere
+Lima
+Cávado
+Ave
+Tâmega
+Tua
+Sabor
+Côa
+Sorraia
+
+# ---- Polonia ----
+Vistula = Wisła
+Oder = Odra
+Warta
+Noteć
+Bzura
+Pilica
+San
+Wieprz
+Narew
+Dunajec
+Poprad
+Wisłoka
+Wisłok
+Nida
+Drwęca
+Wkra
+Omulew
+Pisa
+Biebrza
+Supraśl
+Świder
+Prosna
+Obra
+Barycz
+Bóbr
+Kwisa
+Kaczawa
+Bystrzyca
+Nysa Kłodzka
+Mała Panew
+Kłodnica
+Ruda
+Biała
+Soła
+Skawa
+Rudawa
+Kamienna
+Ropa
+Jasiołka
+Tanew
+Huczwa
+Krzna
+Liwiec
+Orzyc
+Ina
+Rega
+Parsęta
+Słupia
+Łeba
+Reda
+Pasłęka
+Brda
+Wda
+Gwda
+Wełna
+Ner
+Widawka
+Radomka
+
+# ---- Cehia, Slovacia, Ungaria ----
+Vltava = Moldau
+Berounka
+Sázava
+Ohře = Eger
+Jizera
+Lužnice
+Otava
+Úpa
+Orlice
+Morava = March
+Dyje = Thaya
+Svratka
+Svitava
+Jihlava
+Oslava
+Bečva
+Opava
+Olše
+Ostravice
+Váh
+Hron
+Nitra
+Orava
+Kysuca
+Turiec
+Hornád = Hernád
+Torysa
+Bodrog
+Ipeľ = Ipoly
+Slaná = Sajó
+Rimava
+Bodva
+Laborec
+Ondava
+Topľa
+Zala
+Sió
+Kapos
+Zagyva
+Tarna
+Marcal
+Hortobágy
+
+# ---- Balcani: Slovenia, Croația, Bosnia, Serbia, Muntenegru, Albania, Macedonia de Nord, Kosovo ----
+Sava = Save
+Savinja
+Ljubljanica
+Vipava
+Idrijca
+Dravinja
+Sora
+Krka
+Kupa = Kolpa
+Korana
+Dobra
+Mrežnica
+Una
+Sana
+Gacka
+Lika
+Cetina
+Zrmanja
+Sutla = Sotla
+Bosut
+Bednja
+Lonja
+Bosna
+Vrbas
+Pliva
+Ukrina
+Neretva
+Rama
+Trebišnjica
+Drina
+Lim
+Tara
+Piva
+Sutjeska
+Jadar
+Kolubara
+Morava de Sud = Južna Morava
+Morava de Vest = Zapadna Morava
+Ibar
+Nišava
+Toplica
+Mlava
+Pek
+Timok
+Sitnica
+Morača
+Zeta
+Bojana = Buna
+Drin = Drini
+Drinul Negru = Crni Drim = Drini i Zi
+Drinul Alb = Beli Drim = Drini i Bardhë
+Mat
+Shkumbin
+Seman
+Vjosa = Aoos
+Devoll
+Osum
+Erzen
+Ishëm
+Valbona
+Vardar = Axios
+Crna = Crna Reka
+Bregalnica
+Treska
+Pčinja
+Strumica
+Radika
+
+# ---- Bulgaria și Grecia ----
+Marița = Maritsa = Evros = Meriç
+Tundja = Tundzha
+Arda
+Struma = Strymon
+Mesta = Nestos
+Iskăr
+Vit
+Osăm
+Iantra = Yantra
+Lom = Rusenski Lom
+Ogosta
+Kamcia = Kamchiya
+Veleka
+Ropotamo
+Aliakmon = Haliacmon
+Pineios = Peneios = Peneu
+Acheloos = Aheloos
+Alfeios = Alfeu
+Evrotas = Eurotas
+Arachthos
+Sperchios
+Ladon
+Thyamis = Kalamas
+Mornos
+Asopos
+
+# ---- Turcia, Caucaz ----
+Kızılırmak = Halys
+Sakarya = Sangarius
+Yeșilırmak = Iris
+Menderes = Büyük Menderes = Meandru = Maeander
+Gediz = Hermus
+Seyhan
+Ceyhan
+Göksu
+Ergene
+Porsuk
+Murat
+Manavgat
+Çoruh = Chorokhi
+Kura = Mtkvari
+Aras = Araxes
+Rioni
+Inguri = Enguri
+Kodori
+Alazani
+Iori
+Aragvi
+
+# ---- Orientul Mijlociu și Iran ----
+Eufrat = Euphrates = Fırat
+Tigru = Tigris = Dicle
+Șatt al-Arab = Shatt al-Arab
+Diyala
+Zabul Mare = Marele Zab = Great Zab
+Zabul Mic = Micul Zab = Little Zab
+Khabur
+Balikh
+Afrin
+Iordan = Jordan = Yarden
+Litani
+Orontes = Asi = Nahr al-Asi
+Barada
+Yarmuk = Yarmouk
+Zarqa
+Karun
+Karkheh
+Dez
+Sefid Rud
+Zayandeh Rud = Zayanderud
+Atrek
+Gorgan
+
+# ---- Asia Centrală, Afganistan, Kazahstan ----
+Amu Daria = Amu Darya = Oxus
+Sîr Daria = Sâr Daria = Syr Darya = Iaxartes
+Zeravșan = Zeravshan = Zarafshan
+Vakhsh = Vahș
+Panj = Pianj
+Kafirnigan
+Surkhandarya
+Kashkadarya
+Chirchik
+Naryn = Narîn
+Kara Darya
+Chu = Ciu
+Talas
+Ili
+Murgab
+Harirud = Tejen = Hari
+Helmand
+Arghandab
+Kabul
+Kunar
+Panjshir
+Kunduz
+Tobol
+Ishim = Esil
+Nura
+Sarysu
+Turgai = Turgay
+
+# ---- Siberia, Extremul Orient rus, Mongolia ----
+Obi = Ob
+Irtîș = Irtysh = Ertix
+Enisei = Yenisei
+Angara
+Lena
+Aldan
+Viliui = Vilyuy = Vilui
+Oliokma = Olyokma
+Vitim
+Kolîma = Kolyma
+Indighirka = Indigirka
+Iana = Yana
+Omolon
+Olenek = Olenyok
+Anabar
+Hatanga = Khatanga
+Piasina = Pyasina
+Taz
+Pur
+Nadîm = Nadym
+Nijniaia Tunguska = Tunguska Inferioară = Nizhnyaya Tunguska
+Podkamennaia Tunguska = Podkamennaya Tunguska
+Kan
+Abakan
+Katun
+Biia = Biya
+Tom
+Ciulîm = Chulym
+Ket
+Vasiugan = Vasyugan
+Konda
+Anadîr = Anadyr
+Kamceatka = Kamchatka
+Amur = Heilongjiang
+Argun
+Șilka = Shilka
+Ingoda
+Ussuri = Wusuli
+Zeia = Zeya
+Bureia = Bureya
+Selenga
+Orhon = Orkhon
+Tuul
+Kerulen = Herlen
+Onon
+Tes = Tesiin Gol
+Kobdo = Khovd
+Dzavhan = Zavkhan
+
+# ---- China, Taiwan, Coreea, Japonia ----
+Fluviul Galben = Huang He = Hoang Ho = Yellow River
+Yangtze = Yangzi = Chang Jiang = Fluviul Albastru
+Râul Perlelor = Zhujiang = Pearl River
+Xi Jiang
+Bei Jiang
+Dong Jiang
+Huai = Huaihe
+Hai He
+Luan = Luanhe
+Yongding
+Wei
+Fen
+Jing
+Luo
+Jialing
+Min = Minjiang
+Dadu
+Yalong
+Wu = Wujiang
+Han Shui = Han Jiang
+Gan
+Xiang
+Yuan
+Qiantang
+Huangpu
+Mekong = Lancang = Mekongul
+Salween = Nu Jiang = Salouen = Thanlwin
+Tarim
+Yarkand
+Hotan = Khotan
+Aksu
+Sungari = Songhua
+Nen = Nonni = Nenjiang
+Mudan = Mudanjiang
+Liao
+Yalu = Amnok
+Tumen = Duman
+Zhuoshui
+Tamsui = Danshui
+Gaoping
+Taedong
+Chongchon
+Imjin
+Han = Hangang
+Nakdong
+Geum = Kum
+Seomjin
+Yeongsan
+Shinano
+Tone
+Ishikari
+Teshio
+Tokachi
+Kitakami
+Abukuma
+Mogami
+Omono
+Agano
+Kiso
+Nagara
+Tenryū
+Fuji = Fujikawa
+Tama
+Arakawa
+Sumida
+Kamo
+Yodo
+Yoshino
+Shimanto
+Chikugo
+
+# ---- Asia de Sud ----
+Gange = Ganges = Ganga
+Yamuna = Jumna
+Chambal
+Betwa
+Ken
+Son
+Gandak = Narayani
+Ghaghara = Karnali = Ghagra
+Kosi = Koshi
+Bagmati
+Rapti
+Trishuli
+Gomti
+Ramganga
+Indus = Sindhu
+Jhelum
+Chenab
+Ravi
+Beas
+Sutlej = Satluj
+Swat
+Narmada
+Tapti = Tapi
+Godavari
+Krishna
+Kaveri = Cauvery
+Mahanadi
+Tungabhadra
+Bhima
+Pennar = Penna
+Periyar
+Sabarmati
+Mahi
+Luni
+Banas
+Shipra = Kshipra
+Subarnarekha
+Damodar
+Hooghly = Hugli
+Padma
+Meghna
+Teesta = Tista
+Surma
+Barak
+Karnaphuli
+Buriganga
+Brahmani
+Baitarani
+Vaigai
+Palar
+Bhavani
+Manjira
+Wardha
+Wainganga
+Indravati
+Sharavati
+Mandovi
+Manas
+Subansiri
+Lohit
+Dibang
+Brahmaputra = Yarlung Tsangpo = Tsangpo
+Mahaweli
+Kelani
+Kalu Ganga
+
+# ---- Asia de Sud-Est ----
+Irrawaddy = Ayeyarwady
+Chindwin
+Sittang = Sittaung
+Kaladan
+Fluviul Roșu = Sông Hồng = Red River = Hong
+Râul Parfumului = Huong = Perfume River
+Dong Nai
+Nam Ou
+Nam Ngum
+Chao Phraya = Menam
+Ping
+Nan
+Yom
+Mun
+Chi
+Mae Klong
+Tonle Sap
+Bassac
+Pahang
+Perak
+Kelantan
+Muar
+Johor
+Rajang = Rejang
+Kinabatangan
+Baram
+Kapuas
+Mahakam
+Barito
+Musi
+Batanghari
+Kampar
+Siak
+Indragiri
+Rokan
+Asahan
+Solo = Bengawan Solo
+Brantas
+Citarum
+Ciliwung
+Mamberamo
+Digul
+Cagayan
+Pampanga
+Agusan
+Pasig
+Agno
+Abra
+Rio Grande de Mindanao

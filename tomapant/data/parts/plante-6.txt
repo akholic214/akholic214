@@ -1,0 +1,302 @@
+# Plante — partea 6: arbori și arbuști din lume și din pepiniere, conifere,
+# palmieri, fructe și nuci exotice, condimente și plante medicinale, plante
+# ornamentale de grădină, plante de apartament, ferigi, bambuși, orhidee,
+# plante de acvariu și de iaz, plante cunoscute după numele latin.
+# Format: canonic = variantă = variantă (vezi data/FORMAT.md)
+
+# ---- Foioase din România, Europa și America de Nord ----
+fag roșu = fag purpuriu
+ulm american
+tei american
+tei de Crimeea
+platan oriental
+platan occidental = platan american
+nuc de Manciuria
+nuc caucazian = pterocarya
+plop chinezesc
+scoruș suedez
+măr siberian
+măr ornamental = măr decorativ
+moșmon japonez = loquat = nespolă
+castan roșu = castan porcesc roșu
+arborele de fier = parrotia
+hamamelis = alunul vrăjitoarelor
+liquidambar = arborele de ambră
+arborele de plută de Amur = phellodendron
+maclură = portocal de Osage
+zelkova
+amelanchier
+salcie creață
+liliac persan
+salcâm roz
+amorfă = salcâm pitic
+bucsău
+dud de hârtie = broussonetia
+coacăz auriu
+caprifoi albastru = kamceatka
+bulgăre de zăpadă
+bujor arborescent = bujor de copac
+davidia = arborele batistelor
+magnolie stelată
+sassafras
+oțetar roșu
+lemnul-domnului
+asimina = pawpaw
+ienupăr pitic = ienupăr siberian
+melia = arborele mărgelelor
+cârmâz = phytolacca
+zămoșiță
+nalbă de pădure
+nalbă mică
+morcov sălbatic
+cucută de apă
+roibă = garanță
+rezedă
+cardon
+salsifi
+salicornia = sparanghel de mare
+escarolă
+kamut = grâu khorasan
+
+# ---- Arbuști ornamentali de grădină ----
+deutzia
+kerria
+piracanta = pyracantha
+photinia
+ilice = ilex
+evonimus = euonymus
+abelia
+aucuba
+callicarpa
+caryopteris
+perovskia = salvie rusească
+physocarpus
+pieris
+skimmia
+osmanthus
+nandina = bambus sacru
+mielărea = vitex
+gaultheria
+cistus
+santolina
+virnanț = rută
+hebe
+escallonia
+kolkwitzia
+exochorda
+hibiscus de grădină = hibiscus siriac
+hortensie paniculată
+hortensie cățărătoare
+spirea japoneză
+trandafir cățărător
+iasomie de iarnă
+iasomie arabă = jasminum sambac
+campsis = trompeta cățărătoare
+manuka = leptospermum
+
+# ---- Conifere ----
+chiparos de Leyland = leylandii
+chiparos de Arizona
+hinoki = chiparos japonez
+biota = tuia orientală
+criptomeria = cryptomeria = cedru japonez
+brad coreean
+brad balsamic
+molid de Sitka
+molid canadian = molid alb
+molid oriental = molid de Caucaz
+pin galben = pin ponderosa
+pin de Norfolk
+pin de Banks
+larice japonez = zadă japoneză
+tsuga = hemlock
+podocarpus
+ienupăr chinezesc
+ienupăr târâtor
+ienupăr de stâncă
+efedra = ephedra
+kauri
+
+# ---- Palmieri și arbori tropicali ----
+palmier de Canare = phoenix canariensis
+trachycarpus = palmier chinezesc
+palmier regal = roystonea
+sagotier = palmier de sago
+rafia = palmier rafia
+sabal = palmetto
+ratan = rattan
+acai
+pandanus
+dragonier = arborele dragon = dracaena draco
+arborele bodhi = smochin sacru
+ceiba = kapok = capoc
+flamboyant = delonix = arborele flacără
+arborele de ploaie = samanea
+kigelia = arborele cârnaților
+arbore de shea = karité
+neem
+marula
+quebracho
+lapacho = tabebuia = pau d'arco
+casuarina
+melaleuca
+callistemon
+grevillea
+tung = arbore de tung
+lentisc = arbore de mastic
+arbutus = arborele de căpșuni
+wenge
+iroko
+bubinga
+padouk
+okoume
+sapelli
+coca = arbore de coca
+khat = qat
+betel = piper betel
+kava = kava-kava
+guarana
+annatto = achiote
+henna
+indigo = indigotier
+jojoba
+jatropha
+boldo
+arbore de curry
+
+# ---- Fructe, nuci și plante de cultură exotice ----
+durian
+rambutan
+mangostan = mangosteen
+jackfruit
+carambola = starfruit
+graviola = guanabana = soursop
+cherimoya
+longan
+pitaya = fructul dragonului
+maracuja = fructul pasiunii
+sapodilla
+jabuticaba
+acerola
+noni
+kiwano = castravete cu coarne
+pepino
+tamarillo = roșie de copac
+nashi = păr asiatic
+salak = fructul șarpelui
+yuzu
+clementin = clementină
+calamondin
+combava = lămâi kaffir
+nucă de Brazilia = castană de Pará
+chufa = migdală de pământ
+tomatillo
+chayote
+momordica = castravete amar
+lufă = luffa = burete vegetal
+jicama
+yacon
+teff
+ramie
+kenaf
+abacă = cânepă de Manila
+guar
+lubiț = camelina
+
+# ---- Condimente, plante aromatice și medicinale ----
+galangal
+piper lung
+piper de Sichuan
+piper roz = schinus
+negrilică = chimen negru
+asafoetida
+sumac
+tulsi = busuioc sfânt
+perilla = shiso
+izmă creață = mentă creață
+mentă piperată = izmă bună
+vetrice
+pelinariță
+spilcuță
+verbină de lămâie = aloysia
+ashwagandha = ginseng indian
+rhodiola = rădăcina de aur
+centella = gotu kola
+siminichie = senna
+schisandra
+harpagophytum = gheara diavolului
+gheara mâței = uncaria
+ipeca = ipecacuana
+mătăciune
+
+# ---- Flori, plante perene și graminee de grădină ----
+pachysandra
+euforbie = euphorbia
+centranthus = valeriană roșie
+orbalț
+osteospermum = margaretă africană
+dimorphotheca
+scaevola
+cleome
+clarkia = godetia
+garoafă turcească
+stânjenel galben = stânjenel de baltă
+festuca albastră = păiuș albastru
+arundo = trestie gigantică
+phyllostachys
+fargesia
+ophiopogon
+ierbăluță
+mălaiul-cucului
+eucomis
+
+# ---- Plante de apartament și ferigi ----
+aralia
+asparagus decorativ = sparanghel ornamental
+abutilon = arțar de cameră
+papirus = cyperus papyrus
+phormium = in de Noua Zeelandă
+ferigă de Boston = nephrolepis
+asplenium
+platycerium = coarne de cerb
+dicksonia = ferigă arborescentă
+osmunda = ferigă regală
+iarbă dulce = polypodium
+limba-cucului
+ficus ginseng
+ixora
+clerodendrum
+welwitschia
+
+# ---- Orhidee ----
+bulbophyllum
+cambria
+lycaste
+căpșunică
+trânji
+
+# ---- Plante de acvariu și de iaz ----
+anubias
+vallisneria
+cryptocoryne
+echinodorus = sabia amazoniană
+cabomba
+hygrophila
+ludwigia
+rotala
+limnophila
+mușchi de Java = vesicularia
+ferigă de Java = microsorum
+pistia = salată de apă
+zambilă de apă = eichhornia
+azolla
+aponogeton
+marsilea
+victoria amazonica = victoria regia
+riccia
+hydrocotyle
+hemianthus
+egeria
+posidonia
+coada-mânzului
+umbra-iepurelui

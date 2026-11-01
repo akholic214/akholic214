@@ -1,0 +1,300 @@
+# Ape — lacuri, cascade, Marea Neagră, Delta și canale (România și Republica Moldova)
+# Râurile sunt în alte fișiere.
+
+# Lacuri glaciare — Făgăraș
+Bâlea
+Capra
+Căprița
+Călțun
+Avrig
+Podragu
+Podrăgel
+Urlea
+Doamnei
+Buda
+Mioarelor
+
+# Lacuri glaciare — Retezat
+Bucura
+Zănoaga
+Zănoguța
+Peleaga
+Ana
+Lia
+Viorica
+Florica
+Galeșu = Galeș
+Gemenele
+Tăul Negru
+Tăul Agățat
+Tăul Țapului
+Tăul Mare
+Tăul Porții
+Tăul Răsucit
+Tăul Ascuns
+Tăul Știrbu
+Tăul dintre Brazi
+Stânișoara
+Pietrele
+Judele
+Slăveiul
+
+# Lacuri glaciare — Parâng
+Gâlcescu = Câlcescu
+Roșiile
+Mija
+Vidal
+Pencu
+Mândra
+
+# Lacuri glaciare — alte masive
+Iezer
+Iezerul Șureanu
+Iezerul Mare
+Iezerul Mic
+Iezerul Țarcu
+Iezerul Pietrosului
+Lala Mare = Lala
+Lala Mică
+Buhăescu
+Știol = Tăul Știol
+Vinderel
+
+# Lacuri naturale — carstice, vulcanice, de baraj natural, de alunecare
+Ighiel
+Zăton
+Vărășoaia
+Lacul Dracului
+Sfânta Ana
+Lacul Roșu = Lacul Ghilcoș
+Cuejdel
+Bălătău
+Lacul Vulturilor
+Meledic
+Lacul Negru
+Ochiul Beiului = Ochiul Beului
+
+# Lacuri sărate și balneare
+Ursu
+Aluniș
+Mierlei
+Lacul Verde
+Lacul fără Fund
+Brâncoveanu
+Avram Iancu
+Horea
+Cloșca
+Crișan
+Durgău
+Baia Baciului
+Baia Verde
+Baia Roșie
+Lacul Sărat
+Amara
+Balta Albă
+Movila Miresii
+Ianca
+Plopu
+Jirlău
+Techirghiol
+
+# Lacuri din Dobrogea — limane, lagune, lacuri de luncă
+Siutghiol
+Tăbăcărie
+Mangalia
+Tașaul
+Razim = Razelm
+Sinoe = Sinoie
+Golovița
+Zmeica
+Babadag
+Nuntași
+Istria
+Oltina
+Bugeac
+Corbu
+Tatlageac
+Dunăreni
+Vederoasa
+Iortmac
+Murighiol
+
+# Lacuri din Delta Dunării
+Fortuna = Furtuna
+Isac
+Uzlina
+Gorgova
+Merhei
+Matița
+Puiu
+Puiuleț
+Lumina
+Roșuleț
+Trei Iezere
+Obretin
+Dranov
+Belciug
+Bogdaproste
+Iacub
+Nebunu
+Erenciuc
+Cuibida
+Babina
+Crapina
+
+# Lacuri din Moldova (România)
+Dracșani
+Stânca-Costești = Costești-Stânca
+Izvorul Muntelui = Bicaz
+Pângărați
+Vaduri
+Bâtca Doamnei
+Poiana Uzului
+Galbeni
+Răcăciuni
+Berești
+Călimănești
+Rogojești
+Bucecea
+Ciric
+Lilieci
+Brateș
+
+# Lacuri de acumulare — Muntenia și Oltenia
+Vidraru
+Budeasa
+Bascov
+Golești
+Vâlcele
+Râușor
+Pecineagu
+Mihăilești
+Strejești
+Drăgănești
+Frunzaru
+Ipotești
+Arcești
+Dăești
+Băbeni
+Ionești
+Zăvideni
+Rusănești
+Izbiceni
+Vidra
+Petrimanu
+Galbenu
+Brădișor
+Mălaia
+Siriu
+Paltinu
+Măneciu
+Pucioasa
+Scropoasa
+Bolboci
+Dridu
+Fundata
+Strachina
+Săcele
+Porțile de Fier I = Porțile de Fier
+Porțile de Fier II
+Valea de Pești
+
+# Lacuri de acumulare și alte lacuri — Transilvania, Banat, Crișana, Maramureș
+Gilău
+Tarnița
+Fântânele = Beliș-Fântânele = Beliș
+Drăgan = Floroiu
+Leșu
+Colibița
+Zetea
+Frumoasa
+Bezid
+Zau = Zau de Câmpie
+Lacul Știucilor = Lacul Știucii
+Oașa
+Tău
+Gura Râului
+Cinciș = Cinciș-Cerna
+Gura Apelor
+Secu
+Trei Ape
+Văliug = Gozna
+Buhui
+Mărghitaș
+Surduc
+Poiana Mărului
+Valea lui Iovan = Iovanu
+Firiza = Strâmtori-Firiza = Strâmtori
+Bodi
+Lacul Albastru
+Vârșolț
+Tileagd
+Tăul Brazi
+Tăul Țarina
+Tăul Cornii
+
+# Lacuri din București, Ilfov și lunca Dunării
+Lacul Morii
+Tei
+Herăstrău
+Floreasca
+Cișmigiu
+Plumbuita
+Fundeni
+Pantelimon
+Cernica
+Mogoșoaia
+Buftea
+Chitila
+Străulești
+Grivița
+Băneasa
+Văcărești
+Snagov
+Căldărușani
+Balta Comana
+Bistreț
+Suhaia
+Gălățui
+
+# Lacuri din Republica Moldova
+Ghidighici = Marea Chișinăului
+Dubăsari
+Beleu
+Manta
+Cuciurgan
+Valea Morilor
+
+# Cascade
+Cascada Cailor
+Cascada Bigăr
+Cascada Vânturătoarea
+Cascada Urlătoarea
+Cascada Duruitoarea
+Cascada Putnei
+Cascada Lotrișor
+Cascada Iadolina
+Cascada Vălul Miresei = Cascada Răchițele
+Cascada Moara Dracului
+Cascada Bohodei = Săritoarea Bohodeiului
+Cascada Evantai
+Cascada Pișoaia
+Cascada Tamina
+Cascada Vărciorog
+Cascada Lolaia
+Șapte Scări = Canionul Șapte Scări
+Cascada Beușnița
+Cascada Pruncea = Cascada Cașoca
+Cascada Clocota
+Cascada Vânturiș
+Cascada Obârșia Ialomiței
+Cascada Șușara
+Cascada Buciaș
+
+# Marea Neagră, Delta și canale
+Marea Neagră = Pontul Euxin = Black Sea
+Golful Musura
+Delta Dunării = Danube Delta
+Canalul Dunăre-Marea Neagră
+Canalul Poarta Albă-Midia Năvodari
+Canalul Bega

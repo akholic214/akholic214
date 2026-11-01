@@ -1,0 +1,489 @@
+# Plante — partea 2: flori de grădină și de câmp, plante ornamentale, plante de apartament, cactuși și suculente
+# Format: canonic = variantă1 = variantă2 (vezi data/FORMAT.md). Nume comune, cu litere mici, fără plural.
+# Arborii, arbuștii, plantele medicinale, legumele, fructele, cerealele, buruienile, plantele acvatice, ferigile și mușchii sunt în alte fișiere.
+
+# ---- Flori clasice de grădină ----
+trandafir = roză = rosa
+trandafir de Damasc = rosa damascena
+trandafir de dulceață = rosa centifolia
+lalea = tulipa = tulipan
+narcisă = narcis = narcissus = zarnacadea = coprină
+zambilă = hiacint = hyacinthus
+crin = lilium
+crin alb = lilium candidum
+crin regal = lilium regale
+crin tigrat = lilium lancifolium
+crin de pădure = lilium martagon
+crin de o zi = hemerocallis
+crinul african = agapanthus
+coroana imperială = crin imperial = fritillaria imperialis
+bujor = paeonia
+bujor românesc = paeonia peregrina
+bujor de stepă = paeonia tenuifolia
+garoafă = garofă = dianthus
+garofiță
+garofiță de munte
+garofița Pietrei Craiului = dianthus callizonus
+crizantemă = chrysanthemum
+tufănică = tufănea = dumitriță
+dalie = dahlia = gherghină
+gladiolă = gladiolus = săbiuță
+mușcată = pelargonie = pelargonium = geranium = indrușaim
+mușcată curgătoare = pelargonium peltatum
+petunie = petunia
+surfinia
+calibrachoa
+panseluță = pansea = trei-frați-pătați = catifeluță
+violetă = toporaș
+viorea = scilla
+ghiocel = galanthus
+ghiocel bogat = leucojum
+brândușă = crocus = brândușă de primăvară
+brândușă de toamnă = colchicum
+lăcrămioară = lăcrimioară = mărgăritar = mărgăritărel = convallaria
+margaretă = leucanthemum
+păpădie = papalungă = taraxacum
+mac = papaver = paparoană = mac roșu = mac de câmp
+mac californian = eschscholzia
+mac albastru = meconopsis
+mac oriental = papaver orientale
+albăstrea = albăstriță = vinețea = centaurea
+sânziană = drăgaică = galium
+cicoare = cichorium
+nalbă = cașul-popii = malva
+nalbă mare = althaea
+nalbă de grădină = rujă = alcea
+lumânărică = coada-vacii = verbascum
+clopoțel = campanulă
+gura-leului = antirrhinum
+regina-nopții = nicotiana
+ochiul-boului = aster = steliță
+condurul-doamnei = condurași = călțunaș = tropaeolum
+cerceluș = fucsia = fuchsia
+gălbenea = gălbenele = filimică = calendula
+crăiță = crăițe = vâzdoagă = ocheșele = tagetes
+cârciumăreasă = cârciumărese = zinnia
+floarea-soarelui = sora-soarelui = helianthus
+floarea-miresei = gypsophila
+floare-de-colț = floarea-reginei = edelweiss = leontopodium
+ciuboțica-cucului = primulă
+urechea-ursului = primula auricula
+degetăruț = soldanella
+degețel = degetar = digitalis
+nu-mă-uita = myosotis
+ochiul-șarpelui = eritrichium
+micsandră = mixandră = matthiola
+micșunea = șiboi = cheiranthus
+levănțică = lavandă = lavandula
+rochița-rândunicii = volbură = convolvulus
+zorea = zorele = ipomoea
+sângele-voinicului = lathyrus
+nemțișor = delphinium = consolida
+bănuțel = bănuței = părăluță = părăluțe = bellis
+stânjenel = stânjen = iris
+stânjenel pitic = iris pumila
+stânjenel siberian = iris sibirica
+cală = calla = zantedeschia
+orhidee = orchid
+begonie = begonia
+ciclamen = ciclamă = cyclamen
+anemonă = anemone = floarea-vântului
+anemonă japoneză = anemone hupehensis
+oiță = anemone narcissiflora
+piciorul-cocoșului = ranunculus
+lotus = nelumbo = floarea de lotus
+lalea pestriță = laleaua pestriță = bibilică = fritillaria
+frezie = freesia
+gerbera
+amarilis = amaryllis = hippeastrum
+lupin = lupinus = cafeluță
+floarea-paștelui = păștiță
+dediță = dediței = sisinei = pulsatilla
+ruscuță = ruscuță de primăvară = adonis
+brebenel = brebenei = corydalis
+untișor = grâușor = ficaria
+tuberoză = chiparoasă = polianthes
+muscari
+bălușcă = ornithogalum
+pecetea lui Solomon = coada-cocoșului = polygonatum
+măseaua-ciutei = erythronium
+crocosmia
+alstroemeria
+lisianthus = eustoma
+limonium = statice
+splinuță = solidago
+cosmos
+rudbeckia
+echinacea
+gaillardia
+coreopsis
+helenium
+heliopsis
+liatris
+brumărea = brumărele = phlox = flox
+hosta = crin de toamnă
+heuchera
+astilbe
+bergenia
+aubrieta
+arabis
+iberis
+armeria
+saxifragă
+căldărușă = aquilegia
+chica-voinicului = nigella
+opaiță = lychnis
+arșinic = lychnis chalcedonica
+floarea-cucului = lychnis flos-cuculi
+gușa-porumbelului = silene
+săpunariță = odagaci = saponaria
+imortelă = siminoc = helichrysum = floare de paie
+plevaiță = xeranthemum
+pana-zburătorului = lunaria
+nopticoasă = hesperis
+barba-împăratului = mirabilis
+ciumăfaie = datura
+trompeta îngerului = brugmansia
+clematită = clematis
+thunbergia
+torenia
+nemesia
+diascia
+bacopa
+bidens
+gomphrena
+astrantia
+epimedium
+brunnera
+tiarella
+ajuga
+physostegia
+mimulus
+lavatera
+nerine
+crinum
+zephyranthes
+eremurus
+chionodoxa
+puschkinia
+gloriosa
+ixia
+sparaxis
+tigridia
+polemonium
+ligularia
+browallia
+exacum
+lewisia
+crucea-voinicului = trei-răi = hepatica
+mierea-ursului = plămânărică = pulmonaria
+calcea-calului = caltha
+bulbuc = bulbuci = trollius
+omag = aconitum
+spânz = helleborus
+cerceii-doamnei = dicentra
+crețușcă = filipendula
+aglică = filipendula vulgaris
+cerențel = geum
+scrântitoare = potentilla
+crețișoară = alchemilla
+barba-popii = aruncus
+rutișor = thalictrum
+sorbestrea = sanguisorba
+pliscul-cocorului = ciocul-berzei
+priboi = geranium macrorrhizum
+năpraznic = geranium robertianum
+pălăria-cucului = geranium phaeum
+oxalis = măcriș iepuresc
+sedum = iarbă grasă = șoaldină
+urechelniță = sempervivum
+luminiță = luminița-nopții = oenothera
+zburătoare = chamaenerion
+pufuliță = epilobium
+șopârliță = veronica
+linariță = linaria
+penstemon
+platycodon
+mușcata-dracului = scabiosa
+măciuca-ciobanului = echinops
+acantă = acanthus = talpa-ursului
+iarbă de pampas = cortaderia
+kniphofia
+monarda
+gaura
+heliotrop = heliotropium
+ghințură = gențiană
+lumânărica-pământului = gentiana asclepiadea
+amăreală = polygala
+argințică = dryas
+vulturică = hieracium
+iarba-ciutei = doronicum
+limba-boului = anchusa
+iarba-șarpelui = echium
+bunghișor = erigeron
+scânteiuță = anagallis
+coroniște = coronilla
+sor-cu-frate = melampyrum
+ciormoiag = melampyrum arvense
+clocotici = rhinanthus
+flămânzică = draba
+rezedă = reseda
+cânepa-codrului = eupatorium
+colilie = stipa
+miscanthus
+festuca
+pennisetum
+rodul-pământului = arum
+poroinic = orchis
+untul-vacii = orchis morio
+papucul-doamnei = cypripedium
+stupiniță = platanthera
+mlăștiniță = epipactis
+saschiu = brebenoc = vinca
+iarbă neagră = calluna
+erica
+cineraria = cinerarie
+calceolaria
+verbină = verbena
+lantana
+lobelia
+ciucușoară = alyssum
+ageratum = pufuleți
+creasta-cocoșului = celosia
+moțul-curcanului = amarant = amaranthus
+canna
+gazania
+floare de piatră = portulaca
+sporul casei = impatiens
+balsamină = impatiens balsamina
+urzicuță = coleus
+varză ornamentală = varză decorativă
+cireș japonez = sakura
+
+# ---- Flori exotice și de florărie ----
+protea
+banksia
+heliconia
+strelitzia = pasărea paradisului
+plumeria = frangipani
+anturium = anthurium = floarea flamingo
+spatifilum = spathiphyllum = crinul păcii
+pasiflora = floarea-pasiunii = floarea patimilor = passiflora
+mandevilla = dipladenia
+allamanda
+plumbago
+rafflesia
+amorphophallus = floarea cadavru
+vanilie = vanilla
+
+# ---- Plante carnivore ----
+roua cerului = drosera
+dionaea = venus flytrap
+nepenthes
+sarracenia
+foaie grasă = pinguicula
+
+# ---- Orhidee ----
+falenopsis = phalaenopsis = orhidee fluture
+cattleya
+dendrobium
+cymbidium
+vanda
+oncidium
+miltonia
+paphiopedilum
+zygopetalum
+odontoglossum
+epidendrum
+brassia
+masdevallia
+ludisia
+phragmipedium
+coelogyne
+laelia
+angraecum
+bletilla
+catasetum
+stanhopea
+maxillaria
+encyclia
+ophrys
+pleione
+
+# ---- Plante de apartament ----
+ficus
+ficus benjamin = ficus benjamina
+ficus elastica = arborele de cauciuc
+ficus lyrata
+filodendron = philodendron
+monstera
+dracena = dracaena
+bambusul norocos = dracaena sanderiana
+cordyline
+iucca = yucca
+beaucarnea = nolina = piciorul elefantului
+pachira = arborele banilor
+sansevieria = sanseviera = limba-soacrei
+zamioculcas
+chlorophytum = planta păianjen
+tradescantia = telegraf
+aspidistra
+aglaonema
+diefenbachia = dieffenbachia
+croton = codiaeum
+calathea
+maranta
+ctenanthe
+stromanthe
+peperomia
+pilea
+fittonia
+hypoestes
+iresine
+pothos = epipremnum
+scindapsus
+syngonium
+alocasia
+colocasia
+caladium
+schefflera
+fatsia
+radermachera
+cissus
+plectranthus
+hoya = floarea de ceară
+stephanotis = iasomie de Madagascar
+clivia
+violetă africană = saintpaulia
+gloxinia = sinningia
+streptocarpus
+columnea
+aeschynanthus
+episcia
+achimenes
+nematanthus
+gynura
+callisia
+acalypha
+ardisia
+polyscias
+rhaphidophora
+medinilla
+eucharis
+haemanthus
+sparmannia = tei de cameră
+soleirolia = helxine
+ravenala = arborele călătorului
+crossandra
+aphelandra
+mimoză = mimosa
+crăciuniță = poinsettia = steaua Crăciunului = euphorbia pulcherrima
+coroana de spini = euphorbia milii
+kalanchoe
+bromelia
+guzmania
+tillandsia
+vriesea
+aechmea
+neoregelia
+billbergia
+cryptanthus
+areca = dypsis
+kentia = howea
+chamaedorea
+rhapis
+livistona
+caryota
+washingtonia
+cycas
+zamia
+
+# ---- Cactuși ----
+cactus
+opunție = opuntia = nopal
+cactusul de Crăciun = schlumbergera = zygocactus
+cactusul de Paște = hatiora
+echinocactus = scaunul soacrei
+mammillaria
+echinopsis
+echinocereus
+cereus
+ferocactus
+astrophytum
+rebutia
+gymnocalycium
+lobivia
+cleistocactus
+melocactus
+parodia = notocactus
+epiphyllum
+rhipsalis
+saguaro = carnegiea
+peyote = lophophora
+cephalocereus
+pilosocereus
+trichocereus
+myrtillocactus
+pachycereus
+hylocereus
+aporocactus
+ariocarpus
+pereskia
+coryphantha
+thelocactus
+stenocactus
+copiapoa
+matucana
+oreocereus
+espostoa
+sulcorebutia
+turbinicarpus
+eriosyce
+cylindropuntia
+tephrocactus
+escobaria
+aztekium
+leuchtenbergia
+selenicereus
+disocactus
+lepismium
+stenocereus
+discocactus
+frailea
+
+# ---- Suculente ----
+aloe
+aloe vera
+agavă = agave
+echeveria
+haworthia
+gasteria
+aeonium
+crassula = arborele de jad = planta de jad
+graptopetalum
+pachyphytum
+cotyledon
+portulacaria
+delosperma
+conophytum
+aptenia
+pietre vii = lithops
+stapelia
+trandafirul deșertului = adenium
+pachypodium
+huernia
+ceropegia
+hoodia
+jovibarba
+adromischus
+dudleya
+faucaria
+fenestraria
+pleiospilos
+lampranthus
+carpobrotus
+bulbine
+dasylirion
+anacampseros
+titanopsis
+orbea

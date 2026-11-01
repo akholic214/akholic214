@@ -1,0 +1,468 @@
+# Orașe — municipii și orașe din România, orașe și municipii din Republica Moldova
+# Ordonate pe județe (România), apoi Republica Moldova.
+
+# Alba
+Alba Iulia = Bălgrad = Karlsburg = Gyulafehérvár
+Aiud = Nagyenyed
+Blaj = Balázsfalva = Blasendorf
+Sebeș = Mühlbach = Szászsebes
+Abrud = Abrudbánya
+Baia de Arieș
+Câmpeni = Topánfalva
+Cugir
+Ocna Mureș = Marosújvár
+Teiuș = Tövis
+Zlatna = Zalatna
+
+# Arad
+Arad
+Chișineu-Criș = Kisjenő
+Curtici = Kürtös
+Ineu = Borosjenő
+Lipova = Lippa
+Nădlac = Nagylak
+Pâncota
+Pecica = Pécska
+Sântana
+Sebiș = Borossebes
+
+# Argeș
+Pitești
+Câmpulung = Câmpulung Muscel
+Curtea de Argeș
+Costești
+Mioveni
+Ștefănești
+Topoloveni
+
+# Bacău
+Bacău
+Moinești
+Onești = Gheorghe Gheorghiu-Dej
+Buhuși
+Comănești
+Dărmănești
+Slănic-Moldova
+Târgu Ocna
+
+# Bihor
+Oradea = Oradea Mare = Nagyvárad = Großwardein = Grosswardein
+Beiuș = Belényes
+Marghita = Margitta
+Salonta = Nagyszalonta
+Aleșd = Élesd
+Nucet
+Săcueni = Székelyhíd
+Ștei = Dr. Petru Groza
+Valea lui Mihai = Érmihályfalva
+Vașcău = Vaskoh
+
+# Bistrița-Năsăud
+Bistrița = Bistritz = Beszterce
+Beclean = Bethlen
+Năsăud = Naszód
+Sângeorz-Băi
+
+# Botoșani
+Botoșani
+Dorohoi
+Bucecea
+Darabani
+Flămânzi
+Săveni
+
+# Brașov
+Brașov = Kronstadt = Brassó = Orașul Stalin
+Codlea = Zeiden
+Făgăraș = Fogarasch = Fogaras
+Săcele = Négyfalu
+Ghimbav = Weidenbach
+Predeal
+Râșnov = Rosenau
+Rupea = Reps = Kőhalom
+Victoria
+Zărnești
+
+# Brăila
+Brăila
+Făurei
+Ianca
+Însurăței
+
+# București
+București = Bucharest
+
+# Buzău
+Buzău
+Râmnicu Sărat
+Nehoiu
+Pătârlagele
+Pogoanele
+
+# Caraș-Severin
+Reșița = Resicabánya = Reschitz
+Caransebeș = Karánsebes
+Anina = Steierdorf
+Băile Herculane = Herkulesfürdő = Herkulesbad
+Bocșa
+Moldova Nouă
+Oravița = Oravicabánya
+Oțelu Roșu
+
+# Călărași
+Călărași
+Oltenița
+Budești
+Fundulea
+Lehliu Gară
+
+# Cluj
+Cluj-Napoca = Cluj = Kolozsvár = Klausenburg
+Câmpia Turzii = Aranyosgyéres
+Dej = Dés
+Gherla = Szamosújvár = Armenopolis
+Turda = Torda = Thorenburg
+Huedin = Bánffyhunyad
+
+# Constanța
+Constanța = Tomis
+Mangalia = Callatis
+Medgidia
+Băneasa
+Cernavodă
+Eforie
+Hârșova
+Murfatlar = Basarabi
+Năvodari
+Negru Vodă
+Ovidiu
+Techirghiol
+
+# Covasna
+Sfântu Gheorghe = Sepsiszentgyörgy
+Târgu Secuiesc = Kézdivásárhely
+Baraolt = Barót
+Covasna = Kovászna
+Întorsura Buzăului = Bodzaforduló
+
+# Dâmbovița
+Târgoviște
+Moreni
+Fieni
+Găești
+Pucioasa
+Răcari
+Titu
+
+# Dolj
+Craiova
+Băilești
+Calafat
+Bechet
+Dăbuleni
+Filiași
+Segarcea
+
+# Galați
+Galați = Galatz
+Tecuci
+Berești
+Târgu Bujor
+
+# Giurgiu
+Giurgiu
+Bolintin-Vale
+Mihăilești
+
+# Gorj
+Târgu Jiu
+Motru
+Bumbești-Jiu
+Novaci
+Rovinari
+Târgu Cărbunești
+Țicleni
+Tismana
+Turceni
+
+# Harghita
+Miercurea Ciuc = Csíkszereda
+Gheorgheni = Gyergyószentmiklós
+Odorheiu Secuiesc = Odorhei = Székelyudvarhely
+Toplița = Maroshévíz
+Băile Tușnad = Tusnádfürdő
+Bălan = Balánbánya
+Borsec = Borszék
+Cristuru Secuiesc = Székelykeresztúr
+Vlăhița = Szentegyháza
+
+# Hunedoara
+Deva
+Brad
+Hunedoara = Vajdahunyad = Eisenmarkt
+Lupeni
+Orăștie = Broos = Szászváros
+Petroșani = Petrozsény
+Vulcan
+Aninoasa
+Călan
+Geoagiu
+Hațeg = Hátszeg
+Petrila
+Simeria = Piski
+Uricani
+
+# Ialomița
+Slobozia
+Fetești
+Urziceni
+Amara
+Căzănești
+Fierbinți-Târg
+Țăndărei
+
+# Iași
+Iași = Jassy
+Pașcani
+Hârlău
+Podu Iloaiei
+Târgu Frumos
+
+# Ilfov
+Bragadiru
+Buftea
+Chitila
+Măgurele
+Otopeni
+Pantelimon
+Popești-Leordeni
+Voluntari
+
+# Maramureș
+Baia Mare = Nagybánya
+Sighetu Marmației = Sighet = Máramarossziget
+Baia Sprie = Felsőbánya
+Borșa
+Cavnic
+Dragomirești
+Săliștea de Sus
+Seini
+Șomcuta Mare
+Târgu Lăpuș
+Tăuții-Măgherăuș
+Ulmeni
+Vișeu de Sus
+
+# Mehedinți
+Drobeta-Turnu Severin = Turnu Severin = Drobeta = Severin
+Orșova
+Baia de Aramă
+Strehaia
+Vânju Mare
+
+# Mureș
+Târgu Mureș = Marosvásárhely
+Reghin = Szászrégen = Sächsisch Regen
+Sighișoara = Schäßburg = Schässburg = Segesvár
+Târnăveni = Dicsőszentmárton
+Iernut = Radnót
+Luduș = Marosludas
+Miercurea Nirajului = Nyárádszereda
+Sângeorgiu de Pădure = Erdőszentgyörgy
+Sărmașu = Nagysármás
+Sovata = Szováta
+Ungheni
+
+# Neamț
+Piatra Neamț
+Roman
+Bicaz
+Roznov
+Târgu Neamț
+
+# Olt
+Slatina
+Caracal
+Balș
+Corabia
+Drăgănești-Olt
+Piatra-Olt
+Potcoava
+Scornicești
+
+# Prahova
+Ploiești = Ploești
+Câmpina
+Azuga
+Băicoi
+Boldești-Scăeni
+Breaza
+Bușteni
+Comarnic
+Mizil
+Plopeni
+Sinaia
+Slănic
+Urlați
+Vălenii de Munte
+
+# Satu Mare
+Satu Mare = Szatmárnémeti = Sathmar
+Carei = Nagykároly
+Ardud = Erdőd
+Livada
+Negrești-Oaș
+Tășnad
+
+# Sălaj
+Zalău = Zilah
+Cehu Silvaniei = Szilágycseh
+Jibou = Zsibó
+Șimleu Silvaniei = Szilágysomlyó
+
+# Sibiu
+Sibiu = Hermannstadt = Nagyszeben
+Mediaș = Mediasch = Medgyes
+Agnita = Agnetheln
+Avrig = Freck
+Cisnădie = Heltau
+Copșa Mică
+Dumbrăveni = Elisabethstadt
+Miercurea Sibiului
+Ocna Sibiului
+Săliște
+Tălmaciu
+
+# Suceava
+Suceava
+Câmpulung Moldovenesc
+Fălticeni
+Rădăuți
+Vatra Dornei
+Broșteni
+Cajvana
+Dolhasca
+Frasin
+Gura Humorului
+Liteni
+Milișăuți
+Salcea
+Siret
+Solca
+Vicovu de Sus
+
+# Teleorman
+Alexandria
+Roșiorii de Vede
+Turnu Măgurele
+Videle
+Zimnicea
+
+# Timiș
+Timișoara = Temesvár = Temeswar
+Lugoj = Lugos
+Buziaș
+Ciacova
+Deta = Detta
+Făget
+Gătaia
+Jimbolia = Zsombolya = Hatzfeld
+Recaș
+Sânnicolau Mare = Nagyszentmiklós
+
+# Tulcea
+Tulcea
+Babadag
+Isaccea
+Măcin
+Sulina
+
+# Vaslui
+Vaslui
+Bârlad
+Huși
+Murgeni
+Negrești
+
+# Vâlcea
+Râmnicu Vâlcea
+Drăgășani
+Băbeni
+Băile Govora
+Băile Olănești
+Bălcești
+Berbești
+Brezoi
+Călimănești
+Horezu
+Ocnele Mari
+
+# Vrancea
+Focșani
+Adjud
+Mărășești
+Odobești
+Panciu
+
+# Republica Moldova — municipii și orașe (inclusiv Găgăuzia și Transnistria)
+Chișinău = Kishinev
+Bălți = Beltsy
+Tiraspol
+Bender = Tighina = Bendery
+Cahul
+Comrat
+Ceadîr-Lunga = Ceadâr-Lunga
+Edineț
+Hîncești = Hâncești
+Orhei
+Soroca
+Strășeni
+Anenii Noi
+Basarabeasca
+Briceni
+Lipcani
+Cantemir
+Căușeni
+Căinari
+Cimișlia
+Criuleni
+Dondușeni
+Drochia
+Cupcini
+Fălești
+Florești
+Ghindești
+Mărculești
+Glodeni
+Ialoveni
+Leova
+Iargara
+Nisporeni
+Ocnița
+Otaci
+Frunză
+Rezina
+Rîșcani = Râșcani
+Sîngerei = Sângerei
+Biruința
+Bucovăț
+Șoldănești
+Ștefan Vodă
+Taraclia
+Telenești
+Cornești
+Codru
+Cricova
+Durlești
+Sîngera = Sângera
+Vadul lui Vodă
+Vatra
+Vulcănești
+Rîbnița = Râbnița
+Dubăsari
+Camenca
+Grigoriopol
+Dnestrovsc = Dnestrovsk
+Crasnoe = Krasnoe
+Maiac
+Tiraspolul Nou = Novotiraspolski

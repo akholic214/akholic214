@@ -1,0 +1,212 @@
+# Plante — partea 3: plante cultivate: legume, verdețuri, condimente și mirodenii,
+# cereale, leguminoase, plante tehnice (ulei, fibre, zahăr), furajere, plante
+# pentru ceai și băuturi, fructe ierboase (plantele, nu fructele pomilor).
+# Fără arbori și arbuști, flori ornamentale, buruieni, plante acvatice, ciuperci.
+
+# ---- Legume: solanacee ----
+roșie = tomată = pătlăgea roșie
+roșie cherry
+cartof = barabulă = crumpenă = crumpir
+vânătă = vinete = pătlăgea vânătă
+ardei = piparcă
+ardei gras
+ardei iute = chili
+ardei capia = capia = kapia = ardei kapia
+ardei lung
+gogoșar
+jalapeño
+păpălău = physalis
+tutun
+
+# ---- Legume: bulboase ----
+ceapă
+ceapă de tuns = ceapă de iarnă
+arpagic
+șalotă = eșalotă = hașmă = ceapă eșalotă
+usturoi = ai
+praz
+leurdă = usturoi sălbatic
+
+# ---- Legume: rădăcinoase și tuberculifere ----
+morcov
+pătrunjel
+păstârnac
+țelină
+sfeclă
+sfeclă roșie
+sfeclă de zahăr
+sfeclă furajeră
+ridiche
+ridiche neagră
+daikon = ridiche japoneză
+hrean
+nap
+brojbă = broajbă = nap suedez = rutabaga
+gulie = kohlrabi = calarabă
+scorțoneră = salsifi negru
+topinambur = nap porcesc
+batat = cartof dulce
+manioc = cassava
+taro
+yam = igname
+baraboi
+maca
+
+# ---- Legume: crucifere ----
+varză = curechi = varză albă
+varză roșie
+varză de Bruxelles
+varză creață
+kale = varză kale
+varză chinezească
+pak choi = bok choy
+conopidă
+broccoli
+rucola
+creson
+muștar
+wasabi
+rapiță
+
+# ---- Legume: frunzoase și verdețuri ----
+spanac
+lobodă
+ștevie
+măcriș
+salată = lăptucă = salată verde
+salată romană
+salată iceberg
+andivă = andive
+radicchio
+fetică
+mangold = sfeclă elvețiană
+untișor
+revent = rubarbă
+
+# ---- Legume: cucurbitacee ----
+castravete
+dovleac = bostan = ludaie
+dovlecel = zucchini = bostănel
+dovleac plăcintar
+pepene
+pepene verde = lubeniță = harbuz = pepene roșu
+pepene galben = zămos
+tărtăcuță = tigvă
+
+# ---- Legume: alte ----
+sparanghel
+anghinare
+bame = bamă = okra
+fenicul = molură = chimen dulce
+
+# ---- Leguminoase ----
+mazăre
+fasole = păsulă
+fasoliță
+fasole mung = mung
+adzuki = fasole adzuki
+fasole de Lima
+bob
+linte
+năut
+soia
+arahide = arahidă = alune de pământ
+
+# ---- Plante aromatice și condimentare ----
+mărar
+leuștean
+tarhon
+busuioc
+cimbru
+cimbrișor
+oregano = sovârv
+maghiran
+rozmarin
+salvie = jaleș
+mentă = izmă
+melisă = roiniță
+coriandru
+chimen
+chimion
+anason
+schinduf
+hasmațuchi = asmățui
+angelică
+isop
+calapăr
+limba-mielului
+iarbă de lămâie = lemongrass
+capere = caper
+
+# ---- Mirodenii ----
+piper = piper negru
+ienibahar = piper de Jamaica
+șofran
+șofrănel
+turmeric = curcuma
+ghimbir
+cardamom
+lemn dulce
+anason stelat = badian
+susan
+
+# ---- Cereale și pseudocereale ----
+grâu
+grâu dur
+alac = spelta = grâu spelta
+secară
+orz
+orzoaică
+ovăz
+porumb = cucuruz = păpușoi
+orez
+mei
+sorg
+dughie
+triticale
+hrișcă
+quinoa
+chia
+
+# ---- Plante tehnice: ulei, fibre, zahăr ----
+in
+cânepă
+bumbac
+iută
+sisal
+ricin
+trestie de zahăr
+
+# ---- Plante furajere ----
+lucernă
+trifoi
+trifoi roșu
+trifoi alb
+sparcetă
+ghizdei
+măzăriche
+raigras
+timoftică
+golomăț
+iarbă de Sudan
+facelia
+
+# ---- Plante medicinale cultivate și pentru ceai ----
+ceai
+mate = yerba mate
+rooibos
+mușețel = romaniță
+valeriană = odolean
+ginseng
+stevia
+armurariu
+
+# ---- Fructe: plante ierboase și viță ----
+vie = viță de vie
+strugure
+căpșun = căpșună
+frag = fragă
+ananas
+banană
+goji
+aronia = scoruș negru

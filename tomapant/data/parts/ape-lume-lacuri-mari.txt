@@ -1,0 +1,1430 @@
+# Ape — lume (în afara României și Republicii Moldova): lacuri, mări, oceane,
+# golfuri, băi, strâmtori, canale, delte, cascade. Râurile sunt în alte fișiere.
+# Format: Canonic = variantă = variantă (vezi data/FORMAT.md)
+
+# ==================== LACURI ====================
+
+# ---- Rusia, Caucaz, Asia Centrală ----
+Baikal = Baical
+Marea Caspică = Caspian Sea
+Marea Aral = Aral Sea
+Ladoga
+Onega
+Peipus = Ciud = Peipsi
+Ilmen
+Seliger
+Beloe = Beloye
+Vygozero
+Segozero
+Topozero
+Imandra
+Kubenskoe = Kubenskoye
+Nero
+Elton
+Taimîr = Taymyr
+Telețkoe = Teletskoye
+Hanka = Khanka
+Balhaș = Balkhash
+Issîk-Kul = Issyk-Kul
+Zaysan = Zaisan
+Alakol
+Tengiz
+Markakol
+Sasykkol
+Sarygamysh
+Kara-Bogaz-Gol
+Aydar = Aydarkul
+Karakul
+Iskanderkul
+Sarez
+Song-Kul = Song-Köl
+Chatyr-Kul
+Sevan
+Ritsa
+Paravani
+Paliastomi
+
+# ---- Mongolia și China ----
+Hövsgöl = Khövsgöl
+Uvs = Uvs Nuur
+Khar Us = Har Us
+Hyargas = Khyargas
+Buir = Buir Nuur
+Dongting
+Poyang
+Taihu = Tai
+Hongze
+Chaohu = Chao
+Dianchi = Dian
+Erhai
+Fuxian
+Lugu
+Qiandao
+Weishan
+Nansi
+Baiyangdian
+Xi Hu = Lacul de Vest
+Qinghai = Kokonor
+Nam Co = Namtso
+Yamdrok = Yamdrok Tso
+Manasarovar
+Siling Co
+Tangra Yumco
+Zhari Namco
+Puma Yumco
+Gyaring
+Ngoring
+Hulun = Hulun Nur
+Bosten
+Lop Nur = Lop Nor
+Sayram
+Kanas
+Tianchi
+Ebi Nur
+Ulungur
+Ayding = Aydingkol
+
+# ---- Japonia și Coreea ----
+Biwa
+Kasumigaura
+Inawashiro
+Shikotsu
+Toya
+Towada
+Ashi
+Kawaguchi
+Kussharo
+Mashu
+Akan
+Saroma
+Shinji
+Hamana
+Suwa
+Chuzenji
+Tazawa
+Motosu
+Yamanaka
+
+# ---- Asia de Sud ----
+Rara
+Phewa
+Tilicho
+Pangong = Pangong Tso
+Tso Moriri
+Dal
+Wular
+Chilika
+Vembanad
+Pulicat
+Loktak
+Sambhar
+Pushkar
+Nainital = Naini
+Kolleru
+Hussain Sagar
+Bhimtal
+Roopkund
+Gurudongmar
+Tsomgo
+
+# ---- Asia de Sud-Est și Oceania ----
+Inle
+Indawgyi
+Songkhla
+Tonle Sap
+Laguna de Bay
+Lanao
+Buhi
+Sebu
+Mainit
+Pinatubo
+Hoan Kiem = Hồ Hoàn Kiếm
+Hồ Tây
+Toba
+Maninjau
+Singkarak
+Ranau
+Batur
+Bratan
+Segara Anak
+Tempe
+Limboto
+Tondano
+Matano
+Towuti
+Poso
+Sentani
+Kutubu
+Eyre
+Torrens
+Gairdner
+Frome
+Amadeus
+Argyle
+Burley Griffin
+Mackay
+Disappointment
+Hindmarsh
+Alexandrina
+Pedder
+Illawarra
+Eildon
+Hume
+Jindabyne
+Eucumbene
+Taupo
+Wakatipu
+Wanaka
+Te Anau
+Manapouri
+Pukaki
+Tekapo
+Hawea
+Ohau
+Ellesmere
+Rotoiti
+Rotoaira
+Waikaremoana
+Brunner
+Coleridge
+Benmore
+Dunstan
+Matheson
+
+# ---- Orientul Mijlociu și Egipt ----
+Urmia
+Hamun
+Bakhtegan
+Namak
+Maharloo
+Zarivar
+Gavkhouni
+Tharthar
+Habbaniyah
+Razzaza
+Hammar
+Assad
+Qattinah
+Sawa
+Marea Moartă = Dead Sea
+Tiberiada = Marea Galileii = Kinneret = Lacul Ghenizaret
+Hula
+Bardawil
+Manzala
+Burullus
+Mariout
+Timsah
+Marele Lac Amar = Great Bitter Lake
+Qarun
+Nasser
+
+# ---- Africa ----
+Victoria = Victoria Nyanza
+Tanganyika = Tanganica
+Malawi = Nyasa
+Turkana = Rudolf
+Albert = Mobutu Sese Seko
+Edward
+Kivu
+Kyoga
+Mweru
+Bangweulu
+Rukwa
+Natron
+Magadi
+Manyara
+Eyasi
+Naivasha
+Nakuru
+Baringo
+Bogoria
+Elmenteita
+Bunyonyi
+Ihema
+Tana
+Abbe = Abhe
+Assal
+Koka
+Ziway
+Langano
+Abaya
+Chamo
+Abijatta
+Shala
+Awasa
+Afrera
+Ciad = Chad
+Fitri
+Kariba
+Cahora Bassa
+Kainji
+Mai-Ndombe
+Tumba
+Upemba
+Chilwa
+Ngami
+Makgadikgadi
+Etosha
+Liambezi
+Mutirikwi = Kyle
+Fundudzi
+Sibaya
+St. Lucia = Saint Lucia
+Bosumtwi
+Nokoué
+Retba = Lacul Roz
+Guiers
+Alaotra
+Itasy
+Tritriva
+
+# ---- America de Nord ----
+Superior = Lake Superior
+Michigan
+Huron
+Erie
+Ontario
+Saint Clair
+Marele Lac al Urșilor = Great Bear Lake
+Marele Lac al Sclavilor = Great Slave Lake
+Micul Lac al Sclavilor = Lesser Slave Lake
+Winnipeg
+Winnipegosis
+Manitoba
+Reindeer
+Wollaston
+Cree
+Cedar
+Southern Indian
+Dubawnt
+Baker
+Nettilling
+Amadjuak
+Williston
+Nipigon
+Lacul Pădurilor = Lake of the Woods
+Nipissing
+Simcoe
+Muskoka
+Timiskaming
+Mistassini
+Lacul Saint-Jean = Lac Saint-Jean
+Memphremagog
+Champlain
+George
+Placid
+Seneca
+Cayuga
+Oneida
+Moosehead
+Winnipesaukee
+Candlewood
+Winnebago
+Leech
+Mille Lacs
+Itasca
+Pepin
+Minnetonka
+Sakakawea
+Oahe
+Fort Peck
+Texoma
+Lanier
+Okeechobee
+Pontchartrain
+Tahoe
+Marele Lac Sărat = Great Salt Lake
+Utah
+Crater
+Mead
+Powell
+Havasu
+Salton = Salton Sea
+Mono
+Pyramid
+Walker
+Shasta
+Oroville
+Yellowstone
+Jackson
+Jenny
+Coeur d'Alene
+Pend Oreille
+Chelan
+Lacul Washington = Lake Washington
+Sammamish
+Diablo
+Okanagan
+Shuswap
+Harrison
+Louise
+Moraine
+Peyto
+Emerald
+Maligne
+Abraham
+
+# ---- America Centrală și Caraibe ----
+Nicaragua = Cocibolca
+Managua = Xolotlán
+Atitlán
+Izabal
+Petén Itzá
+Gatún
+Ilopango
+Coatepeque
+Güija
+Yojoa
+Enriquillo
+Chapala
+Texcoco
+Pátzcuaro
+Cuitzeo
+Laguna de Términos
+
+# ---- America de Sud ----
+Titicaca
+Poopó
+Maracaibo
+Lacul Valencia
+Guatavita
+Tota
+Junín = Chinchaycocha
+Laguna Colorada
+Chungará
+Buenos Aires = General Carrera
+Argentino
+Viedma
+Nahuel Huapi
+Colhué Huapi
+Musters
+Fagnano
+Lácar
+Puelo
+Llanquihue
+Ranco
+Rapel
+Panguipulli
+Calafquén
+Todos los Santos
+Lagoa dos Patos = Patos
+Mirim = Lagoa Mirim
+Rodrigo de Freitas = Lagoa Rodrigo de Freitas
+Ypacaraí
+Ypoá
+Mar Chiquita
+Furnas
+Sobradinho
+Brokopondo
+Guri
+
+# ---- Insulele Britanice și Islanda ----
+Loch Ness = Ness
+Loch Lomond = Lomond
+Loch Tay
+Loch Awe
+Loch Morar
+Loch Maree
+Loch Shiel
+Loch Katrine
+Lough Neagh
+Lough Corrib
+Lough Derg
+Lough Erne
+Lough Ree
+Lough Mask
+Windermere
+Ullswater
+Coniston Water
+Derwentwater
+Bassenthwaite
+Wast Water
+Bala = Llyn Tegid
+Vyrnwy
+Mývatn
+Thingvallavatn
+Thórisvatn
+Lagarfljót
+
+# ---- Scandinavia, Finlanda, Țările Baltice ----
+Vänern
+Vättern
+Mälaren
+Hjälmaren
+Storsjön
+Siljan
+Hornavan
+Torneträsk
+Bolmen
+Åsnen
+Mjøsa
+Femunden
+Randsfjorden
+Tyrifjorden
+Hornindalsvatnet
+Røssvatnet
+Snåsavatnet
+Saimaa
+Päijänne
+Inari
+Oulujärvi
+Pielinen
+Kallavesi
+Orivesi
+Näsijärvi
+Lappajärvi
+Pyhäjärvi
+Keitele
+Kemijärvi
+Haukivesi
+Pihlajavesi
+Võrtsjärv
+Lubāns
+Engure
+Drūkšiai
+Vištytis
+Narach
+
+# ---- Polonia, Cehia, Slovacia, Ungaria, Belarus ----
+Śniardwy
+Mamry
+Niegocin
+Hańcza
+Łebsko
+Gardno
+Solina
+Jeziorak
+Drawsko
+Wigry
+Gopło
+Morskie Oko
+Czarny Staw
+Lipno
+Orlík
+Slapy
+Máchovo jezero
+Černé jezero
+Nové Mlýny
+Štrbské pleso
+Popradské pleso
+Zemplínska šírava
+Liptovská Mara
+Balaton
+Velence
+Tisza-tó
+
+# ---- Germania ----
+Bodensee = Lacul Constanța = Lake Constance
+Chiemsee
+Starnberg = Starnberger See
+Ammersee
+Müritz
+Müggelsee
+Wannsee
+Tegeler See
+Schweriner See
+Plauer See
+Steinhuder Meer
+Dümmer
+Großer Plöner See
+Ratzeburger See
+Schaalsee
+Kummerower See
+Tollensesee
+Scharmützelsee
+Edersee
+Möhnesee
+Biggesee
+Rursee
+Laacher See
+Eibsee
+Tegernsee
+Schliersee
+Kochelsee
+Walchensee
+Staffelsee
+Königssee
+Forggensee
+Alpsee
+Titisee
+Schluchsee
+
+# ---- Austria și Elveția ----
+Neusiedl = Neusiedler See = Fertő
+Attersee
+Traunsee
+Mondsee
+Wolfgangsee
+Hallstätter See
+Fuschlsee
+Zeller See
+Achensee
+Plansee
+Wörthersee
+Ossiacher See
+Millstätter See
+Weißensee
+Faaker See
+Grundlsee
+Altausseer See
+Lacul Geneva = Léman
+Lacul Zürich = Zürichsee
+Lacul Lucerna = Vierwaldstättersee = Lacul celor Patru Cantoane
+Lacul Neuchâtel
+Thun = Thunersee
+Brienz = Brienzersee
+Zug = Zugersee
+Biel = Bielersee = Lacul Bienne
+Walensee
+Murten = Murtensee = Lacul Morat
+Sempach = Sempachersee
+Hallwil = Hallwilersee
+Sarnen = Sarnersee
+Greifensee
+Sihlsee
+Silvaplana
+Sils = Silsersee
+Oeschinen = Oeschinensee
+Lacul Joux = Lac de Joux
+Lacul Gruyère = Lac de la Gruyère
+
+# ---- Italia ----
+Maggiore = Lago Maggiore
+Como = Lago di Como = Lario
+Garda = Lago di Garda = Benaco
+Iseo
+Lugano = Ceresio
+Orta
+Varese
+Idro
+Ledro
+Molveno
+Caldonazzo
+Levico
+Misurina
+Braies = Pragser Wildsee
+Carezza = Karersee
+Resia = Reschensee
+Trasimeno
+Bolsena
+Bracciano
+Vico
+Nemi
+Albano
+Massaciuccoli
+Campotosto
+Scanno
+Averno
+Lesina
+Varano
+Occhito
+Omodeo
+Pergusa
+
+# ---- Franța, Benelux, Spania, Portugalia ----
+Annecy = Lac d'Annecy
+Bourget = Lac du Bourget
+Aiguebelette
+Paladru
+Nantua
+Serre-Ponçon
+Sainte-Croix = Lac de Sainte-Croix
+Grand-Lieu = Lac de Grand-Lieu
+Vassivière = Lac de Vassivière
+Lac du Der = Der-Chantecoq
+Lac d'Orient
+Pavin
+Chambon
+Gérardmer
+Settons
+Hourtin = Hourtin-Carcans
+Cazaux = Cazaux-Sanguinet
+Biscarrosse = Biscarrosse-Parentis
+Lacanau
+Vouglans
+Salagou
+Guerlédan
+Thau = Étang de Thau
+Berre = Étang de Berre
+IJsselmeer
+Markermeer
+Veluwemeer
+Sanabria
+Banyoles
+Albufera
+Mar Menor
+Gallocanta
+Ruidera = Lagunas de Ruidera
+Enol
+Ercina
+Alqueva
+Sete Cidades = Lagoa das Sete Cidades
+Lagoa do Fogo
+
+# ---- Balcani, Grecia, Turcia ----
+Bled
+Bohinj
+Cerknica
+Plitvice = Lacurile Plitvice
+Vrana
+Peruća
+Jablanica
+Buško = Buško Blato
+Rama
+Boračko
+Prokoško
+Piva
+Perućac
+Vlasina
+Palić
+Ludaš
+Plav
+Crno jezero
+Scutari = Shkodër = Skadar
+Butrint
+Fierza
+Koman
+Ohrid = Ohri
+Prespa
+Prespa Mică
+Doiran = Dojran
+Srebarna
+Batak
+Dospat
+Pancharevo
+Kardzhali
+Pomorie
+Kerkini
+Kastoria = Orestiada
+Pamvotida = Ioannina
+Trichonida
+Vegoritida
+Volvi
+Koroneia
+Karla
+Vistonida
+Plastiras
+Kremasta
+Mornos
+Stymphalia
+Yliki
+Kournas
+Tuz
+Van
+Beyșehir
+Eğirdir
+Akșehir
+Eber
+Sapanca
+Burdur
+Acıgöl
+Salda
+Manyas
+Uluabat
+Bafa
+Köyceğiz
+Abant
+Çıldır
+Hazar
+Erçek
+Nemrut
+Atatürk
+Keban
+
+# ==================== OCEANE ȘI MĂRI ====================
+Oceanul Atlantic
+Oceanul Pacific
+Oceanul Indian
+Oceanul Arctic = Oceanul Înghețat = Oceanul Înghețat de Nord
+Oceanul Antarctic = Oceanul Sudic = Oceanul Austral
+Marea Mediterană
+Marea Azov = Marea de Azov
+Marea Marmara
+Marea Egee = Egeea
+Marea Cretei
+Marea Traciei
+Marea Ionică
+Marea Adriatică
+Marea Tireniană
+Marea Ligurică
+Marea Sardiniei
+Marea Baleară = Marea Balearelor
+Marea Alboran
+Marea Libiei
+Marea Levantină
+Marea Nordului
+Marea Wadden
+Marea Baltică
+Marea Åland
+Marea Irlandei
+Marea Celtică
+Marea Norvegiei
+Marea Barents
+Marea Pechora
+Marea Albă
+Marea Kara
+Marea Laptev
+Marea Siberiei de Est = Marea Siberiană de Est = Marea Est-Siberiană
+Marea Ciukotka = Marea Chukchi = Marea Ciukcilor
+Marea Beaufort
+Marea Lincoln
+Marea Wandel
+Marea Groenlandei
+Marea Irminger
+Marea Labrador
+Marea Baffin = Baffin Bay
+Marea Bering
+Marea Ohotsk
+Marea Japoniei = Marea de Est
+Marea Seto = Marea Interioară Seto = Seto Naikai
+Marea Galbenă
+Marea Chinei de Est
+Marea Chinei de Sud
+Marea Filipinelor
+Marea Sulu
+Marea Celebes = Marea Sulawesi
+Marea Molucelor = Marea Maluku
+Marea Halmahera
+Marea Seram = Marea Ceram
+Marea Banda
+Marea Flores
+Marea Savu
+Marea Bali
+Marea Java
+Marea Timor
+Marea Arafura
+Marea Coralilor
+Marea Solomon
+Marea Bismarck
+Marea Tasmaniei = Marea Tasman
+Marea Fiji
+Marea Koro
+Marea Andaman
+Marea Arabiei = Marea Arabă
+Marea Laccadive = Marea Lakshadweep
+Marea Roșie
+Marea Caraibelor = Marea Caraibilor = Caraibe
+Marea Sargaselor
+Marea Scoției = Marea Scotia
+Marea Weddell
+Marea Ross
+Marea Amundsen
+Marea Bellingshausen
+Marea Cosmonauților
+Marea Lazarev
+Marea Riiser-Larsen
+Marea Mawson
+Marea Somov
+Marea D'Urville
+Marea Salish
+Marea Cortez = Golful California = Marea lui Cortez
+Canalul Mânecii = La Manche = English Channel
+
+# ==================== GOLFURI ====================
+Golful Persic = Golful Arab = Persian Gulf
+Golful Mexic = Gulf of Mexico
+Golful Bengal = Golful Bengalului
+Golful Guineei
+Golful Benin
+Golful Biafra = Golful Bonny
+Golful Biscaya = Golful Gasconiei
+Golful Aden
+Golful Oman
+Golful Kuweit
+Golful Bahrain
+Golful Masirah
+Golful Finic = Golful Finlandei
+Golful Botnic = Golful Botniei
+Golful Riga
+Golful Lion = Golful Lionului
+Golful Genova
+Golful Veneției
+Golful Trieste
+Golful Taranto
+Golful Napoli
+Golful Salerno
+Golful Gaeta
+Golful Policastro
+Golful Squillace
+Golful Manfredonia
+Golful Palermo
+Golful Cagliari
+Golful Oristano
+Golful Asinara
+Golful Ajaccio
+Golful Saint-Tropez
+Golful Roses
+Golful Almería
+Golful Cadiz
+Golful Saint-Malo
+Golful Morbihan
+Golful Kvarner
+Golful Kotor = Boka Kotorska = Bocche di Cattaro
+Golful Patras
+Golful Argolic
+Golful Mesenia
+Golful Laconic
+Golful Pagasetic
+Golful Strymonic
+Golful Kavala
+Golful Salonic = Golful Termaic
+Golful Saronic
+Golful Evia = Golful Eubeea
+Golful Izmir
+Golful Edremit
+Golful Gökova
+Golful Fethiye
+Golful Antalya
+Golful Mersin
+Golful Iskenderun
+Golful Aqaba
+Golful Sidra = Golful Sirte
+Golful Gabès
+Golful Hammamet
+Golful Tunis
+Golful Burgas
+Golful Varna
+Golful Odesa
+Golful Karkinit
+Golful Taganrog
+Golful Alaska
+Golful Hudson = Hudson Bay
+Golful Sfântul Laurențiu
+Golful Maine
+Golful Chesapeake = Chesapeake Bay
+Golful Fundy
+Golful Boothia
+Golful Coronation
+Golful Queen Maud
+Golful Monterey
+Golful San Francisco = Baia San Francisco
+Golful Darién
+Golful Honduras
+Golful Campeche
+Golful Tehuantepec
+Golful Fonseca
+Golful Nicoya
+Golful Papagayo
+Golful Dulce
+Golful Chiriquí
+Golful Montijo
+Golful Mosquitos
+Golful Urabá
+Golful Morrosquillo
+Golful Venezuela
+Golful Paria
+Golful Cariaco
+Golful Batabanó
+Golful Gonâve
+Golful Guayaquil
+Golful Penas
+Golful Corcovado
+Golful Ancud
+Golful Arauco
+Golful San Jorge
+Golful San Matías
+Golful Nuevo
+Golful San José
+Golful Tonkin = Golful Beibu
+Golful Thailandei = Golful Siam
+Golful Coreei
+Golful Liaodong
+Golful Laizhou
+Golful Leyte
+Golful Lingayen
+Golful Moro
+Golful Davao
+Golful Papua
+Golful Huon
+Golful Carpentaria
+Golful Spencer
+Golful Exmouth
+Golful Joseph Bonaparte
+Golful Van Diemen
+Golful Hawke
+Marele Golf Australian = Golful Australian
+Golful Ob
+Golful Taz
+Golful Enisei
+Golful Hatanga
+Golful Anadyr
+Golful Shelikhov
+Golful Penjina
+Golful Sahalin
+Golful Kandalakșa
+Golful Dvina
+Golful Mezen
+Golful Kutch
+Golful Khambhat = Golful Cambay
+Golful Mannar
+Golful Martaban
+Firth of Forth
+Firth of Clyde
+Moray Firth
+Solway Firth
+The Wash
+
+# ==================== BĂI ====================
+Baia Delaware
+Baia Massachusetts
+Baia Narragansett
+Baia Galveston
+Baia Matagorda
+Baia Corpus Christi
+Baia Mobile
+Baia Pensacola
+Baia Apalachee
+Baia Tampa
+Baia Biscayne
+Baia Humboldt
+Baia Bodega
+Baia Bristol
+Baia Kotzebue
+Baia Prudhoe
+Baia Georgian
+Baia Thunder
+Baia Saginaw
+Baia Quinte
+Baia Chaleur
+Baia Placentia
+Baia Trinity
+Baia Bonavista
+Baia Notre Dame
+Baia Conception
+Baia James
+Baia Ungava
+Baia Frobisher
+Baia Disko
+Baia Guantánamo
+Baia Porcilor = Golful Porcilor = Bahía de Cochinos
+Baia Montego
+Baia Kingston
+Baia Samaná
+Baia Guanabara
+Baia Sepetiba
+Baia Ilha Grande
+Baia Todos os Santos
+Baia Paranaguá
+Baia Marajó
+Baia São Marcos
+Baia Vitória
+Baia Samborombón
+Baia Montevideo
+Baia Valparaíso
+Baia Concepción
+Baia Ushuaia
+Baia Inútil
+Baia Manila
+Baia Subic
+Baia Tokyo
+Baia Sagami
+Baia Ise
+Baia Mikawa
+Baia Osaka
+Baia Suruga
+Baia Toyama
+Baia Wakasa
+Baia Mutsu
+Baia Kagoshima
+Baia Ariake
+Baia Uchiura
+Baia Sendai
+Baia Hakata
+Baia Bohai = Golful Bohai
+Baia Hangzhou
+Baia Jiaozhou
+Baia Shenzhen
+Baia Victoria
+Baia Gyeonggi
+Baia Wonsan
+Baia Ha Long = Golful Ha Long
+Baia Cam Ranh
+Baia Kompong Som
+Baia Walvis
+Baia Table = Table Bay
+Baia False = False Bay
+Baia Algoa
+Baia Lüderitz
+Baia Mossel
+Baia Saldanha
+Baia Richards
+Baia Maputo = Baia Delagoa
+Baia Sofala
+Baia Luanda
+Baia Antongil
+Baia Sydney = Port Jackson
+Baia Botany = Botany Bay
+Baia Moreton
+Baia Hervey
+Baia Jervis
+Baia Shark
+Baia Port Phillip = Port Phillip
+Baia Geographe
+Baia Roebuck
+Baia Dublin
+Baia Galway
+Baia Bantry
+Baia Dingle
+Baia Donegal
+Baia Cardigan
+Baia Morecambe
+Baia Liverpool
+Baia Lyme
+Baia Somme
+Baia Arcachon
+Baia Douarnenez
+Baia Quiberon
+Baia Mont-Saint-Michel
+Baia Kiel
+Baia Lübeck
+Baia Mecklenburg
+Baia Greifswald
+Baia Pomerania
+Baia Gdańsk
+Baia Puck
+Baia Narva
+Baia Pärnu
+Baia Tallinn
+Baia Neva
+Baia Kola
+Baia Petru cel Mare
+Baia Nahodka
+Baia Abu Qir
+
+# ==================== STRÂMTORI ====================
+Strâmtoarea Gibraltar
+Bosfor = Bosporus
+Dardanele = Dardanelles = Hellespont
+Strâmtoarea Kerci = Kerch
+Strâmtoarea Messina
+Strâmtoarea Bonifacio
+Strâmtoarea Piombino
+Strâmtoarea Otranto
+Strâmtoarea Sicilia
+Strâmtoarea Euripos = Evripos
+Strâmtoarea Dover = Pas de Calais
+Strâmtoarea Menai
+Strâmtoarea Solent
+Canalul de Nord = Strâmtoarea Nord
+Canalul Sfântul Gheorghe
+Canalul Bristol
+Strâmtoarea Pentland = Pentland Firth
+Strâmtoarea Minch
+Skagerrak
+Kattegat
+Øresund = Sund
+Marele Belt
+Micul Belt
+Strâmtoarea Fehmarn
+Strâmtoarea Kalmarsund
+Strâmtoarea Irbe
+Strâmtoarea Danemarcei
+Strâmtoarea Fram
+Strâmtoarea Hinlopen
+Strâmtoarea Matocikin Șar
+Strâmtoarea Iugorski Șar
+Strâmtoarea Vilkițki = Vilkitski
+Strâmtoarea Sannikov
+Strâmtoarea Nares
+Strâmtoarea Smith
+Strâmtoarea Robeson
+Strâmtoarea Jones
+Strâmtoarea Lancaster = Lancaster Sound
+Strâmtoarea Barrow
+Strâmtoarea Viscount Melville
+Strâmtoarea McClure
+Strâmtoarea Prince of Wales
+Strâmtoarea Bellot
+Strâmtoarea Dease
+Strâmtoarea Davis
+Strâmtoarea Belle Isle
+Strâmtoarea Cabot
+Strâmtoarea Northumberland
+Strâmtoarea Canso
+Strâmtoarea Florida
+Strâmtoarea Yucatán
+Strâmtoarea Windward = Pasajul Windward
+Strâmtoarea Mona
+Strâmtoarea Juan de Fuca
+Strâmtoarea Georgia
+Strâmtoarea Haro
+Strâmtoarea Rosario
+Strâmtoarea Hecate
+Strâmtoarea Magellan
+Strâmtoarea Le Maire
+Canalul Beagle
+Strâmtoarea Drake = Pasajul Drake
+Strâmtoarea Bransfield
+Strâmtoarea Gerlache
+Strâmtoarea Tătară
+Strâmtoarea Nevelskoi
+Strâmtoarea La Pérouse = Strâmtoarea Soya
+Strâmtoarea Tsugaru
+Strâmtoarea Coreea = Strâmtoarea Tsushima
+Strâmtoarea Shimonoseki = Kanmon
+Strâmtoarea Kii
+Strâmtoarea Bungo
+Strâmtoarea Taiwan = Strâmtoarea Formosa
+Strâmtoarea Hainan = Qiongzhou
+Strâmtoarea Luzon
+Strâmtoarea Mindoro
+Strâmtoarea San Bernardino
+Strâmtoarea Surigao
+Strâmtoarea Balabac
+Strâmtoarea Malacca
+Strâmtoarea Singapore
+Strâmtoarea Johor
+Strâmtoarea Karimata
+Strâmtoarea Bangka
+Strâmtoarea Gaspar
+Strâmtoarea Sunda
+Strâmtoarea Lombok
+Strâmtoarea Makassar
+Strâmtoarea Ombai
+Strâmtoarea Wetar
+Strâmtoarea Dampier
+Strâmtoarea Vitiaz
+Strâmtoarea Torres
+Strâmtoarea Endeavour
+Strâmtoarea Clarence
+Strâmtoarea Dundas
+Strâmtoarea Investigator
+Strâmtoarea Banks
+Strâmtoarea Bass
+Strâmtoarea Cook
+Strâmtoarea Foveaux
+Strâmtoarea Palk
+Strâmtoarea Hormuz = Ormuz
+Strâmtoarea Bab el-Mandeb
+Strâmtoarea Tiran
+Canalul Mozambic
+Strâmtoarea Zanzibar
+Strâmtoarea Pemba
+
+# ==================== CANALE ====================
+Canalul Suez
+Canalul Panama
+Canalul Kiel = Canalul Nord-Ostsee
+Canalul Corint
+Canalul Rin-Main-Dunăre = Canalul Main-Dunăre = Canalul Europa
+Canalul Ludwig
+Canalul Mijlociu = Mittellandkanal
+Canalul Dortmund-Ems
+Canalul Oder-Havel
+Canalul Elba-Lübeck
+Canalul Elba-Havel
+Canalul Amsterdam-Rin
+Canalul Mării Nordului
+Canalul Gent-Terneuzen
+Canalul Bruxelles-Charleroi
+Canalul Juliana
+Canalul Midi = Canal du Midi
+Canalul Saint-Martin
+Canalul Rhône-Rin = Canalul Ron-Rin
+Canalul Marne-Rin
+Canalul Bourgogne = Canalul Burgundiei
+Canalul Briare
+Canalul Nantes-Brest
+Canal Grande = Canalul Grande
+Canalul Caledonian
+Canalul Manchester
+Canalul Bridgewater
+Canalul Grand Union
+Canalul Göta
+Canalul Augustów
+Canalul Bydgoszcz
+Canalul Elbląg
+Canalul Dnepr-Bug
+Canalul Volga-Don
+Canalul Volga-Baltic
+Canalul Marea Albă-Marea Baltică = Belomorkanal
+Canalul Moscova
+Canalul Crimeii de Nord
+Canalul Karakum
+Marele Canal Ferghana
+Canalul Dunăre-Tisa-Dunăre
+Marele Canal = Canalul Mare al Chinei = Grand Canal
+Canalul Welland
+Canalul Rideau
+Canalul Lachine
+Canalul Chesapeake-Delaware
+Canalul Cape Cod
+Canalul Houston
+Canalul Chicago
+
+# ==================== DELTE ====================
+Delta Nilului
+Delta Gangelui = Delta Gange-Brahmaputra
+Delta Indusului
+Delta Mekongului
+Delta Fluviului Roșu
+Delta Irrawaddy
+Delta Chao Phraya
+Delta Fluviului Galben
+Delta Fluviului Perlelor
+Delta Nigerului
+Delta Senegalului
+Delta Zambeziului
+Delta Okavango
+Delta Mississippi
+Delta Mackenzie
+Delta Yukonului
+Delta Colorado
+Delta Orinoco
+Delta Amazonului
+Delta Volgăi
+Delta Lenei
+Delta Peciorei
+Delta Kubanului
+Delta Ronului = Camargue
+Delta Padului
+Delta Ebrului
+Delta Rinului
+
+# ==================== CASCADE ====================
+Niagara
+Yosemite
+Bridalveil
+Vernal
+Nevada
+Ribbon
+Burney
+Multnomah
+Snoqualmie
+Palouse
+Shoshone
+Tahquamenon
+Taughannock
+Kaaterskill
+Montmorency
+Helmcken
+Takakkaw
+Della
+Basaseachic
+Agua Azul
+Misol-Ha
+Tamul
+Angel = Salto Ángel = Cascada Îngerului = Kerepakupai Merú
+Kaieteur
+Tequendama
+Gocta
+Yumbilla
+Pailón del Diablo
+Cuquenán = Kukenan
+Paulo Afonso
+Caracol
+Moconá
+Salto del Laja
+Mosi-oa-Tunya
+Murchison
+Tis Issat = Tis Abay = Cascada Nilului Albastru
+Kalambo
+Boyoma = Cascada Stanley
+Inga
+Augrabies
+Howick
+Maletsunyane
+Epupa
+Ruacana
+Lofoi
+Sipi
+Kongou
+Lumangwe
+Ngonye
+Chishimba
+Wli
+Kintampo
+Gurara
+Ouzoud
+Gullfoss
+Dettifoss
+Skógafoss
+Seljalandsfoss
+Goðafoss
+Svartifoss
+Hraunfossar
+Dynjandi
+Vøringsfossen
+Langfoss
+Mardalsfossen
+Kjosfossen
+Vettisfossen
+Låtefossen
+Steinsdalsfossen
+Tvindefossen
+Rheinfall
+Staubbach
+Trümmelbach
+Reichenbach
+Giessbach
+Engstligen
+Krimml
+Gollinger
+Stuibenfall
+Triberg
+Röthbach
+Gavarnie
+Hérisson
+Marmore
+Toce
+Serio
+Lillaz
+Ézaro
+Fisgas de Ermelo
+High Force
+Aira Force
+Hardraw Force
+Pistyll Rhaeadr
+Swallow Falls
+Steall
+Powerscourt
+Torc
+Kravica = Kravice
+Štrbački buk
+Skakavac
+Skradinski buk
+Roški slap
+Savica
+Peričnik
+Boka
+Rinka
+Siklawa
+Pančava
+Kivaci
+Jog = Gersoppa
+Dudhsagar
+Athirappilly
+Hogenakkal
+Shivanasamudra
+Chitrakote
+Nohkalikai
+Bambarakanda
+Diyaluma
+Huangguoshu
+Hukou
+Detian = Ban Gioc
+Kegon
+Nachi
+Fukuroda
+Shiraito
+Pongour
+Kuang Si
+Khone = Khone Phapheng
+Erawan
+Thi Lo Su
+Sipiso-piso
+Madakaripura
+Tumpak Sewu
+Maria Cristina
+Pagsanjan
+Tinago
+Düden
+Manavgat
+Sutherland
+Browne
+Huka
+Wallaman
+Jim Jim
+Russell
+Millaa Millaa
+Wentworth

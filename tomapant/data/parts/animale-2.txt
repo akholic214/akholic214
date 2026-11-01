@@ -1,0 +1,513 @@
+# Animale — păsări: avifauna României (nume standard românești), păsări cunoscute din lume, păsări domestice
+# Format: Canonic = variantă = variantă (vezi data/FORMAT.md). Nume comune, cu litere mici.
+# Mamifere, pești, reptile, amfibieni, nevertebrate și păsări dispărute sunt în alte fișiere.
+
+# ---- Cufundari și corcodei ----
+cufundar
+cufundar mic = cufundar gușă-roșie
+cufundar polar = cufundar gușă-neagră
+cufundar mare
+corcodel
+corcodel mare
+corcodel cu gât roșu
+corcodel cu gât negru
+corcodel de iarnă
+corcodel mic = corcodel pitic
+
+# ---- Furtunari, pelicani, cormorani ----
+furtunar
+pelican
+pelican comun = pelican alb
+pelican creț
+cormoran
+cormoran mare
+cormoran mic
+cormoran moțat
+
+# ---- Stârci, berze, ibiși, flamingo ----
+stârc = bâtlan
+stârc cenușiu
+stârc roșu
+stârc de noapte
+stârc galben
+stârc pitic
+stârc de cireadă
+buhai de baltă = bou de baltă
+egretă
+egretă mare
+egretă mică
+barză = cocostârc
+barză albă
+barză neagră
+lopătar
+țigănuș
+flamingo
+
+# ---- Lebede, gâște, rațe ----
+lebădă
+lebădă de vară = lebădă cucuiată = lebădă mută
+lebădă de iarnă = lebădă cântătoare
+lebădă mică
+lebădă neagră
+gâscă
+gâscă de vară = gâscă cenușie
+gâscă de semănătură
+gârliță
+gârliță mare
+gârliță mică
+gâscă cu gât roșu = gâscă cu piept roșu
+gâscă cu obraz alb
+gâscă neagră
+călifar
+călifar alb
+călifar roșu
+rață
+rață mare = rață sălbatică
+rață mică
+rață cârâitoare
+rață fluierătoare
+rață pestriță
+rață lingurar
+rață sulițar
+rață cu cap castaniu
+rață roșie
+rață moțată
+rață cu cap negru
+rață cu ciuf
+rață sunătoare
+rață de ghețuri
+rață cu cap alb
+rață catifelată
+rață neagră
+rață mandarin
+eider
+ferestraș
+ferestraș mare
+ferestraș moțat
+ferestraș mic
+
+# ---- Răpitoare de zi ----
+viespar
+gaie
+gaie neagră
+gaie roșie
+codalb = vultur codalb
+hoitar = vultur hoitar = vultur egiptean
+vultur
+vultur sur = vultur pleșuv sur
+vultur negru = vultur pleșuv negru
+zăgan = vultur bărbos
+șerpar
+erete
+erete de stuf
+erete vânăt
+erete alb
+erete sur
+uliu
+uliu porumbar
+uliu păsărar
+uliu cu picioare scurte
+șorecar
+șorecar comun
+șorecar încălțat
+șorecar mare
+acvilă
+acvilă țipătoare mică
+acvilă țipătoare mare
+acvilă de stepă
+acvilă de câmp = acvilă imperială
+acvilă de munte = pajură
+acvilă pitică
+acvilă porumbacă
+uligan pescar = vultur pescar
+vânturel = vinderel
+vânturel roșu
+vânturel mic
+vânturel de seară = șoimuleț de seară
+șoim
+șoim de iarnă = șoimuleț de iarnă
+șoimul rândunelelor
+șoim dunărean
+șoim călător
+
+# ---- Galinacee ----
+ieruncă = găinușă de alun
+cocoș de mesteacăn
+cocoș de munte
+potârniche = potârniche cenușie
+prepeliță = pitpalac
+fazan
+
+# ---- Cârstei, lișițe, cocori, dropii ----
+cârstel = cristel
+cârstel de baltă
+cresteț
+cresteț pestriț
+cresteț mic
+cresteț pitic
+cârstel de câmp = cristel de câmp
+găinușă de baltă
+lișiță
+cocor
+cocor mic
+dropie
+spârcaci = dropie mică
+
+# ---- Limicole ----
+scoicar
+piciorong
+ciocîntors = ciocântors
+pasărea ogorului
+ciovlică
+ciovlică ruginie
+ciovlică negrie
+prundăraș
+prundăraș gulerat mic
+prundăraș gulerat mare
+prundăraș de sărătură
+prundăraș de munte
+ploier
+ploier auriu
+ploier argintiu
+nagâț
+nagâț cu coadă albă
+fugaci
+fugaci de țărm
+fugaci roșcat
+fugaci mic
+fugaci pitic
+fugaci mare
+nisipar
+prundaș de nămol
+bătăuș
+becațină
+becațină mică
+becațină comună
+becațină mare
+sitar
+sitar de pădure
+sitar de mal
+sitar de mal nordic
+culic
+culic mic
+culic mare
+culic cu cioc subțire
+fluierar
+fluierar cu picioare roșii
+fluierar negru
+fluierar cu picioare verzi
+fluierar de zăvoi
+fluierar de mlaștină
+fluierar de lac
+fluierar de munte
+fluierar sur
+notatiță
+notatiță cu cioc lat
+
+# ---- Lupi de mare, pescăruși, chire ----
+lup de mare
+lup de mare mic
+pescăruș
+pescăruș râzător
+pescăruș mic
+pescăruș cu cap negru
+pescăruș argintiu
+pescăruș pontic
+pescăruș cu picioare galbene
+pescăruș negricios
+pescăruș sur
+pescăruș asiatic
+pescăruș cu trei degete
+pescăriță râzătoare
+pescăriță mare
+chiră
+chiră de mare
+chiră de baltă
+chiră mică
+chiră polară
+chirighiță
+chirighiță cu obraz alb
+chirighiță neagră
+chirighiță cu aripi albe
+
+# ---- Porumbei, cuci ----
+porumbel = hulub
+porumbel de scorbură
+porumbel gulerat
+porumbel de stâncă = porumbel sălbatic
+porumbel de casă = porumbel domestic
+porumbel voiajor = porumbel călător
+guguștiuc
+turturică = turturea
+cuc
+
+# ---- Păsări de noapte ----
+strigă
+ciuș
+bufniță = buhă = buhă mare
+cucuvea = cucuvaie
+huhurez
+huhurez mic
+huhurez mare
+ciuf de pădure
+ciuf de câmp
+minuniță
+ciuvică
+bufniță polară = bufniță de zăpadă
+caprimulg
+
+# ---- Drepnele, pescăraș, prigorie, dumbrăveancă, pupăză ----
+drepnea
+drepnea neagră = lăstun mare
+drepnea mare
+pescăraș albastru = pescărel albastru = pescăraș
+prigorie = prigoare = albinărel
+dumbrăveancă
+pupăză
+
+# ---- Ciocănitori ----
+capîntortură = capântortură
+ghionoaie
+ghionoaie sură
+ghionoaie verde = ciocănitoare verde
+ciocănitoare
+ciocănitoare neagră
+ciocănitoare pestriță mare
+ciocănitoare de grădină
+ciocănitoare de stejar
+ciocănitoare cu spate alb
+ciocănitoare pestriță mică
+ciocănitoare de munte
+
+# ---- Ciocârlii, rândunele ----
+ciocârlie
+ciocârlie de stol
+ciocârlie de bărăgan
+ciocârlan
+ciocârlie de pădure
+ciocârlie de câmp
+ciocârlie urecheată
+lăstun
+lăstun de mal
+rândunică
+lăstun de stâncă
+lăstun de casă
+rândunică roșcată
+
+# ---- Fâse, codobaturi ----
+fâsă
+fâsă de câmp
+fâsă de pădure
+fâsă de luncă
+fâsă roșiatică
+fâsă de munte
+fâsă mare
+codobatură
+codobatură galbenă
+codobatură cu cap galben
+codobatură de munte
+codobatură albă
+
+# ---- Mătăsar, pescărel negru, pănțăruș, brumărițe ----
+mătăsar
+pescărel negru = mierlă de apă
+pănțăruș = ochiul-boului
+brumăriță
+brumăriță de pădure
+brumăriță de stâncă = brumăriță alpină
+
+# ---- Măcăleandru, privighetori, codroși, mărăcinari, pietrari, mierle, sturzi ----
+măcăleandru = gușă-roșie
+privighetoare
+privighetoare de zăvoi
+gușă-albastră
+codroș
+codroș de munte
+codroș de grădină
+mărăcinar
+mărăcinar mare
+mărăcinar negru
+pietrar
+pietrar sur
+pietrar răsăritean
+pietrar negru
+pietrar mediteranean
+mierlă de piatră
+mierlă albastră
+mierlă gulerată
+mierlă = mierlă neagră
+cocoșar
+sturz
+sturz cântător
+sturzul viilor = sturz de vii
+sturz de vâsc
+
+# ---- Grelușei, lăcari, frunzărițe, silvii, pitulici, aușei, muscari ----
+grelușel
+grelușel pătat
+grelușel de zăvoi
+grelușel de stuf
+lăcar
+lăcar de mlaștină
+lăcar de stuf
+lăcar de rogoz
+lăcar mic
+lăcar mare
+lăcar de pipirig
+frunzăriță
+frunzăriță galbenă
+frunzăriță cenușie
+silvie
+silvie de câmp
+silvie mică
+silvie de zăvoi
+silvie cu cap negru
+silvie porumbacă
+pitulice
+pitulice sfârâitoare
+pitulice mică
+pitulice fluierătoare
+aușel
+aușel cu cap galben
+aușel sprâncenat
+muscar
+muscar sur
+muscar mic
+muscar gulerat
+muscar negru
+muscar semigulerat
+
+# ---- Pițigoi, țiclean, cojoaice ----
+pițigoi
+pițigoi de stuf
+pițigoi codat
+pițigoi de brădet
+pițigoi moțat
+pițigoi sur
+pițigoi de munte
+pițigoi albastru
+pițigoi mare
+boicuș = pițigoi pungar
+țiclean = țoi
+fluturaș de stâncă
+cojoaică
+cojoaică de pădure
+cojoaică cu degete scurte
+
+# ---- Grangur, sfrâncioci, corvide, grauri, vrăbii ----
+grangur
+sfrâncioc
+sfrâncioc roșiatic
+sfrâncioc cu frunte neagră
+sfrâncioc mare
+sfrâncioc cu cap roșu
+gaiță
+coțofană = țarcă
+alunar = gaiță de munte
+stăncuță = stancă
+cioară
+cioară de semănătură
+cioară neagră
+cioară grivă
+corb
+graur
+lăcustar
+vrabie
+vrabie de casă
+vrabie negricioasă
+vrabie de câmp
+
+# ---- Cinteze, presuri ----
+cinteză
+cinteză de pădure
+cinteză de iarnă
+cănăraș
+florinte
+sticlete
+scatiu
+cânepar
+inăriță
+forfecuță
+mugurar
+mugurar roșu
+botgros
+presură
+presură galbenă
+presură de grădină
+presură sură
+presură de stuf
+presură cu cap negru
+presură bărboasă
+presură de munte
+pasărea-omătului
+
+# ---- Păsări cunoscute din lume ----
+struț = struț african
+emu
+nandu
+casuar
+kiwi = pasărea kiwi
+pinguin
+pinguin imperial = pinguin împărat
+pinguin regal
+albatros
+albatros rătăcitor
+fregată
+ibis
+marabu
+jabiru
+condor = condor andin
+condor californian
+vultur pleșuv american = acvilă pleșuvă = acvilă cu cap alb
+harpie = acvilă harpie
+pasărea secretar
+potârniche de stâncă
+fazan auriu
+fazan argintiu
+păun
+bibilică = găină de Guineea
+curcan
+curcă
+papagal
+ara = papagal ara
+cacadu = cacatua
+nimfă = papagal nimfă
+peruș = papagal peruș = papagal ondulat
+agapornis = papagal nedespărțit
+papagal de mare
+jako = papagal jako = papagal gri african
+kakapo
+kea
+tucan
+quetzal
+calao = pasărea rinocer
+colibri = pasărea colibri = pasărea-muscă
+pasărea paradisului
+pasărea liră
+cardinal = cardinal roșu
+canar
+țesător = pasărea țesător
+gaiță albastră
+
+# ---- Păsări domestice și de curte ----
+găină
+cocoș
+pui = pui de găină
+cloșcă
+clapon
+rățoi
+boboc
+gâscan = gânsac
+rață leșească = rață mută
+leghorn
+brahma
+cochin = cochinchina
+plymouth rock
+rhode island
+sussex
+orpington
+wyandotte
+australorp
+minorca
+araucana
+gât golaș de Transilvania

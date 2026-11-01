@@ -1,0 +1,320 @@
+# Animale — partea 3: pești, reptile și amfibieni
+# Format: canonic = variantă = variantă (vezi data/FORMAT.md); nume comune, cu literă mică.
+# Mamiferele, păsările, nevertebratele și animalele dispărute sunt în alte fișiere.
+
+# ---- Cuvinte generice ----
+pește
+sturion
+rechin
+șarpe
+viperă = viperă comună
+șopârlă
+țestoasă = broască țestoasă
+crocodil
+broască
+salamandră = salamandră de foc
+triton = triton comun
+mormoloc
+
+# ---- Pești de apă dulce din România — ciprinide ----
+crap = crap comun
+crap oglindă
+crap golaș
+crap koi = koi
+caras = caras argintiu
+caracudă
+peștișor auriu = caras auriu
+plătică
+cosac
+batcă
+morunaș
+babușcă
+ocheană
+roșioară
+clean
+clean mic
+clean dungat
+văduviță
+avat
+sabiță
+oblete = obleț
+beldiță
+boiștean
+plevușcă = fufă
+boarță = boarcă
+lin
+mreană
+mreană vânătă = moioagă
+scobar
+porcușor
+porcușor de nisip
+porcușor de șes
+petroc = porcușor de vad
+murgoi bălțat
+sânger = crap argintiu
+novac
+amur = amur alb
+amur negru
+
+# ---- Pești de apă dulce din România — alte familii ----
+știucă
+somn
+somn pitic
+somn african
+mihalț
+biban
+șalău
+șalău vărgat
+ghiborț
+ghiborț de Dunăre
+răspăr
+fusar
+pietrar
+asprete
+biban-soare = sorete
+ghidrin
+osar
+zglăvoacă = zglăvoc
+zglăvoacă răsăriteană
+țipar
+zvârlugă
+câră
+dunariță
+grindel = molan
+chișcar
+anghilă = anghilă europeană
+păstrăv = păstrăv indigen = păstrăv de munte
+păstrăv curcubeu
+păstrăv fântânel = fântânel
+păstrăv de lac
+lostriță
+lipan
+coregon
+guvid
+guvid de baltă
+moacă de brădiș
+hanos
+strunghil
+ciobănaș
+umflătură
+
+# ---- Sturioni ----
+cegă
+nisetru
+morun
+păstrugă
+viză
+șip
+sturion alb
+
+# ---- Pești din Marea Neagră și pești migratori ----
+scrumbie de Dunăre = scrumbie
+rizeafcă
+gingirică
+hamsie = anșoa
+șprot
+hering
+sardină = sardea
+aterină
+stavrid
+chefal
+laban
+singhil
+platarin
+zargan
+lufar
+pălămidă
+macrou = scrumbie albastră
+ton
+ton roșu
+calcan = turbot
+cambulă
+limbă de mare
+barbun
+bacaliar = merlan
+scorpie de mare
+dragon de mare
+rândunică de mare
+bou de mare
+căluț de mare = cal de mare = hipocamp
+ac de mare = pește-ac
+undrea
+pisică de mare
+vulpe de mare
+câine de mare
+păstrăv de mare
+lavrac = biban de mare
+doradă
+
+# ---- Pești marini din lume ----
+somon
+cod = batog
+eglefin
+merluciu
+halibut
+pește-spadă = peștele-spadă
+marlin
+baracudă = barracuda
+mahi-mahi = dorado
+pește-pilot
+remora
+murenă
+pește-clovn = peștele-clovn
+pește-chirurg
+pește-papagal
+pește-balon
+pește-arici
+pește-leu
+pește-piatră
+pește-lună
+pește-undițar
+pește-fierăstrău
+pește-zburător
+pește-fluture
+pește-înger
+celacant
+pește pulmonat
+
+# ---- Rechini și pești cartilaginoși ----
+rechin alb = marele alb = marele rechin alb
+rechin ciocan
+rechin tigru
+rechin balenă
+rechin taur
+mako = rechin mako
+rechin albastru
+rechin pelerin
+rechin de Groenlanda
+rechin vulpe
+rechin lămâie
+torpilă = pește-torpilă
+manta = diavol de mare
+
+# ---- Pești de acvariu și pești de apă dulce din lume ----
+guppy
+scalar
+neon
+discus
+molly
+platy
+xipho
+betta = pește luptător = peștele luptător
+gurami
+tetra
+ciclidă = cichlidă
+pește-arcaș
+piranha
+arowana
+pangasius
+tilapia
+biban de Nil
+arapaima
+țipar electric = anghilă electrică
+taimen
+
+# ---- Reptile — șerpi din România ----
+șarpe de casă
+șarpe de apă
+șarpe de alun
+șarpe rău
+șarpele lui Esculap
+balaur dobrogean = balaur
+viperă cu corn
+viperă de stepă = viperă de fâneață
+năpârcă
+
+# ---- Reptile — șerpi din lume ----
+șarpe cu clopoței = crotal
+cobră
+cobră regală
+cobră indiană = șarpe cu ochelari
+cobră egipteană
+cobră scuipătoare
+mamba neagră = mamba
+mamba verde
+taipan
+krait
+viperă de Gabon
+piton
+piton reticulat
+piton birmanez
+piton regal
+anaconda
+boa = boa constrictor = șarpe boa
+șarpe de mare
+șarpe coral = șarpe de corali
+șarpe de porumb
+
+# ---- Reptile — șopârle ----
+gușter
+gușter vărgat
+șopârlă de câmp
+șopârlă de ziduri
+șopârlă de munte
+șopârlă de stepă
+cameleon
+iguană
+iguană marină
+gecko
+gecko leopard
+varan
+varan de Nil
+dragon de Komodo = varan de Komodo
+dragon bărbos
+șopârlă cu guler
+diavol spinos = moloch
+monstrul Gila
+bazilisc
+anolis
+scinc
+agamă
+tegu
+tuatara
+
+# ---- Reptile — crocodilieni ----
+crocodil de Nil
+crocodil marin = crocodil de apă sărată
+crocodil american
+aligator
+caiman
+gavial
+
+# ---- Reptile — țestoase ----
+țestoasă de uscat
+țestoasă de apă
+țestoasă de baltă
+țestoasă dobrogeană
+țestoasă bănățeană
+țestoasă de Galapagos
+țestoasă de mare
+țestoasă verde
+țestoasă pieloasă
+caretă
+țestoasă aligator
+țestoasă cu urechi roșii = țestoasă de Florida
+țestoasă cu carapace moale
+
+# ---- Amfibieni — broaște ----
+broască de lac
+broască mare de lac
+broască mică de lac
+broască roșie de munte
+broască roșie de pădure
+broască râioasă = broască râioasă brună
+broască râioasă verde
+brotăcel = brotac
+izvoraș cu burta roșie = buhai de baltă cu burta roșie
+izvoraș cu burta galbenă = buhai de baltă cu burta galbenă
+broască de pământ
+broască de pământ dobrogeană
+broască-bou = broască-taur
+broască săgeată = broască otrăvitoare
+broască Goliat
+
+# ---- Amfibieni — urodele ----
+triton cu creastă
+triton carpatic
+triton de munte = triton alpin
+triton dobrogean
+proteu = olm
+axolotl

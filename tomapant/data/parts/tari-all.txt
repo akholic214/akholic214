@@ -1,0 +1,326 @@
+# Țări — state membre ONU, state parțial recunoscute, țările constituente ale Regatului Unit,
+# teritorii dependente și regiuni autonome folosite frecvent în joc, țări istorice.
+
+# ---- Europa ----
+Albania = Shqipëria
+Andorra
+Austria = Österreich
+Belarus = Bielorusia
+Belgia = Belgium = België = Belgique
+Bosnia și Herțegovina = Bosnia = Bosnia and Herzegovina = Bosna i Hercegovina
+Bulgaria
+Croația = Hrvatska
+Cehia = Republica Cehă = Czechia = Czech Republic = Česko = Česká republika
+Danemarca = Denmark = Danmark
+Estonia = Eesti
+Finlanda = Finland = Suomi
+Franța = France
+Germania = Deutschland = Germany = Republica Federală Germania
+Grecia = Greece = Elada
+Ungaria = Hungary = Magyarország
+Islanda = Iceland = Ísland
+Irlanda = Ireland = Éire
+Italia = Italy
+Letonia = Latvia = Latvija
+Liechtenstein
+Lituania = Lithuania = Lietuva
+Luxemburg = Luxembourg = Lëtzebuerg
+Malta
+Republica Moldova = Basarabia
+Monaco
+Muntenegru = Montenegro = Crna Gora
+Olanda = Țările de Jos = Netherlands = Nederland = Holland
+Macedonia de Nord = Macedonia = North Macedonia = Severna Makedonija
+Norvegia = Norway = Norge
+Polonia = Poland = Polska
+Portugalia = Portugal
+România
+Rusia = Federația Rusă = Russia
+San Marino
+Serbia = Srbija
+Slovacia = Slovakia = Slovensko
+Slovenia = Slovenija
+Spania = Spain = España
+Suedia = Sweden = Sverige
+Elveția = Switzerland = Schweiz = Suisse = Svizzera = Confederația Elvețiană
+Ucraina = Ukraine
+Regatul Unit = Marea Britanie = Regatul Unit al Marii Britanii și Irlandei de Nord = United Kingdom = UK = Britania = Great Britain
+Vatican = Sfântul Scaun = Cetatea Vaticanului = Vatican City = Holy See = Città del Vaticano
+Kosovo = Kosova
+
+# ---- Asia ----
+Afganistan = Afghanistan
+Arabia Saudită = Saudi Arabia
+Armenia
+Azerbaidjan = Azerbaijan = Azərbaycan
+Bahrain = Bahrein
+Bangladesh
+Bhutan
+Brunei = Brunei Darussalam
+Cambodgia = Cambodia
+China = Republica Populară Chineză
+Cipru = Cyprus
+Coreea de Nord = Republica Populară Democrată Coreeană = North Korea = RPDC
+Coreea de Sud = Republica Coreea = South Korea
+Emiratele Arabe Unite = EAU = UAE = United Arab Emirates = Emirate
+Filipine = Philippines = Pilipinas = Filipinas
+Georgia
+India
+Indonezia = Indonesia
+Iran
+Irak = Iraq
+Israel
+Japonia = Japan
+Iordania = Jordan
+Kazahstan = Kazakhstan
+Kuweit = Kuwait
+Kârgâzstan = Kyrgyzstan = Kirghizstan = Kirghizia
+Laos
+Liban = Lebanon
+Malaysia = Malaezia
+Maldive = Maldives = Insulele Maldive
+Mongolia
+Myanmar = Birmania = Burma
+Nepal
+Oman
+Pakistan
+Qatar
+Singapore = Singapura
+Siria = Syria
+Sri Lanka
+Tadjikistan = Tajikistan
+Thailanda = Thailand
+Timorul de Est = Timor de Est = Timor-Leste = East Timor
+Turcia = Turkey = Türkiye
+Turkmenistan
+Uzbekistan = O'zbekiston
+Vietnam
+Yemen
+Palestina = Palestine
+Taiwan = Republica Chineză = Formosa
+
+# ---- Africa ----
+Algeria = Algérie
+Angola
+Benin
+Botswana = Bechuanaland
+Burkina Faso
+Burundi
+Camerun = Cameroon = Cameroun
+Capul Verde = Cabo Verde = Cape Verde = Insulele Capului Verde
+Republica Centrafricană = Central African Republic = Centrafrica = Centrafrique = RCA
+Ciad = Chad = Tchad
+Comore = Comoros = Comores = Insulele Comore
+Republica Congo = Congo-Brazzaville = Republic of the Congo
+Republica Democratică Congo = RD Congo = RDC = Congo-Kinshasa = Zair = Zaire = Democratic Republic of the Congo
+Coasta de Fildeș = Côte d'Ivoire = Ivory Coast
+Djibouti
+Egipt = Egypt
+Guineea Ecuatorială = Equatorial Guinea = Guinea Ecuatorial
+Eritreea = Eritrea
+Eswatini = Swaziland
+Etiopia = Ethiopia
+Gabon
+Gambia
+Ghana = Coasta de Aur = Gold Coast
+Guineea = Guinea = Guinée = Guineea-Conakry
+Guineea-Bissau = Guinea-Bissau = Guiné-Bissau
+Kenya
+Lesotho = Basutoland
+Liberia
+Libia = Libya
+Madagascar = Madagasikara
+Malawi
+Mali
+Mauritania = Mauritanie
+Mauritius = Maurice = Insula Mauritius
+Maroc = Morocco
+Mozambic = Mozambique = Moçambique
+Namibia = Africa de Sud-Vest = South West Africa
+Niger
+Nigeria
+Rwanda = Ruanda
+São Tomé și Príncipe = Sao Tome and Principe = São Tomé e Príncipe
+Senegal
+Seychelles
+Sierra Leone
+Somalia = Soomaaliya
+Africa de Sud = South Africa = Republica Sud-Africană = Suid-Afrika
+Sudanul de Sud = Sudan de Sud = South Sudan
+Sudan
+Tanzania
+Togo
+Tunisia = Tunisie
+Uganda
+Zambia = Rhodesia de Nord = Northern Rhodesia
+Zimbabwe
+
+# ---- America ----
+Antigua și Barbuda = Antigua and Barbuda = Antigua
+Argentina
+Bahamas = Insulele Bahamas
+Barbados
+Belize = Honduras Britanic = British Honduras
+Bolivia
+Brazilia = Brazil = Brasil
+Canada
+Chile
+Columbia = Colombia
+Costa Rica
+Cuba
+Dominica
+Republica Dominicană = Dominican Republic
+Ecuador
+El Salvador = Salvador
+Grenada
+Guatemala
+Guyana
+Haiti = Ayiti
+Honduras
+Jamaica
+Mexic = Mexico
+Nicaragua
+Panama
+Paraguay
+Peru
+Saint Kitts și Nevis = Sfântul Kitts și Nevis = Saint Kitts and Nevis = Saint Christopher and Nevis
+Sfânta Lucia = Saint Lucia = St. Lucia
+Sfântul Vincențiu și Grenadinele = Sfântul Vincent și Grenadinele = Saint Vincent and the Grenadines = Saint Vincent
+Surinam = Suriname = Guyana Olandeză
+Trinidad și Tobago = Trinidad and Tobago = Trinidad-Tobago
+Statele Unite = Statele Unite ale Americii = SUA = USA = America = United States = United States of America
+Uruguay
+Venezuela
+
+# ---- Oceania ----
+Australia
+Fiji = Viti
+Kiribati = Insulele Gilbert
+Insulele Marshall = Marshall Islands
+Statele Federate ale Microneziei = Micronezia = Micronesia = Federated States of Micronesia
+Nauru = Naoero
+Noua Zeelandă = New Zealand = Aotearoa
+Palau = Belau
+Papua Noua Guinee = Papua New Guinea = Papua Niugini
+Samoa = Samoa de Vest = Western Samoa
+Insulele Solomon = Solomon Islands
+Tonga
+Tuvalu = Insulele Ellice
+Vanuatu = Noile Hebride = New Hebrides
+
+# ---- Țările constituente ale Regatului Unit ----
+Anglia = England
+Scoția = Scotland
+Țara Galilor = Wales = Cymru
+Irlanda de Nord = Northern Ireland
+
+# ---- Teritorii dependente, regiuni autonome, state nerecunoscute ----
+Groenlanda = Greenland = Grønland = Kalaallit Nunaat
+Puerto Rico = Porto Rico
+Hong Kong
+Macao = Macau
+Gibraltar
+Insulele Feroe = Faroe Islands = Føroyar = Færøerne = Feroe
+Bermude = Bermuda = Insulele Bermude
+Guam
+Aruba
+Curaçao
+Sint Maarten
+Saint-Martin
+Bonaire
+Noua Caledonie = New Caledonia = Nouvelle-Calédonie
+Polinezia Franceză = French Polynesia = Polynésie française
+Wallis și Futuna = Wallis and Futuna
+Sahara Occidentală = Sahara de Vest = Western Sahara = Republica Arabă Saharawi Democrată
+Insulele Cayman = Cayman Islands
+Insulele Virgine Britanice = British Virgin Islands = Insulele Virgine = Virgin Islands
+Insulele Virgine Americane = US Virgin Islands = United States Virgin Islands
+Insulele Turks și Caicos = Turks and Caicos Islands = Turks și Caicos
+Martinica = Martinique
+Guadelupa = Guadeloupe
+Guyana Franceză = French Guiana = Guyane
+Réunion = La Réunion
+Mayotte
+Saint-Pierre și Miquelon = Saint Pierre and Miquelon
+Insulele Falkland = Falkland Islands = Falkland = Insulele Malvine = Malvine = Islas Malvinas
+Sfânta Elena = Saint Helena = St. Helena
+Anguilla
+Montserrat
+Insulele Pitcairn = Pitcairn Islands = Pitcairn
+Insulele Cook = Cook Islands
+Niue
+Tokelau
+Samoa Americană = American Samoa
+Insulele Mariane de Nord = Northern Mariana Islands = Marianele de Nord
+Insula Norfolk = Norfolk Island
+Insula Crăciunului = Insula Christmas = Christmas Island
+Insulele Cocos = Cocos Islands = Insulele Keeling
+Insula Man = Isle of Man
+Jersey
+Guernsey
+Insulele Åland = Åland = Åland Islands
+Svalbard = Spitsbergen = Spitzbergen
+Insulele Canare = Canary Islands = Islas Canarias
+Madeira
+Azore = Azores = Açores = Insulele Azore
+Transnistria = Republica Moldovenească Nistreană = Pridnestrovie
+Găgăuzia = Gagauz Yeri
+Abhazia = Abkhazia
+Osetia de Sud = South Ossetia
+Nagorno-Karabah = Nagorno-Karabakh = Karabah = Arțah = Artsakh
+Ciprul de Nord = Cipru de Nord = Northern Cyprus = Republica Turcă a Ciprului de Nord
+Somaliland
+Crimeea = Crimea
+Cecenia = Chechnya
+Tibet
+Kurdistan
+Catalonia = Catalunya = Cataluña
+Țara Bascilor = Basque Country = Euskadi = País Vasco = Euskal Herria
+Bavaria = Bayern
+Flandra = Flanders = Vlaanderen
+Valonia = Wallonia = Wallonie
+
+# ---- Țări istorice ----
+Iugoslavia = Yugoslavia = Jugoslavija
+Cehoslovacia = Czechoslovakia = Československo
+URSS = Uniunea Sovietică = Uniunea Republicilor Sovietice Socialiste = USSR = Soviet Union
+Prusia = Prussia = Preußen
+Persia = Imperiul Persan = Persian Empire
+Rhodesia = Rhodesia de Sud = Southern Rhodesia
+Ceylon
+Siam
+Imperiul Otoman = Ottoman Empire
+Imperiul Roman = Roman Empire
+Bizanț = Imperiul Bizantin = Byzantium = Byzantine Empire
+Sfântul Imperiu Roman = Holy Roman Empire
+Austro-Ungaria = Austria-Ungaria = Imperiul Austro-Ungar = Austria-Hungary
+Germania de Est = RDG = Republica Democrată Germană = Germania Democrată = East Germany = DDR
+Germania de Vest = RFG = Germania Federală = West Germany = BRD
+Dacia
+Țara Românească = Valahia = Wallachia
+Transilvania = Ardeal = Transylvania = Siebenbürgen = Erdély
+Mesopotamia
+Cartagina = Carthage
+Babilon = Babilonia = Babylon
+Fenicia = Phoenicia
+Asiria = Assyria
+Sumer
+Galia = Gallia = Gaul
+Kampuchea = Kampuchia
+Tanganica = Tanganyika
+Zanzibar
+Boemia = Bohemia = Böhmen = Čechy
+Castilia = Castile = Castilla
+Aragon
+Burgundia = Burgundy = Bourgogne
+Serbia și Muntenegru = Serbia and Montenegro
+Yemenul de Sud = Yemen de Sud = South Yemen
+Yemenul de Nord = Yemen de Nord = North Yemen
+Vietnamul de Sud = Vietnam de Sud = South Vietnam
+Vietnamul de Nord = Vietnam de Nord = North Vietnam
+Volta Superioară = Upper Volta = Haute-Volta
+Dahomey
+Abisinia = Abyssinia
+Nyasaland
+Noua Granadă = New Granada = Nueva Granada
+Marea Columbie = Gran Colombia

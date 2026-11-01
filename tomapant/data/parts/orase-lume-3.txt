@@ -1,0 +1,1440 @@
+# Orașe — Asia (fără Turcia și Caucaz)
+# China
+Pekin = Beijing = Peking
+Shanghai = Șanhai
+Hong Kong
+Canton = Guangzhou
+Nanking = Nanjing
+Chongqing = Chungking
+Tianjin = Tientsin
+Wuhan
+Chengdu
+Xi'an
+Hangzhou
+Shenzhen
+Harbin
+Lhasa
+Macao = Macau
+Shenyang = Mukden
+Dalian
+Qingdao
+Jinan
+Zhengzhou
+Changsha
+Kunming
+Nanning
+Fuzhou
+Xiamen = Amoy
+Hefei
+Nanchang
+Taiyuan
+Shijiazhuang
+Changchun
+Urumqi
+Lanzhou
+Xining
+Hohhot
+Yinchuan
+Guiyang
+Haikou
+Sanya
+Suzhou
+Wuxi
+Ningbo
+Dongguan
+Foshan
+Zhuhai
+Shantou = Swatow
+Tangshan
+Baotou
+Datong
+Luoyang
+Kaifeng
+Anshan
+Fushun
+Jilin
+Daqing
+Qiqihar
+Handan
+Xuzhou
+Wenzhou
+Yantai
+Weifang
+Zibo
+Linyi
+Nantong
+Changzhou
+Yangzhou
+Zhenjiang
+Huizhou
+Zhongshan
+Jiangmen
+Zhanjiang
+Guilin
+Liuzhou
+Zunyi
+Mianyang
+Leshan
+Yibin
+Nanchong
+Baoding
+Langfang
+Qinhuangdao
+Zhangjiakou
+Hengyang
+Zhuzhou
+Xiangtan
+Yueyang
+Changde
+Jingdezhen
+Jiujiang
+Ganzhou
+Quanzhou
+Zhangzhou
+Putian
+Anyang
+Xinxiang
+Nanyang
+Xinyang
+Pingdingshan
+Huainan
+Wuhu
+Bengbu
+Anqing
+Jining
+Tai'an
+Rizhao
+Dezhou
+Liaocheng
+Binzhou
+Dongying
+Jiaxing
+Huzhou
+Shaoxing
+Jinhua
+Taizhou
+Lishui
+Yiwu
+Mudanjiang
+Jiamusi
+Benxi
+Dandong
+Jinzhou
+Yingkou
+Fuxin
+Liaoyang
+Panjin
+Tieling
+Chaoyang
+Huludao
+Siping
+Tonghua
+Baishan
+Songyuan
+Baicheng
+Yanji
+Kashgar = Kașgar = Kashi
+Turpan = Turfan
+Hami
+Karamay
+Korla
+Aksu
+Hotan = Khotan
+Shigatse = Xigaze
+Dali
+Lijiang
+Shangri-La = Zhongdian
+Jiuquan
+Dunhuang
+Tianshui
+Baoji
+Xianyang
+Weinan
+Yan'an
+Hanzhong
+Yulin
+Ankang
+Shangluo
+Tongchuan
+Ordos
+Wuhai
+Chifeng
+Tongliao
+Hulunbuir
+Manzhouli
+Yining = Ghulja
+Shihezi
+Changji
+Altay
+Ulanqab
+Bayannur
+Xilinhot
+Ulanhot
+Erenhot
+Jiayuguan
+Zhangye
+Wuwei
+Baiyin
+Qingyang
+Pingliang
+Dingxi
+Longnan
+Linxia
+Jinchang
+Golmud
+Haidong
+Shizuishan
+Wuzhong
+Guyuan
+Zhongwei
+Yangquan
+Changzhi
+Jincheng
+Shuozhou
+Jinzhong
+Yuncheng
+Xinzhou
+Linfen
+Luliang
+Pingyao
+Cangzhou
+Xingtai
+Hengshui
+Chengde
+Jiaozuo
+Xuchang
+Luohe
+Sanmenxia
+Shangqiu
+Zhoukou
+Zhumadian
+Puyang
+Hebi
+Jiyuan
+Dengfeng
+Weihai
+Zaozhuang
+Heze
+Qufu
+Lianyungang
+Huai'an
+Yancheng
+Suqian
+Kunshan
+Jiangyin
+Zhangjiagang
+Changshu
+Yixing
+Quzhou
+Zhoushan
+Cixi
+Rui'an
+Yueqing
+Wenling
+Huaibei
+Ma'anshan
+Tongling
+Huangshan
+Chuzhou
+Fuyang
+Lu'an
+Bozhou
+Chizhou
+Xuancheng
+Nanping
+Sanming
+Longyan
+Ningde
+Jinjiang
+Fuqing
+Wuyishan
+Shangrao
+Yichun
+Ji'an
+Pingxiang
+Xinyu
+Yingtan
+Yichang
+Xiangyang
+Jingzhou
+Huangshi
+Shiyan
+Xiaogan
+Jingmen
+Ezhou
+Huanggang
+Xianning
+Suizhou
+Enshi
+Xiantao
+Shaoyang
+Yiyang
+Chenzhou
+Yongzhou
+Huaihua
+Loudi
+Zhangjiajie
+Jishou
+Zhaoqing
+Maoming
+Meizhou
+Shanwei
+Heyuan
+Yangjiang
+Qingyuan
+Chaozhou
+Jieyang
+Yunfu
+Shaoguan
+Wuzhou
+Beihai
+Qinzhou
+Baise
+Hezhou
+Hechi
+Guigang
+Laibin
+Chongzuo
+Fangchenggang
+Yangshuo
+Danzhou
+Zigong
+Luzhou
+Deyang
+Suining
+Neijiang
+Guangyuan
+Panzhihua
+Meishan
+Ya'an
+Guang'an
+Dazhou
+Bazhong
+Ziyang
+Xichang
+Dujiangyan
+Kangding
+Anshun
+Liupanshui
+Bijie
+Tongren
+Kaili
+Duyun
+Xingyi
+Qujing
+Yuxi
+Baoshan
+Zhaotong
+Pu'er
+Lincang
+Chuxiong
+Jinghong
+Ruili
+Mengzi
+Gejiu
+Liaoyuan
+Hunchun
+Jixi
+Hegang
+Shuangyashan
+Qitaihe
+Heihe
+Suihua
+Mohe
+Chamdo
+Nyingchi
+# Japonia
+Tokio = Tokyo
+Yokohama
+Osaka
+Nagoya
+Sapporo
+Kobe
+Kioto = Kyoto
+Fukuoka
+Kawasaki
+Saitama
+Hiroshima
+Sendai
+Kitakyushu
+Chiba
+Sakai
+Niigata
+Hamamatsu
+Shizuoka
+Sagamihara
+Okayama
+Kumamoto
+Kagoshima
+Funabashi
+Hachioji
+Kawaguchi
+Himeji
+Matsuyama
+Utsunomiya
+Matsudo
+Nishinomiya
+Kurashiki
+Ichikawa
+Oita
+Kanazawa
+Fukuyama
+Amagasaki
+Nagasaki
+Yokosuka
+Toyota
+Takamatsu
+Toyama
+Nara
+Gifu
+Machida
+Fujisawa
+Kashiwa
+Toyohashi
+Nagano
+Iwaki
+Asahikawa
+Takasaki
+Okazaki
+Wakayama
+Koriyama
+Tokorozawa
+Akita
+Kawagoe
+Maebashi
+Otsu
+Naha
+Aomori
+Morioka
+Fukushima
+Kurume
+Yokkaichi
+Hakodate
+Ichinomiya
+Akashi
+Fukui
+Tottori
+Matsue
+Yamagata
+Hirosaki
+Mito
+Kofu
+Tsu
+Saga
+Miyazaki
+Kure
+Shimonoseki
+Beppu
+Nagaoka
+Kasugai
+Toyonaka
+Hirakata
+Suita
+Takatsuki
+Higashiosaka
+Ibaraki
+Kishiwada
+Neyagawa
+Yao
+Numazu
+Fuji
+Odawara
+Kamakura
+Atami
+Nikko
+Izumo
+Matsumoto
+Kushiro
+Obihiro
+Tomakomai
+Otaru
+Sasebo
+Ube
+Yamaguchi
+Hachinohe
+Ishinomaki
+Tsukuba
+Narita
+Okinawa
+Takarazuka
+Kakogawa
+Iwakuni
+Ise
+Takayama
+Hiratsuka
+Chigasaki
+Atsugi
+Ichihara
+# Coreea
+Seul = Seoul
+Busan = Pusan
+Incheon = Inchon
+Daegu = Taegu
+Daejeon = Taejon
+Gwangju = Kwangju
+Ulsan
+Suwon
+Changwon
+Goyang
+Yongin
+Seongnam
+Bucheon
+Cheongju
+Ansan
+Jeonju
+Cheonan
+Namyangju
+Hwaseong
+Pohang
+Gimhae
+Uijeongbu
+Siheung
+Paju
+Pyeongtaek
+Gumi
+Jinju
+Gyeongju
+Wonju
+Chuncheon
+Gangneung
+Jeju
+Mokpo
+Yeosu
+Suncheon
+Iksan
+Gunsan
+Gimpo
+Guri
+Gwangmyeong
+Asan
+Sejong
+Sokcho
+Andong
+Tongyeong
+Geoje
+Yangsan
+Gyeongsan
+Chungju
+Gunpo
+Osan
+Icheon
+Phenian = Pyongyang
+Hamhung
+Chongjin
+Nampo
+Wonsan
+Sinuiju
+Kaesong
+Sariwon
+Haeju
+Kanggye
+Hyesan
+Rason
+Pyongsong
+# Taiwan
+Taipei
+New Taipei
+Kaohsiung
+Taichung
+Tainan
+Taoyuan
+Hsinchu
+Keelung
+Chiayi
+Changhua
+Hualien
+Taitung
+Pingtung
+Yilan = Ilan
+Miaoli
+# Mongolia
+Ulan Bator = Ulaanbaatar
+Erdenet
+Darkhan
+Choibalsan
+Khovd
+Ölgii
+Mörön
+Karakorum = Kharkhorin
+# Vietnam
+Hanoi
+Ho Chi Minh = Saigon
+Da Nang
+Hai Phong
+Hue
+Can Tho
+Nha Trang
+Bien Hoa
+Vung Tau
+Buon Ma Thuot
+Da Lat
+Quy Nhon
+Thai Nguyen
+Nam Dinh
+Vinh
+Thanh Hoa
+Ha Long
+Hai Duong
+Phan Thiet
+Rach Gia
+Long Xuyen
+My Tho
+Ca Mau
+Pleiku
+Thu Dau Mot
+Sa Pa
+Hoi An
+Quang Ngai
+Bac Ninh
+Viet Tri
+Dien Bien Phu
+Lao Cai
+# Thailanda
+Bangkok
+Chiang Mai
+Pattaya
+Phuket
+Nonthaburi
+Hat Yai
+Nakhon Ratchasima = Korat
+Udon Thani
+Khon Kaen
+Chiang Rai
+Ayutthaya
+Sukhothai
+Hua Hin
+Krabi
+Surat Thani
+Nakhon Si Thammarat
+Songkhla
+Ubon Ratchathani
+Pak Kret
+Lampang
+Phitsanulok
+Rayong
+Kanchanaburi
+Samut Prakan
+Nakhon Sawan
+Nakhon Pathom
+Chonburi
+Lopburi
+Trang
+# Cambodgia
+Phnom Penh
+Siem Reap
+Battambang
+Sihanoukville
+Kampot
+Kampong Cham
+Poipet
+# Laos
+Vientiane
+Luang Prabang
+Pakse
+Savannakhet
+Vang Vieng
+# Myanmar
+Yangon = Rangoon
+Mandalay
+Naypyidaw
+Mawlamyine = Moulmein
+Bago = Pegu
+Pathein = Bassein
+Taunggyi
+Sittwe
+Monywa
+Myitkyina
+Meiktila
+Bagan
+Pyay
+Dawei
+Myeik
+Lashio
+# Malaysia
+Kuala Lumpur
+George Town
+Johor Bahru
+Ipoh
+Malacca = Melaka
+Kota Kinabalu
+Kuching
+Shah Alam
+Petaling Jaya
+Putrajaya
+Seremban
+Kuantan
+Kuala Terengganu
+Kota Bharu
+Alor Setar
+Miri
+Sandakan
+Tawau
+Klang
+Subang Jaya
+Kajang
+Sibu
+Taiping
+# Singapore
+Singapore = Singapur
+# Indonezia
+Jakarta = Djakarta
+Surabaya
+Bandung
+Medan
+Semarang
+Makassar = Ujung Pandang
+Palembang
+Denpasar
+Yogyakarta
+Malang
+Bogor
+Batam
+Tangerang
+Depok
+Bekasi
+Pekanbaru
+Padang
+Bandar Lampung
+Samarinda
+Balikpapan
+Banjarmasin
+Pontianak
+Manado
+Jambi
+Surakarta = Solo
+Cimahi
+Mataram
+Kupang
+Jayapura
+Ambon
+Bengkulu
+Cirebon
+Tasikmalaya
+Serang
+Pekalongan
+Tegal
+Kediri
+Sukabumi
+Banda Aceh
+Palu
+Kendari
+Ternate
+Gorontalo
+Probolinggo
+Pasuruan
+Madiun
+Magelang
+Salatiga
+Purwokerto
+Binjai
+Pematangsiantar
+Tanjungpinang
+Dumai
+Palangkaraya
+Bukittinggi
+Ubud
+Sorong
+Manokwari
+Singkawang
+Cilegon
+Karawang
+# Filipine
+Manila
+Quezon City
+Cebu
+Davao
+Zamboanga
+Caloocan
+Makati
+Pasig
+Taguig
+Antipolo
+Pasay
+Mandaluyong
+Parañaque
+Las Piñas
+Valenzuela
+Marikina
+Muntinlupa
+Malabon
+Cagayan de Oro
+Bacolod
+Iloilo
+General Santos
+Baguio
+Angeles
+Olongapo
+Dasmariñas
+Bacoor
+Imus
+Calamba
+Batangas
+Lipa
+Lucena
+Naga
+Legazpi
+Tacloban
+Butuan
+Iligan
+Cotabato
+Puerto Princesa
+Dumaguete
+Tagaytay
+Vigan
+Laoag
+Tuguegarao
+Cabanatuan
+San Fernando
+Tarlac
+Mandaue
+Lapu-Lapu
+Ormoc
+Roxas
+Jolo
+Marawi
+Tagbilaran
+# Brunei, Timorul de Est
+Bandar Seri Begawan
+Dili
+Baucau
+# India
+Delhi = New Delhi
+Mumbai = Bombay
+Calcutta = Kolkata
+Chennai = Madras
+Bangalore = Bengaluru
+Hyderabad
+Ahmedabad = Ahmadabad
+Pune = Poona
+Surat
+Jaipur
+Lucknow
+Kanpur
+Nagpur
+Indore
+Bhopal
+Patna
+Vadodara = Baroda
+Ludhiana
+Agra
+Varanasi = Benares
+Amritsar
+Chandigarh
+Kochi = Cochin
+Panaji = Panjim
+Mysore = Mysuru
+Jodhpur
+Udaipur
+Srinagar
+Shimla = Simla
+Darjeeling
+Madurai
+Coimbatore
+Visakhapatnam = Vizag
+Thiruvananthapuram = Trivandrum
+Guwahati
+Ranchi
+Raipur
+Dehradun
+Allahabad = Prayagraj
+Gwalior
+Jabalpur
+Meerut
+Nashik
+Rajkot
+Aurangabad
+Vijayawada
+Jamshedpur
+Faridabad
+Ghaziabad
+Noida
+Gurgaon = Gurugram
+Kozhikode = Calicut
+Puducherry = Pondicherry
+Mangalore = Mangaluru
+Tiruchirappalli = Trichy
+Thoothukudi = Tuticorin
+Ooty = Udhagamandalam
+Alappuzha = Alleppey
+Belgaum = Belagavi
+Hubli = Hubballi
+Gulbarga = Kalaburagi
+Bellary = Ballari
+Shimoga = Shivamogga
+Thrissur = Trichur
+Kollam = Quilon
+Thanjavur = Tanjore
+Vellore
+Tirupati
+Kolhapur
+Solapur
+Sangli
+Akola
+Amravati
+Nanded
+Latur
+Dhule
+Jalgaon
+Bhiwandi
+Kalyan
+Thane
+Navi Mumbai
+Vasai-Virar
+Ulhasnagar
+Bhavnagar
+Jamnagar
+Junagadh
+Gandhinagar
+Anand
+Bharuch
+Bikaner
+Ajmer
+Kota
+Alwar
+Bhilwara
+Jaisalmer
+Pushkar
+Jalandhar
+Patiala
+Bathinda
+Mohali
+Panipat
+Sonipat
+Karnal
+Ambala
+Hisar
+Rohtak
+Yamunanagar
+Haridwar
+Rishikesh
+Mussoorie
+Nainital
+Manali
+Dharamsala
+Jammu
+Leh
+Aligarh
+Bareilly
+Moradabad
+Saharanpur
+Gorakhpur
+Mathura
+Vrindavan
+Firozabad
+Jhansi
+Muzaffarnagar
+Ayodhya
+Gaya
+Bhagalpur
+Muzaffarpur
+Darbhanga
+Bodh Gaya
+Dhanbad
+Bokaro
+Bhilai
+Durg
+Bilaspur
+Korba
+Cuttack
+Bhubaneswar
+Puri
+Rourkela
+Sambalpur
+Berhampur = Brahmapur
+Siliguri
+Durgapur
+Asansol
+Howrah
+Kharagpur
+Dibrugarh
+Silchar
+Shillong
+Imphal
+Aizawl
+Agartala
+Kohima
+Itanagar
+Gangtok
+Dimapur
+Warangal
+Nizamabad
+Karimnagar
+Khammam
+Secunderabad
+Guntur
+Nellore
+Kurnool
+Kakinada
+Rajahmundry
+Kadapa
+Anantapur
+Davangere
+Tumkur
+Udupi
+Hampi
+Salem
+Tiruppur
+Erode
+Tirunelveli
+Kanchipuram
+Mahabalipuram
+Kodaikanal
+Rameswaram
+Kanyakumari
+Kottayam
+Kannur
+Munnar
+Port Blair
+Margao
+Daman
+Ujjain
+Sagar
+Ratlam
+Dewas
+Satna
+Rewa
+Khajuraho
+# Pakistan
+Islamabad
+Karachi
+Lahore
+Faisalabad
+Rawalpindi
+Multan
+Peshawar
+Quetta
+Gujranwala
+Sialkot
+Bahawalpur
+Sargodha
+Sukkur
+Larkana
+Sheikhupura
+Jhang
+Rahim Yar Khan
+Gujrat
+Mardan
+Kasur
+Dera Ghazi Khan
+Sahiwal
+Nawabshah
+Mirpur Khas
+Okara
+Mingora
+Abbottabad
+Muzaffarabad
+Gilgit
+Skardu
+Murree
+Taxila
+Chiniot
+Jhelum
+Kohat
+Bannu
+Gwadar
+# Bangladesh
+Dhaka
+Chittagong = Chattogram
+Khulna
+Sylhet
+Rajshahi
+Rangpur
+Mymensingh
+Comilla = Cumilla
+Narayanganj
+Gazipur
+Barisal = Barishal
+Bogra = Bogura
+Jessore = Jashore
+Cox's Bazar
+Dinajpur
+Narsingdi
+Tangail
+Pabna
+Kushtia
+Brahmanbaria
+Feni
+# Nepal, Bhutan
+Kathmandu
+Pokhara
+Lalitpur = Patan
+Bhaktapur
+Biratnagar
+Birgunj
+Bharatpur
+Butwal
+Dharan
+Janakpur
+Nepalgunj
+Lumbini
+Hetauda
+Dhangadhi
+Thimphu
+Paro
+Phuntsholing
+Punakha
+# Sri Lanka, Maldive
+Colombo
+Sri Jayawardenepura Kotte = Kotte
+Kandy
+Galle
+Jaffna
+Negombo
+Trincomalee
+Batticaloa
+Anuradhapura
+Polonnaruwa
+Nuwara Eliya
+Moratuwa
+Dehiwala
+Kurunegala
+Ratnapura
+Matara
+Hambantota
+Malé
+# Afganistan
+Kabul
+Kandahar
+Herat
+Mazar-i-Sharif
+Jalalabad
+Kunduz
+Ghazni
+Bamiyan
+Lashkar Gah
+Taloqan
+Puli Khumri
+Khost
+Farah
+Sheberghan
+Charikar
+# Iran
+Teheran = Tehran
+Mashhad = Meshed
+Isfahan = Esfahan
+Tabriz
+Shiraz
+Qom = Ghom
+Ahvaz = Ahwaz
+Karaj
+Kermanshah
+Urmia = Orumiyeh
+Rasht
+Zahedan
+Yazd
+Kerman
+Hamadan
+Arak
+Ardabil
+Bandar Abbas
+Qazvin
+Zanjan
+Sanandaj
+Khorramabad
+Gorgan
+Sari
+Bushehr
+Abadan
+Khorramshahr
+Dezful
+Kashan
+Najafabad
+Sabzevar
+Neyshabur
+Bojnord
+Birjand
+Semnan
+Shahrekord
+Yasuj
+Ilam
+Bandar-e Anzali
+Amol
+Babol
+Khoy
+Maragheh
+Borujerd
+Malayer
+Saveh
+Varamin
+Eslamshahr
+Shahriar
+Chabahar
+Kish
+Qeshm
+Bam
+Rafsanjan
+Sirjan
+Jahrom
+Marvdasht
+Kazerun
+Masjed Soleyman
+Behbahan
+Andimeshk
+Shush
+Shushtar
+Torbat-e Heydarieh
+Quchan
+Bandar-e Mahshahr
+# Irak
+Bagdad = Baghdad
+Basra
+Mosul
+Erbil = Arbil
+Kirkuk
+Najaf
+Karbala = Kerbela
+Sulaymaniyah
+Nasiriyah
+Amarah
+Kut
+Diwaniyah
+Ramadi
+Fallujah
+Tikrit
+Samarra
+Hillah
+Baqubah
+Duhok
+Zakho
+Samawah
+Kufa
+Halabja
+# Siria
+Damasc = Damascus
+Alep = Aleppo
+Homs
+Hama
+Latakia
+Palmira = Palmyra
+Deir ez-Zor
+Raqqa
+Idlib
+Tartus
+Daraa
+Qamishli
+Hasakah
+Manbij
+Douma
+Kobani
+# Liban
+Beirut
+Tripoli
+Sidon = Saida
+Tir = Tyre
+Baalbek
+Byblos = Jbeil
+Zahle
+Jounieh
+# Iordania
+Amman
+Zarqa
+Irbid
+Aqaba
+Petra
+Madaba
+Jerash
+As-Salt = Salt
+Karak
+Ma'an
+# Israel, Palestina
+Ierusalim = Jerusalem
+Tel Aviv
+Haifa
+Beer Sheva = Beersheba
+Eilat
+Nazaret = Nazareth
+Betleem = Bethlehem
+Ierihon = Jericho
+Hebron
+Nablus
+Ramallah
+Gaza
+Rishon LeZion
+Petah Tikva
+Ashdod
+Netanya
+Holon
+Bnei Brak
+Bat Yam
+Ramat Gan
+Ashkelon
+Rehovot
+Herzliya
+Kfar Saba
+Hadera
+Modi'in
+Lod
+Ramla
+Nahariya
+Acra = Acre = Akko
+Tiberiada = Tiberias
+Safed = Tzfat
+Cezareea = Caesarea
+Jaffa = Yafo
+Jenin
+Tulkarm
+Khan Yunis
+Rafah
+# Arabia Saudită
+Riad = Riyadh
+Jeddah = Jidda
+Mecca = Makkah
+Medina = Madinah
+Dammam
+Taif
+Tabuk
+Khobar
+Dhahran
+Buraidah
+Khamis Mushait
+Abha
+Hail
+Najran
+Jizan
+Yanbu
+Jubail
+Hofuf
+Qatif
+# Kuweit, Bahrain, Qatar
+Kuweit = Kuwait City
+Hawalli
+Salmiya
+Jahra
+Manama
+Muharraq
+Riffa
+Doha
+Al Wakrah
+Al Khor
+Al Rayyan
+# Emiratele Arabe Unite
+Abu Dhabi
+Dubai
+Sharjah
+Al Ain
+Ajman
+Ras al-Khaimah
+Fujairah
+Umm al-Quwain
+# Oman
+Mascat = Muscat
+Salalah
+Sohar
+Nizwa
+Sur
+# Yemen
+Sanaa
+Aden
+Taiz
+Hodeida = Al Hudaydah
+Ibb
+Mukalla
+Dhamar
+Shibam
+# Kazahstan
+Astana = Nur-Sultan
+Almatî = Almaty = Alma-Ata
+Șîmkent = Shymkent = Chimkent
+Karaganda = Karagandy
+Aktobe = Aktyubinsk
+Taraz = Dzhambul
+Pavlodar
+Semei = Semipalatinsk = Semey
+Atîrau = Atyrau
+Oskemen = Ust-Kamenogorsk
+Kostanay = Kustanai
+Kyzylorda
+Oral = Uralsk
+Petropavl = Petropavlovsk
+Aktau
+Temirtau
+Turkistan = Turkestan
+Kokshetau
+Taldykorgan
+Ekibastuz
+Zhezkazgan
+Rudny
+Baikonur
+# Kârgâzstan
+Bișkek = Bishkek = Frunze
+Oș = Osh
+Karakol
+Tokmok
+Naryn
+Balykchy
+Cholpon-Ata
+# Uzbekistan
+Tașkent = Tashkent
+Samarkand
+Buhara = Bukhara
+Namangan
+Andijan
+Fergana
+Hiva = Khiva
+Nukus
+Qarshi = Karshi
+Kokand
+Margilan
+Termez
+Urgench
+Jizzakh
+Navoi
+Shahrisabz
+Angren
+Chirchiq
+Gulistan
+# Tadjikistan
+Dușanbe = Dushanbe
+Hujand = Khujand = Leninabad
+Kulob = Kulyab
+Bokhtar = Qurghonteppa
+Istaravshan
+Khorog
+Panjakent
+Tursunzoda
+Isfara
+# Turkmenistan
+Așgabat = Ashgabat = Ashkhabad
+Turkmenabat = Chardzhou
+Mary
+Dashoguz
+Balkanabat
+Turkmenbashi = Krasnovodsk
+Merv
+# Completări
+Emeishan
+Ebetsu
+Ebina
+Eluru
+Etawah
+Ende
+El Nido
+Ueda
+Uji
+Urayasu
+Urasoe
+Ulaangom
+Uliastai
+Unaizah
+Udhampur
+Unnao
+Omuta
+Ome
+Ogaki
+Oyama
+Ongole
+Ozamiz
+Onomichi
+Ota
+Imabari
+Isesaki
+Ichinoseki
+Ikoma
+Ilagan
+Iskandar Puteri
+Ichalkaranji
+Fujinomiya
+Fujieda
+Fuchu
+Faizabad
+Fatehpur Sikri

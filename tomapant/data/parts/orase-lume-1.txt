@@ -1,0 +1,1709 @@
+# Orașe – partea 1: capitalele lumii și orașele Europei de Vest
+# Format: Canonical = variantă = variantă (vezi FORMAT.md)
+
+# ---------------------------------------------------------------
+# CAPITALE – Europa
+# ---------------------------------------------------------------
+București = Bucharest
+Chișinău = Kishinev
+Londra = London
+Paris
+Berlin
+Madrid
+Roma = Rome
+Lisabona = Lisboa = Lisbon
+Viena = Wien = Vienna
+Varșovia = Warszawa = Warsaw
+Moscova = Moskva = Moscow
+Atena = Athina = Athens
+Haga = Den Haag = The Hague
+Amsterdam
+Praga = Praha = Prague
+Budapesta = Budapest
+Belgrad = Beograd = Belgrade
+Sofia
+Kiev = Kyiv
+Minsk
+Copenhaga = København = Copenhagen
+Stockholm
+Oslo
+Helsinki = Helsingfors
+Reykjavik
+Dublin = Baile Átha Cliath
+Bruxelles = Brussel = Brussels
+Luxemburg = Luxembourg
+Berna = Bern
+Vaduz
+Monaco
+Andorra la Vella
+San Marino
+Valletta
+Vatican = Vatican City = Città del Vaticano
+Tirana
+Skopje
+Podgorica
+Sarajevo
+Zagreb
+Ljubljana
+Bratislava
+Vilnius
+Riga
+Tallinn
+Ankara
+Nicosia = Lefkosia
+Tbilisi
+Erevan = Yerevan
+Baku
+Priștina = Prishtina
+Gibraltar
+Tórshavn
+Mariehamn
+Longyearbyen
+Saint Helier = St Helier
+Saint Peter Port = St Peter Port
+Douglas
+Tiraspol
+Suhumi = Sukhumi
+Țhinvali = Tskhinvali
+Stepanakert = Khankendi
+
+# ---------------------------------------------------------------
+# CAPITALE – Asia
+# ---------------------------------------------------------------
+Beijing = Pekin = Peking
+Tokyo = Tokio
+Seul = Seoul
+Phenian = Pyongyang
+Bangkok = Krung Thep
+Hanoi
+New Delhi = Delhi
+Islamabad
+Kabul
+Teheran = Tehran
+Bagdad = Baghdad
+Damasc = Damascus = Dimashq
+Beirut = Beyrouth
+Amman
+Ierusalim = Jerusalem = Yerushalayim = Al-Quds
+Ramallah
+Riad = Riyadh
+Doha
+Abu Dhabi
+Mascat = Muscat
+Sanaa
+Kuweit = Kuwait City
+Manama
+Naypyidaw = Nay Pyi Taw
+Thimphu
+Malé
+Colombo
+Sri Jayawardenepura Kotte = Kotte
+Dhaka = Dacca
+Kathmandu = Katmandu
+Ulan Bator = Ulaanbaatar
+Astana = Nur-Sultan
+Bișkek = Bishkek
+Dușanbe = Dushanbe
+Așgabat = Ashgabat
+Tașkent = Tashkent = Toshkent
+Jakarta = Djakarta
+Kuala Lumpur
+Putrajaya
+Singapore = Singapura
+Bandar Seri Begawan
+Manila
+Dili
+Vientiane
+Phnom Penh
+Taipei
+
+# ---------------------------------------------------------------
+# CAPITALE – Africa
+# ---------------------------------------------------------------
+Cairo = Al-Qahira
+Alger = Algiers
+Tunis
+Tripoli
+Rabat
+Nouakchott
+Dakar
+Banjul
+Bissau
+Conakry
+Freetown
+Monrovia
+Yamoussoukro
+Abidjan
+Accra
+Lomé
+Porto-Novo
+Cotonou
+Abuja
+Lagos
+Niamey
+Bamako
+Ouagadougou
+N'Djamena
+Yaoundé
+Malabo
+Libreville
+Brazzaville
+Kinshasa
+Bangui
+Khartoum
+Juba
+Asmara
+Djibouti
+Mogadishu = Mogadiscio
+Addis Abeba = Addis Ababa
+Nairobi
+Kampala
+Kigali
+Gitega
+Bujumbura
+Dodoma
+Dar es Salaam
+Lusaka
+Harare
+Lilongwe
+Maputo
+Luanda
+Windhoek
+Gaborone
+Pretoria = Tshwane
+Cape Town = Orașul Capului = Kaapstad
+Bloemfontein
+Maseru
+Mbabane
+Lobamba
+Antananarivo = Tananarive
+Port Louis
+Victoria
+Moroni
+São Tomé
+Praia
+Jamestown
+
+# ---------------------------------------------------------------
+# CAPITALE – America
+# ---------------------------------------------------------------
+Washington = Washington D.C.
+Ottawa
+Ciudad de México = Mexico City = Mexic
+Havana = La Habana
+Buenos Aires
+Brasilia
+Lima
+Santiago de Chile = Santiago
+Bogota
+Caracas
+Quito
+La Paz
+Sucre
+Asunción
+Montevideo
+Georgetown
+Paramaribo
+Cayenne
+Kingston
+Port-au-Prince
+Santo Domingo
+Nassau
+Belmopan
+Guatemala = Ciudad de Guatemala = Guatemala City
+San Salvador
+Tegucigalpa
+Managua
+San José
+Panama = Ciudad de Panamá = Panama City
+Castries
+Kingstown
+Bridgetown
+Saint John's = St. John's
+Basseterre
+Roseau
+Port of Spain
+Saint George's = St. George's
+San Juan
+Hamilton
+Nuuk = Godthåb
+Willemstad
+Oranjestad
+Philipsburg
+Road Town
+Stanley = Port Stanley
+Charlotte Amalie
+Cockburn Town
+The Valley
+Fort-de-France
+Gustavia
+
+# ---------------------------------------------------------------
+# CAPITALE – Oceania
+# ---------------------------------------------------------------
+Canberra
+Wellington
+Port Moresby
+Honiara
+Port Vila
+Suva
+Nuku'alofa
+Apia
+Funafuti
+Tarawa = South Tarawa
+Majuro
+Palikir
+Ngerulmud
+Yaren
+Papeete
+Nouméa
+Pago Pago
+Hagåtña = Agana
+Saipan
+Avarua
+Alofi
+Mata-Utu
+
+# ---------------------------------------------------------------
+# EUROPA DE VEST – Regatul Unit
+# ---------------------------------------------------------------
+Manchester
+Birmingham
+Liverpool
+Leeds
+Glasgow
+Edinburgh = Edinburg
+Cardiff
+Belfast
+Bristol
+Oxford
+Cambridge
+Newcastle = Newcastle upon Tyne
+Sheffield
+Nottingham
+Leicester
+Southampton
+Portsmouth
+Brighton
+Plymouth
+York
+Bath
+Canterbury
+Dover
+Coventry
+Aberdeen
+Dundee
+Inverness
+Swansea
+Stirling
+Perth
+Derby
+Stoke-on-Trent = Stoke
+Wolverhampton
+Sunderland
+Bradford
+Hull = Kingston upon Hull
+Norwich
+Ipswich
+Exeter
+Gloucester
+Worcester
+Winchester
+Salisbury
+Chester
+Lancaster
+Preston
+Blackpool
+Bolton
+Wigan
+Carlisle
+Durham
+Middlesbrough
+Reading
+Luton
+Milton Keynes
+Northampton
+Peterborough
+Lincoln
+Wakefield
+Doncaster
+Huddersfield
+Harrogate
+Hereford
+Shrewsbury
+Warwick
+Stratford-upon-Avon = Stratford
+Windsor
+Guildford
+Eastbourne
+Hastings
+Folkestone
+Margate
+Torquay
+Bournemouth
+Poole
+Weymouth
+Swindon
+Cheltenham
+Truro
+Penzance
+Falmouth
+Newquay
+Wells
+Ely
+Epsom
+Exmouth
+Saint Albans = St Albans
+Derry = Londonderry
+Lisburn
+Newry
+Armagh
+Enniskillen
+Bangor
+Wrexham
+Newport
+Aberystwyth
+Caernarfon
+Llandudno
+Dunfermline
+Paisley
+Kirkwall
+Oban
+Fort William
+Ayr
+Dumfries
+Kilmarnock
+Falkirk
+Elgin
+Saint Andrews = St Andrews
+Scarborough
+Whitby
+Grimsby
+Southend-on-Sea = Southend
+Colchester
+Chelmsford
+Watford
+Slough
+Basingstoke
+Oldham
+Rochdale
+Stockport
+Warrington
+Crewe
+Blackburn
+Burnley
+Barnsley
+Rotherham
+Chesterfield
+Mansfield
+Dudley
+Walsall
+Telford
+Bedford
+Lichfield
+
+# ---------------------------------------------------------------
+# EUROPA DE VEST – Irlanda
+# ---------------------------------------------------------------
+Cork
+Galway
+Limerick
+Waterford
+Kilkenny
+Drogheda
+Dundalk
+Sligo
+Wexford
+Tralee
+Killarney
+Ennis
+Athlone
+Bray
+Letterkenny
+Carlow
+
+# ---------------------------------------------------------------
+# EUROPA DE VEST – Franța
+# ---------------------------------------------------------------
+Marsilia = Marseille
+Lyon
+Toulouse
+Nisa = Nice
+Nantes
+Strasbourg
+Montpellier
+Bordeaux
+Lille
+Rennes
+Reims
+Le Havre
+Toulon
+Grenoble
+Dijon
+Angers
+Nîmes
+Avignon
+Cannes
+Lourdes
+Versailles
+Calais
+Orléans
+Tours
+Rouen
+Caen
+Nancy
+Metz
+Besançon
+Perpignan
+Biarritz
+Chamonix = Chamonix-Mont-Blanc
+Saint-Tropez
+Carcassonne
+Verdun
+Dunkerque
+Saint-Étienne
+Le Mans
+Clermont-Ferrand
+Brest
+Limoges
+Amiens
+Aix-en-Provence
+Nanterre
+Poitiers
+Mulhouse
+Boulogne-sur-Mer
+Pau
+La Rochelle
+Bayonne
+Antibes
+Ajaccio
+Bastia
+Calvi
+Corte
+Bonifacio
+Porto-Vecchio
+Troyes
+Chartres
+Lorient
+Quimper
+Saint-Malo
+Vannes
+Arles
+Annecy
+Chambéry
+Valence
+Béziers
+Narbonne
+Montauban
+Albi
+Rodez
+Cahors
+Agen
+Périgueux
+Angoulême
+Niort
+Bourges
+Nevers
+Auxerre
+Colmar
+Épinal
+Belfort
+Vichy
+Saint-Nazaire
+Fontainebleau
+Compiègne
+Beauvais
+Évreux
+Cherbourg
+Deauville
+Honfleur
+Dieppe
+Arras
+Lens
+Douai
+Valenciennes
+Roubaix
+Tourcoing
+Cambrai
+Laon
+Soissons
+Châlons-en-Champagne
+Épernay
+Sedan
+Charleville-Mézières
+Thionville
+Haguenau
+Saint-Denis
+Menton
+Grasse
+Fréjus
+Saint-Raphaël
+Hyères
+Orange
+Gap
+Briançon
+Évian-les-Bains = Évian
+Thonon-les-Bains
+Aix-les-Bains
+Mâcon
+Chalon-sur-Saône
+Roanne
+Montélimar
+Tarbes
+Dax
+Mont-de-Marsan
+Arcachon
+Royan
+Rochefort
+Saintes
+Cognac
+Blois
+Chinon
+Saumur
+Cholet
+Laval
+Alençon
+Lisieux
+Bayeux
+Saint-Lô
+Dinan
+Dinard
+Saint-Brieuc
+Morlaix
+Concarneau
+Dreux
+Meaux
+Melun
+Provins
+Senlis
+Chantilly
+Rambouillet
+Saint-Germain-en-Laye
+Boulogne-Billancourt
+Neuilly-sur-Seine
+Saint-Quentin
+Abbeville
+Le Touquet
+Moulins
+Montluçon
+Aurillac
+Le Puy-en-Velay
+Mende
+Millau
+Alès
+Sète
+Agde
+Castres
+Foix
+Auch
+Saint-Jean-de-Luz
+Bergerac
+Brive-la-Gaillarde
+Tulle
+Châteauroux
+Chaumont
+Bar-le-Duc
+Lunéville
+Vesoul
+Dole
+Lons-le-Saunier
+Pontarlier
+Montbéliard
+Sélestat
+Saverne
+Uzès
+
+# ---------------------------------------------------------------
+# EUROPA DE VEST – Benelux
+# ---------------------------------------------------------------
+Rotterdam
+Utrecht
+Eindhoven
+Groningen
+Maastricht
+Leiden
+Delft
+Haarlem
+Tilburg
+Breda
+Nijmegen
+Arnhem
+Enschede
+Apeldoorn
+Amersfoort
+Zwolle
+Dordrecht
+Alkmaar
+Leeuwarden
+Zaandam
+Hilversum
+Gouda
+Edam
+Volendam
+Middelburg
+Vlissingen
+Den Bosch = 's-Hertogenbosch
+Emmen
+Ede
+Almere
+Deventer
+Venlo
+Roermond
+Heerlen
+Helmond
+Oss
+Bergen op Zoom
+Hoorn
+Lelystad
+Assen
+Kampen
+Amstelveen
+Zandvoort
+Anvers = Antwerpen = Antwerp
+Gent = Ghent = Gand
+Bruges = Brugge
+Liège = Luik
+Charleroi
+Namur = Namen
+Leuven = Louvain
+Mechelen = Malines
+Ostende = Oostende
+Mons
+Kortrijk = Courtrai
+Hasselt
+Genk
+Aalst
+Tournai = Doornik
+Dinant
+Spa
+Ypres = Ieper
+Waterloo
+Arlon
+Bastogne
+Eupen
+Verviers
+Oudenaarde
+Dendermonde
+Sint-Niklaas
+Roeselare
+Turnhout
+Lier
+Knokke-Heist = Knokke
+Blankenberge
+La Louvière
+Mouscron
+Tongeren
+Nivelles
+Wavre
+Louvain-la-Neuve
+Durbuy
+Bouillon
+Chimay
+Huy
+Esch-sur-Alzette = Esch
+Echternach
+Vianden
+Differdange
+Dudelange
+Ettelbruck
+Diekirch
+Clervaux
+Remich
+Grevenmacher
+Wiltz
+Mondorf-les-Bains
+
+# ---------------------------------------------------------------
+# EUROPA DE VEST – Germania
+# ---------------------------------------------------------------
+Hamburg
+München = Munich
+Köln = Cologne = Colonia
+Frankfurt = Frankfurt pe Main = Frankfurt am Main
+Stuttgart
+Düsseldorf
+Dortmund
+Essen
+Leipzig
+Bremen
+Dresda = Dresden
+Hanovra = Hannover = Hanover
+Nürnberg = Nuremberg
+Duisburg
+Bochum
+Wuppertal
+Bielefeld
+Bonn
+Münster
+Karlsruhe
+Mannheim
+Augsburg
+Wiesbaden
+Mainz
+Aachen = Aix-la-Chapelle
+Kiel
+Freiburg = Freiburg im Breisgau
+Rostock
+Lübeck
+Potsdam
+Heidelberg
+Regensburg
+Würzburg
+Trier = Trèves
+Weimar
+Jena
+Erfurt
+Magdeburg
+Halle
+Chemnitz
+Kassel
+Koblenz
+Ulm
+Passau
+Bayreuth
+Baden-Baden
+Darmstadt
+Oberhausen
+Saarbrücken
+Gelsenkirchen
+Mönchengladbach
+Braunschweig = Brunswick
+Krefeld
+Oldenburg
+Osnabrück
+Leverkusen
+Solingen
+Heilbronn
+Herne
+Neuss
+Paderborn
+Ingolstadt
+Offenbach = Offenbach am Main
+Fürth
+Göttingen
+Reutlingen
+Wolfsburg
+Bremerhaven
+Erlangen
+Remscheid
+Pforzheim
+Siegen
+Hildesheim
+Salzgitter
+Cottbus
+Gera
+Zwickau
+Schwerin
+Flensburg
+Lüneburg
+Celle
+Goslar
+Wismar
+Stralsund
+Greifswald
+Dessau
+Wittenberg = Lutherstadt Wittenberg
+Görlitz
+Bautzen
+Meißen = Meissen
+Plauen
+Gotha
+Eisenach
+Suhl
+Fulda
+Marburg
+Gießen = Giessen
+Wetzlar
+Worms
+Speyer
+Ludwigshafen
+Kaiserslautern
+Landau
+Bingen
+Rüdesheim
+Konstanz = Constance
+Friedrichshafen
+Ravensburg
+Lindau
+Kempten
+Memmingen
+Landshut
+Rosenheim
+Garmisch-Partenkirchen
+Berchtesgaden
+Bamberg
+Coburg
+Aschaffenburg
+Schweinfurt
+Ansbach
+Dachau
+Füssen
+Esslingen = Esslingen am Neckar
+Tübingen
+Ludwigsburg
+Aalen
+Schwäbisch Hall
+Göppingen
+Böblingen
+Sindelfingen
+Villingen-Schwenningen
+Offenburg
+Lörrach
+Rottweil
+Hameln
+Hamm
+Bottrop
+Recklinghausen
+Moers
+Mülheim an der Ruhr = Mülheim
+Witten
+Iserlohn
+Detmold
+Minden
+Gütersloh
+Lippstadt
+Soest
+Arnsberg
+Wesel
+Kleve
+Bocholt
+Düren
+Jülich
+Bergisch Gladbach
+Siegburg
+Euskirchen
+Andernach
+Mayen
+Bad Kreuznach
+Idar-Oberstein
+Zweibrücken
+Pirmasens
+Homburg
+Saarlouis
+Völklingen
+Merzig
+Emden
+Wilhelmshaven
+Cuxhaven
+Stade
+Uelzen
+Wolfenbüttel
+Einbeck
+Halberstadt
+Quedlinburg
+Wernigerode
+Naumburg
+Merseburg
+Weißenfels
+Zeitz
+Altenburg
+Freiberg
+Pirna
+Radebeul
+Riesa
+Torgau
+Eisenhüttenstadt
+Frankfurt pe Oder = Frankfurt an der Oder = Frankfurt Oder
+Brandenburg an der Havel = Brandenburg
+Neuruppin
+Oranienburg
+Prenzlau
+Neubrandenburg
+Neustrelitz
+Güstrow
+Husum
+Schleswig
+Rendsburg
+Neumünster
+Norderstedt
+Lüdenscheid
+Hagen
+Rheine
+Ratingen
+Velbert
+Hattingen
+Unna
+Bad Homburg
+Rüsselsheim
+Hanau
+Bad Nauheim
+Bad Hersfeld
+Weinheim
+Bruchsal
+Rastatt
+Kehl
+Lahr
+Singen
+Radolfzell
+Überlingen
+Tuttlingen
+Sigmaringen
+Biberach
+Günzburg
+Neu-Ulm
+Donauwörth
+Nördlingen
+Dinkelsbühl
+Rothenburg ob der Tauber = Rothenburg
+Bad Kissingen
+Hof
+Weiden
+Amberg
+Straubing
+Deggendorf
+Freising
+Erding
+Traunstein
+Bad Reichenhall
+Bad Tölz
+Starnberg
+Landsberg am Lech
+Kaufbeuren
+Oberstdorf
+Oberammergau
+Mittenwald
+Cochem
+Bitburg
+Boppard
+Bad Ems
+Montabaur
+Neuwied
+Stendal
+Salzwedel
+Aschersleben
+Bernburg
+Köthen
+Bitterfeld
+Delitzsch
+Grimma
+Döbeln
+Mittweida
+Hoyerswerda
+Senftenberg
+Lübbenau
+Guben
+Eberswalde
+Schwedt
+Rathenow
+Delmenhorst
+Vechta
+Cloppenburg
+Papenburg
+Leer
+Aurich
+Norden
+Jever
+
+# ---------------------------------------------------------------
+# EUROPA DE VEST – Austria
+# ---------------------------------------------------------------
+Graz
+Linz
+Salzburg
+Innsbruck
+Klagenfurt
+Villach
+Bregenz
+Wels
+Sankt Pölten = St. Pölten
+Dornbirn
+Wiener Neustadt
+Steyr
+Feldkirch
+Leoben
+Krems
+Baden
+Hallstatt
+Eisenstadt
+Kitzbühel
+Zell am See
+Bad Ischl
+Gmunden
+Kufstein
+Lienz
+Schwaz
+Hall in Tirol
+Wörgl
+Sankt Anton am Arlberg = St. Anton
+Mayrhofen
+Sölden
+Ischgl
+Lech
+Saalbach
+Kapfenberg
+Bruck an der Mur
+Judenburg
+Bad Gastein
+Mariazell
+Melk
+Tulln
+Klosterneuburg
+Mödling
+Amstetten
+Traun
+Braunau am Inn = Braunau
+Schärding
+Ried im Innkreis
+Vöcklabruck
+Freistadt
+Spittal an der Drau
+Wolfsberg
+Bad Aussee
+Hallein
+Bludenz
+Hohenems
+Lustenau
+Neusiedl am See
+
+# ---------------------------------------------------------------
+# EUROPA DE VEST – Elveția
+# ---------------------------------------------------------------
+Zürich
+Geneva = Genève = Genf
+Basel = Bâle = Basle
+Lausanne
+Lucerna = Luzern = Lucerne
+Lugano
+Sankt Gallen = St. Gallen
+Winterthur
+Interlaken
+Davos
+Zermatt
+Montreux
+Fribourg
+Neuchâtel = Neuenburg
+Biel = Bienne
+Thun
+Schaffhausen
+Chur
+Sion
+Sierre
+Martigny
+Vevey
+Nyon
+Yverdon-les-Bains = Yverdon
+Aarau
+Olten
+Solothurn
+Zug
+Schwyz
+Altdorf
+Glarus
+Herisau
+Appenzell
+Frauenfeld
+Kreuzlingen
+Rapperswil
+Uster
+Bellinzona
+Locarno
+Ascona
+Chiasso
+Grindelwald
+Wengen
+Gstaad
+Saas-Fee
+Crans-Montana
+Verbier
+Leukerbad
+Brig
+Andermatt
+Engelberg
+Einsiedeln
+Arosa
+Sankt Moritz = St. Moritz
+Klosters
+Delémont
+Porrentruy
+La Chaux-de-Fonds
+Le Locle
+Morges
+Bulle
+Gruyères
+Murten = Morat
+Burgdorf
+Langenthal
+Spiez
+Meiringen
+Brienz
+Liestal
+Rheinfelden
+Stans
+Sarnen
+
+# ---------------------------------------------------------------
+# EUROPA DE VEST – Italia
+# ---------------------------------------------------------------
+Milano = Milan
+Napoli = Neapole = Naples
+Torino = Turin
+Palermo
+Genova = Genoa
+Bologna
+Florența = Firenze = Florence
+Bari
+Catania
+Veneția = Venezia = Venice
+Verona
+Messina
+Padova = Padua
+Trieste
+Brescia
+Taranto
+Parma
+Prato
+Modena
+Reggio Calabria
+Reggio Emilia
+Perugia
+Livorno
+Ravenna
+Cagliari
+Foggia
+Rimini
+Salerno
+Ferrara
+Sassari
+Siracusa = Syracuse
+Pescara
+Bergamo
+Trento = Trent
+Vicenza
+Bolzano = Bozen
+Novara
+Piacenza
+Ancona
+Udine
+Lecce
+Pisa
+Siena
+Lucca
+Como
+Mantova = Mantua
+Cremona
+Assisi
+Pompei
+Sorrento
+Amalfi
+Capri
+Sanremo
+Monza
+Varese
+Pavia
+Arezzo
+Terni
+Latina
+Aosta
+La Spezia
+Lecco
+Treviso
+Caserta
+Forlì
+Cesena
+Pesaro
+Urbino
+Ascoli Piceno
+Macerata
+Fermo
+Teramo
+Chieti
+L'Aquila
+Campobasso
+Isernia
+Benevento
+Avellino
+Potenza
+Matera
+Brindisi
+Andria
+Barletta
+Trani
+Cosenza
+Catanzaro
+Crotone
+Vibo Valentia
+Agrigento
+Trapani
+Marsala
+Ragusa
+Caltanissetta
+Enna
+Taormina
+Cefalù
+Erice
+Noto
+Modica
+Gela
+Olbia
+Oristano
+Nuoro
+Alghero
+Iglesias
+Carbonia
+Porto Torres
+Bosa
+Portofino
+Rapallo
+Savona
+Imperia
+Ventimiglia
+Bordighera
+Alassio
+Albenga
+Finale Ligure
+Santa Margherita Ligure
+Camogli
+Chiavari
+Sestri Levante
+Lerici
+Portovenere
+Cuneo
+Asti
+Alessandria
+Vercelli
+Biella
+Verbania
+Ivrea
+Alba
+Acqui Terme
+Stresa
+Lodi
+Sondrio
+Crema
+Vigevano
+Legnano
+Busto Arsizio
+Gallarate
+Sesto San Giovanni
+Desenzano del Garda = Desenzano
+Sirmione
+Riva del Garda
+Rovereto
+Merano = Meran
+Bressanone = Brixen
+Brunico = Bruneck
+Cortina d'Ampezzo = Cortina
+Belluno
+Feltre
+Bassano del Grappa
+Conegliano
+Chioggia
+Jesolo
+Rovigo
+Pordenone
+Gorizia
+Monfalcone
+Grado
+Aquileia
+Cividale del Friuli
+Imola
+Faenza
+Carpi
+Sassuolo
+Fidenza
+Cervia
+Cesenatico
+Riccione
+Cattolica
+Fano
+Senigallia
+Jesi
+Loreto
+Recanati
+Civitanova Marche
+San Benedetto del Tronto
+Fabriano
+Gubbio
+Spoleto
+Orvieto
+Foligno
+Todi
+Narni
+Città di Castello
+Norcia
+Cascia
+Viterbo
+Rieti
+Frosinone
+Cassino
+Anzio
+Nettuno
+Gaeta
+Formia
+Terracina
+Civitavecchia
+Tivoli
+Tarquinia
+Fiumicino
+Frascati
+Castel Gandolfo
+Subiaco
+Sulmona
+Avezzano
+Lanciano
+Vasto
+Ortona
+Giulianova
+Termoli
+Lucera
+Manfredonia
+Vieste
+Cerignola
+Molfetta
+Bisceglie
+Bitonto
+Altamura
+Martina Franca
+Alberobello
+Ostuni
+Monopoli
+Polignano a Mare
+Gallipoli
+Otranto
+Melfi
+Maratea
+Positano
+Ravello
+Cava de' Tirreni
+Castellammare di Stabia
+Torre del Greco
+Ercolano = Herculaneum
+Pozzuoli
+Ischia
+Procida
+Capua
+Aversa
+Battipaglia
+Eboli
+Agropoli
+Tropea
+Lamezia Terme
+Scilla
+Gioia Tauro
+Milazzo
+Monreale
+Bagheria
+Mazara del Vallo
+Sciacca
+Licata
+Vittoria
+Augusta
+Acireale
+Bronte
+Piazza Armerina
+Caltagirone
+Alcamo
+Pistoia
+Grosseto
+Massa
+Carrara
+Viareggio
+Forte dei Marmi
+Empoli
+Fiesole
+Montecatini Terme
+San Gimignano
+Volterra
+Cortona
+Montepulciano
+Montalcino
+Pienza
+Piombino
+Portoferraio
+Sansepolcro
+
+# ---------------------------------------------------------------
+# EUROPA DE VEST – Spania
+# ---------------------------------------------------------------
+Barcelona
+Valencia
+Sevilla = Seville
+Zaragoza = Saragosa
+Málaga
+Murcia
+Palma de Mallorca = Palma
+Las Palmas = Las Palmas de Gran Canaria
+Bilbao
+Alicante = Alacant
+Córdoba
+Valladolid
+Vigo
+Gijón
+Granada
+A Coruña = La Coruña
+Vitoria = Vitoria-Gasteiz
+Elche = Elx
+Oviedo
+Santa Cruz de Tenerife
+Badalona
+Cartagena
+Terrassa
+Jerez de la Frontera = Jerez
+Sabadell
+Pamplona = Iruña
+Almería
+San Sebastián = Donostia
+Burgos
+Santander
+Castellón = Castellón de la Plana = Castelló
+Albacete
+Salamanca
+Toledo
+Cádiz
+Marbella
+Benidorm
+Ibiza = Eivissa
+Segovia
+Ávila
+Cuenca
+León
+Logroño
+Huelva
+Badajoz
+Tarragona
+Lleida = Lérida
+Girona = Gerona
+Mérida
+Cáceres
+Ronda
+Santiago de Compostela
+Lugo
+Ourense = Orense
+Ceuta
+Melilla
+Getafe
+Alcalá de Henares
+Móstoles
+Fuenlabrada
+Leganés
+Alcorcón
+Aranjuez
+El Escorial = San Lorenzo de El Escorial
+Guadalajara
+Talavera de la Reina
+Ciudad Real
+Soria
+Palencia
+Zamora
+Ponferrada
+Astorga
+Reus
+Mataró
+Sitges
+Figueres
+Lloret de Mar
+Tossa de Mar
+Blanes
+Cadaqués
+Roses
+Manresa
+Vic
+Igualada
+Tortosa
+Salou
+Cambrils
+Castelldefels
+Hospitalet = L'Hospitalet de Llobregat
+Granollers
+Gandia
+Xàtiva = Játiva
+Alcoy = Alcoi
+Elda
+Orihuela
+Torrevieja
+Dénia
+Calpe
+Altea
+Sagunto
+Lorca
+Úbeda
+Baeza
+Jaén
+Linares
+Antequera
+Torremolinos
+Fuengirola
+Estepona
+Nerja
+Mijas
+Benalmádena
+Motril
+Almuñécar
+Guadix
+Écija
+Carmona
+Osuna
+Utrera
+Dos Hermanas
+Sanlúcar de Barrameda
+El Puerto de Santa María
+Chiclana de la Frontera = Chiclana
+Algeciras
+La Línea de la Concepción = La Línea
+Tarifa
+Rota
+Arcos de la Frontera
+Zafra
+Plasencia
+Trujillo
+Arrecife
+Puerto del Rosario
+San Cristóbal de La Laguna = La Laguna
+Puerto de la Cruz
+Telde
+Santa Cruz de La Palma
+Mahón = Maó
+Ciutadella
+Manacor
+Inca
+Alcúdia
+Pollença
+Sóller
+Avilés
+Llanes
+Cangas de Onís
+Torrelavega
+Castro Urdiales
+Laredo
+Comillas
+Santillana del Mar
+Getxo
+Barakaldo
+Durango
+Bermeo
+Gernika = Guernica
+Eibar
+Irún
+Hondarribia = Fuenterrabía
+Zarautz
+Tudela
+Estella
+Haro
+Calahorra
+Huesca
+Teruel
+Jaca
+Calatayud
+Barbastro
+Alcañiz
+Tarazona
+Ferrol
+Pontevedra
+Ciudad Rodrigo
+Benavente
+Medina del Campo
+Tordesillas
+Aranda de Duero
+Miranda de Ebro
+Sigüenza
+Almagro
+Valdepeñas
+Alcázar de San Juan
+
+# ---------------------------------------------------------------
+# EUROPA DE VEST – Portugalia
+# ---------------------------------------------------------------
+Porto = Oporto
+Braga
+Coimbra
+Faro
+Funchal
+Aveiro
+Évora
+Setúbal
+Sintra
+Cascais
+Guimarães
+Viseu
+Leiria
+Albufeira
+Portimão
+Ponta Delgada
+Vila Nova de Gaia
+Matosinhos
+Amadora
+Almada
+Queluz
+Oeiras
+Estoril
+Óbidos
+Nazaré
+Alcobaça
+Batalha
+Fátima
+Tomar
+Santarém
+Abrantes
+Castelo Branco
+Covilhã
+Guarda
+Bragança
+Vila Real
+Chaves
+Viana do Castelo
+Barcelos
+Póvoa de Varzim
+Vila do Conde
+Espinho
+Ovar
+Ílhavo
+Figueira da Foz
+Caldas da Rainha
+Peniche
+Torres Vedras
+Mafra
+Ericeira
+Elvas
+Portalegre
+Estremoz
+Beja
+Mértola
+Sines
+Tavira
+Olhão
+Loulé
+Silves
+Sagres
+Angra do Heroísmo
+Horta
+Machico
+Câmara de Lobos
+Vila Franca de Xira
+Sesimbra
+Palmela
+Barreiro
+Marvão
+Lamego
+Peso da Régua
+Amarante
+Penafiel
+Fafe
+Famalicão = Vila Nova de Famalicão
+Santo Tirso
+Gondomar
+Maia
+Águeda
+Pombal
+Marinha Grande
+Ourém
+Torres Novas
+
+# ---------------------------------------------------------------
+# EUROPA DE VEST – Malta, Andorra, Liechtenstein, San Marino
+# ---------------------------------------------------------------
+Sliema
+Mdina
+Birkirkara
+Mosta
+Marsaxlokk
+Saint Julian's = St Julian's
+Qormi
+Birgu = Vittoriosa
+Floriana
+Naxxar
+Escaldes-Engordany
+Encamp
+La Massana
+Schaan
+Serravalle
+Borgo Maggiore

@@ -1,0 +1,837 @@
+# Munți — lanțuri, masive și podișuri muntoase din lume, în afara României
+# Fără vârfuri și vulcani, care sunt într-un fișier separat.
+
+# ---- Alpii și subdiviziunile lor ----
+Alpi = Alpii = Alps = Alpen
+Alpii Bernezi = Bernese Alps = Berner Alpen
+Alpii Pennini = Pennine Alps = Alpii Valais = Walliser Alpen
+Alpii Retici = Rhaetian Alps = Rätische Alpen
+Alpii Iulieni = Julian Alps = Julijske Alpe
+Alpii Bavarezi = Bavarian Alps = Bayerische Alpen
+Alpii Austrieci = Austrian Alps
+Alpii Francezi = French Alps
+Alpii Elvețieni = Swiss Alps
+Alpii Italieni = Italian Alps
+Alpii Maritimi = Maritime Alps = Alpes Maritimes = Alpi Marittime
+Alpii Cotici = Cottian Alps = Alpes Cottiennes = Alpi Cozie
+Alpii Graici = Graian Alps = Alpes Grées = Alpi Graie
+Alpii Lepontini = Lepontine Alps
+Alpii Glarus = Glarus Alps = Glarner Alpen
+Alpii Ötztal = Ötztal Alps = Ötztaler Alpen
+Alpii Zillertal = Zillertal Alps = Zillertaler Alpen
+Alpii Stubai = Stubai Alps = Stubaier Alpen
+Alpii Allgäu = Allgäu Alps = Allgäuer Alpen
+Alpii Lechtal = Lechtal Alps = Lechtaler Alpen
+Alpii Ligurici = Ligurian Alps = Alpi Liguri
+Alpii Carnici = Carnic Alps = Alpi Carniche = Karnische Alpen
+Alpii Apuani = Apuan Alps = Alpi Apuane
+Alpii Kamnik = Kamnik-Savinja Alps = Kamniško-Savinjske Alpe
+Alpii Dauphiné = Dauphiné Alps
+Alpii Chablais = Chablais Alps
+Alpii Berchtesgaden = Berchtesgaden Alps = Berchtesgadener Alpen
+Alpii Chiemgau = Chiemgau Alps = Chiemgauer Alpen
+Alpii Ammergau = Ammergau Alps = Ammergauer Alpen
+Alpii Ennstal = Ennstal Alps = Ennstaler Alpen
+Alpii Gurktal = Gurktal Alps = Gurktaler Alpen
+Alpii Kitzbühel = Kitzbühel Alps = Kitzbüheler Alpen
+Alpii Gailtal = Gailtal Alps = Gailtaler Alpen
+Eisenerzer Alpen = Eisenerz Alps
+Alpii Dinarici = Dinarici = Dinaric Alps = Dinarides
+Alpii Scandinavi = Munții Scandinaviei = Scandes = Kjølen = Kölen = Scandinavian Mountains
+Alpii Japonezi = Japanese Alps
+Alpii Australieni = Australian Alps
+Alpii Neozeelandezi = Alpii Sudici = Southern Alps
+Alpii Stauning = Stauning Alps
+Alpi Orobie = Bergamasque Alps
+Tauern = Hohe Tauern = High Tauern
+Karawanken = Caravanci = Karavanke
+Dolomiți = Dolomiții = Dolomites = Dolomiten
+Monte Rosa
+Bernina
+Ortler = Ortles
+Adamello
+Brenta = Dolomiții de Brenta = Dolomiti di Brenta
+Gran Paradiso
+Dachstein
+Wetterstein
+Karwendel
+Kaisergebirge = Wilder Kaiser
+Hochschwab
+Totes Gebirge
+Tennengebirge
+Steinernes Meer
+Rax
+Rofan
+Nockberge
+Silvretta
+Rätikon
+Verwall
+Alpstein
+Pohorje
+Vercors
+Chartreuse
+Bauges
+Aravis
+Beaufortain
+Belledonne
+Vanoise
+Dévoluy
+Masivul Écrins = Massif des Écrins
+Mercantour
+Monte Baldo
+Pasubio
+Monti Lessini
+Monte Grappa
+Lyngen = Lyngen Alps = Lyngsalpene
+
+# ---- Pirinei, Peninsula Iberică ----
+Pirinei = Pirineii = Pyrenees = Pirineos
+Picos de Europa
+Maladeta
+Sierra Nevada
+Sierra Morena
+Sierra de Guadarrama = Guadarrama
+Sierra de Gredos = Gredos
+Montserrat
+Cordiliera Cantabrică = Munții Cantabrici = Cordillera Cantábrica = Cantabrian Mountains
+Sistemul Iberic = Sistema Ibérico
+Sierra de Cazorla
+Sierra de Grazalema
+Sierra de Aracena
+Sierra de Gata
+Sierra de Urbión
+Sierra de Albarracín
+Sierra de Baza
+Sierra de Segura
+Sierra de Alcaraz
+Sierra de Francia
+Sierra de Béjar
+Sierra de Guara
+Sierra de la Demanda
+Sierra Espuña
+Moncayo = Sierra del Moncayo
+Montes de Toledo
+Montes de León
+Montes Universales
+Serranía de Cuenca
+Serra de Tramuntana = Sierra de Tramontana
+Serra da Estrela
+Serra do Gerês = Peneda-Gerês
+Serra de Monchique
+Serra da Arrábida
+Serra do Marão
+Serra da Lousã
+
+# ---- Franța ----
+Masivul Central = Massif Central
+Vosgi = Vosges = Vogezi
+Jura
+Ardeni = Ardennes = Ardenii
+Cevenii = Cévennes
+Morvan
+Esterel = Massif de l'Esterel
+Maures = Massif des Maures
+Luberon
+Alpilles
+Sainte-Baume
+Corbières
+Montagne Noire
+Forez = Monts du Forez
+Monts du Lyonnais
+Monts d'Arrée
+Margeride
+Pilat = Mont Pilat
+Masivul Armorican = Massif Armoricain = Armorican Massif
+
+# ---- Germania, Austria, Elveția, Cehia, Polonia, Slovacia, Ungaria ----
+Pădurea Neagră = Schwarzwald = Black Forest
+Harz
+Taunus
+Eifel
+Hunsrück
+Rhön
+Spessart
+Odenwald
+Jura Suabă = Schwäbische Alb = Swabian Jura
+Jura Francona = Fränkische Alb = Franconian Jura = Frankenalb
+Pădurea Turingiei = Thüringer Wald = Thuringian Forest
+Westerwald
+Sauerland
+Pădurea Teutoburgică = Teutoburger Wald = Teutoburg Forest
+Fichtelgebirge = Fichtel Mountains
+Frankenwald = Franconian Forest
+Pădurea Bavareză = Bayerischer Wald = Bavarian Forest
+Oberpfälzer Wald = Upper Palatinate Forest
+Rothaargebirge
+Elbsandsteingebirge = Elbe Sandstone Mountains
+Zittauer Gebirge = Zittau Mountains
+Lausitzer Gebirge = Lužické hory = Lusatian Mountains
+Pfälzerwald = Palatinate Forest
+Solling
+Kyffhäuser
+Eggegebirge
+Siebengebirge
+Pădurea Vieneză = Wienerwald = Vienna Woods
+Bregenzerwald = Bregenz Forest
+Pădurea Boemiei = Šumava = Bohemian Forest = Böhmerwald
+Sudeți = Sudeții = Sudetes = Sudety
+Munții Giganți = Krkonoše = Karkonosze = Riesengebirge = Giant Mountains
+Jeseníky = Hrubý Jeseník
+Munții Jizera = Jizerské hory = Góry Izerskie = Isergebirge = Jizera Mountains
+Orlické hory = Eagle Mountains = Góry Orlickie
+Góry Stołowe = Munții de Masă = Table Mountains
+Góry Sowie = Owl Mountains
+Munții Sfintei Cruci = Góry Świętokrzyskie = Holy Cross Mountains
+Brdy
+Železné hory = Iron Mountains
+Beskizi = Beskids = Beskydy = Beskidy
+Bieszczady
+Gorce
+Pieniny
+Babia Góra
+Tatra = Tatry
+Tatra Înaltă = High Tatras = Vysoké Tatry
+Tatra Joasă = Low Tatras = Nízke Tatry
+Carpații Albi = Biele Karpaty = Bílé Karpaty = White Carpathians
+Javorníky
+Fatra Mică = Malá Fatra
+Fatra Mare = Veľká Fatra
+Munții Metaliferi Slovaci = Slovenské rudohorie = Slovak Ore Mountains
+Vihorlat
+Bükk
+Mátra
+Mecsek
+Bakony
+Zemplén
+Pilis
+Vértes
+Börzsöny
+Cserhát
+Gerecse
+
+# ---- Ucraina, Rusia, Caucaz ----
+Carpații Ucraineni = Carpații Păduroși = Ukrainian Carpathians
+Cernahora = Chornohora = Ciornohora
+Gorgani = Gorgany
+Svidoveț = Svydovets
+Munții Crimeii = Crimean Mountains
+Ural = Uralii = Urals = Ural Mountains
+Uralul de Sud = Southern Urals
+Uralul Mijlociu = Central Urals
+Uralul de Nord = Northern Urals
+Uralul Polar = Polar Urals
+Munții Ilmen = Ilmen Mountains
+Munții Hibini = Khibiny
+Timan = Timan Ridge
+Putorana
+Byrranga
+Altai = Altaiul = Altay = Altai Mountains
+Altaiul Mongol = Mongolian Altai
+Altaiul Gobi = Gobi Altai
+Saian = Sayan = Saianii
+Saianul de Est = Eastern Sayan
+Saianul de Vest = Western Sayan
+Tannu-Ola
+Hamar-Daban = Khamar-Daban
+Barguzin
+Stanovoi = Stanovoy
+Iablonovîi = Yablonovy = Yablonoi
+Munții Verhoiansk = Verkhoyansk
+Cerski = Chersky
+Kolîma = Kolyma
+Koriak = Koryak
+Djugdjur = Dzhugdzhur
+Bureia = Bureya
+Sihote-Alin = Sikhote-Alin
+Caucaz = Caucazul = Caucasus = Kavkaz
+Caucazul Mare = Greater Caucasus
+Caucazul Mic = Lesser Caucasus
+Likhi = Surami
+Meskheti
+Trialeti
+Javakheti
+Zangezur
+Talysh = Talîș
+
+# ---- Balcani și Grecia ----
+Balcani = Stara Planina = Balkan Mountains = Haemus
+Rodopi = Rhodopes = Rodopite = Rhodope
+Rila
+Pirin
+Vitoșa = Vitosha
+Sredna Gora
+Strandja = Strandzha = Istranca = Yıldız
+Sakar
+Osogovo
+Belasița = Belasitsa = Belles = Kerkini
+Ograjden = Ograzhden
+Slavianka = Orvilos
+Vlahina
+Liulin = Lyulin
+Șar Planina = Sharr = Munții Șar
+Korab
+Jakupica
+Galičica
+Bistra
+Kopaonik
+Zlatibor
+Tara
+Rtanj
+Fruška Gora
+Golija
+Suva Planina
+Jastrebac
+Rudnik
+Munții Homolje = Homoljske planine
+Durmitor
+Bjelasica
+Komovi
+Sinjajevina
+Lovćen
+Orjen
+Rumija
+Prokletije = Alpii Albanezi = Munții Blestemați = Accursed Mountains = Bjeshkët e Nemuna
+Tomorr
+Zelengora
+Jahorina
+Bjelašnica
+Treskavica
+Vlašić
+Romanija
+Prenj
+Čvrsnica
+Kozara
+Dinara
+Velebit
+Biokovo
+Mosor
+Učka
+Medvednica
+Ivanščica
+Papuk
+Pind = Munții Pindului = Pindus = Pindos
+Olimp = Olimpul = Olympus = Olympos
+Parnas = Parnassus = Parnassos
+Pelion = Pilio
+Taygetos = Taigetul = Taygetus
+Erimant = Erymanthos
+Oeta = Oiti
+Ossa
+Othrys = Othris
+Helmos = Chelmos = Aroania
+Kyllini = Cyllene = Ziria
+Vermio
+Voras = Kaimaktsalan = Nidže
+Grammos
+Tymfi
+Giona
+Vardousia
+Parnitha
+Hymettus = Ymittos
+Penteli
+Mainalo
+Panachaiko
+Parnon
+Dirfys
+Agrafa
+Tzoumerka = Athamanika
+Pangaion
+Falakro
+Lefka Ori = White Mountains of Crete
+Dikti
+Troodos
+Kyrenia = Pentadaktylos
+
+# ---- Marea Britanie, Irlanda, Scandinavia ----
+Grampiani = Grampians = Grampian Mountains
+Peninii = Pennines
+Highlands = Scottish Highlands
+Cairngorms = Munții Cairngorm
+Southern Uplands
+Cheviots = Cheviot Hills
+Cuillin
+Snowdonia = Eryri
+Brecon Beacons = Bannau Brycheiniog
+Malvern Hills
+Munții Mourne = Mourne Mountains
+Munții Wicklow = Wicklow Mountains
+Sperrins = Sperrin Mountains
+Galtee = Galtee Mountains
+Comeragh = Comeragh Mountains
+Twelve Bens
+Dovrefjell = Dovre
+Jotunheimen
+Rondane
+Hardangervidda
+Trollheimen
+Sylan = Sylarna
+Sarek
+
+# ---- Italia ----
+Apenini = Apeninii = Apennines = Appennini
+Gran Sasso
+Majella = Maiella
+Munții Sibillini = Monti Sibillini
+Monti della Laga
+Munții Ernici = Monti Ernici
+Monti Simbruini
+Matese
+Monti Picentini
+Aspromonte
+Sila
+Pollino
+Madonie
+Nebrodi
+Peloritani
+Munții Iblei = Monti Iblei
+Gennargentu
+Supramonte
+
+# ---- Turcia, Orientul Apropiat, Arabia ----
+Taurus = Toros = Toros Dağları
+Anti-Taurus = Antitoros
+Aladağlar
+Bolkar
+Munzur
+Munții Pontici = Pontic Mountains = Kuzey Anadolu Dağları
+Kaçkar
+Uludağ
+Köroğlu
+Ilgaz
+Amanus = Nur Dağları
+Hakkâri = Cilo-Sat
+Munții Libanului = Liban = Mount Lebanon
+Anti-Liban = Anti-Lebanon
+Munții Iudeii = Judean Mountains
+Munții Samariei = Samarian Hills
+Carmel
+Munții Sinai = Sinai Mountains
+Hejaz = Hijaz
+Asir
+Sarawat
+Tuwaiq
+Haraz
+Dhofar
+Hajar = Al-Hajar
+Jebel Akhdar = Jabal Akhdar
+
+# ---- Iran, Asia Centrală, Afganistan, Pakistan ----
+Elburz = Alborz
+Zagros
+Kuhrud
+Kopet Dag
+Makran
+Sulaiman = Suleiman
+Kirthar
+Salt Range
+Toba Kakar
+Safed Koh = Spin Ghar
+Koh-i-Baba
+Paropamisus
+Hindukuș = Hindu Kush
+Hindu Raj
+Pamir = Pamirul
+Alai = Alay
+Trans-Alai
+Zeravshan = Zarafshan
+Munții Turkestan = Turkestan Range
+Gissar = Hisar = Hissar
+Fann
+Darvaz
+Karatau
+Chatkal
+Fergana
+Tarbagatai = Tarbagatay
+Nuratau
+Ulytau
+Tian Shan = Tien Shan = Tian-Șan
+Bogda Shan
+Kunlun = Kuenlun
+Altun = Altyn-Tagh
+Karakorum = Karakoram
+
+# ---- Himalaya, India, Asia de Sud ----
+Himalaya = Himalaia = Himalayas
+Transhimalaya
+Gangdise = Kailash Range
+Nyenchen Tanglha
+Tanggula
+Zanskar
+Ladakh Range
+Pir Panjal
+Dhauladhar
+Shivalik = Siwalik
+Mahabharat = Mahabharat Range
+Gații de Vest = Ghații de Vest = Western Ghats = Sahyadri
+Gații de Est = Ghații de Est = Eastern Ghats
+Vindhya
+Satpura
+Aravalli = Aravali
+Nilgiri
+Anaimalai
+Cardamom Hills
+Palani Hills
+Nallamala
+Javadi Hills
+Khasi
+Garo
+Jaintia
+Naga
+Patkai
+Mishmi
+Mizo = Lushai Hills
+Knuckles
+
+# ---- China, Mongolia, Coreea, Japonia ----
+Qinling
+Nanling
+Hengduan
+Taihang
+Wuyi
+Marele Hingan = Hinganul Mare = Greater Khingan = Da Hinggan
+Micul Hingan = Hinganul Mic = Lesser Khingan = Xiao Hinggan
+Qilian = Nan Shan
+Bayan Har
+Daba
+Helan Shan
+Yin Shan
+Changbai
+Lüliang
+Wuling
+Xuefeng
+Min Shan
+Liupan
+Ailao
+Alishan
+Xueshan
+Hangai = Khangai
+Hentei = Khentii
+Taebaek
+Sobaek
+Hamgyong
+Nangnim
+Myohyang
+Kumgang = Geumgang
+Hida = Alpii Japonezi de Nord = Northern Japanese Alps
+Kiso = Alpii Japonezi Centrali = Central Japanese Alps
+Akaishi = Southern Japanese Alps
+Ōu
+Kitakami
+Abukuma
+Echigo
+Chūgoku
+Kii
+Munții Shikoku = Shikoku Mountains
+Munții Kyushu = Kyushu Mountains
+Hidaka
+Ishikari
+Iide
+
+# ---- Asia de Sud-Est ----
+Arakan = Arakan Yoma = Rakhine Yoma
+Pegu Yoma = Bago Yoma
+Munții Shan = Shan Hills
+Tenasserim = Tanintharyi
+Dawna
+Chin Hills
+Thanon Thong Chai
+Phetchabun
+Daen Lao
+Dângrêk
+Munții Cardamom = Cardamom Mountains = Krâvanh
+Annamiți = Cordiliera Anamită = Annamite Range = Trường Sơn
+Hoàng Liên Sơn
+Titiwangsa
+Bintang
+Crocker
+Munții Iran = Iran Mountains
+Schwaner
+Müller
+Meratus
+Barisan = Bukit Barisan
+Verbeek
+Sierra Madre
+Zambales
+Caraballo
+Maoke = Pegunungan Maoke = Snow Mountains
+Sudirman
+Jayawijaya
+Munții Star = Star Mountains
+Owen Stanley
+Bismarck
+Finisterre
+Saruwaged
+Torricelli
+
+# ---- Africa ----
+Atlas
+Atlasul Înalt = High Atlas = Haut Atlas
+Atlasul Mijlociu = Middle Atlas = Moyen Atlas
+Anti-Atlas
+Atlasul Saharian = Saharan Atlas
+Atlasul Telian = Tell Atlas
+Rif
+Saghro = Jebel Saghro
+Aurès
+Djurdjura
+Ouarsenis
+Babor
+Edough
+Hodna
+Jebel Nafusa
+Hoggar = Ahaggar
+Tassili n'Ajjer
+Tibesti
+Ennedi
+Aïr
+Adrar des Ifoghas = Ifoghas
+Hombori
+Fouta Djallon = Futa Jallon
+Loma
+Nimba
+Simandou
+Atakora
+Adamawa = Adamaoua
+Mandara
+Jebel Marra = Marra
+Munții Nuba
+Munții Etiopiei = Ethiopian Highlands = Podișul Etiopian
+Simien = Munții Semien
+Bale
+Imatong
+Ruwenzori = Rwenzori = Munții Lunii = Mountains of the Moon
+Virunga
+Mitumba
+Itombwe
+Kundelungu
+Aberdare = Nyandarua
+Mau
+Cherangani = Cherangany Hills
+Taita Hills
+Usambara
+Pare = Pare Mountains
+Uluguru
+Udzungwa
+Mahale
+Livingstone = Livingstone Mountains
+Kipengere
+Muchinga
+Mulanje
+Zomba
+Chimanimani
+Nyanga = Inyanga
+Matobo = Matopos
+Drakensberg
+Maluti
+Magaliesberg
+Soutpansberg
+Waterberg
+Lebombo
+Swartberg
+Cederberg
+Langeberg
+Outeniqua
+Tsitsikamma
+Amatola
+Hottentots-Holland
+Hex River Mountains
+Naukluft
+Erongo
+Serra da Chela
+Tsaratanana
+Andringitra
+
+# ---- Australia, Noua Zeelandă, Noua Guinee ----
+Marele Lanț Despărțitor = Great Dividing Range = Cordiliera Australiană
+Munții Albaștri = Blue Mountains
+Snowy Mountains = Munții Snowy
+Flinders = Flinders Ranges
+MacDonnell = MacDonnell Ranges
+Musgrave = Musgrave Ranges
+Petermann = Petermann Ranges
+Stirling = Stirling Range
+Hamersley = Hamersley Range
+Darling Range
+Mount Lofty Ranges
+Gariwerd
+Kaikoura = Kaikōura Ranges
+Tararua
+Ruahine
+Kaimai
+Remutaka = Rimutaka
+Richmond Range
+Raukumara
+Kaweka
+Eyre Mountains
+
+# ---- America de Nord ----
+Munții Stâncoși = Rocky Mountains = Rockies
+Apalași = Apalașii = Appalachians = Appalachian Mountains = Appalaches
+Cascadele = Munții Cascadelor = Cascade Range = Cascades
+Coast Ranges = Pacific Coast Ranges
+Coast Mountains
+Munții Alaska = Alaska Range = Lanțul Alaska
+Munții Brooks = Brooks Range
+Munții Saint Elias = Saint Elias Mountains
+Chugach
+Wrangell
+Aleutian Range
+Kenai
+Talkeetna
+Kuskokwim
+Cariboo
+Monashee
+Purcell
+Munții Selkirk = Selkirks
+Columbia Mountains
+Omineca
+Skeena
+Cassiar
+Munții Mackenzie = Mackenzie Mountains
+Selwyn
+Pelly
+Ogilvie
+Richardson Mountains
+Cordiliera Arctică = Arctic Cordillera
+Baffin Mountains
+Insular Mountains
+Torngat
+Laurențieni = Laurentians = Laurentides
+Munții Albi = White Mountains
+Munții Verzi = Green Mountains
+Blue Ridge
+Great Smoky Mountains = Munții Fumurii = Smokies
+Allegheny = Alleghany = Alleghenies
+Catskills = Catskill Mountains
+Poconos = Pocono Mountains
+Adirondack = Adirondacks
+Berkshires = Berkshire Hills
+Taconic
+Unaka
+Cumberland Mountains
+Ozark = Ozarks
+Ouachita
+Wichita Mountains
+Black Hills = Dealurile Negre
+Bighorn
+Wind River = Wind River Range
+Teton = Teton Range
+Absaroka
+Beartooth
+Bitterroot
+Sawtooth
+Lewis Range
+Cabinet Mountains
+Wasatch
+Uinta
+Oquirrh
+La Sal
+Henry Mountains
+Front Range
+Sangre de Cristo
+San Juan
+Elk Mountains
+Sawatch
+Medicine Bow
+Laramie Mountains
+Munții Olimpici = Olympic Mountains
+Klamath
+Siskiyou
+Trinity Alps
+Wallowa
+Transverse Ranges
+Peninsular Ranges
+San Gabriel
+San Bernardino
+Santa Monica Mountains
+Santa Cruz Mountains
+Santa Lucia Range
+Diablo Range
+Tehachapi
+Panamint
+Inyo
+Ruby Mountains
+Toiyabe
+Spring Mountains
+Sandia
+Jemez
+Organ Mountains
+Zuni
+Sacramento Mountains
+Guadalupe Mountains
+Davis Mountains
+Chisos
+Franklin Mountains
+Chiricahua
+Santa Catalina
+Huachuca
+Sierra Madre Occidentală = Sierra Madre Occidental
+Sierra Madre Orientală = Sierra Madre Oriental
+Sierra Madre del Sur
+Sierra Madre de Chiapas
+Sierra de Juárez
+Sierra Gorda
+Sierra de San Pedro Mártir
+Sierra de la Laguna
+Cuchumatanes
+Sierra de las Minas
+Maya Mountains
+Cordillera Isabelia
+Cordiliera Talamanca = Cordillera de Talamanca
+Sierra Maestra
+Escambray
+Cordillera Septentrional
+
+# ---- America de Sud ----
+Anzi = Anzii = Andes = Cordiliera Anzilor = Cordillera de los Andes
+Cordiliera Occidentală = Cordillera Occidental
+Cordiliera Orientală = Cordillera Oriental
+Cordiliera Centrală = Cordillera Central
+Cordiliera Blanca = Cordillera Blanca
+Cordillera Negra
+Cordiliera Real = Cordillera Real
+Cordillera Huayhuash = Huayhuash
+Cordillera Vilcabamba = Vilcabamba
+Cordillera Vilcanota = Vilcanota
+Cordillera Urubamba
+Cordillera Apolobamba = Apolobamba
+Cordillera del Cóndor
+Cordillera de Mérida = Cordiliera Mérida
+Sierra Nevada de Santa Marta
+Sierra Nevada del Cocuy
+Serranía del Perijá = Perijá
+Serranía de la Macarena = Macarena
+Cordillera de la Costa
+Cordillera Domeyko
+Cordillera Darwin
+Torres del Paine = Cordillera del Paine
+Sierras de Córdoba = Sierra de Córdoba
+Sierra de la Ventana
+Sierra de Tandil = Tandilia
+Sierra de Aconquija = Aconquija
+Sierra de Famatina = Famatina
+Sierra de Ambato
+Munții Guyanei = Guiana Highlands = Podișul Guyanelor
+Pakaraima
+Serra do Mar
+Serra da Mantiqueira = Mantiqueira
+Serra do Espinhaço = Espinhaço
+Serra Geral
+Serra dos Órgãos
+Serra da Canastra
+Serra do Caparaó = Caparaó
+Serra da Bocaina
+Serra dos Carajás
+Serra do Roncador
+Itatiaia
+
+# ---- Antarctica, Groenlanda ----
+Munții Transantarctici = Transantarctic Mountains
+Munții Ellsworth = Ellsworth Mountains
+Munții Reginei Maud = Queen Maud Mountains
+Prince Charles Mountains
+Munții Pensacola = Pensacola Mountains
+Sentinel Range
+Shackleton Range
+Munții Gamburțev = Gamburtsev Mountains
+Munții Watkins = Watkins Range

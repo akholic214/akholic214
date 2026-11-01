@@ -1,0 +1,600 @@
+# Animale — dinozauri și alte animale preistorice sau dispărute
+# Format: Canonic = variantă1 = variantă2 (nume comune, cu litere mici)
+
+# ---- Termeni generali ----
+dinozaur = dinosaur
+sauropod
+teropod
+ornitopod
+pterozaur = pterosaur
+
+# ---- Dinozauri teropode ----
+tiranozaur = tyrannosaurus = t-rex = tiranozaurul rex = tyrannosaurus rex
+tarbosaurus
+albertosaurus
+gorgosaurus
+daspletosaurus
+nanotyrannus
+alioramus
+dilong
+guanlong
+proceratosaurus
+eotyrannus
+appalachiosaurus
+lythronax
+teratophoneus
+zhuchengtyrannus
+dryptosaurus
+yutyrannus
+velociraptor
+deinonychus
+dromaeosaurus
+utahraptor
+microraptor
+sinornithosaurus
+changyuraptor
+zhenyuanlong
+bambiraptor
+saurornitholestes
+austroraptor
+achillobator
+dakotaraptor
+unenlagia
+buitreraptor
+rahonavis
+balaur bondoc
+troodon
+saurornithoides
+anchiornis
+epidexipteryx
+oviraptor
+citipati
+gigantoraptor
+caudipteryx
+incisivosaurus
+protarchaeopteryx
+avimimus
+therizinosaurus
+beipiaosaurus
+falcarius
+nothronychus
+erlikosaurus
+segnosaurus
+alxasaurus
+gallimimus
+ornithomimus
+struthiomimus
+deinocheirus
+garudimimus
+harpymimus
+sinornithomimus
+pelecanimimus
+mononykus
+shuvuuia
+alvarezsaurus
+compsognathus
+sinosauropteryx
+scipionyx
+juravenator
+coelurus
+ornitholestes
+alozaur = allosaurus
+saurophaganax
+acrocanthosaurus
+carcharodontosaurus
+giganotozaur = giganotosaurus
+mapusaurus
+tyrannotitan
+neovenator
+concavenator
+megaraptor
+australovenator
+aerosteon
+fukuiraptor
+spinozaur = spinosaurus
+baryonyx
+suchomimus
+irritator
+megalozaur = megalosaurus
+torvosaurus
+monolophosaurus
+sinraptor
+yangchuanosaurus
+ceratozaur = ceratosaurus
+carnotaur = carnotaurus
+abelisaurus
+majungasaurus
+aucasaurus
+rugops
+rajasaurus
+masiakasaurus
+elaphrosaurus
+limusaurus
+dilofozaur = dilophosaurus
+cryolophosaurus
+coelophysis
+procompsognathus
+liliensternus
+herrerasaurus
+eoraptor
+staurikosaurus
+elopteryx
+bradycneme
+
+# ---- Dinozauri sauropodomorfe ----
+plateozaur = plateosaurus
+massospondylus
+lufengosaurus
+anchisaurus
+thecodontosaurus
+melanorosaurus
+riojasaurus
+vulcanodon
+barapasaurus
+cetiosaurus
+patagosaurus
+shunosaurus
+omeisaurus
+mamenchisaurus
+jobaria
+haplocanthosaurus
+camarasaurus
+brahiozaur = brachiosaurus
+giraffatitan
+europasaurus
+sauroposeidon
+euhelopus
+diplodoc = diplodocus
+apatozaur = apatosaurus
+brontozaur = brontosaurus
+barosaurus
+supersaurus
+dicraeosaurus
+amargasaurus
+nigersaurus
+titanozaur = titanosaurus
+argentinosaurus
+dreadnoughtus
+patagotitan
+puertasaurus
+futalognkosaurus
+saltasaurus
+alamosaurus
+rapetosaurus
+paralititan
+nemegtosaurus
+opisthocoelicaudia
+isisaurus
+ampelosaurus
+magyarosaurus
+paludititan
+
+# ---- Dinozauri ornitischieni ----
+iguanodon
+mantellisaurus
+altirhinus
+lurdusaurus
+ouranosaurus
+muttaburrasaurus
+camptosaurus
+tenontosaurus
+dryosaurus
+hypsilophodon
+thescelosaurus
+orodromeus
+parksosaurus
+leaellynasaura
+zalmoxes
+rhabdodon
+transylvanosaurus
+heterodontosaurus
+lesothosaurus
+agilisaurus
+hadrozaur = hadrosaurus
+telmatosaurus
+edmontosaurus
+maiasaura
+brachylophosaurus
+saurolophus
+prosaurolophus
+gryposaurus
+kritosaurus
+shantungosaurus
+bactrosaurus
+parasaurolophus
+corythosaurus
+lambeosaurus
+hypacrosaurus
+tsintaosaurus
+olorotitan
+charonosaurus
+pachycephalosaurus = pahicefalozaur
+stegoceras
+dracorex
+stygimoloch
+homalocephale
+prenocephale
+psittacosaurus
+yinlong
+archaeoceratops
+protoceratops
+bagaceratops
+leptoceratops
+udanoceratops
+zuniceratops
+triceratops
+torosaurus
+stiracozaur = styracosaurus
+centrosaurus
+einiosaurus
+achelousaurus
+pachyrhinosaurus
+chasmosaurus
+pentaceratops
+anchiceratops
+arrhinoceratops
+avaceratops
+monoclonius
+nasutoceratops
+diabloceratops
+kosmoceratops
+utahceratops
+regaliceratops
+medusaceratops
+stegozaur = stegosaurus
+kentrosaurus
+huayangosaurus
+tuojiangosaurus
+miragaia
+dacentrurus
+wuerhosaurus
+gigantspinosaurus
+scelidosaurus
+scutellosaurus
+anchilozaur = ankylosaurus
+euoplocephalus
+pinacosaurus
+saichania
+tarchia
+talarurus
+minmi
+scolosaurus
+zuul
+nodosaurus
+hylaeosaurus
+polacanthus
+gastonia
+sauropelta
+edmontonia
+panoplosaurus
+borealopelta
+struthiosaurus
+antarctopelta
+gargoyleosaurus
+
+# ---- Pterozauri ----
+pterodactil = pterodactylus = pterodactyl
+pteranodon
+quetzalcoatlus
+hatzegopteryx
+eurazhdarcho
+arambourgiania
+azhdarcho
+rhamphorhynchus
+dimorphodon
+eudimorphodon
+tapejara
+tupandactylus
+thalassodromeus
+anhanguera
+ornithocheirus
+tropeognathus
+istiodactylus
+dsungaripterus
+nyctosaurus
+pterodaustro
+ctenochasma
+germanodactylus
+darwinopterus
+sordes
+
+# ---- Reptile marine ----
+ihtiozaur = ichthyosaurus
+shonisaurus
+shastasaurus
+cymbospondylus
+mixosaurus
+temnodontosaurus
+stenopterygius
+ophthalmosaurus
+pleziozaur = plesiosaurus
+elasmozaur = elasmosaurus
+styxosaurus
+cryptoclidus
+pliozaur = pliosaurus = pliosaur
+liopleurodon
+kronosaurus
+mozazaur = mosasaurus
+tylosaurus
+platecarpus
+prognathodon
+globidens
+clidastes
+nothosaurus
+placodus
+tanystropheus
+archelon
+protostega
+metriorhynchus
+dakosaurus
+
+# ---- Crocodili, arhozauri și alte reptile preistorice ----
+sarcosuchus
+deinosuchus
+purussaurus
+kaprosuchus
+simosuchus
+allodaposuchus
+postosuchus
+desmatosuchus
+stagonolepis
+ornithosuchus
+euparkeria
+proterosuchus
+erythrosuchus
+marasuchus
+silesaurus
+longisquama
+mesosaurus
+pareiasaurus
+scutosaurus
+bradysaurus
+procolophon
+captorhinus
+hylonomus
+petrolacosaurus
+youngina
+champsosaurus
+hyperodapedon
+kallokibotion
+
+# ---- Sinapside și mamifere timpurii ----
+dimetrodon
+edaphosaurus
+moschops
+estemmenosuchus
+titanophoneus
+anteosaurus
+jonkeria
+gorgonops
+inostrancevia
+lystrosaurus
+dicynodon
+kannemeyeria
+diictodon
+cynognathus
+thrinaxodon
+procynosuchus
+massetognathus
+exaeretodon
+morganucodon
+megazostrodon
+repenomamus
+castorocauda
+volaticotherium
+juramaia
+eomaia
+sinodelphys
+zalambdalestes
+didelphodon
+kogaionon
+barbatodon
+purgatorius
+plesiadapis
+
+# ---- Mamifere cenozoice ----
+mamut = mamut lânos = mammuthus
+palaeoloxodon
+stegodon
+mastodont = mastodon
+amebelodon
+platybelodon
+gomphotherium
+anancus
+cuvieronius
+stegomastodon
+phiomia
+palaeomastodon
+moeritherium
+deinotherium
+arsinoitherium
+rinocer lânos = coelodonta
+elasmotherium
+stephanorhinus
+teleoceras
+hyracodon
+indricotherium = paraceratherium
+brontotherium = megacerops
+embolotherium
+chalicotherium
+moropus
+ancylotherium
+uintatherium
+coryphodon
+phenacodus
+palaeotherium
+propalaeotherium
+eohippus = hyracotherium
+mesohippus
+hipparion
+entelodont = entelodon
+daeodon = dinohyus
+archaeotherium
+andrewsarchus
+mesonyx
+hyaenodon
+leptictidium
+tigru cu dinți-sabie = smilodon = tigru cu colți-sabie
+homotherium
+machairodus
+megantereon
+dinofelis
+xenosmilus
+barbourofelis
+thylacosmilus
+leu de peșteră = panthera spelaea
+hienă de peșteră = crocuta spelaea
+pachycrocuta
+dinocrocuta
+lup teribil = lup cumplit = canis dirus = aenocyon dirus = dire wolf
+epicyon
+borophagus
+hesperocyon
+amphicyon
+miacis
+urs de peșteră = ursus spelaeus
+urs cu față scurtă = arctodus
+agriotherium
+megaloceros = cerb uriaș = elan irlandez = cerb gigant
+cervalces
+bizon de stepă = bison priscus
+pelorovis
+samotherium
+camelops
+aepycamelus
+poebrotherium
+synthetoceras
+merycoidodon
+tarpan
+quagga
+megaterium = megatherium = leneș uriaș = leneș gigant
+eremotherium
+mylodon
+thalassocnus
+gliptodon = glyptodon
+doedicurus
+panochthus
+toxodon
+macrauchenia
+astrapotherium
+pyrotherium
+thoatherium
+castor uriaș = castoroides
+palaeocastor
+josephoartigasia
+phoberomys
+diprotodon
+procoptodon
+leu marsupial = thylacoleo
+tigru tasmanian = tilacin = lup tasmanian = thylacine = thylacinus
+gigantopithecus
+proconsul
+dryopithecus
+desmostylus
+paleoparadoxia
+vaca de mare a lui Steller = vaca lui Steller = hydrodamalis
+pakicetus
+ambulocetus
+rodhocetus
+dorudon
+basilosaurus
+zygorhiza
+squalodon
+livyatan
+cetotherium
+odobenocetops
+
+# ---- Păsări dispărute ----
+arheopterix = archaeopteryx
+confuciusornis
+jeholornis
+ichthyornis
+hesperornis
+gastornis = diatryma
+pasărea terorii = phorusrhacos
+titanis
+kelenken
+brontornis
+argentavis
+teratornis
+pelagornis
+presbyornis
+waimanu
+anthropornis
+palaeeudyptes
+dromornis
+genyornis
+moa = dinornis
+pasărea elefant = aepyornis
+vorombe
+vulturul lui Haast = harpagornis
+dodo = pasărea dodo = raphus cucullatus = dronte
+alca mare = pinguinus impennis = great auk
+porumbel migrator = porumbel călător = ectopistes migratorius = passenger pigeon
+
+# ---- Pești și amfibieni preistorici ----
+megalodon = otodus megalodon = carcharocles megalodon
+cretoxyrhina
+hybodus
+stethacanthus
+cladoselache
+xenacanthus
+edestus
+helicoprion
+leedsichthys
+xiphactinus
+dunkleosteus
+titanichthys
+bothriolepis
+coccosteus
+pteraspis
+eusthenopteron
+panderichthys
+tiktaalik
+ichthyostega
+acanthostega
+pederpes
+crassigyrinus
+eryops
+diplocaulus
+mastodonsaurus
+metoposaurus
+koolasuchus
+prionosuchus
+gerrothorax
+seymouria
+diadectes
+triadobatrachus
+beelzebufo
+
+# ---- Nevertebrate preistorice ----
+trilobit = trilobite
+paradoxides
+olenellus
+calymene
+phacops
+isotelus
+asaphus
+amonit = ammonite
+belemnit = belemnite
+orthoceras
+cameroceras
+endoceras
+graptolit = graptolite
+conodont
+nummulit = nummulites
+rudist
+inoceramus
+gryphaea
+scorpion de mare = eurypterid = eurypterus
+pterygotus
+meganeura
+arthropleura
+anomalocaris
+hallucigenia
+opabinia
+pikaia
+haikouichthys
+myllokunmingia
+dickinsonia
+kimberella
