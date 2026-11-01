@@ -51,7 +51,6 @@ nalbă mică
 morcov sălbatic
 cucută de apă
 roibă = garanță
-rezedă
 cardon
 salsifi
 salicornia = sparanghel de mare
@@ -300,3 +299,247 @@ egeria
 posidonia
 coada-mânzului
 umbra-iepurelui
+
+# ---- Arbori și arbuști: completări ----
+mesteacăn de Himalaya
+arțar de Amur
+prun roșu = prun decorativ
+păr ornamental
+koelreuteria
+gymnocladus
+poncirus = portocal trifoliat
+cercidiphyllum = arborele de turtă dulce
+laur portughez = prunus lusitanica
+laurustinus = viburnum tinus
+pittosporum
+phlomis
+teucrium
+choisya
+ceanothus
+leucothoe
+enkianthus
+akebia
+fothergilla
+corylopsis
+chimonanthus
+sarcococca
+ceratostigma
+sorbaria
+stephanandra
+diervilla
+sciadopitys
+cephalotaxus
+thujopsis
+calocedrus
+cunninghamia
+larice auriu = pseudolarix
+tuia occidentală = thuja occidentalis
+tuia gigant = thuja plicata
+butia
+bismarckia
+palmier de curmale pitic = phoenix roebelenii
+serenoa = saw palmetto
+nothofagus = fag austral
+sapindus = nuci de săpun
+mesquite
+copaiba
+maqui
+amla = agriș indian
+cais japonez = ume
+konjac
+eleuterococ = ginseng siberian
+jiaogulan
+damiana
+psyllium = ispaghula
+zedoarie
+murraya = iasomie portocalie
+
+# ---- Fructe și legume: completări ----
+lucuma
+cupuaçu
+camu-camu
+mamey
+satsuma
+tangelo
+ugli
+plantain = banană de gătit
+mizuna
+tatsoi
+romanesco
+fenicul de Florența
+tetragonia = spanac de Noua Zeelandă
+varză de mare = crambe
+
+# ---- Flora României: completări ----
+cinci-degete
+lintea-pratului
+rușuliță
+zglăvoc
+pătrunjel de câmp
+salvie de câmp = jaleș de câmp
+
+# ---- Plante perene și anuale de grădină: completări ----
+agastache
+asclepias
+baptisia
+calamintha
+cerastium
+chelone
+cimicifuga
+incarvillea
+persicaria
+rodgersia
+sidalcea
+stachys
+stokesia
+tricyrtis
+veronicastrum
+waldsteinia
+anthemis
+sanvitalia
+tithonia
+cuphea
+pentas
+angelonia
+salpiglossis
+schizanthus
+nemophila
+felicia
+brachyscome
+arctotis
+argyranthemum
+cobaea
+molucella
+camassia
+eranthis
+sternbergia
+hyacinthoides
+triteleia
+ipheion
+acidanthera
+galtonia
+babiana
+watsonia
+hymenocallis
+scadoxus
+hedychium
+imperata
+molinia
+deschampsia
+calamagrostis
+panicum
+hakonechloa
+lagurus
+zoysia
+pleioblastus
+sasa
+bambusa
+dendrocalamus
+
+# ---- Plante de apartament, ferigi și suculente: completări ----
+dischidia
+brunfelsia
+tibouchina
+alpinia
+costus
+ensete
+homalomena
+xanthosoma
+cyrtomium
+pteris
+blechnum
+selaginella
+fatshedera
+rhoicissus
+tetrastigma
+encephalartos
+dioon
+davallia
+nertera
+kohleria
+justicia = jacobinia
+pachystachys
+strobilanthes
+ruellia
+cyperus alternifolius = planta umbrelă
+matteuccia = ferigă struț
+polystichum
+cyathea
+aloe arborescens
+senecio rowleyanus = șirag de perle
+sedum morganianum = coada măgarului
+epithelantha
+obregonia
+pelecyphora
+uebelmannia
+haageocereus
+cephalotus
+heliamphora
+darlingtonia
+
+# ---- Orhidee: completări ----
+miltoniopsis
+dracula
+dactylorhiza
+gymnadenia
+anacamptis
+spiranthes
+himantoglossum
+listera
+
+# ---- Plante de acvariu și de iaz: completări ----
+bucephalandra
+glossostigma
+eleocharis
+ceratopteris
+hydrilla
+najas
+alternanthera
+pogostemon
+staurogyne
+micranthemum
+lilaeopsis
+houttuynia
+pontederia
+thalia
+lysichiton
+
+# ---- Completări finale ----
+arenaria
+aurinia
+aethionema
+dodecatheon
+erodium
+globularia
+lithodora
+omphalodes
+ramonda
+macleaya
+darmera
+gunnera
+celastrus
+ampelopsis
+trachelospermum
+kudzu = pueraria
+coacăz ornamental = ribes sanguineum
+planta curry = helichrysum italicum
+lavandin
+cornus kousa
+evodia = arborele de miere
+limnobium
+wolffia
+bolbitis
+lobelia cardinalis
+cassia = scorțișoară chinezească
+pitanga = cireș de Surinam
+fasole de Spania = fasole mare
+fonio
+liriope
+dracaena marginata
+dracaena fragrans
+yucca elephantipes
+ficus pumila
+ravenea
+licuala
+euphorbia tirucalli
+euphorbia trigona
